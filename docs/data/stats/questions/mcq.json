@@ -778,8 +778,14 @@
   "year": 2022,
   "number": 5,
   "source": "AP Exam",
-  "text": "Each accountant at a large accounting firm was classified according to accountant level (junior or senior) and\nmethod of transportation to work (walk, bus, drive alone, or carpool). The responses of the\naccountants at the\nfirm are summarized in the table.\nJunior\nSenior\nTotal\nWalk\nBus\nDrive alone\nCarpool\nTotal\nWhat proportion of the accountants at the firm are at the senior level and carpool to work?\nScoring Guide\n2022 Form I\nPage 2 of 56\nAP Statistics\n\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "Each accountant at a large accounting firm was classified according to accountant level (junior or senior) and\nmethod of transportation to work (walk, bus, drive alone, or carpool). The responses of the\naccountants at the\nfirm are summarized in the table.\nJunior\nSenior\nTotal\nWalk\nBus\nDrive alone\nCarpool\nTotal\nWhat proportion of the accountants at the firm are at the senior level and carpool to work?\nScoring Guide\n2022 Form I\nPage 2 of 56\nAP Statistics",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -884,8 +890,14 @@
   "year": 2022,
   "number": 12,
   "source": "AP Exam",
-  "text": "In a study researching how donating to charity can affect a person’s happiness,\nparticipants were given\na day\nfor one week. Each participant was randomly assigned to one of two groups. Those assigned to the first group were\nasked to spend the money on themselves, and those assigned to the second group were asked to donate the money to\ncharity. At the end of the week, all of the participants were asked to rate their overall level of happiness on a scale\nfrom\nto\n, with higher scores indicating greater levels of happiness.\nWhich of the following are the appropriate null and alternative hypotheses to test whether the sample data provide\nconvincing statistical evidence that donating to charity results in greater happiness than spending on oneself, on\naverage?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "In a study researching how donating to charity can affect a person’s happiness,\nparticipants were given\na day\nfor one week. Each participant was randomly assigned to one of two groups. Those assigned to the first group were\nasked to spend the money on themselves, and those assigned to the second group were asked to donate the money to\ncharity. At the end of the week, all of the participants were asked to rate their overall level of happiness on a scale\nfrom\nto\n, with higher scores indicating greater levels of happiness.\nWhich of the following are the appropriate null and alternative hypotheses to test whether the sample data provide\nconvincing statistical evidence that donating to charity results in greater happiness than spending on oneself, on\naverage?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -910,8 +922,14 @@
   "year": 2022,
   "number": 14,
   "source": "AP Exam",
-  "text": "A large company has operated assuming that the rate of absenteeism is the same for each day of the week. The new\nhuman resources director at the company claims that the assumption is false and that the rate of absenteeism is\ndifferent for some days of the week as compared with others. To test the claim, a random sample of\nabsences\nwas selected, and the day of the week on which the absence occurred was recorded. The counts are shown in the\nfollowing table.\nMonday Tuesday Wednesday Thursday Friday\nNumber of Absences\nThe appropriate chi-square test will be performed to test the claim.\nWhat is the contribution of the Monday absences to the calculation of the chi-square test statistic?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "A large company has operated assuming that the rate of absenteeism is the same for each day of the week. The new\nhuman resources director at the company claims that the assumption is false and that the rate of absenteeism is\ndifferent for some days of the week as compared with others. To test the claim, a random sample of\nabsences\nwas selected, and the day of the week on which the absence occurred was recorded. The counts are shown in the\nfollowing table.\nMonday Tuesday Wednesday Thursday Friday\nNumber of Absences\nThe appropriate chi-square test will be performed to test the claim.\nWhat is the contribution of the Monday absences to the calculation of the chi-square test statistic?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -984,8 +1002,14 @@
   "year": 2022,
   "number": 19,
   "source": "AP Exam",
-  "text": "The probability that a particular electrical component operates successfully is\n. An electrical system consists of\nthree such components that operate independently. The system will function successfully if at least one of the three\ncomponents operates successfully.\nWhat is the probability that the system will function successfully?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "The probability that a particular electrical component operates successfully is\n. An electrical system consists of\nthree such components that operate independently. The system will function successfully if at least one of the three\ncomponents operates successfully.\nWhat is the probability that the system will function successfully?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -1122,8 +1146,14 @@
   "year": 2022,
   "number": 28,
   "source": "AP Exam",
-  "text": "A\npercent confidence interval for the proportion of parents who use parental controls for blocking, filtering, or\nmonitoring their teenagers’ online activities is\n.\nWhich of the following could be a\npercent confidence interval based on the same data?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "A\npercent confidence interval for the proportion of parents who use parental controls for blocking, filtering, or\nmonitoring their teenagers’ online activities is\n.\nWhich of the following could be a\npercent confidence interval based on the same data?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -1132,8 +1162,14 @@
   "year": 2022,
   "number": 29,
   "source": "AP Exam",
-  "text": "Luisa is a manager at a pet insurance company with many customers. Sixty percent of the company’s customers\nfiled claims in the past year. Luisa will randomly select\ncustomers from all the company’s customers.\nAssuming the customers selected are independent of each other, which of the following is closest to the probability\nthat more than\nof the\ncustomers sampled did not file claims in the past year?\nScoring Guide\n2022 Form I\nAP Statistics\nPage 13 of 56\n\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "Luisa is a manager at a pet insurance company with many customers. Sixty percent of the company’s customers\nfiled claims in the past year. Luisa will randomly select\ncustomers from all the company’s customers.\nAssuming the customers selected are independent of each other, which of the following is closest to the probability\nthat more than\nof the\ncustomers sampled did not file claims in the past year?\nScoring Guide\n2022 Form I\nAP Statistics\nPage 13 of 56",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -1238,8 +1274,14 @@
   "year": 2022,
   "number": 36,
   "source": "AP Exam",
-  "text": "The yields, in bushels per acre, of soybeans for\nrandomly selected counties in the midwestern region of the\ncountry in\nare summarized in the table.\nAssuming all conditions for inference are met, which of the following is a\npercent confidence interval for the\npopulation mean yield of soybeans for all counties in the midwestern region in\n?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "The yields, in bushels per acre, of soybeans for\nrandomly selected counties in the midwestern region of the\ncountry in\nare summarized in the table.\nAssuming all conditions for inference are met, which of the following is a\npercent confidence interval for the\npopulation mean yield of soybeans for all counties in the midwestern region in\n?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -1280,8 +1322,14 @@
   "year": 2022,
   "number": 39,
   "source": "AP Exam",
-  "text": "For a particular video game, Ariana’s mean number of points earned per game is\n, and the standard deviation is\n. Suppose that she plays\ngames in one evening, and her goal is to obtain a mean score of at least\nfor the\ngames.\nHow many standard deviations above\nis her goal?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "For a particular video game, Ariana’s mean number of points earned per game is\n, and the standard deviation is\n. Suppose that she plays\ngames in one evening, and her goal is to obtain a mean score of at least\nfor the\ngames.\nHow many standard deviations above\nis her goal?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2310,8 +2358,14 @@
   "year": 2023,
   "number": 15,
   "source": "AP Exam",
-  "text": "A certain computer chip company has a machine that makes a large number of computer chips. Of the computer\nchips produced on this machine,\nare defective. Miriam, the quality control inspector, will randomly select\ncomputer chips from the machine to inspect.\nWhat is the probability that the first defective computer chip Miriam finds is the sixth computer chip she inspects\nfrom the machine?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "A certain computer chip company has a machine that makes a large number of computer chips. Of the computer\nchips produced on this machine,\nare defective. Miriam, the quality control inspector, will randomly select\ncomputer chips from the machine to inspect.\nWhat is the probability that the first defective computer chip Miriam finds is the sixth computer chip she inspects\nfrom the machine?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2320,8 +2374,14 @@
   "year": 2023,
   "number": 16,
   "source": "AP Exam",
-  "text": "A county manager selected a random sample of\nresidents from a suburban area of the county and a separate\nrandom sample of\nresidents from an urban area of the same county. The residents in the samples were asked\nwhether they thought the county should create dog parks where residents can take their dogs to play. From those\nwho were sampled,\npercent of the suburban residents and\npercent of the urban residents thought the county\nshould create dog parks.\nLet\nrepresent the population proportion of suburban residents who think the county should create dog parks, and\nlet\nrepresent the population proportion of urban residents who think the county should create dog parks. The\ncounty manager will test the following hypotheses.\nAssuming the conditions for inference were met, which of the following is closest to the\n-value of the county\nmanager’s test?\nScoring Guide\n2023 Form I\nAP Statistics\nPage 7 of 53\n\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "A county manager selected a random sample of\nresidents from a suburban area of the county and a separate\nrandom sample of\nresidents from an urban area of the same county. The residents in the samples were asked\nwhether they thought the county should create dog parks where residents can take their dogs to play. From those\nwho were sampled,\npercent of the suburban residents and\npercent of the urban residents thought the county\nshould create dog parks.\nLet\nrepresent the population proportion of suburban residents who think the county should create dog parks, and\nlet\nrepresent the population proportion of urban residents who think the county should create dog parks. The\ncounty manager will test the following hypotheses.\nAssuming the conditions for inference were met, which of the following is closest to the\n-value of the county\nmanager’s test?\nScoring Guide\n2023 Form I\nAP Statistics\nPage 7 of 53",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2330,8 +2390,14 @@
   "year": 2023,
   "number": 17,
   "source": "AP Exam",
-  "text": "A fair coin will be tossed three times. The set of possible outcomes may be described by the ordered triples\n{\n,\n,\n,\n,\n,\n,\n,\n}, where\nrepresents heads and\nrepresents tails.\nWhat is the probability that all three tosses result in heads, given that the three tosses result in more heads than tails?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "A fair coin will be tossed three times. The set of possible outcomes may be described by the ordered triples\n{\n,\n,\n,\n,\n,\n,\n,\n}, where\nrepresents heads and\nrepresents tails.\nWhat is the probability that all three tosses result in heads, given that the three tosses result in more heads than tails?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2436,8 +2502,14 @@
   "year": 2023,
   "number": 24,
   "source": "AP Exam",
-  "text": "A large manufacturing company has tens of thousands of employees, and\npercent of the employees have\ncompleted a management training course. Suppose a simple random sample of\nemployees is selected.\nWhich of the following is closest to the probability that more than half of the sample will be employees who have\ncompleted the management training course?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "A large manufacturing company has tens of thousands of employees, and\npercent of the employees have\ncompleted a management training course. Suppose a simple random sample of\nemployees is selected.\nWhich of the following is closest to the probability that more than half of the sample will be employees who have\ncompleted the management training course?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2494,8 +2566,14 @@
   "year": 2023,
   "number": 28,
   "source": "AP Exam",
-  "text": "Voters in a certain large county will have an opportunity to vote for or against a new environmental rule that would\nincentivize the return of certain used batteries to a county-certified recycling facility. The results of a previous poll\nfound that\npercent of registered voters in that county plan to vote for the environmental rule. Juwan, an engineer\nworking at the recycling facility, randomly selected\nregistered voters and asked whether they plan to vote for the\nrule.\nAssuming that\npercent represents the actual percent of registered voters in the county who plan to vote for the\nenvironmental rule, which of the following is closest to the probability that at most\nof the registered voters Juwan\nselected plan to vote for the environmental rule?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "Voters in a certain large county will have an opportunity to vote for or against a new environmental rule that would\nincentivize the return of certain used batteries to a county-certified recycling facility. The results of a previous poll\nfound that\npercent of registered voters in that county plan to vote for the environmental rule. Juwan, an engineer\nworking at the recycling facility, randomly selected\nregistered voters and asked whether they plan to vote for the\nrule.\nAssuming that\npercent represents the actual percent of registered voters in the county who plan to vote for the\nenvironmental rule, which of the following is closest to the probability that at most\nof the registered voters Juwan\nselected plan to vote for the environmental rule?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2504,8 +2582,14 @@
   "year": 2023,
   "number": 29,
   "source": "AP Exam",
-  "text": "A data scientist had\ndifferent sets of data. For each data set the scientist fit a least-squares regression line, then\ngraphed the residuals versus the predicted values for each. Which residual plot indicates that the least-squares\nregression model was the most appropriate model to fit the data?\nScoring Guide\n2023 Form I\nPage 14 of 53\nAP Statistics\n\n(A)\n(B)\n(C)\n(D)\nScoring Guide\n2023 Form I\nAP Statistics\nPage 15 of 53\n\n(E)",
-  "options": null,
+  "text": "A data scientist had\ndifferent sets of data. For each data set the scientist fit a least-squares regression line, then\ngraphed the residuals versus the predicted values for each. Which residual plot indicates that the least-squares\nregression model was the most appropriate model to fit the data?\nScoring Guide\n2023 Form I\nPage 14 of 53\nAP Statistics",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "Scoring Guide\n2023 Form I\nAP Statistics\nPage 15 of 53",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2578,8 +2662,14 @@
   "year": 2023,
   "number": 34,
   "source": "AP Exam",
-  "text": "To investigate whether more than half the adults in a country are fearful of riding in a self-driving car, researchers\nsurveyed a random sample of\nadults in the country. Of those in the sample,\nadults responded that they\nwould be fearful of riding in a self-driving car.\nWhich of the following represents the value of the test statistic for the appropriate hypothesis test for the\ninvestigation?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "To investigate whether more than half the adults in a country are fearful of riding in a self-driving car, researchers\nsurveyed a random sample of\nadults in the country. Of those in the sample,\nadults responded that they\nwould be fearful of riding in a self-driving car.\nWhich of the following represents the value of the test statistic for the appropriate hypothesis test for the\ninvestigation?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2620,8 +2710,14 @@
   "year": 2023,
   "number": 37,
   "source": "AP Exam",
-  "text": "Karmen and Sophia are on a swim team and race in different events at a swim meet. The probability that Karmen\nwill win her race at the swim meet is\n. The probability that Sophia will win her race at the swim meet is\n.\nIf the events of Karmen winning her race and Sophia winning her race are independent, what is the probability that\neither Karmen or Sophia will win her race at the swim meet?\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "Karmen and Sophia are on a swim team and race in different events at a swim meet. The probability that Karmen\nwill win her race at the swim meet is\n. The probability that Sophia will win her race at the swim meet is\n.\nIf the events of Karmen winning her race and Sophia winning her race are independent, what is the probability that\neither Karmen or Sophia will win her race at the swim meet?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -2630,8 +2726,14 @@
   "year": 2023,
   "number": 38,
   "source": "AP Exam",
-  "text": "As part of a survey,\nadults with tattoos were asked whether they got their first tattoo before reaching the age of\nand whether their first tattoo was done by a professional tattoo artist. The resulting data are summarized in the\nfollowing table.\nBefore the Age of\nor Older\nTotal\nProfessional tattoo artist\nNot a professional tattoo artist\nTotal\nWhich of the following provides evidence that age at first tattoo and whether the first tattoo was done by a\nprofessional tattoo artist are not independent for the group of\nadults with tattoos?\nScoring Guide\n2023 Form I\nAP Statistics\nPage 19 of 53\n\n(A)\n(B)\n(C)\n(D)\n(E)",
-  "options": null,
+  "text": "As part of a survey,\nadults with tattoos were asked whether they got their first tattoo before reaching the age of\nand whether their first tattoo was done by a professional tattoo artist. The resulting data are summarized in the\nfollowing table.\nBefore the Age of\nor Older\nTotal\nProfessional tattoo artist\nNot a professional tattoo artist\nTotal\nWhich of the following provides evidence that age at first tattoo and whether the first tattoo was done by a\nprofessional tattoo artist are not independent for the group of\nadults with tattoos?\nScoring Guide\n2023 Form I\nAP Statistics\nPage 19 of 53",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": ""
+  },
   "answer": null,
   "type": "mcq"
  },
@@ -8750,8 +8852,14 @@
   "year": 2025,
   "number": 1,
   "source": "AP Exam",
-  "text": "Based on the bar chart,which of the following statements must be true?\nA.\nLess than half of the students in the 10th grade indicated that they regularly\nrode the bus to school.\nB.\nAt least 20% of students from each grade level indicated that they regularly\nrode the bus to school.\nC.\nThe number of students from the 9th grade who indicated that they regularly\nrode the bus to school is greater than the number of students from the 10th\ngrade who indicated that they regularly rode the bus to school.\nD.\nThe 12th graders had the least number of students who indicated that they\nregularly rode the bus to school.\nE.\nThe 9th graders had the greatest percentage of students who indicated that\nthey regularly rode the bus to school.\n\nA study of the effect of note-taking on student learning used two groups, each\nconsisting of 100 biology students.\n· Group 1: On day one of the study, these 100 students were given an hour-long\nclass on how to take notes in outline form.\n· Group 2: On day one of the study, these 100 students were not given any\ntraining on note-taking.\nOn day two of the study, both groups were placed in a classroom and were taught a\nlesson on biology. After the lesson, the students were given an hour to review their\nnotes and then took an assessment on the content of the lesson. The students in\nGroup 1 performed significantly better on the assessment than the students in Group\n2 did.",
-  "options": null,
+  "text": "Based on the bar chart,which of the following statements must be true?",
+  "options": {
+   "A": "Less than half of the students in the 10th grade indicated that they regularly\nrode the bus to school.",
+   "B": "At least 20% of students from each grade level indicated that they regularly\nrode the bus to school.",
+   "C": "The number of students from the 9th grade who indicated that they regularly\nrode the bus to school is greater than the number of students from the 10th\ngrade who indicated that they regularly rode the bus to school.",
+   "D": "The 12th graders had the least number of students who indicated that they\nregularly rode the bus to school.",
+   "E": "The 9th graders had the greatest percentage of students who indicated that\nthey regularly rode the bus to school."
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -8760,8 +8868,14 @@
   "year": 2025,
   "number": 2,
   "source": "AP Exam",
-  "text": "Which of the following statements about the study is true？\nA.\nThe explanatory variable is the performance on the assessment.\nB.\nThe response variable is whether training was received on taking outline\nnotes.\nC.\nThe experimental unit is the assessment.\nD.\nThe treatment is the lesson on biology.\nE.\nA confounding variable could be whether students are good at taking\nassessments.\n\nFrom a sample of 52 people, data were collected on each person’s age and film genre\npreference. The responses are shown in the table, classified by age-group.",
-  "options": null,
+  "text": "Which of the following statements about the study is true？",
+  "options": {
+   "A": "The explanatory variable is the performance on the assessment.",
+   "B": "The response variable is whether training was received on taking outline\nnotes.",
+   "C": "The experimental unit is the assessment.",
+   "D": "The treatment is the lesson on biology.",
+   "E": "A confounding variable could be whether students are good at taking\nassessments."
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -8770,8 +8884,14 @@
   "year": 2025,
   "number": 3,
   "source": "AP Exam",
-  "text": "What proportion of people in the sample preferred romance？\nA.\n5\n12\nB.\n5\n18\nC.\n5\n52\nD.\n12\n52\nE.\n40\n52",
-  "options": null,
+  "text": "What proportion of people in the sample preferred romance？",
+  "options": {
+   "A": "5\n12",
+   "B": "5\n18",
+   "C": "5\n52",
+   "D": "12\n52",
+   "E": "40\n52"
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -8780,8 +8900,14 @@
   "year": 2025,
   "number": 4,
   "source": "AP Exam",
-  "text": "The distribution of the sale price of a certain car model is approximately normal\nwith a mean of 65,500 and a standard deviation of $3,100. Based on the\ndistribution, which of the following is an appropriate conclusion?\nA.\nApproximately 95% of the cars of this model have a sale price of less than\n$66,700.\nB.\nApproximately 99% of the cars of this model have a sale price between\n$57,500 and $73,500.\nC.\nThe interquartile range of the car model’s sale price is approximately $6,200.\nD.\nThe maximum of the car model’s sale price is $69,800.\nE.\nApproximately 84% of the cars of this model have a sale price greater than\n$57,400.\n\nA scam call is a call made to deceive the person receiving the call. A report claims\nthat 45 percent of all calls received on mobile phones can be classified as scam calls.\nA mobile phone service believes that the percent of scam calls is different than the\n45 percent claimed in the report. Let P represent the population of mobile phone\ncalls that can be classified as scam calls.\nA random sample of calls received on mobile phone devices was selected in order to\nconstruct a 95 percent confidence interval for estimating P.",
-  "options": null,
+  "text": "The distribution of the sale price of a certain car model is approximately normal\nwith a mean of 65,500 and a standard deviation of $3,100. Based on the\ndistribution, which of the following is an appropriate conclusion?",
+  "options": {
+   "A": "Approximately 95% of the cars of this model have a sale price of less than\n$66,700.",
+   "B": "Approximately 99% of the cars of this model have a sale price between\n$57,500 and $73,500.",
+   "C": "The interquartile range of the car model’s sale price is approximately $6,200.",
+   "D": "The maximum of the car model’s sale price is $69,800.",
+   "E": "Approximately 84% of the cars of this model have a sale price greater than\n$57,400."
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -8790,8 +8916,14 @@
   "year": 2025,
   "number": 5,
   "source": "AP Exam",
-  "text": "Assuming the conditions of inference were met, at a 0.05 level of significance,\nwhich of the following would provide evidence to reject the report’s claim?\nA.\nThe interval contains 0.45.\nB.\nThe interval does not contain 0.45.\nC.\nThe interval contains 0.\nD.\nThe interval does not contain 0.\nE.\nThe interval contains the sample proportion.\n\nA researcher at a company with a large number of employees wanted to investigate\nwhether a training course would improve employees’ understanding of the company\npolicies. The researcher selected a random sample of 9 employees from the company\nand gave each selected employee an exam prior to the training to identify their\nunderstanding of the company policies. Each selected employee was given a score on\nthe exam from 0 （no understanding）to 100（excellent understanding）.After the\nemployees completed the training course, they were given the same exam. The\nresults are summarized in the table.",
-  "options": null,
+  "text": "Assuming the conditions of inference were met, at a 0.05 level of significance,\nwhich of the following would provide evidence to reject the report’s claim?",
+  "options": {
+   "A": "The interval contains 0.45.",
+   "B": "The interval does not contain 0.45.",
+   "C": "The interval contains 0.",
+   "D": "The interval does not contain 0.",
+   "E": "The interval contains the sample proportion."
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -8800,8 +8932,14 @@
   "year": 2025,
   "number": 6,
   "source": "AP Exam",
-  "text": "Assume the conditions for inference have been met. Which of the following is\nclosest to the value of the test statistic of the appropriate test for investigating\nwhether there is a mean difference in exam score（after minus before）for all\nemployees of the company?\nA.\nt＝1.90\nB.\nt＝3.92\nC.\nt＝4.95\nD.\nt＝5.71\nE.\nt＝12.76\n\nFranklin will conduct a simulation by using a fair twelve-sided die that is used for a\ncertain board game. For each roll of the die, there are 12 possible outcomes-the\nintegers 1 through 12. For each of the first three trials of the simulation, Franklin\nrolled the twelve-sided die and each outcome of the roll was the number 7.",
-  "options": null,
+  "text": "Assume the conditions for inference have been met. Which of the following is\nclosest to the value of the test statistic of the appropriate test for investigating\nwhether there is a mean difference in exam score（after minus before）for all\nemployees of the company?",
+  "options": {
+   "A": "t＝1.90",
+   "B": "t＝3.92",
+   "C": "t＝4.95",
+   "D": "t＝5.71",
+   "E": "t＝12.76"
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -8850,8 +8988,14 @@
   "year": 2025,
   "number": 8,
   "source": "AP Exam",
-  "text": "One of the animals sold last from the farm will be selected at random. Which of\nthe following is closest to the probability that the animal selected is male given\nthat the animal is a horse?\nA.\n0.139\nB.\n0.328\nC.\n0.378\nD.\n0.425\nE.\n0.622\n\nFor an elementary school science project, each student in a class of 25 students\nplanted 7 seeds of a certain flower and recorded the number of seeds that sprouted.\nThe frequency table summarizes the recorded data.",
-  "options": null,
+  "text": "One of the animals sold last from the farm will be selected at random. Which of\nthe following is closest to the probability that the animal selected is male given\nthat the animal is a horse?",
+  "options": {
+   "A": "0.139",
+   "B": "0.328",
+   "C": "0.378",
+   "D": "0.425",
+   "E": "0.622"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -8860,8 +9004,14 @@
   "year": 2025,
   "number": 9,
   "source": "AP Exam",
-  "text": "Based on the frequency table for the class of 25 students, which of the\nfollowing best describes the distribution of the number of seeds that sprouted?\nA.\nThe distribution is skewed to the left, and the median number of seeds that\nsprouted is 3.5.\nB.\nThe distribution is skewed to the left, and the median number of seeds that\nsprouted is 5.\nC.\nThe distribution is symmetric, and the median number of seeds that sprouted\nis 5.\nD.\nThe distribution is skewed to the right, and the median number of seeds that\nsprouted is 3.5.\nE.\nThe distribution is skewed to the right, and the median number of seeds that\nsprouted is 5.\n\nA researcher uses a handheld radar device to measure the speed of cars along a\ncertain stretch of highway and records the speed of all cars for one week.\nCalibration of the device reveals that the device was measuring speeds at 4 miles\nper hour less than the actual speed.",
-  "options": null,
+  "text": "Based on the frequency table for the class of 25 students, which of the\nfollowing best describes the distribution of the number of seeds that sprouted?",
+  "options": {
+   "A": "The distribution is skewed to the left, and the median number of seeds that\nsprouted is 3.5.",
+   "B": "The distribution is skewed to the left, and the median number of seeds that\nsprouted is 5.",
+   "C": "The distribution is symmetric, and the median number of seeds that sprouted\nis 5.",
+   "D": "The distribution is skewed to the right, and the median number of seeds that\nsprouted is 3.5.",
+   "E": "The distribution is skewed to the right, and the median number of seeds that\nsprouted is 5."
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -8870,8 +9020,14 @@
   "year": 2025,
   "number": 10,
   "source": "AP Exam",
-  "text": "Which of the following statistics would have a different numerical value for the\nactual speeds than for recorded speeds before the calibration?\nA.\nThe range\nB.\nThe median\nC.\nThe variance\nD.\nThe standard deviation\nE.\nThe interquartile range\n\nA total of 18 different teams participated in a bowling tournament. Each team had\nthe same number of team members. To investigate the satisfaction of the team\nmembers with the tournament, the tournament director conducted a survey. For\neach team participating in the tournament, the director randomly selected two\nmembers of the team to take the survey.",
-  "options": null,
+  "text": "Which of the following statistics would have a different numerical value for the\nactual speeds than for recorded speeds before the calibration?",
+  "options": {
+   "A": "The range",
+   "B": "The median",
+   "C": "The variance",
+   "D": "The standard deviation",
+   "E": "The interquartile range"
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -8880,8 +9036,14 @@
   "year": 2025,
   "number": 11,
   "source": "AP Exam",
-  "text": "Which statement best describes the sampling method used by the director?\nA.\nIt was cluster sampling because the director used the teams as clusters.\nB.\nIt was convenience sampling because members of each team were easy to\nc ontact.\nC.\nIt was simple random sampling because each participant had the same\nprobability of being selected.\nD.\nIt was stratified random sampling because the director ensured that\nmembers from each team were randomly selected.\nE.\nIt was systematic random sampling because exactly two members from\neach team were randomly selected.\n\nA research group conducted a study to investigate whether there is an association\nbetween age-group and electronic device preference for sending e-mails. A random\nsample of 216 adults was selected. The table shows the results of the study.",
-  "options": null,
+  "text": "Which statement best describes the sampling method used by the director?",
+  "options": {
+   "A": "It was cluster sampling because the director used the teams as clusters.",
+   "B": "It was convenience sampling because members of each team were easy to\nc ontact.",
+   "C": "It was simple random sampling because each participant had the same\nprobability of being selected.",
+   "D": "It was stratified random sampling because the director ensured that\nmembers from each team were randomly selected.",
+   "E": "It was systematic random sampling because exactly two members from\neach team were randomly selected."
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -8890,8 +9052,14 @@
   "year": 2025,
   "number": 12,
   "source": "AP Exam",
-  "text": "Assume the conditions for inference have been met. If a chi-square test of\nindependence is conducted, which of the following will be closest to the\nexpected number of adults ages 39 to 58 years old who prefer using a tablet\nfor sending e-mails ?\nA.\n1.4\nB.\n24\nC.\n27.7\nD.\n29.3\nE.\n34",
-  "options": null,
+  "text": "Assume the conditions for inference have been met. If a chi-square test of\nindependence is conducted, which of the following will be closest to the\nexpected number of adults ages 39 to 58 years old who prefer using a tablet\nfor sending e-mails ?",
+  "options": {
+   "A": "1.4",
+   "B": "24",
+   "C": "27.7",
+   "D": "29.3",
+   "E": "34"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -8900,8 +9068,14 @@
   "year": 2025,
   "number": 13,
   "source": "AP Exam",
-  "text": "In a certain county, 84 percent of high school graduates obtained a driver’s\nlicense before graduation. Which of the following samples is more likely to have\nmore than 90 percent of high school graduates who obtained a driver’s license\nbefore graduation?\n·Sample A: A random sample of 200 high school graduates from the county\n·Sample B: A random sample of 400 high school graduates from the county\nA.\nSample A, because there is less sampling variability in the sampling\ndistribution for samples of size 200 than samples size 400\nB.\nSample A, because there is more sampling variability in the sampling\ndistribution for samples of size 400 than samples of size 200\nC.\nSample B, because there is more sampling variability in the sampling\ndistribution for samples of size 400 than samples of size 200\nD.\nSample B, because there is less sampling variability in the sampling\ndistribution for samples of size 400 than samples of size 200\nE.\nNeither, because the mean of the sampling distribution is the same for\nboth samples\n\nAccording to a report the mean number of rolls of toilet paper used each year by\nresidents of a certain city is 100. To investigate this claim, researchers surveyed a\nrandom sample of residents from the city and recorded the number of rolls of toilet\npaper they used each year. They used the data to test the hypotheses H0 : µ ＝100\nversus Ha : µ ≠100，where µ is the mean number of rolls of toilet paper used each\nyear by all residents of the city.",
-  "options": null,
+  "text": "In a certain county, 84 percent of high school graduates obtained a driver’s\nlicense before graduation. Which of the following samples is more likely to have\nmore than 90 percent of high school graduates who obtained a driver’s license\nbefore graduation?\n·Sample A: A random sample of 200 high school graduates from the county\n·Sample B: A random sample of 400 high school graduates from the county",
+  "options": {
+   "A": "Sample A, because there is less sampling variability in the sampling\ndistribution for samples of size 200 than samples size 400",
+   "B": "Sample A, because there is more sampling variability in the sampling\ndistribution for samples of size 400 than samples of size 200",
+   "C": "Sample B, because there is more sampling variability in the sampling\ndistribution for samples of size 400 than samples of size 200",
+   "D": "Sample B, because there is less sampling variability in the sampling\ndistribution for samples of size 400 than samples of size 200",
+   "E": "Neither, because the mean of the sampling distribution is the same for\nboth samples"
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -8910,8 +9084,14 @@
   "year": 2025,
   "number": 14,
   "source": "AP Exam",
-  "text": "The conditions for inference were met and the p-value of the test is 0.058. At\nthe significance level of α ＝0.05, which of the following statements is true?\nA.\nThere is convincing statistical evidence that the mean number of rolls of\ntoilet paper used each year by all residents of the city is 100.\nB.\nThere is convincing statistical evidence that the mean number of rolls of\ntoilet paper used each year by all residents of the city is different than\n100.\nC.\nThe researchers should reject that the mean number of rolls of toilet\npaper used each year by all residents of the city is 100.\nD.\nThere is not convincing statistical evidence that the mean number of rolls\nof toilet paper used each year by all residents of the city is different than\n100.\nE.\nThe researchers failed to obtain any evidence that the mean number of\nrolls of toilet paper used each year by all residents of the city is different\nthan 100.\n\nA researcher will investigate the following question by selecting 50 people with pain\nin their knees.\n“For people with pain in their knees, is there a difference in the mean level of pain\nbetween people who use a supplement daily and people who use a placebo pill\ndaily?”\nThe researcher’s assistant will randomly assign half of the participants to receive the\nsupplement in the form of a daily pill and the other half to receive a daily placebo\npill.\nNeither the researcher nor the participants will know which type of pill each\nparticipant will receive. At the end of one week, the participants will record their\nlevel of pain on a scale from 1 to 10, where 1 represents no pain and 10 represents\nextreme pain.",
-  "options": null,
+  "text": "The conditions for inference were met and the p-value of the test is 0.058. At\nthe significance level of α ＝0.05, which of the following statements is true?",
+  "options": {
+   "A": "There is convincing statistical evidence that the mean number of rolls of\ntoilet paper used each year by all residents of the city is 100.",
+   "B": "There is convincing statistical evidence that the mean number of rolls of\ntoilet paper used each year by all residents of the city is different than\n100.",
+   "C": "The researchers should reject that the mean number of rolls of toilet\npaper used each year by all residents of the city is 100.",
+   "D": "There is not convincing statistical evidence that the mean number of rolls\nof toilet paper used each year by all residents of the city is different than\n100.",
+   "E": "The researchers failed to obtain any evidence that the mean number of\nrolls of toilet paper used each year by all residents of the city is different\nthan 100."
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -8920,8 +9100,14 @@
   "year": 2025,
   "number": 15,
   "source": "AP Exam",
-  "text": "Which of the following confidence intervals should the researcher use for the\ninvestigation?\nA.\nA one-sample t-interval for estimating a sample mean\nB.\nA one-sample t-interval for estimating a population mean\nC.\nA matched-pairs t-interval for estimating a mean difference\nD.\nA two-sample t-interval for estimating a difference between sample\nmeans\nE.\nA two-sample t-interval for estimating a difference between population\nmeans\n\nAfter reading a report that indicates that 67 percent of people in a country use a\ncertain social media platform, David decides to investigate whether the percent is\ngreater for people in the city where he lives. From as random sample of 500 people\nfrom the city, 72 percent indicated they use the social media platform. David then\ntests the following hypotheses for the proportion p of all people the city who use the\nsocial media platform.\nH0: p＝0.67\nHa: p＞0.67\nDavid’s one-sample z-test for a population proportion produced test statistic of 2.38\nand a p-value of 0.009.",
-  "options": null,
+  "text": "Which of the following confidence intervals should the researcher use for the\ninvestigation?",
+  "options": {
+   "A": "A one-sample t-interval for estimating a sample mean",
+   "B": "A one-sample t-interval for estimating a population mean",
+   "C": "A matched-pairs t-interval for estimating a mean difference",
+   "D": "A two-sample t-interval for estimating a difference between sample\nmeans",
+   "E": "A two-sample t-interval for estimating a difference between population\nmeans"
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -8930,8 +9116,14 @@
   "year": 2025,
   "number": 16,
   "source": "AP Exam",
-  "text": "Which of the following statements is true?\nA.\nThe probability of obtaining a test statistic equal to 2.38 from a random\nsample of 500 people in the city is 0.009, if the actual percent is 67%.\nB.\nThe probability of obtaining a test statistic of 2.38 or greater from a random\nsample of 500 people in the city is 0.009, if the actual percent is 67%.\nC.\nThe probability is 0.009 that the percent of people in the city who use the\nsocial media platform is greater than 67%.\nD.\nThe probability is 0.009 that the percent of people in the city who use the\nsocial media platform is equal to 67%.\nE.\nThe probability is 0.009 that the percent of people in the city who use the\nsocial media platform is at most\n67%.\n\nA certain state has many mountains, and the heights of those mountains are\napproximately normally distributed with a mean of 10,500 feet and a standard\ndeviation of 900 feet. Four of the mountains in the state are Trapper Peak, Granite\nPeak, Crazy Peak, and McDonald Peak. Trapper Peak has a height of 10,157 feet,\nGranite Peak’s height has a z-score of 2.56, Crazy Peak has a height of 11,214 feet,\nand McDonald Peak’s height has a z-score of —0.76.",
-  "options": null,
+  "text": "Which of the following statements is true?",
+  "options": {
+   "A": "The probability of obtaining a test statistic equal to 2.38 from a random\nsample of 500 people in the city is 0.009, if the actual percent is 67%.",
+   "B": "The probability of obtaining a test statistic of 2.38 or greater from a random\nsample of 500 people in the city is 0.009, if the actual percent is 67%.",
+   "C": "The probability is 0.009 that the percent of people in the city who use the\nsocial media platform is greater than 67%.",
+   "D": "The probability is 0.009 that the percent of people in the city who use the\nsocial media platform is equal to 67%.",
+   "E": "The probability is 0.009 that the percent of people in the city who use the\nsocial media platform is at most\n67%."
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -8940,8 +9132,14 @@
   "year": 2025,
   "number": 17,
   "source": "AP Exam",
-  "text": "Which of the following orders the mountains from the peak with the lowest\nheight to the peak with the highest height?\nA.\nTrapper Peak, McDonald Peak, Crazy Peak, Granite Peak\nB.\nGranite Peak, Crazy Peak, Trapper Peak, McDonald Peak\nC.\nMcDonald Peak, Granite Peak, Trapper Peak, Crazy Peak\nD.\nMcDonald Peak, Trapper Peak, Crazy Peak, Granite Peak\nE.\nTrapper Peak, McDonald Peak, Granite Peak, Crazy Peak\n\nA certain university has three dining halls—A, B, and C—that serve a variety of\ndessert dishes. Steven went to each dining hall on a specific day and\ncounted the number of dessert dishes that were being served and classified\nthem as cookie, cake, pie, brownie, or ice cream. The graph shows the\nrelative frequency distribution of the type of dessert dishes being served\nat each dining hall.",
-  "options": null,
+  "text": "Which of the following orders the mountains from the peak with the lowest\nheight to the peak with the highest height?",
+  "options": {
+   "A": "Trapper Peak, McDonald Peak, Crazy Peak, Granite Peak",
+   "B": "Granite Peak, Crazy Peak, Trapper Peak, McDonald Peak",
+   "C": "McDonald Peak, Granite Peak, Trapper Peak, Crazy Peak",
+   "D": "McDonald Peak, Trapper Peak, Crazy Peak, Granite Peak",
+   "E": "Trapper Peak, McDonald Peak, Granite Peak, Crazy Peak"
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -8950,8 +9148,14 @@
   "year": 2025,
   "number": 18,
   "source": "AP Exam",
-  "text": "Which of the following statements must be true?\nA.\nAt Dining Hall C,there were more ice cream dishes served than\ncookie dishes.\nB.\nThere were fewer cake dishes served at Dining Hall B than at Dining\nHall A.\nC.\nThere were the same number of pie dishes served at Dining Hall B as there\nwere at Dining Hall C.\nD.\nAt Dining Hall A, there were more cake dishes served than brownie dishes.\nE.\nThe total number of dessert dishes served at all three dining halls is the\nsame.\n\nA club at a high school will sell candy bars for a school fund-raiser. In past school\nyears, the club has been able to sell thousands of candy bars. Some candy bars have\ntickets under the wrapper that can be redeemed for a prize, and others do not. The\nprobability of a randomly selected candy bar containing as ticket is 0.11. Kendra will\npurchase and unwrap one candy bar at a time until she finds a ticket.",
-  "options": null,
+  "text": "Which of the following statements must be true?",
+  "options": {
+   "A": "At Dining Hall C,there were more ice cream dishes served than\ncookie dishes.",
+   "B": "There were fewer cake dishes served at Dining Hall B than at Dining\nHall A.",
+   "C": "There were the same number of pie dishes served at Dining Hall B as there\nwere at Dining Hall C.",
+   "D": "At Dining Hall A, there were more cake dishes served than brownie dishes.",
+   "E": "The total number of dessert dishes served at all three dining halls is the\nsame."
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -8960,8 +9164,14 @@
   "year": 2025,
   "number": 19,
   "source": "AP Exam",
-  "text": "Which of the following is closest to the probability that Kendra will purchase or\nfewer candy bars?\nA.\n0.0001\nB.\n0.0012\nC.\n0.0775\nD.\n0.3726\nE.\n0.6274\n\nA college offers both two-year and four-year programs of study. An administrator at\nthe college is investigating whether there is an association between the program of\nstudy and the length of the program. A random sample of students in all programs\noffered by the college was selected. All randomly selected students indicated their\nprogram of study and the length of the program. The results obtained are shown in\nthe table.\nThe administrator wants to test the following hypotheses.\nH0: There is no association between the program of study and length of the program.\nHa : There is no association between the program of study and length of the program.\nAssuming the conditions for inference have been met, the resulting test statistic was 13.23.",
-  "options": null,
+  "text": "Which of the following is closest to the probability that Kendra will purchase or\nfewer candy bars?",
+  "options": {
+   "A": "0.0001",
+   "B": "0.0012",
+   "C": "0.0775",
+   "D": "0.3726",
+   "E": "0.6274"
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -8970,8 +9180,14 @@
   "year": 2025,
   "number": 20,
   "source": "AP Exam",
-  "text": "At the 1 percent level of significance, which of the following is an appropriate\nconclusion of the test?\nA.\nThe null hypothesis should note be rejected, and there is convincing\nstatistical evidence of no association between the program of study and\nlength of the program.\nB.\nThe null hypothesis should note be rejected, and there is convincing\nstatistical evidence of an association between the program of study and\nlength of the program.\nC.\nThe null hypothesis should note be rejected, and there is not convincing\nstatistical evidence of an association between the program of study and\nlength of the program.\nD.\nThe null hypothesis should\nbe rejected, and there is convincing\nstatistical evidence of no association between the program of study and\nlength of the program.\nE.\nThe null hypothesis should\nbe rejected, and there is convincing\nstatistical evidence of an association between the program of study and\nlength of the program.\n\nA wildlife scientist investigating the percentage of baby elephants in a certain country\nthat can stand on their hind legs to reach food. Previous wildlife studies have found\nthat 20 percent of baby elephants from the country can stand on their hind legs. Let\nG represent the number of baby elephants from a random sample of 60 bay\nelephants in the country that can stand on their hind legs.",
-  "options": null,
+  "text": "At the 1 percent level of significance, which of the following is an appropriate\nconclusion of the test?",
+  "options": {
+   "A": "The null hypothesis should note be rejected, and there is convincing\nstatistical evidence of no association between the program of study and\nlength of the program.",
+   "B": "The null hypothesis should note be rejected, and there is convincing\nstatistical evidence of an association between the program of study and\nlength of the program.",
+   "C": "The null hypothesis should note be rejected, and there is not convincing\nstatistical evidence of an association between the program of study and\nlength of the program.",
+   "D": "The null hypothesis should\nbe rejected, and there is convincing\nstatistical evidence of no association between the program of study and\nlength of the program.",
+   "E": "The null hypothesis should\nbe rejected, and there is convincing\nstatistical evidence of an association between the program of study and\nlength of the program."
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -8980,8 +9196,14 @@
   "year": 2025,
   "number": 21,
   "source": "AP Exam",
-  "text": "Which of following is the best interpretation of the expression P（G＝12）?\nA.\nThe expression represents the expected number of baby elephants in a\nrandom sample of 60 baby elephants in the country that can stand on their\nhind legs.\nB.\nThe expression represents the probability that 12 or fewer baby elephants\nfrom all baby elephants in the country can stand on their hind legs.\nC.\nThe expression represents the probability that 12 or fewer baby elephants\nfrom a random sample of 60 baby elephants in the country can stand on\ntheir hind legs.\nD.\nThe expression represents the probability that exactly 12 baby elephants\nfrom all baby elephants in the country can stand on their hind legs.\nE.\nThe expression represents the probability that exactly 12 baby elephants\nfrom a random sample of 60 baby elephants in the country can stand on\ntheir hind legs.\n\nA health magazine indicated that a new supplement may reduce heartburn better\nthan the current supplement. To investigate the claim, researchers obtained a\nrandom sample of 100 people who suffer from heartburn. After randomly assigning\neach person to one of two groups, the researchers gave one group the new\nsupplement and the other group the current supplement. Of those who received the\nnew supplement, 25 reported experiencing heartburn, and of those who received\nthe current supplement, 35 reported experiencing heartburn.",
-  "options": null,
+  "text": "Which of following is the best interpretation of the expression P（G＝12）?",
+  "options": {
+   "A": "The expression represents the expected number of baby elephants in a\nrandom sample of 60 baby elephants in the country that can stand on their\nhind legs.",
+   "B": "The expression represents the probability that 12 or fewer baby elephants\nfrom all baby elephants in the country can stand on their hind legs.",
+   "C": "The expression represents the probability that 12 or fewer baby elephants\nfrom a random sample of 60 baby elephants in the country can stand on\ntheir hind legs.",
+   "D": "The expression represents the probability that exactly 12 baby elephants\nfrom all baby elephants in the country can stand on their hind legs.",
+   "E": "The expression represents the probability that exactly 12 baby elephants\nfrom a random sample of 60 baby elephants in the country can stand on\ntheir hind legs."
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -8990,8 +9212,14 @@
   "year": 2025,
   "number": 22,
   "source": "AP Exam",
-  "text": "Which of the following best describes the investigation?\nA.\nIn was an experiment in which a treatment group was given the new\nsupplement and a control group was given the current supplement.\nB.\nIt was an experiment that used a matched pairs design in which one\ntreatment was the new supplement and the other treatment was the\ncurrent supplement.\nC.\nIt was an observational study in which the current supplement was used a\nplacebo to determine the effect of the new supplement at reducing\nheartburn.\nD.\nIt was an observational study in which the people were observed receiving\nthe current supplement or the new supplement.\nE.\nIt was a census in which all 100 people participated and the number of those\nwho experienced heartburn was recorded.\n\nA candidate running for mayor of a city claims that more than 60 percent of the\nregistered voters of the city favor building a new park. From a survey of 500\nregistered voters, s newspaper reporter found that 316 favored building a new park.",
-  "options": null,
+  "text": "Which of the following best describes the investigation?",
+  "options": {
+   "A": "In was an experiment in which a treatment group was given the new\nsupplement and a control group was given the current supplement.",
+   "B": "It was an experiment that used a matched pairs design in which one\ntreatment was the new supplement and the other treatment was the\ncurrent supplement.",
+   "C": "It was an observational study in which the current supplement was used a\nplacebo to determine the effect of the new supplement at reducing\nheartburn.",
+   "D": "It was an observational study in which the people were observed receiving\nthe current supplement or the new supplement.",
+   "E": "It was a census in which all 100 people participated and the number of those\nwho experienced heartburn was recorded."
+  },
   "answer": "A",
   "type": "mcq"
  },
@@ -9000,8 +9228,14 @@
   "year": 2025,
   "number": 23,
   "source": "AP Exam",
-  "text": "Which of the following is most appropriate for testing the claim of the\ncandidate running for mayor?\nA.\nA one-sample z-test for a sample proportion\nB.\nA one-sample z-test for a population proportion\nC.\nA one-sample t-test for a population proportion\nD.\nA one-sample t-test for a population mean\nE.\nA chi-square test for independence\n\nA simple random sample of 50 gymnasts of a similar skill level were asked to\nparticipate in a study that would take place during a regional gymnastics clinic.\nGymnasts often use chalk to reduce moisture on their hands when gripping\ngymnastics equipment. At the clinic, the gymnasts were allowed to pick one of two\ntypes of chalk to use : 27 gymnasts chose to use chalk A, while the remaining 23\ngymnasts chose to use chalk B. At the completion of\nthe clinic, gymnasts rated the\nquality of the chalk they chose from 1 to 10, with 10 being the highest quality. The\nresults of those ratings suggested that gymnasts rated chalk B as better to use than\nchalk A for gripping gymnastics equipment.",
-  "options": null,
+  "text": "Which of the following is most appropriate for testing the claim of the\ncandidate running for mayor?",
+  "options": {
+   "A": "A one-sample z-test for a sample proportion",
+   "B": "A one-sample z-test for a population proportion",
+   "C": "A one-sample t-test for a population proportion",
+   "D": "A one-sample t-test for a population mean",
+   "E": "A chi-square test for independence"
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -9010,8 +9244,14 @@
   "year": 2025,
   "number": 24,
   "source": "AP Exam",
-  "text": "Which of the following is absent from the experiment and must be included\nin order to have a well-designed experiment?\nA.\nA matched pairs design\nB.\nComparisons of at least two treatment groups\nC.\nRandom assignment of treatments to experimental units\nD.\nReplication within each treatment group\nE.\nThe same number of experimental units in each treatment group\n\nThe back-to-back stemplot shows the list prices for a random sample of 26 new math\ntextbooks and another random sample of 26 new science textbooks at a major\nuniversity.",
-  "options": null,
+  "text": "Which of the following is absent from the experiment and must be included\nin order to have a well-designed experiment?",
+  "options": {
+   "A": "A matched pairs design",
+   "B": "Comparisons of at least two treatment groups",
+   "C": "Random assignment of treatments to experimental units",
+   "D": "Replication within each treatment group",
+   "E": "The same number of experimental units in each treatment group"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -9020,8 +9260,14 @@
   "year": 2025,
   "number": 25,
   "source": "AP Exam",
-  "text": "Based on the back-to-back stemplot, which of the following statements\nabout the textbook prices must be true?\nA.\nBoth math and science textbooks have the same minimum price.\nB.\nBoth math and science textbooks have the same maximum price.\nC.\nThe median of the price of math textbooks is less than that of science\ntextbooks.\nD.\nThe interquartile range of the price of math textbooks is less than that of\nscience textbooks.\nE.\nThe range of the price of math textbooks is less than that of science\ntextbooks.\n\nA researcher selected a random sample of individuals with a certain disease to\nestimate the proportion of all individuals with the disease who have a certain gene\nmutation. Data from the random sample were used to construct a 95 percent\nconfidence interval for the proportion of all individuals with the disease who have\nthe gene mutation. The 95 percent confidence interval was（0.12, 0.36）.",
-  "options": null,
+  "text": "Based on the back-to-back stemplot, which of the following statements\nabout the textbook prices must be true?",
+  "options": {
+   "A": "Both math and science textbooks have the same minimum price.",
+   "B": "Both math and science textbooks have the same maximum price.",
+   "C": "The median of the price of math textbooks is less than that of science\ntextbooks.",
+   "D": "The interquartile range of the price of math textbooks is less than that of\nscience textbooks.",
+   "E": "The range of the price of math textbooks is less than that of science\ntextbooks."
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -9030,8 +9276,14 @@
   "year": 2025,
   "number": 26,
   "source": "AP Exam",
-  "text": "Which of the following could have been a 90 percent confidence interval\nbased on the same sample data?\nA.\n（－0.02, 0.24）\nB.\n（0.08, 0.40）\nC.\n（0.14, 0.34）\nD.\n（0.16, 0.40）\nE.\n（0.20, 0.36）\n\nAccording to a certain pet association, 67 percent of households own a pet. Jameel, a\nstudent in a statistics class, wants to investigate whether a greater percentage of\nhouseholds with students from his school own a pet. Jameel will conduct a study by\nsurveying s simple random sample of households with students from his school. Let P\nrepresent the proportion of all households with students from Jameel’s school who\nown a pet.",
-  "options": null,
+  "text": "Which of the following could have been a 90 percent confidence interval\nbased on the same sample data?",
+  "options": {
+   "A": "（－0.02, 0.24）",
+   "B": "（0.08, 0.40）",
+   "C": "（0.14, 0.34）",
+   "D": "（0.16, 0.40）",
+   "E": "（0.20, 0.36）"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -9040,8 +9292,14 @@
   "year": 2025,
   "number": 27,
   "source": "AP Exam",
-  "text": "Which of the following is an appropriate alternative hypothesis for Jameel’s\ninvestigation?\nA.\nHa: P ＞0.67\nB.\nHa: P ＝0.67\nC.\nHa: P ＜0.67\nD.\nHa : �ො＞0.67\nE.\nHa : �ො＝0.67\n\nA large movie theater franchise rewards Movie Club members who attend a show\nduring the month of their birthday with a discount on items purchased from the\ntheater’s snack bar. Assume that 52.5 percent of all Movie Club members will use the\nbirthday reward.\nSuppose a manager at the franchise will survey a random sample of 40 Movie Club\nmembers who are celebrating a birthday next month. The manager will ask each\nmember whether they will take advantage of the birthday reward. Let �ො\nbe the\nproportion of members in the sample who say they will take advantage of the\nbirthday reward during the month of their birthday. The franchise wants to verify the\nnormality of the sampling distribution of �ො.",
-  "options": null,
+  "text": "Which of the following is an appropriate alternative hypothesis for Jameel’s\ninvestigation?",
+  "options": {
+   "A": "Ha: P ＞0.67",
+   "B": "Ha: P ＝0.67",
+   "C": "Ha: P ＜0.67",
+   "D": "Ha : �ො＞0.67",
+   "E": "Ha : �ො＝0.67"
+  },
   "answer": "A",
   "type": "mcq"
  },
@@ -9050,8 +9308,14 @@
   "year": 2025,
   "number": 28,
   "source": "AP Exam",
-  "text": "Which of the following statements provides the most appropriate\njustification for the approximate normality of the sampling distribution of �ො?\nA.\nThe sample size of 40 Movie Club members is less than\n1\n10 of the assumed\nminimum population size of more than 400 Movie Club members.\nB.\nThe sample size of Movie Club members is greater than 30, so the central\nlimit theorem applies.\nC.\nThe Movie Club members who participated in the survey were chosen\nfrom a random sample.\nD.\nIn the random sample of 40 Movie Club members, 21 are expected to use\nthe birthday reward and 19 are expected to not use the birthday reward.\nBoth expected counts are greater than 10.\nE.\nThe parameter 52.5% is close to 50%, resulting in a near-symmetric\nsampling distribution.\n\nThe delivery times for a local food-delivery service are approximately normally\ndistributed with a mean of 50 minutes and a standard deviation of 10 minutes. Any\ncustomer who must wait more than 60 minutes for their delivery will receive a\ncoupon for 50 percent off their next order.",
-  "options": null,
+  "text": "Which of the following statements provides the most appropriate\njustification for the approximate normality of the sampling distribution of �ො?",
+  "options": {
+   "A": "The sample size of 40 Movie Club members is less than\n1\n10 of the assumed\nminimum population size of more than 400 Movie Club members.",
+   "B": "The sample size of Movie Club members is greater than 30, so the central\nlimit theorem applies.",
+   "C": "The Movie Club members who participated in the survey were chosen\nfrom a random sample.",
+   "D": "In the random sample of 40 Movie Club members, 21 are expected to use\nthe birthday reward and 19 are expected to not use the birthday reward.\nBoth expected counts are greater than 10.",
+   "E": "The parameter 52.5% is close to 50%, resulting in a near-symmetric\nsampling distribution."
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -9060,8 +9324,14 @@
   "year": 2025,
   "number": 29,
   "source": "AP Exam",
-  "text": "If 30 customers are randomly selected from all customers who purchased\nfood from the delivery service, then the probability that at least 2 of the\ncustomers will have to wait more than 60 minutes and receive a coupon is\nclosest to which of the following?\nA.\n30\n0 (0.16)2(0.84)28\nB.\n1－[\n30\n0 (0.84)0(0.16)30＋\n30\n1 (0.84)1(0.16)29]\nC.\n1－[\n30\n0 (0.84)0(0.16)30＋\n30\n1 (0.84)1(0.16)29＋\n30\n2 (0.84)2(0.16)28]\nD.\n1－[\n30\n0 (0.16)0(0.84)30＋\n30\n1 (0.16)1(0.84)29]\nE.\n1－[\n30\n0 (0.16)0(0.84)30＋\n30\n1 (0.16)1(0.84)29＋\n30\n2 (0.16)2(0.84)28]\n\nA study about robins, a type of bird, was conducted to compare the mean number of\neggs laid by robins in metal nest boxes to the mean number of eggs laid by robins in\nwood nest boxes. The results of the study are summarized in the table.\nLet µм represent the mean number of eggs laid by robins in metal nest boxes for\nrobins similar to those in the study. Let µԝ represent the mean number of eggs laid\nby robins in wood nest boxes for robins similar to those in the study. A two-sample\nt-test for a difference of population means was conducted for the hypotheses\nH0 : µм＝µԝ versus Ha:µм ≠µԝ.",
-  "options": null,
+  "text": "If 30 customers are randomly selected from all customers who purchased\nfood from the delivery service, then the probability that at least 2 of the\ncustomers will have to wait more than 60 minutes and receive a coupon is\nclosest to which of the following?",
+  "options": {
+   "A": "30\n0 (0.16)2(0.84)28",
+   "B": "1－[\n30\n0 (0.84)0(0.16)30＋\n30\n1 (0.84)1(0.16)29]",
+   "C": "1－[\n30\n0 (0.84)0(0.16)30＋\n30\n1 (0.84)1(0.16)29＋\n30\n2 (0.84)2(0.16)28]",
+   "D": "1－[\n30\n0 (0.16)0(0.84)30＋\n30\n1 (0.16)1(0.84)29]",
+   "E": "1－[\n30\n0 (0.16)0(0.84)30＋\n30\n1 (0.16)1(0.84)29＋\n30\n2 (0.16)2(0.84)28]"
+  },
   "answer": "D",
   "type": "mcq"
  },
@@ -9070,8 +9340,14 @@
   "year": 2025,
   "number": 30,
   "source": "AP Exam",
-  "text": "Assume the conditions for inference have been met. At the 10 percent level\nof significance, which of the following can be concluded?\nA.\nThe p-value is less than 0.10, and H0should be rejected.\nB.\nThe p-value is less than 0.10, and H0should not be rejected.\nC.\nThe p-value is greater than 0.10, and H0should be rejected.\nD.\nThe p-value is greater than 0.10, and H0should not be rejected.\nE.\nThe p-value cannot be determined from the given information.\n\nAccording to a report, 44 percent of adults indicate that they wash their bedsheets at\nleast once per week. A random sample of 1,000 adults will be selected.",
-  "options": null,
+  "text": "Assume the conditions for inference have been met. At the 10 percent level\nof significance, which of the following can be concluded?",
+  "options": {
+   "A": "The p-value is less than 0.10, and H0should be rejected.",
+   "B": "The p-value is less than 0.10, and H0should not be rejected.",
+   "C": "The p-value is greater than 0.10, and H0should be rejected.",
+   "D": "The p-value is greater than 0.10, and H0should not be rejected.",
+   "E": "The p-value cannot be determined from the given information."
+  },
   "answer": "A",
   "type": "mcq"
  },
@@ -9080,8 +9356,14 @@
   "year": 2025,
   "number": 31,
   "source": "AP Exam",
-  "text": "Assuming the report is correct, what is the probability that at least 650 adults\nfrom the sample will indicate that they wash their bedsheets at least once per\nweek?\nA.\n��>\n0.65−0.44\n0.44(1−0.44)\n1,000\n0.65−0.44\n0.44(1−0.44)\n1,000\nB.\n��>\n0.65−0.44\n0.65(1−0.65)\n1,000\n0.65−0.44\n0.65(1−0.65)\n1,000\nC.\n��>\n650−440\n650(1−650)\n1,000\n650−440\n650(1−650)\n1,000\nD.\n1－��>\n0.65−0.44\n0.44(1−0.44)\n1,000\n0.65−0.44\n0.44(1−0.44)\n1,000\nE.\n1－��>\n0.65−0.44\n0.65(1−0.65)\n1,000\n0.65−0.44\n0.65(1−0.65)\n1,000\n\nA local park has a trail where hawks, large predatory birds, are regularly spitted. Let\nrandom variable X represent the number of hawks spitted in a randomly selected day\nfrom the trail The probability distribution for X, based on data collected over several\nyears, is shown in the table.\nBased on this probability distribution, the expected number of hawks spitted in a day\nfrom the trail is 1.6 hawks.",
-  "options": null,
+  "text": "Assuming the report is correct, what is the probability that at least 650 adults\nfrom the sample will indicate that they wash their bedsheets at least once per\nweek?",
+  "options": {
+   "A": "��>\n0.65−0.44\n0.44(1−0.44)\n1,000\n0.65−0.44\n0.44(1−0.44)\n1,000",
+   "B": "��>\n0.65−0.44\n0.65(1−0.65)\n1,000\n0.65−0.44\n0.65(1−0.65)\n1,000",
+   "C": "��>\n650−440\n650(1−650)\n1,000\n650−440\n650(1−650)\n1,000",
+   "D": "1－��>\n0.65−0.44\n0.44(1−0.44)\n1,000\n0.65−0.44\n0.44(1−0.44)\n1,000",
+   "E": "1－��>\n0.65−0.44\n0.65(1−0.65)\n1,000\n0.65−0.44\n0.65(1−0.65)\n1,000"
+  },
   "answer": "A",
   "type": "mcq"
  },
@@ -9090,8 +9372,14 @@
   "year": 2025,
   "number": 32,
   "source": "AP Exam",
-  "text": "Which of the following is closest to the standard deviation for the number of\nhawks spitted in a day from the trail?\nA.\n x\nσ\n＝0.20\nB.\n x\nσ\n＝1.08\nC.\n x\nσ\n＝1.16\nD.\n x\nσ\n＝1.34\nE.\n x\nσ\n＝1.70\n\nA veterinary student is conducting an experiment to see whether using a certain\nmedication can reduce symptoms of arthritis in rabbits. Arthritis is a condition that\nmakes it difficult for rabbits to use one or more of their limbs. The severity of the\narthritis will be based on an evaluation of each rabbit by a veterinarian who does not\nknow whether the rabbits received medicine. Twenty rabbits of different sizes, each\nwith arthritis in one or more limbs, will be randomly assigned to receive medicine or\nno medicine. The veterinary student believes larger rabbits may respond better to\nthe medicine than smaller rabbits will.",
-  "options": null,
+  "text": "Which of the following is closest to the standard deviation for the number of\nhawks spitted in a day from the trail?",
+  "options": {
+   "A": "x\nσ\n＝0.20",
+   "B": "x\nσ\n＝1.08",
+   "C": "x\nσ\n＝1.16",
+   "D": "x\nσ\n＝1.34",
+   "E": "x\nσ\n＝1.70"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -9100,8 +9388,14 @@
   "year": 2025,
   "number": 33,
   "source": "AP Exam",
-  "text": "Of the following, which experimental design would be best for the veterinary\nstudent to use?\nA.\nA matched pairs design using randomly paired rabbits\nB.\nA matched pairs design pairing rabbits of similar size\nC.\nA design in which the ten largest rabbits are assigned to receive the\nmedicine and the remaining rabbits are assigned to not receive the\nmedicine\nD.\nA design in which the five largest rabbits and the five smallest rabbits are\nassigned to receive the medicine and the remaining rabbits are assigned\nto not receive the medicine\nE.\nA completely randomized design in which ten rabbits are randomly\nassigned for each treatment\n\nA film student was interested in whether there was a difference in the mean file sizes\nof all movie downloads from a popular streaming service for two genres—comedy\nand drama. The film student selected a random sample of comedy movies and a\nrandom sample of drama movies from the streaming service. The summary statistics\nare shown in the table.",
-  "options": null,
+  "text": "Of the following, which experimental design would be best for the veterinary\nstudent to use?",
+  "options": {
+   "A": "A matched pairs design using randomly paired rabbits",
+   "B": "A matched pairs design pairing rabbits of similar size",
+   "C": "A design in which the ten largest rabbits are assigned to receive the\nmedicine and the remaining rabbits are assigned to not receive the\nmedicine",
+   "D": "A design in which the five largest rabbits and the five smallest rabbits are\nassigned to receive the medicine and the remaining rabbits are assigned\nto not receive the medicine",
+   "E": "A completely randomized design in which ten rabbits are randomly\nassigned for each treatment"
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -9110,8 +9404,14 @@
   "year": 2025,
   "number": 34,
   "source": "AP Exam",
-  "text": "In a 95 percent confidence interval,which of the following is the standard\nerror of the difference of the two sample means between all comedy movie\ndownloads and all drama movie downloads from the streaming service？\nA.\n1132\n32\n+\n1412\n41\nB.\n1132\n32\n−\n1412\n41\nC.\n1132+1412\n32+41\nD.\n1132−1412\n32+41\nE.\n113\n32 +\n141\n41\n\nIn a certain restaurant, 70 percent of the customers order a drink other than water\nand 44 percent of the customers order dessert. Of the customers who order a drink\nthan water, 58 percent order dessert.",
-  "options": null,
+  "text": "In a 95 percent confidence interval,which of the following is the standard\nerror of the difference of the two sample means between all comedy movie\ndownloads and all drama movie downloads from the streaming service？",
+  "options": {
+   "A": "1132\n32\n+\n1412\n41",
+   "B": "1132\n32\n−\n1412\n41",
+   "C": "1132+1412\n32+41",
+   "D": "1132−1412\n32+41",
+   "E": "113\n32 +\n141\n41"
+  },
   "answer": "A",
   "type": "mcq"
  },
@@ -9120,8 +9420,14 @@
   "year": 2025,
   "number": 35,
   "source": "AP Exam",
-  "text": "If one customer from the restaurant is selected at random, which of the\nfollowing is closest to the probability that the customer ordered a drink other\nthan water and did not order dessert?\nA.\n0.034\nB.\n0.266\nC.\n0.294\nD.\n0.406\nE.\n0.560\n\nAshton will construct a 95 percent confidence interval to estimate the proportion of\nall drivers in his community who would indicate that they find it unacceptable that\nother drivers talk on a phone at any time while driving.",
-  "options": null,
+  "text": "If one customer from the restaurant is selected at random, which of the\nfollowing is closest to the probability that the customer ordered a drink other\nthan water and did not order dessert?",
+  "options": {
+   "A": "0.034",
+   "B": "0.266",
+   "C": "0.294",
+   "D": "0.406",
+   "E": "0.560"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -9130,8 +9436,14 @@
   "year": 2025,
   "number": 36,
   "source": "AP Exam",
-  "text": "Of the following which is the least number of drivers in the community who\nshould be surveyed such that the margin of error of the 95 percent\nconfidence interval will be no greater than 5 percentage points？\nA.\n30\nB.\n300\nC.\n400\nD.\n500\nE.\n600\n\nThe California condor is an endangered bird species. One reason the species is\nendangered is because of lead poisoning. It is costly and time-consuming to use lab\ntesting to , measure lead levels of condors. However, lab testing is not necessary if\ntesting for lead in the wild is accurate. A biologist is interested in investigating the\naccuracy pf lead level measurements taken in the wild. The biologist measured the\nlead level, in micrograms（mcg）, for 14 California condors both in the wild and in the\nlab.\nThe scatterplot and least-squares regression line for predicting the lead level in the\nlab based on the lead level in the wild are shown. Five points are labeled.",
-  "options": null,
+  "text": "Of the following which is the least number of drivers in the community who\nshould be surveyed such that the margin of error of the 95 percent\nconfidence interval will be no greater than 5 percentage points？",
+  "options": {
+   "A": "30",
+   "B": "300",
+   "C": "400",
+   "D": "500",
+   "E": "600"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -9140,8 +9452,14 @@
   "year": 2025,
   "number": 37,
   "source": "AP Exam",
-  "text": "Which of the labeled points has a predicted lead level in the lab that is\nbetween 20 mcg and 40 mcg and has a positive residual?\nA.\nA\nB.\nB\nC.\nC\nD.\nD\nE.\nE\n\nAn Internet service provider wants to know whether its customers would upgrade to\na new Internet service. The Internet service provider collected data from a random\nsample of its customers. The customers in the sample indicated whether they were\ninterested in the upgrade. Based on the sample data, a hypothesis test found\nconvincing statistical evidence at the 5 percent level of significance that the\nproportion of customers who would upgrade to the new internet service is less than\n0.40.",
-  "options": null,
+  "text": "Which of the labeled points has a predicted lead level in the lab that is\nbetween 20 mcg and 40 mcg and has a positive residual?",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "C",
+   "D": "D",
+   "E": "E"
+  },
   "answer": "C",
   "type": "mcq"
  },
@@ -9150,8 +9468,14 @@
   "year": 2025,
   "number": 38,
   "source": "AP Exam",
-  "text": "Which of the following must be true for an inference procedure that uses the\nsame sample data?\nA.\nA two-sided hypothesis test conducted at the 5% level of significance\nwould find convincing statistical evidence that the proportion of\ncustomers who would upgrade to the new Internet service is different\nthan 0.40.\nB.\nA two-sided hypothesis test conducted at the 10% level of significance\nwould find convincing statistical evidence that the proportion of\ncustomers who would upgrade to the new Internet service is different\nthan 0.40.\nC.\nA two-sided hypothesis test conducted at the 1% level of significance\nwould find convincing statistical evidence that the proportion of\ncustomers who would upgrade to the new Internet service is different\nthan 0.40.\nD.\nA 95% confidence interval for the proportion of customers who would\nupgrade to the mew Internet service would include 0.40.\nE.\nA 90% confidence interval for the proportion of customers who would\nupgrade to the mew Internet service would include 0.40.\n\nThe weights of 100 cats at a veterinary clinic were recorded. Summary statistics for\nthe weights of the 100 cats, in pounds, are shown in the table.\nThe weights of the 100 cats were converted from pounds to kilograms, and 1 pound\nis approximately equal to 0.45 kilogram.",
-  "options": null,
+  "text": "Which of the following must be true for an inference procedure that uses the\nsame sample data?",
+  "options": {
+   "A": "A two-sided hypothesis test conducted at the 5% level of significance\nwould find convincing statistical evidence that the proportion of\ncustomers who would upgrade to the new Internet service is different\nthan 0.40.",
+   "B": "A two-sided hypothesis test conducted at the 10% level of significance\nwould find convincing statistical evidence that the proportion of\ncustomers who would upgrade to the new Internet service is different\nthan 0.40.",
+   "C": "A two-sided hypothesis test conducted at the 1% level of significance\nwould find convincing statistical evidence that the proportion of\ncustomers who would upgrade to the new Internet service is different\nthan 0.40.",
+   "D": "A 95% confidence interval for the proportion of customers who would\nupgrade to the mew Internet service would include 0.40.",
+   "E": "A 90% confidence interval for the proportion of customers who would\nupgrade to the mew Internet service would include 0.40."
+  },
   "answer": "B",
   "type": "mcq"
  },
@@ -9160,8 +9484,14 @@
   "year": 2025,
   "number": 39,
   "source": "AP Exam",
-  "text": "Which of the following statistics would not have a different numerical value\nfor the weights in kilograms?\nA.\nThe mean\nB.\nThe median\nC.\nThe standard deviation\nD.\nThe interquartile range\nE.\nThe standardized score (z-score) for a cat at the veterinary clinic\n\nAn owner of a large number of car dealerships is concerned that salespeople’s time\nusing technology (cell phones and computers) for personal use during work hours is\nnegatively affecting car sales. The owner collected data for 54 randomly selected\nsalespeople. The scatterplot for the linear regression analysis predicting mean unit\nsales per week from mean time using technology for personal use during work hours,\nin minutes per day, is shown.\nAssuming the conditions for inference have been met, a 95 percent confidence\ninterval for the slope of the population regression line was found to be (-0.0525,\n-0.0124).",
-  "options": null,
+  "text": "Which of the following statistics would not have a different numerical value\nfor the weights in kilograms?",
+  "options": {
+   "A": "The mean",
+   "B": "The median",
+   "C": "The standard deviation",
+   "D": "The interquartile range",
+   "E": "The standardized score (z-score) for a cat at the veterinary clinic"
+  },
   "answer": "E",
   "type": "mcq"
  },
@@ -9170,8 +9500,14 @@
   "year": 2025,
   "number": 40,
   "source": "AP Exam",
-  "text": "Which of the following conclusions is supported by the interval?\nA.\nThe mean unit sales per week for all salespeople at the car dealerships is\nbetween 0.0124 and 0.0525.\nB.\nBecause the interval does not contain 0, there is not convincing statistical\nevidence of a linear relationship between mean time using technology\nfor personal use and mean unit sales per week for all salespeople at the\ndealerships.\nC.\nBecause the interval does contain 0, there is convincing statistical\nevidence that there is no linear relationship between mean time using\ntechnology for personal use and mean unit sales per week for all\nsalespeople at the dealerships.\nD.\nBecause the interval does contain -1, there is convincing statistical\nevidence that there is no linear relationship between mean time using\ntechnology for personal use and mean unit sales per week for all\nsalespeople at the dealerships.\nE.\nBecause the values in the interval are negative, there is convincing\nstatistical evidence of a decrease, on average, in mean unit sales per\nweek for each 1- minute increase in mean time using technology for\npersonal use for all salespeople at the dealerships.\n\nAnswer",
-  "options": null,
+  "text": "Which of the following conclusions is supported by the interval?",
+  "options": {
+   "A": "The mean unit sales per week for all salespeople at the car dealerships is\nbetween 0.0124 and 0.0525.",
+   "B": "Because the interval does not contain 0, there is not convincing statistical\nevidence of a linear relationship between mean time using technology\nfor personal use and mean unit sales per week for all salespeople at the\ndealerships.",
+   "C": "Because the interval does contain 0, there is convincing statistical\nevidence that there is no linear relationship between mean time using\ntechnology for personal use and mean unit sales per week for all\nsalespeople at the dealerships.",
+   "D": "Because the interval does contain -1, there is convincing statistical\nevidence that there is no linear relationship between mean time using\ntechnology for personal use and mean unit sales per week for all\nsalespeople at the dealerships.",
+   "E": "Because the values in the interval are negative, there is convincing\nstatistical evidence of a decrease, on average, in mean unit sales per\nweek for each 1- minute increase in mean time using technology for\npersonal use for all salespeople at the dealerships."
+  },
   "answer": "E",
   "type": "mcq"
  },
