@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>AP Study Hub</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+--bg:#fff;--bg2:#fafafa;--bg3:#f5f5f5;
+--text:#111;--text2:#555;--text3:#999;
+--red:#d32f2f;--red-light:#fff5f5;--red-border:#ffcdd2;
+--green:#2e7d32;--green-light:#f1f8e9;
+--border:#e0e0e0;--border2:#eee;
+--shadow:0 1px 4px rgba(0,0,0,.08);
+--radius:6px;
+--font:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif;
+--mono:'SF Mono','Fira Code','Consolas',monospace;
+}
+body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.65;-webkit-font-smoothing:antialiased}
+
+/* === AUTH SCREEN === */
+#auth{display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px}
+.auth-box{text-align:center;max-width:320px;width:100%}
+.auth-box h1{font-size:24px;font-weight:700;letter-spacing:-.5px;margin-bottom:4px}
+.auth-box p{color:var(--text3);font-size:13px;margin-bottom:32px}
+.auth-box input{width:100%;padding:12px 16px;border:1px solid var(--border);border-radius:var(--radius);font-size:15px;text-align:center;outline:none;transition:border .2s}
+.auth-box input:focus{border-color:var(--text)}
+.auth-box button{width:100%;padding:12px;margin-top:12px;background:var(--text);color:var(--bg);border:none;border-radius:var(--radius);font-size:14px;font-weight:600;cursor:pointer;transition:opacity .2s}
+.auth-box button:hover{opacity:.85}
+.auth-err{color:var(--red);font-size:13px;margin-top:8px;display:none}
+
+/* === LAYOUT === */
+#app{display:none}
+.topbar{position:sticky;top:0;z-index:100;background:var(--bg);border-bottom:1px solid var(--border);padding:0 16px;height:48px;display:flex;align-items:center;gap:12px}
+.topbar h1{font-size:16px;font-weight:700;letter-spacing:-.3px;white-space:nowrap}
+.topbar .sep{color:var(--text3);font-size:12px}
+.topbar .loc{color:var(--text2);font-size:13px;font-weight:500}
+.topbar .spacer{flex:1}
+.topbar .icon-btn{width:36px;height:36px;border:none;background:none;cursor:pointer;display:flex;align-items:center;justify-content:center;border-radius:var(--radius);color:var(--text2);transition:background .15s}
+.topbar .icon-btn:hover{background:var(--bg3)}
+.topbar .icon-btn.active{color:var(--red)}
+
+/* === NAV TABS === */
+.tabs{display:flex;border-bottom:1px solid var(--border);background:var(--bg);padding:0 16px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.tabs button{padding:10px 16px;border:none;background:none;font-size:13px;font-weight:600;color:var(--text3);cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent;transition:all .15s}
+.tabs button.active{color:var(--text);border-bottom-color:var(--red)}
+.tabs button:hover{color:var(--text2)}
+
+/* === PANELS === */
+.panel{display:none;padding:16px;max-width:800px;margin:0 auto}
+.panel.active{display:block}
+
+/* === KNOWLEDGE / LEARN === */
+.unit-list{display:flex;flex-direction:column;gap:1px;background:var(--border2)}
+.unit-item{background:var(--bg);padding:14px 16px;cursor:pointer;display:flex;align-items:center;gap:12px;transition:background .1s}
+.unit-item:hover{background:var(--bg2)}
+.unit-item .num{width:28px;height:28px;border:1.5px solid var(--border);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;color:var(--text2);flex-shrink:0}
+.unit-item .info{flex:1;min-width:0}
+.unit-item .info h3{font-size:14px;font-weight:600;margin-bottom:2px}
+.unit-item .info p{font-size:12px;color:var(--text3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.unit-item .arrow{color:var(--text3);font-size:14px}
+
+.section-list{display:flex;flex-direction:column;gap:1px;background:var(--border2)}
+.section-item{background:var(--bg);padding:14px 16px;cursor:pointer;display:flex;align-items:center;gap:12px;transition:background .1s}
+.section-item:hover{background:var(--bg2)}
+.section-item .dot{width:6px;height:6px;border-radius:50%;background:var(--border);flex-shrink:0}
+.section-item .dot.read{background:var(--green)}
+.section-item h4{font-size:14px;font-weight:500;flex:1}
+.section-item .wc{font-size:11px;color:var(--text3)}
+
+/* Article reader */
+.reader{padding:0}
+.reader-header{padding:16px;border-bottom:1px solid var(--border2)}
+.reader-header .breadcrumb{font-size:12px;color:var(--text3);margin-bottom:8px}
+.reader-header .breadcrumb span{cursor:pointer;color:var(--text2)}
+.reader-header .breadcrumb span:hover{color:var(--red)}
+.reader-header h2{font-size:20px;font-weight:700;letter-spacing:-.3px}
+.reader-body{padding:16px;font-size:15px;line-height:1.75}
+.reader-body p{margin-bottom:12px}
+.reader-body h3,.reader-body h4{font-weight:700;margin:20px 0 8px}
+.reader-body h3{font-size:17px}
+.reader-body h4{font-size:15px}
+.reader-body ul,.reader-body ol{margin:8px 0 12px 20px}
+.reader-body li{margin-bottom:4px}
+.reader-body .key-term{color:var(--red);font-weight:600}
+.reader-body table{width:100%;border-collapse:collapse;margin:12px 0;font-size:13px}
+.reader-body th,.reader-body td{border:1px solid var(--border);padding:6px 10px;text-align:left}
+.reader-body th{background:var(--bg3);font-weight:600}
+.reader-body code{font-family:var(--mono);font-size:13px;background:var(--bg3);padding:2px 5px;border-radius:3px}
+.reader-body .formula-block{background:var(--bg2);border-left:3px solid var(--red);padding:12px 16px;margin:12px 0;border-radius:0 var(--radius) var(--radius) 0;overflow-x:auto}
+
+/* Key terms sidebar */
+.key-terms{margin:16px;padding:14px;background:var(--bg2);border:1px solid var(--border2);border-radius:var(--radius)}
+.key-terms h4{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;color:var(--text3);margin-bottom:8px}
+.key-terms .tags{display:flex;flex-wrap:wrap;gap:6px}
+.key-terms .tag{font-size:12px;padding:3px 8px;background:var(--bg);border:1px solid var(--border);border-radius:12px;color:var(--text2);cursor:pointer;transition:all .15s}
+.key-terms .tag:hover{border-color:var(--red);color:var(--red)}
+
+/* === QUIZ / PRACTICE === */
+.quiz-config{padding:16px}
+.quiz-config h3{font-size:16px;font-weight:700;margin-bottom:12px}
+.filter-row{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.filter-row select,.filter-row input{padding:8px 12px;border:1px solid var(--border);border-radius:var(--radius);font-size:13px;background:var(--bg);outline:none}
+.filter-row select:focus,.filter-row input:focus{border-color:var(--text)}
+.start-btn{padding:10px 24px;background:var(--text);color:var(--bg);border:none;border-radius:var(--radius);font-size:14px;font-weight:600;cursor:pointer;transition:opacity .15s}
+.start-btn:hover{opacity:.85}
+
+.q-card{background:var(--bg);border:1px solid var(--border2);border-radius:var(--radius);margin-bottom:16px;overflow:hidden}
+.q-header{padding:12px 16px;background:var(--bg2);border-bottom:1px solid var(--border2);display:flex;align-items:center;gap:8px}
+.q-header .q-num{font-size:12px;font-weight:700;color:var(--text2)}
+.q-header .q-tag{font-size:11px;padding:2px 8px;border:1px solid var(--border);border-radius:10px;color:var(--text3)}
+.q-header .spacer{flex:1}
+.q-header .q-flag{cursor:pointer;color:var(--text3);font-size:16px}
+.q-header .q-flag.flagged{color:var(--red)}
+.q-body{padding:16px}
+.q-body .q-text{font-size:14px;line-height:1.7;margin-bottom:16px}
+.q-body .q-text table{width:100%;border-collapse:collapse;margin:10px 0;font-size:13px}
+.q-body .q-text th,.q-body .q-text td{border:1px solid var(--border);padding:5px 8px}
+.q-body .q-text th{background:var(--bg3);font-weight:600}
+
+/* MCQ Options */
+.options{display:flex;flex-direction:column;gap:6px}
+.opt{display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border:1px solid var(--border);border-radius:var(--radius);cursor:pointer;transition:all .15s;font-size:14px}
+.opt:hover{background:var(--bg2);border-color:var(--text3)}
+.opt.selected{border-color:var(--text);background:var(--bg2)}
+.opt.correct{border-color:var(--green);background:var(--green-light)}
+.opt.wrong{border-color:var(--red);background:var(--red-light)}
+.opt .letter{font-weight:700;color:var(--text2);min-width:18px}
+.opt.correct .letter{color:var(--green)}
+.opt.wrong .letter{color:var(--red)}
+
+/* FRQ */
+.frq-parts{margin-top:12px}
+.frq-part{margin-bottom:12px;padding:10px 12px;background:var(--bg2);border-radius:var(--radius)}
+.frq-part .part-label{font-weight:700;font-size:13px;margin-bottom:4px}
+.frq-part .part-text{font-size:14px;line-height:1.6}
+.show-answer-btn{margin-top:12px;padding:8px 16px;border:1px solid var(--border);background:var(--bg);border-radius:var(--radius);font-size:13px;font-weight:500;cursor:pointer;color:var(--text2);transition:all .15s}
+.show-answer-btn:hover{border-color:var(--text);color:var(--text)}
+.scoring-guide{margin-top:12px;padding:12px;background:var(--bg2);border-left:3px solid var(--red);border-radius:0 var(--radius) var(--radius) 0;font-size:13px;line-height:1.6;display:none;max-height:300px;overflow-y:auto;white-space:pre-wrap}
+
+/* Quiz footer */
+.q-footer{padding:12px 16px;border-top:1px solid var(--border2);display:flex;align-items:center;gap:8px}
+.q-footer button{padding:8px 16px;border:1px solid var(--border);background:var(--bg);border-radius:var(--radius);font-size:13px;cursor:pointer;transition:all .15s}
+.q-footer button:hover{border-color:var(--text)}
+.q-footer .spacer{flex:1}
+.q-footer .progress{font-size:12px;color:var(--text3)}
+
+/* Quiz results */
+.results{text-align:center;padding:40px 16px}
+.results .score{font-size:48px;font-weight:700;margin-bottom:4px}
+.results .score-label{font-size:14px;color:var(--text3);margin-bottom:24px}
+.results .stats{display:flex;justify-content:center;gap:24px;margin-bottom:24px}
+.results .stat{text-align:center}
+.results .stat .val{font-size:20px;font-weight:700}
+.results .stat .label{font-size:12px;color:var(--text3)}
+
+/* === ERROR LOG / REVIEW === */
+.review-empty{text-align:center;padding:60px 16px;color:var(--text3)}
+.review-empty svg{margin-bottom:12px}
+.review-empty p{font-size:14px}
+.err-item{display:flex;align-items:center;gap:12px;padding:14px 16px;border-bottom:1px solid var(--border2);cursor:pointer;transition:background .1s}
+.err-item:hover{background:var(--bg2)}
+.err-item .err-q{flex:1;font-size:13px;line-height:1.5;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.err-item .err-meta{text-align:right;flex-shrink:0}
+.err-item .err-meta .date{font-size:11px;color:var(--text3)}
+.err-item .err-meta .attempts{font-size:11px;color:var(--red)}
+
+/* === SEARCH === */
+.search-bar{padding:12px 16px;border-bottom:1px solid var(--border2)}
+.search-bar input{width:100%;padding:10px 14px;border:1px solid var(--border);border-radius:var(--radius);font-size:14px;outline:none;transition:border .2s}
+.search-bar input:focus{border-color:var(--text)}
+.search-results{padding:8px 0}
+.search-hit{padding:10px 16px;cursor:pointer;transition:background .1s}
+.search-hit:hover{background:var(--bg2)}
+.search-hit .hit-title{font-size:14px;font-weight:600;margin-bottom:2px}
+.search-hit .hit-snippet{font-size:12px;color:var(--text2);line-height:1.5;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.search-hit .hit-snippet mark{background:var(--red-light);color:var(--red);font-weight:600;padding:0 2px;border-radius:2px}
+
+/* === RESPONSIVE === */
+@media(max-width:480px){
+  .topbar h1{font-size:14px}
+  .tabs button{padding:8px 12px;font-size:12px}
+  .panel{padding:12px}
+  .reader-body{font-size:14px}
+}
+
+/* === ICONS (inline SVG) === */
+.icon{width:18px;height:18px;stroke:currentColor;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+</style>
+</head>
+<body>
+
+<!-- AUTH -->
+<div id="auth">
+<div class="auth-box">
+<h1>AP Study Hub</h1>
+<p>Knowledge Base + Practice + Review</p>
+<input type="password" id="pw" placeholder="Password" autocomplete="off">
+<button onclick="doAuth()">Enter</button>
+<div class="auth-err" id="authErr">Incorrect password</div>
+</div>
+</div>
+
+<!-- APP -->
+<div id="app">
+<div class="topbar">
+<h1>AP Hub</h1>
+<span class="sep">/</span>
+<span class="loc" id="topLoc">Statistics</span>
+<div class="spacer"></div>
+<button class="icon-btn" onclick="toggleSearch()" title="Search">
+<svg class="icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg>
+</button>
+</div>
+
+<div class="tabs" id="mainTabs">
+<button class="active" data-tab="learn" onclick="switchTab('learn')">Learn</button>
+<button data-tab="quiz" onclick="switchTab('quiz')">Practice</button>
+<button data-tab="review" onclick="switchTab('review')">Review</button>
+</div>
+
+<!-- Search overlay -->
+<div id="searchPanel" style="display:none">
+<div class="search-bar"><input type="text" id="searchInput" placeholder="Search notes, terms, questions..." oninput="doSearch(this.value)"></div>
+<div class="search-results" id="searchResults"></div>
+</div>
+
+<!-- LEARN PANEL -->
+<div class="panel active" id="learnPanel">
+<div id="unitListView"></div>
+<div id="sectionListView" style="display:none"></div>
+<div id="readerView" style="display:none"></div>
+</div>
+
+<!-- QUIZ PANEL -->
+<div class="panel" id="quizPanel">
+<div id="quizConfig">
+<h3>Start Practice</h3>
+<div class="filter-row">
+<select id="qType"><option value="mcq">Multiple Choice</option><option value="frq">Free Response</option><option value="practice">Chapter Practice</option></select>
+<select id="qYear"><option value="all">All Years</option></select>
+<select id="qCount"><option value="10">10 Questions</option><option value="20">20 Questions</option><option value="40">40 Questions</option><option value="all">All</option></select>
+</div>
+<div class="filter-row">
+<label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qShuffle" checked> Shuffle</label>
+<label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qErrorsOnly"> Errors Only</label>
+</div>
+<button class="start-btn" onclick="startQuiz()">Start</button>
+</div>
+<div id="quizArea" style="display:none"></div>
+<div id="quizResults" style="display:none"></div>
+</div>
+
+<!-- REVIEW PANEL -->
+<div class="panel" id="reviewPanel">
+<div id="reviewContent"></div>
+</div>
+</div>
+
+<script>
+// === AUTH ===
+const PWD='payson';
+function doAuth(){
+const v=document.getElementById('pw').value.toLowerCase().trim();
+if(v===PWD){localStorage.setItem('ap_auth','1');showApp()}
+else{document.getElementById('authErr').style.display='block'}
+}
+function showApp(){document.getElementById('auth').style.display='none';document.getElementById('app').style.display='block';init()}
+document.getElementById('pw').addEventListener('keydown',e=>{if(e.key==='Enter')doAuth()});
+if(localStorage.getItem('ap_auth')==='1')showApp();
+
+// === DATA ===
+let notes=null,mcq=[],frq=[],practice=[];
+let currentUnit=null,currentSection=null;
+let quizQuestions=[],quizIndex=0,quizAnswers={},quizMode='mcq';
+
+async function loadData(){
+const [n,m,f,p]=await Promise.all([
+fetch('data/stats/knowledge/notes.json').then(r=>r.json()),
+fetch('data/stats/questions/mcq.json').then(r=>r.json()),
+fetch('data/stats/questions/frq.json').then(r=>r.json()),
+fetch('data/stats/questions/practice.json').then(r=>r.json()),
+]);
+notes=n;mcq=m;frq=f;practice=p;
+renderUnits();populateYears();
+}
+
+function init(){loadData()}
+
+// === TABS ===
+function switchTab(t){
+document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('active',b.dataset.tab===t));
+document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+document.getElementById(t+'Panel').classList.add('active');
+if(t==='review')renderReview();
+document.getElementById('searchPanel').style.display='none';
+}
+
+// === LEARN ===
+function renderUnits(){
+if(!notes)return;
+const el=document.getElementById('unitListView');
+el.innerHTML=notes.units.map((u,i)=>`
+<div class="unit-list">
+<div class="unit-item" onclick="showUnit(${i})">
+<div class="num">${i+1}</div>
+<div class="info">
+<h3>${esc(u.title)}</h3>
+<p>${u.sections.length} sections · ${u.sections.reduce((a,s)=>a+s.wordCount,0).toLocaleString()} words</p>
+</div>
+<span class="arrow">&#8250;</span>
+</div>
+</div>`).join('');
+}
+
+function showUnit(idx){
+currentUnit=idx;
+const u=notes.units[idx];
+document.getElementById('unitListView').style.display='none';
+const el=document.getElementById('sectionListView');
+el.style.display='block';
+const readSections=JSON.parse(localStorage.getItem('ap_read')||'{}');
+el.innerHTML=`
+<div style="padding:12px 0 8px;display:flex;align-items:center;gap:8px">
+<button class="icon-btn" onclick="backToUnits()" style="margin:-4px">
+<svg class="icon" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+</button>
+<h3 style="font-size:15px;font-weight:700">${esc(u.title)}</h3>
+</div>
+<div class="section-list">
+${u.sections.map((s,i)=>`
+<div class="section-item" onclick="showReader(${idx},${i})">
+<div class="dot ${readSections[s.id]?'read':''}"></div>
+<h4>${esc(s.title)}</h4>
+<span class="wc">${s.wordCount.toLocaleString()}</span>
+</div>`).join('')}
+</div>`;
+document.getElementById('topLoc').textContent=u.title;
+}
+
+function backToUnits(){
+document.getElementById('unitListView').style.display='block';
+document.getElementById('sectionListView').style.display='none';
+document.getElementById('readerView').style.display='none';
+document.getElementById('topLoc').textContent='Statistics';
+currentUnit=null;currentSection=null;
+}
+
+function showReader(unitIdx,secIdx){
+currentSection=secIdx;
+const u=notes.units[unitIdx];
+const s=u.sections[secIdx];
+document.getElementById('sectionListView').style.display='none';
+const el=document.getElementById('readerView');
+el.style.display='block';
+
+// Mark as read
+const readS=JSON.parse(localStorage.getItem('ap_read')||'{}');
+readS[s.id]=1;localStorage.setItem('ap_read',JSON.stringify(readS));
+
+// Render content
+let content=s.content;
+// Highlight key terms
+if(s.keyTerms&&s.keyTerms.length){
+const terms=s.keyTerms.sort((a,b)=>b.length-a.length);
+terms.forEach(t=>{
+const re=new RegExp('\\b('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')\\b','gi');
+content=content.replace(re,'<span class="key-term">$1</span>');
+});
+}
+// Convert to paragraphs
+const paragraphs=content.split(/\n{2,}/).map(p=>{
+p=p.trim();
+if(!p)return'';
+// Check for heading-like lines
+if(p.length<80&&!p.includes('.')){
+return`<h4>${p}</h4>`;
+}
+// Preserve single newlines as <br>
+return`<p>${p.replace(/\n/g,'<br>')}</p>`;
+}).join('\n');
+
+el.innerHTML=`
+<div class="reader">
+<div class="reader-header">
+<div class="breadcrumb">
+<span onclick="backToUnits()">All Units</span> / <span onclick="showUnit(${unitIdx})">${esc(u.title)}</span>
+</div>
+<h2>${esc(s.title)}</h2>
+</div>
+${s.keyTerms&&s.keyTerms.length?`
+<div class="key-terms">
+<h4>Key Terms</h4>
+<div class="tags">${s.keyTerms.map(t=>`<span class="tag" onclick="searchTerm('${esc(t)}')">${esc(t)}</span>`).join('')}</div>
+</div>`:''}
+<div class="reader-body" id="readerBody">${paragraphs}</div>
+</div>`;
+document.getElementById('topLoc').textContent=s.title;
+
+// Render LaTeX
+setTimeout(()=>{
+if(window.renderMathInElement){
+renderMathInElement(document.getElementById('readerBody'),{
+delimiters:[
+{left:'$$',right:'$$',display:true},
+{left:'$',right:'$',display:false},
+{left:'\\(',right:'\\)',display:false},
+{left:'\\[',right:'\\]',display:true}
+],
+throwOnError:false
+});
+}
+},100);
+
+// Nav between sections
+const nav=document.createElement('div');
+nav.style.cssText='display:flex;justify-content:space-between;padding:16px;border-top:1px solid var(--border2);margin-top:20px';
+if(secIdx>0){
+nav.innerHTML+=`<button style="padding:8px 14px;border:1px solid var(--border);background:none;border-radius:var(--radius);font-size:13px;cursor:pointer" onclick="showReader(${unitIdx},${secIdx-1})">&#8249; Previous</button>`;
+}else{nav.innerHTML+='<div></div>'}
+if(secIdx<u.sections.length-1){
+nav.innerHTML+=`<button style="padding:8px 14px;border:1px solid var(--border);background:none;border-radius:var(--radius);font-size:13px;cursor:pointer" onclick="showReader(${unitIdx},${secIdx+1})">Next &#8250;</button>`;
+}
+el.querySelector('.reader').appendChild(nav);
+}
+
+// === QUIZ ===
+function populateYears(){
+const years=new Set();
+mcq.forEach(q=>years.add(q.year));
+frq.forEach(q=>years.add(q.year));
+const sel=document.getElementById('qYear');
+[...years].sort((a,b)=>b-a).forEach(y=>{
+sel.innerHTML+=`<option value="${y}">${y}</option>`;
+});
+}
+
+function startQuiz(){
+const type=document.getElementById('qType').value;
+const year=document.getElementById('qYear').value;
+const count=document.getElementById('qCount').value;
+const shuffle=document.getElementById('qShuffle').checked;
+const errorsOnly=document.getElementById('qErrorsOnly').checked;
+quizMode=type;
+
+let pool=type==='mcq'?[...mcq]:type==='frq'?[...frq]:[...practice];
+
+// Filter: only questions with options for MCQ
+if(type==='mcq')pool=pool.filter(q=>q.options&&Object.keys(q.options).length>=4);
+
+if(year!=='all')pool=pool.filter(q=>q.year==year);
+
+if(errorsOnly){
+const errs=JSON.parse(localStorage.getItem('ap_errors')||'{}');
+pool=pool.filter(q=>errs[q.id]);
+}
+
+if(shuffle){for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}}
+
+if(count!=='all')pool=pool.slice(0,parseInt(count));
+
+if(!pool.length){alert('No questions match your filters');return}
+
+quizQuestions=pool;
+quizIndex=0;
+quizAnswers={};
+document.getElementById('quizConfig').style.display='none';
+document.getElementById('quizResults').style.display='none';
+document.getElementById('quizArea').style.display='block';
+renderQuestion();
+}
+
+function renderQuestion(){
+const q=quizQuestions[quizIndex];
+const el=document.getElementById('quizArea');
+const answered=quizAnswers[q.id]!==undefined;
+
+let body='';
+if(q.type==='mcq'&&q.options){
+body=`<div class="q-text">${formatQText(q.text)}</div>
+<div class="options">
+${Object.entries(q.options).map(([k,v])=>{
+let cls='opt';
+if(answered){
+if(k===q.answer)cls+=' correct';
+else if(quizAnswers[q.id]===k)cls+=' wrong';
+}else if(quizAnswers[q.id]===k){cls+=' selected'}
+return`<div class="${cls}" onclick="selectOpt('${q.id}','${k}',${answered})">
+<span class="letter">${k}</span><span>${esc(v)}</span></div>`;
+}).join('')}
+</div>`;
+}else{
+// FRQ
+body=`<div class="q-text">${formatQText(q.text)}</div>`;
+if(q.parts&&q.parts.length){
+body+=`<div class="frq-parts">${q.parts.map(p=>`
+<div class="frq-part"><div class="part-label">${esc(p.label)}</div><div class="part-text">${esc(p.text)}</div></div>`).join('')}</div>`;
+}
+if(q.scoringGuideline){
+body+=`<button class="show-answer-btn" onclick="this.nextElementSibling.style.display='block';this.style.display='none'">Show Scoring Guide</button>
+<div class="scoring-guide">${esc(q.scoringGuideline)}</div>`;
+}
+}
+
+el.innerHTML=`
+<div class="q-card">
+<div class="q-header">
+<span class="q-num">#${quizIndex+1}</span>
+<span class="q-tag">${q.year||''} ${q.source||''}</span>
+<div class="spacer"></div>
+<span class="q-flag ${isFlagged(q.id)?'flagged':''}" onclick="toggleFlag('${q.id}')">&#9873;</span>
+</div>
+<div class="q-body" id="qBody">${body}</div>
+<div class="q-footer">
+<button onclick="prevQ()" ${quizIndex===0?'disabled':''}>&#8249; Prev</button>
+<div class="spacer"></div>
+<span class="progress">${quizIndex+1} / ${quizQuestions.length}</span>
+<div class="spacer"></div>
+${quizIndex===quizQuestions.length-1?
+`<button onclick="finishQuiz()" style="background:var(--text);color:var(--bg);border-color:var(--text)">Finish</button>`:
+`<button onclick="nextQ()">Next &#8250;</button>`}
+</div>
+</div>`;
+
+setTimeout(()=>{
+if(window.renderMathInElement){
+renderMathInElement(document.getElementById('qBody'),{
+delimiters:[{left:'$$',right:'$$',display:true},{left:'$',right:'$',display:false}],
+throwOnError:false
+});
+}
+},50);
+}
+
+function selectOpt(qid,letter,alreadyAnswered){
+if(alreadyAnswered)return;
+quizAnswers[qid]=letter;
+// Check correctness
+const q=quizQuestions.find(q=>q.id===qid);
+if(q&&q.answer&&letter!==q.answer){
+// Log error
+const errs=JSON.parse(localStorage.getItem('ap_errors')||'{}');
+if(!errs[qid])errs[qid]={count:0,dates:[],text:q.text.substring(0,100),year:q.year};
+errs[qid].count++;
+errs[qid].dates.push(new Date().toISOString().split('T')[0]);
+localStorage.setItem('ap_errors',JSON.stringify(errs));
+}
+renderQuestion();
+}
+
+function prevQ(){if(quizIndex>0){quizIndex--;renderQuestion()}}
+function nextQ(){if(quizIndex<quizQuestions.length-1){quizIndex++;renderQuestion()}}
+
+function finishQuiz(){
+const total=quizQuestions.length;
+let correct=0,answered=0;
+quizQuestions.forEach(q=>{
+if(quizAnswers[q.id]!==undefined){
+answered++;
+if(q.answer&&quizAnswers[q.id]===q.answer)correct++;
+}
+});
+const pct=answered?Math.round(correct/answered*100):0;
+
+document.getElementById('quizArea').style.display='none';
+const el=document.getElementById('quizResults');
+el.style.display='block';
+el.innerHTML=`
+<div class="results">
+<div class="score">${pct}%</div>
+<div class="score-label">Score</div>
+<div class="stats">
+<div class="stat"><div class="val" style="color:var(--green)">${correct}</div><div class="label">Correct</div></div>
+<div class="stat"><div class="val" style="color:var(--red)">${answered-correct}</div><div class="label">Wrong</div></div>
+<div class="stat"><div class="val">${total-answered}</div><div class="label">Skipped</div></div>
+</div>
+<button class="start-btn" onclick="resetQuiz()">New Practice</button>
+<button style="margin-left:8px;padding:10px 24px;border:1px solid var(--border);background:none;border-radius:var(--radius);font-size:14px;cursor:pointer" onclick="reviewErrors()">Review Errors</button>
+</div>`;
+}
+
+function resetQuiz(){
+document.getElementById('quizConfig').style.display='block';
+document.getElementById('quizArea').style.display='none';
+document.getElementById('quizResults').style.display='none';
+}
+
+function reviewErrors(){switchTab('review')}
+
+// === REVIEW ===
+function renderReview(){
+const errs=JSON.parse(localStorage.getItem('ap_errors')||'{}');
+const el=document.getElementById('reviewContent');
+const entries=Object.entries(errs).sort((a,b)=>b[1].count-a[1].count);
+
+if(!entries.length){
+el.innerHTML=`<div class="review-empty">
+<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#ccc" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>
+<p>No errors yet. Start practicing!</p>
+</div>`;
+return;
+}
+
+el.innerHTML=`
+<div style="padding:12px 0 8px;display:flex;align-items:center;justify-content:space-between">
+<h3 style="font-size:15px;font-weight:700">Error Log (${entries.length})</h3>
+<button style="font-size:12px;color:var(--text3);border:none;background:none;cursor:pointer" onclick="if(confirm('Clear all errors?')){localStorage.removeItem('ap_errors');renderReview()}">Clear All</button>
+</div>
+${entries.map(([id,e])=>`
+<div class="err-item" onclick="practiceError('${id}')">
+<div class="err-q">${esc(e.text||id)}</div>
+<div class="err-meta">
+<div class="attempts">${e.count}x wrong</div>
+<div class="date">${e.dates?e.dates[e.dates.length-1]:''}</div>
+</div>
+</div>`).join('')}`;
+}
+
+function practiceError(qid){
+const q=mcq.find(q=>q.id===qid)||frq.find(q=>q.id===qid)||practice.find(q=>q.id===qid);
+if(!q)return;
+quizQuestions=[q];quizIndex=0;quizAnswers={};quizMode=q.type;
+switchTab('quiz');
+document.getElementById('quizConfig').style.display='none';
+document.getElementById('quizResults').style.display='none';
+document.getElementById('quizArea').style.display='block';
+renderQuestion();
+}
+
+// === SEARCH ===
+function toggleSearch(){
+const p=document.getElementById('searchPanel');
+p.style.display=p.style.display==='none'?'block':'none';
+if(p.style.display==='block')document.getElementById('searchInput').focus();
+}
+
+function doSearch(query){
+if(!query||query.length<2){document.getElementById('searchResults').innerHTML='';return}
+const q=query.toLowerCase();
+const results=[];
+
+// Search notes
+if(notes){
+notes.units.forEach((u,ui)=>{
+u.sections.forEach((s,si)=>{
+const idx=s.content.toLowerCase().indexOf(q);
+if(idx>=0||s.title.toLowerCase().includes(q)){
+const start=Math.max(0,idx-40);
+const snippet=s.content.substring(start,start+120);
+results.push({type:'note',title:s.title,unit:u.title,snippet,unitIdx:ui,secIdx:si});
+}
+// Also search key terms
+if(s.keyTerms){
+s.keyTerms.forEach(t=>{
+if(t.toLowerCase().includes(q)&&!results.find(r=>r.secIdx===si&&r.unitIdx===ui)){
+results.push({type:'term',title:t,unit:u.title+' > '+s.title,snippet:'Key term in '+s.title,unitIdx:ui,secIdx:si});
+}
+});
+}
+});
+});
+}
+
+// Search questions
+mcq.forEach(mq=>{
+if(mq.text.toLowerCase().includes(q)){
+results.push({type:'question',title:`${mq.year} Q${mq.number}`,snippet:mq.text.substring(0,120),qid:mq.id});
+}
+});
+
+const el=document.getElementById('searchResults');
+el.innerHTML=results.slice(0,20).map(r=>{
+let snippet=r.snippet||'';
+const re=new RegExp('('+query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');
+snippet=esc(snippet).replace(re,'<mark>$1</mark>');
+if(r.type==='note'||r.type==='term'){
+return`<div class="search-hit" onclick="document.getElementById('searchPanel').style.display='none';switchTab('learn');showUnit(${r.unitIdx});showReader(${r.unitIdx},${r.secIdx})">
+<div class="hit-title">${esc(r.title)}</div>
+<div class="hit-snippet">${snippet}</div></div>`;
+}
+return`<div class="search-hit" onclick="searchJumpToQ('${r.qid}')">
+<div class="hit-title">${esc(r.title)} (MCQ)</div>
+<div class="hit-snippet">${snippet}</div></div>`;
+}).join('');
+}
+
+function searchTerm(term){
+document.getElementById('searchPanel').style.display='block';
+const inp=document.getElementById('searchInput');
+inp.value=term;
+doSearch(term);
+}
+
+function searchJumpToQ(qid){
+const q=mcq.find(q=>q.id===qid);
+if(!q)return;
+document.getElementById('searchPanel').style.display='none';
+switchTab('quiz');
+quizQuestions=[q];quizIndex=0;quizAnswers={};quizMode='mcq';
+document.getElementById('quizConfig').style.display='none';
+document.getElementById('quizResults').style.display='none';
+document.getElementById('quizArea').style.display='block';
+renderQuestion();
+}
+
+// === FLAGS ===
+function isFlagged(id){return(JSON.parse(localStorage.getItem('ap_flags')||'[]')).includes(id)}
+function toggleFlag(id){
+let flags=JSON.parse(localStorage.getItem('ap_flags')||'[]');
+if(flags.includes(id))flags=flags.filter(f=>f!==id);
+else flags.push(id);
+localStorage.setItem('ap_flags',JSON.stringify(flags));
+renderQuestion();
+}
+
+// === UTILS ===
+function esc(s){if(!s)return'';return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+function formatQText(text){
+if(!text)return'';
+let t=esc(text);
+// Preserve tables
+t=t.replace(/\n/g,'<br>');
+return t;
+}
+</script>
+</body>
+</html>
