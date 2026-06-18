@@ -561,7 +561,7 @@ else if(quizAnswers[q.id]===k&&q.answer)cls+=' wrong';
 else if(quizAnswers[q.id]===k&&!q.answer)cls+=' selected';
 }else if(quizAnswers[q.id]===k){cls+=' selected'}
 return`<div class="${cls}" onclick="selectOpt('${q.id}','${k}',${answered})">
-<span class="letter">${k}</span><span>${esc(v)}</span></div>`;
+<span class="letter">${k}</span><span>${formatQText(v)}</span></div>`;
 }).join('')}
 ${answered&&!q.answer?'<div style="margin-top:8px;padding:8px 12px;background:var(--bg2);border-radius:var(--radius);font-size:12px;color:var(--text3)">⚠ Answer key not available for this question</div>':''}
 </div>`;
