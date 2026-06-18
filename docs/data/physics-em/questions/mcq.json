@@ -598,7 +598,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_7",
@@ -607,7 +608,8 @@
     "number": 7,
     "text": "A circular loop of wire of radius R is perpendicular to a magnetic field whose magnitude as a function of time t is given by the equation , where b and c are positive, nonzero constants. What is the magnitude of the emf induced in the loop as a function of time t ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_8",
@@ -632,7 +634,8 @@
     "number": 9,
     "text": "What is the net electric flux through the Gaussian surface?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_10",
@@ -647,7 +650,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-em_2013_11",
@@ -678,7 +682,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_13",
@@ -703,7 +708,8 @@
     "number": 14,
     "text": "Three identical conducting spheres are mounted on insulating handles, as shown above. Spheres I and II have equal charges of and are separated by a fixed distance. They repel each other with an electrostatic force of magnitude F. Sphere III, initially uncharged, is first touched to sphere I, then to sphere II, and then removed. If the charge distribution on each sphere is assumed to always be spherical, the new magnitude of the electrostatic force between spheres I and II is",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_15",
@@ -750,7 +756,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_18",
@@ -759,7 +766,8 @@
     "number": 18,
     "text": "Suppose that the magnetic field due to a very long straight wire carrying current I has magnitude at a distance from the wire. If the wire is bent into a right angle and placed on the xy-axes as shown above, the magnitude of the magnetic field at point P on the x-axis at a distance of from the bend is most nearly",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_19",
@@ -852,7 +860,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2013_25",
@@ -877,7 +886,8 @@
     "number": 26,
     "text": "A parallel-plate capacitor of capacitance C consists of two plates of area A separated by distance d as shown above. The upper and lower plates are given a net charge of and , respectively. What is the electric field between the plates?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_27",
@@ -955,7 +965,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_32",
@@ -970,7 +981,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_33",
@@ -985,7 +997,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2013_34",
@@ -1016,7 +1029,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2015_3",
@@ -1061,7 +1075,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2015_6",
@@ -1076,7 +1091,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2015_7",
@@ -1217,7 +1233,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2015_16",
@@ -1501,7 +1518,8 @@
       "D": "2 sin Ba q",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2015_34",
@@ -1737,7 +1755,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2016_16",
@@ -1815,7 +1834,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2016_21",
@@ -1830,7 +1850,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2016_22",
@@ -1988,7 +2009,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2016_32",
@@ -1997,7 +2019,8 @@
     "number": 32,
     "text": "Four long, straight wires are perpendicular to the xy-plane. Each wire is the same distance from the origin O, as shown in the figure above. The wires have equal currents that are in the directions shown. Which of the following best represents the direction of the net magnetic field, if any, at the origin due to the four currents?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2016_33",
@@ -2054,7 +2077,8 @@
     "number": 3,
     "text": "The magnitude of the electric flux through A is 4 1 2 1 1 1 1 2 1 4",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-em_2017_4",
@@ -2069,7 +2093,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2017_5",
@@ -2084,7 +2109,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2017_6",
@@ -2123,7 +2149,8 @@
     "number": 8,
     "text": "A loop of wire lies in the plane of the page in a",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2017_9",
@@ -2132,7 +2159,8 @@
     "number": 9,
     "text": "A copper rod of resistance R is in electrical contact with a frictionless U-shaped rail of width L and negligible resistance. The rod is  pulled to the right at a constant velocity v . A  magnetic field B is directed into the page, as shown in the figure above. Under these conditions, the electric power dissipated in the rod is P. If the velocity of the rod is doubled and the magnetic field strength is reduced by half, the power dissipated in the rod is P",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-em_2017_10",
@@ -2147,7 +2175,8 @@
       "D": "Decreases",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2017_11",
@@ -2300,7 +2329,8 @@
     "number": 20,
     "text": "The ratio q q C is B",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-em_2017_21",
@@ -2420,7 +2450,8 @@
     "number": 28,
     "text": "What is the net charge on the outer surface of the spherical shell?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-em_2017_29",
@@ -2483,7 +2514,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2017_33",
@@ -2610,7 +2642,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2018_6",
@@ -2922,7 +2955,8 @@
     "number": 25,
     "text": "A charged capacitor C, resistor R, and switch S are connected in series. Voltmeter V is connected in parallel with the resistor, as shown in the figure above. At time t equals 0, the switch is then closed. Which of the following shows the potential difference delta V reading on the voltmeter as a function of time t after the switch is closed?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-em_2018_26",
@@ -3621,7 +3655,8 @@
     "number": 2,
     "text": "A nonconducting rod of charged material has a uniform positive charge density +λ. The rod is formed into a semicircle with point A at its center, as shown in the figure above. What is the direction of the electric field at point A?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2022_3",
@@ -3757,7 +3792,8 @@
     "number": 11,
     "text": "In the circuits shown above, all resistors have the same resistance R and all capacitors have the same capacitance C. Which of the following circuits will have the same time constant as the circuit shown in the figure above?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2022_12",
@@ -3836,7 +3872,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2022_17",
@@ -3930,7 +3967,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2022_23",
@@ -3945,7 +3983,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2022_24",
@@ -3960,7 +3999,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2022_25",
@@ -4131,7 +4171,8 @@
       "D": "C",
       "E": "1 2C STOP END OF ELECTRICITY AND MAGNETISM SECTION I"
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2023_1",
@@ -4178,7 +4219,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2023_4",
@@ -4193,7 +4235,8 @@
       "D": "The magnitude of the acceleration is constant as the sphere moves to the left.",
       "E": "The magnitude of the acceleration increases as the sphere moves to the left."
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-em_2023_5",
@@ -4304,7 +4347,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2023_12",
@@ -4319,7 +4363,8 @@
       "D": "The magnitude of the magnetic field is larger than expected.",
       "E": "The screen has a uniform negative charge distribution."
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "A"
   },
   {
     "id": "physics-em_2023_13",
@@ -4476,7 +4521,8 @@
       "C": "0.50 A",
       "D": "1.75 A",
       "E": "1.00 A"
-    }
+    },
+    "answer": "B"
   },
   {
     "id": "physics-em_2023_23",
@@ -4569,7 +4615,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2023_29",
@@ -4616,7 +4663,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2023_32",
@@ -4631,7 +4679,8 @@
       "D": "S T",
       "E": "U R"
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2023_33",
@@ -4678,7 +4727,8 @@
       "D": "ρ0a3 3ε0r2 Zero",
       "E": "ρ0a3 3ε0r2 ρ0r 3ε0"
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2024_1",
@@ -4693,7 +4743,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2024_2",
@@ -4723,7 +4774,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2024_4",
@@ -4769,7 +4821,8 @@
       "D": "The spheres are in a region of external uniform magnetic field only.",
       "E": "The spheres are in a region of external uniform electric and magnetic fields only."
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "A"
   },
   {
     "id": "physics-em_2024_7",
@@ -4911,7 +4964,8 @@
       "D": "The diameters of both spheres and the length of the wire",
       "E": "The diameters of both spheres, the length of the wire, and the heights of both stands"
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2024_16",
@@ -4941,7 +4995,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2024_18",
@@ -5019,7 +5074,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-em_2024_23",
@@ -5113,7 +5169,8 @@
       "D": "-y-direction, because B_z is negative for positive values of x.",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-em_2024_29",
