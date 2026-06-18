@@ -52,7 +52,8 @@
     "number": 4,
     "text": "A ball initially moves horizontally with velocity vi, as shown above. It is then struck by a stick. After leaving the stick, the ball moves vertically with a velocity vf, which is smaller in magnitude than vi. Which of the following vectors best represents the direction of the average force that the stick exerts on the ball?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_5",
@@ -140,7 +141,8 @@
     "number": 11,
     "text": "Two balls are on a frictionless horizontal tabletop. Ball X initially moves at 10 meters per second, as shown in Figure I above. It then collides elastically with identical ball Y. which is initially at rest. After the collision, ball X moves at 6 meters per second along a path at 530 to its original direction, as shown in Figure II above. Which of the following diagrams best represents the motion of ball Y after the collision? Questions 12-13 An ant of mass m clings to the rim of a flywheel of radius r, as shown above. The flywheel rotates clockwise on a horizontal shaft S with constant angular velocity . As the wheel rotates, the ant revolves past the stationary points I, II, III, and IV. The ant can adhere to the wheel with a force much greater than its own weight.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_12",
@@ -386,7 +388,8 @@
     "number": 27,
     "text": "Which of the following best indicates the direction of the acceleration, if any, of the ball at point Q ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_28",
@@ -395,7 +398,8 @@
     "number": 28,
     "text": "Which of the following best indicates the direction of the net force on the ball at point P ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_29",
@@ -516,7 +520,8 @@
     "number": 36,
     "text": "From the electric field vector at a point, one can determine which of the following? I. The direction of the electrostatic force on a test charge of known sign at that point II. The magnitude of the electrostatic force exerted per unit charge on a test charge at that point III. The electrostatic charge at that point A) I only B) III only C) I and II only D) II and III only E) I, II, and III",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_37",
@@ -525,7 +530,8 @@
     "number": 37,
     "text": "A circular ring made of an insulating material is cut in half. One half is given a charge -q uniformly distributed along its arc. The other half is given a charge + q also uniformly distributed along its arc. The two halves are then rejoined with insulation at the junctions J, as shown above. If there is no change in the charge distributions, what is the direction of the net electrostatic force on an electron located at the center of the circle? A) Toward the top of the page B) Toward the bottom of the page C) To the right D) To the left E) Into the page.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_38",
@@ -534,7 +540,8 @@
     "number": 38,
     "text": "The net electric flux through a closed surface is A) infinite only if there are no charges enclosed by the surface B) infinite only if the net charge enclosed by the surface is zero C) zero if only negative charges are enclosed by the surface D) zero if only positive charges are enclosed by the surface E) zero if the net charge enclosed by the surface is zero Questions 39-40 refer to the system of six 2-microfarad capacitors shown below.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-mech_1993_39",
@@ -543,7 +550,8 @@
     "number": 39,
     "text": "The equivalent capacitance of the system of capacitors is A) 2/3F B) 4/3 F C) 3 F D) 6 F E) 12 F",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_40",
@@ -552,7 +560,8 @@
     "number": 40,
     "text": "What potential difference must be applied between points X and Y so that the charge on each plate of each capacitor will have magnitude 6 microcoulombs? A) 1.5 V B) 3V C) 6 V D) 9 V E) 18 V",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_41",
@@ -561,7 +570,8 @@
     "number": 41,
     "text": "Four positive charges of magnitude q are arranged at the corners of a square, as shown above. At the center C of the square, the potential due to one charge alone is Vo and the electric field due to one charge alone has magnitude Eo. Which of the following correctly gives the electric potential and the magnitude of the electric field at the center of the square due to all four charges? Electric Potential Electric Field A) Zero Zero B) Zero 2Eo C) 2 Vo 4Eo D) 4 Vo Zero E) 4 Vo 2Eo",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_42",
@@ -570,7 +580,8 @@
     "number": 42,
     "text": "A large parallel-plate capacitor is being charged and the magnitude of the electric field between the plates of the capacitor is increasing at the rate dE/dt. Which of the following statements is correct about the magnetic field in the region between the plates of the charging capacitor? A) It is parallel to the electric field. B) Its magnitude is directly proportional to dE/dt. C) Its magnitude is inversely proportional to dE/dt. D) Nothing about the field can be determined unless the charging current is known. E) Nothing about the field can be determined unless the instantaneous electric field is known.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_43",
@@ -579,7 +590,8 @@
     "number": 43,
     "text": "A cross section of a long solenoid that carries current I is shown above. All of the following statements about the magnetic field B inside the solenoid are correct EXCEPT: A) B is directed to the left. B) An approximate value for the magnitude of B may be determined by using Ampere's law. C) The magnitude of B is proportional to the current I. D) The magnitude of B is proportional to the number of turns of wire per unit length. E) The magnitude of B is proportional to the distance from the axis of the solenoid.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-mech_1993_44",
@@ -588,7 +600,8 @@
     "number": 44,
     "text": "The power dissipated in a wire carrying a constant electric current I may be written as a function of I, the length l of the wire, the diameter d of the wire, and the resistivity  of the material in the wire. In this expression, the power dissipated is directly proportional to which of the following? A) l only B) d only C) l and  only D) d and  only E) l, d, and  Questions 45-47 In the circuit above, the emf's and the resistances have the values shown. The current I in the circuit is 2 amperes.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_45",
@@ -597,7 +610,8 @@
     "number": 45,
     "text": "The resistance R is A) 1  B) 2 C) 3  D) 4  E) 6 ",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_46",
@@ -606,7 +620,8 @@
     "number": 46,
     "text": "The potential difference between points X and Y is A) 1.2 V B) 6.0 V C) 8.4 V D) 10.8 V E) 12.2 V",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_47",
@@ -615,7 +630,8 @@
     "number": 47,
     "text": "How much energy is dissipated by the 1.5-ohm resistor in 60 seconds? A) 6 J B) 180 J C) 360 J D) 720 J E) 1,440 J",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_48",
@@ -624,7 +640,8 @@
     "number": 48,
     "text": "A conducting sphere of radius R carries a charge Q. Another conducting sphere has a radius R/2, but carries the same charge. The spheres are far apart. The ratio of the electric field near the surface of the smaller sphere to the field near the surface of the larger sphere is most nearly A) 1/4 B) 1/2 C) 1 D) 2 E) 4",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-mech_1993_49",
@@ -633,7 +650,8 @@
     "number": 49,
     "text": "Two charges, -2Q and +Q, are located on the x-axis, as shown abovE) Point P, at a distance of 3D from the origin O, is one of two points on the positive x-axis at which the electric potential is zero. How far from the origin O is the other point? A) (2/3) D B) D C) 3/2 D D) 5/3 D E) 2D",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_50",
@@ -642,7 +660,8 @@
     "number": 50,
     "text": "What is the radial component of the electric field associated with the potential V = ar-2 where a is a constant? A) -2ar-3 B) -2ar-1 C) ar-1 D) 2ar-1 E) 2ar-3 Questions 51-52 Two concentric, spherical conducting shells have radii r1 and r2 and charges Q1 and Q2, as shown above. Let r be the distance from the center of the spheres and consider the region r1 < r < r2.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-mech_1993_51",
@@ -651,7 +670,8 @@
     "number": 51,
     "text": "In this region the electric field is proportional to A) Q1/r2 B) (Q1 + Q2)/r2 C) (Q1 + Q2)/r D) Q1/r1 + Q2/r E) Q1/r + Q2/r2",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_52",
@@ -660,7 +680,8 @@
     "number": 52,
     "text": "In this region the electric potential relative to infinity is proportional to A) Q1/r2 B) (Q1 + Q2)/r2 C) (Q1 + Q2)/r D) Q1/r1 + Q2/r E) Q1/r + Q2/r2 Questions 52-53 A battery or batteries connected to two parallel plates produce the equipotential lines between the plates shown above.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_53",
@@ -669,7 +690,8 @@
     "number": 53,
     "text": "Which of the following configurations is most likely to produce these equipotential lines?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_54",
@@ -678,7 +700,8 @@
     "number": 54,
     "text": "The force on an electron located on the 0-volt potential line is A) 0 N B) I N, directed to the right C) I N, directed to the left D) directed to the right, but its magnitude cannot be determined without knowing the distance between the lines E) directed to the left, but its magnitude cannot be determined without knowing the distance between the lines",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_55",
@@ -687,7 +710,8 @@
     "number": 55,
     "text": "Two metal spheres that are initially uncharged are mounted on insulating stands, as shown above. A negatively charged rubber rod is brought close to, but does not make contact with, sphere X. Sphere Y is then brought close to X on the side opposite to the rubber rod. Y is allowed to touch X and then is removed some distance away. The rubber rod is then moved far away from X and Y. What are the final charges on the spheres? Sphere X Sphere Y A) Zero Zero B) Negative Negative C) Negative Positive D) Positive Negative E) Positive Positive",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_56",
@@ -696,7 +720,8 @@
     "number": 56,
     "text": "The potential of an isolated conducting sphere of radius R is given as a function of the charge q on the sphere by the equation V = kq/R. If the sphere is initially uncharged, the work W required to gradually increase the total charge on the sphere from zero to Q is given by which of the following expressions? A) W = kQ/R B) W = kQ2/R C) W = ( / ) kq R dq Q 0 D) W = ( / ) kq R dq Q 0 E) W = ( / ) kq R dq Q 0 Questions 57-58 In the circuit shown above, the battery supplies a constant voltage V when the switch S is closed. The value of the capacitance is C, and the value of the resistances are R1 and R2.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_57",
@@ -705,7 +730,8 @@
     "number": 57,
     "text": "Immediately after the switch is closed, the current supplied by the battery is A) V/(R1 + R2) B) V/R1 C) V/R2 D) V(R1 + R2)/R1R2 E) zero",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_58",
@@ -714,7 +740,8 @@
     "number": 58,
     "text": "A long time after the switch has been closed, the current supplied by the battery is A) V/(R1 + R2) B) V/R1 C) V/R2 D) V(R1 + R2)/R1R2 E) zero Questions 59-61 relate to the following circuit in which the switch S has been open for a long time.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_59",
@@ -723,7 +750,8 @@
     "number": 59,
     "text": "What is the instantaneous current at point X immediately after the switch is closed? A) 0 B) /R C) /2R D) /RL E) L/2R",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "A"
   },
   {
     "id": "physics-mech_1993_60",
@@ -732,7 +760,8 @@
     "number": 60,
     "text": "When the switch has been closed for a long time what is the energy stored in the inductor? A) L/2R B) L2/2R2 C) L2 /4R2 D) LR2/22 E) 2R2/4L",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_61",
@@ -757,7 +786,8 @@
     "number": 62,
     "text": "A 30-ohm resistor and a 60-ohm resistor are connected as shown above to a battery of emf 20 volts and internal resistance r. The current in the circuit is 0.8 ampere. What is the value of r ? A) 0.22  B) 4.5  C) 5  D) 16 E) 70 ",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_63",
@@ -766,7 +796,8 @@
     "number": 63,
     "text": "A square loop of wire 0.3 meter on a side carries a current of 2 amperes and is located in a uniform 0.05-tesla magnetic field. The left side of the loop is aligned along and attached to a fixed axis. When the plane of the loop is parallel to the magnetic field in the position shown above, what is the magnitude of the torque exerted on the loop about the axis? A) 0.00225 Nm B) 0.0090 Nm C) 0.278 Nm D) 1.11 Nm E) 111 Nm",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_1993_64",
@@ -775,7 +806,8 @@
     "number": 64,
     "text": "A solid nonconducting sphere of radius R has a charge Q uniformly distributed throughout its volume. A Gaussian surface of radius r with r < R is used to calculate the magnitude of the electric field E at a distance r from the center of the sphere. Which of the following equations results from a correct application of Gauss's law for this situation? A) E(4R2) = Q/o B) E(4r2) = Q/o C) E(4r2) = (Q3r3)/(o4R) D) E(4r2) = (Qr3)/(oR3) E) E(4r2) = 0",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_65",
@@ -784,7 +816,8 @@
     "number": 65,
     "text": "Two long parallel wires are a distance 2a apart, as shown above. Point P is in the plane of the wires and a distance a from wire X. When there is a current I in wire X and no current in wire Y, the magnitude of the magnetic field at P is Bo. When there are equal currents I in the same direction in both wires, the magnitude of the magnetic field at P is A) 2Bo/3 B) Bo C) 10Bo/9 D) 4Bo/3 E) 2 Bo",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_66",
@@ -793,7 +826,8 @@
     "number": 66,
     "text": "In the figure above, the north pole of the magnet is first moved down toward the loop of wire, then withdrawn upward. As viewed from above, the induced current in the loop is A) always clockwise with increasing magnitude B) always clockwise with decreasing magnitude C) always counterclockwise with increasing magnitude D) always counterclockwise with decreasing magnitude E) first counterclockwise, then clockwise",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-mech_1993_67",
@@ -802,7 +836,8 @@
     "number": 67,
     "text": "A variable resistor is connected across a constant voltage source. Which of the following graphs represents the power P dissipated by the resistor as a function of its resistance R ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_68",
@@ -811,7 +846,8 @@
     "number": 68,
     "text": "The point charge Q shown above is at the center of a metal box that is isolated, ungrounded, and uncharged. Which of the following is true? A) The net charge on the outside surface of the box is Q. B) The potential inside the box is zero. C) The electric field inside the box is constant. D) The electric field outside the box is zero everywhere. E) The electric field outside the box is the same as if only the point charge (and not the box) were there.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1993_69",
@@ -820,7 +856,8 @@
     "number": 69,
     "text": "Which of the following capacitors, each of which has plates of area A, would store the most charge on the top plate for a given potential difference V ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1993_70",
@@ -829,7 +866,8 @@
     "number": 70,
     "text": "If the ammeter in the circuit above reads zero, what is the resistance R ? A) 1.5  B) 2 C) 4  D) 5  E) 6",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1998_1",
@@ -1184,7 +1222,8 @@
     "number": 23,
     "text": "This question was not counted when the exam was scored.",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1998_24",
@@ -1214,7 +1253,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1998_26",
@@ -1403,7 +1443,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1998_38",
@@ -1434,7 +1475,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1998_40",
@@ -1717,7 +1759,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_1998_58",
@@ -1773,7 +1816,8 @@
     "number": 61,
     "text": "Two charged particles, each with a charge of +q, are located along the x-axis at x = 2 and x = 4, as shown above. Which of the following shows the graph of the magnitude of the electric field along the x-axis from the origin to x = 6? Physics C: Electricity & Magnetism Section I",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_1998_62",
@@ -4061,7 +4105,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_5",
@@ -4138,7 +4183,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2013_10",
@@ -4169,7 +4215,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_12",
@@ -4199,7 +4246,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_14",
@@ -4208,7 +4256,8 @@
     "number": 14,
     "text": "A satellite of mass m is in a circular orbit with speed at a distance r from the center of Earth. What is the ratio of its escape speed from the orbit to its orbital speed, ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_15",
@@ -4217,7 +4266,8 @@
     "number": 15,
     "text": "The block shown above is attached to a rigid wall by means of an ideal spring and moves on a horizontal surface with negligible friction. The block oscillates with a period T. If a second ideal spring, identical to the first, is placed above the first spring and attached to the wall and the block, the new oscillation period of the block is",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_2013_16",
@@ -4232,7 +4282,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2013_17",
@@ -4247,7 +4298,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "E"
   },
   {
     "id": "physics-mech_2013_18",
@@ -4256,7 +4308,8 @@
     "number": 18,
     "text": "A uniform beam of weight W is attached to a wall by a pivot at one end and is held horizontal by a cable attached to the other end of the beam and to the wall, as shown above. T is the tension in the cable, which makes an angle with the beam. Which of the following is equal to T ?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_19",
@@ -4265,7 +4318,8 @@
     "number": 19,
     "text": "An arrow of mass and speed strikes and sticks to one end of a meterstick of mass as shown in the diagram above. The meterstick is initially at rest on a horizontal surface and free to move without friction. The speed of the center of mass of the stick-arrow system after the arrow strikes is given by which of the following expressions?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_2013_20",
@@ -4328,7 +4382,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2013_24",
@@ -4337,7 +4392,8 @@
     "number": 24,
     "text": "The rope-and-pulley system of negligible mass shown above supports a block of weight W that is at rest. If the tension throughout the rope is uniform, what is the reading on the spring scale?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_25",
@@ -4368,7 +4424,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_27",
@@ -4383,7 +4440,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2013_28",
@@ -4398,7 +4456,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_29",
@@ -4445,7 +4504,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_32",
@@ -4454,7 +4514,8 @@
     "number": 32,
     "text": "Two blocks of masses M and 2M are on a frictionless horizontal surface, as shown above, and are held in place with a compressed spring of negligible mass between them. If the blocks are then released and the block of mass 2M leaves the spring with a velocity , the velocity of the center of mass of the blocks is",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2013_33",
@@ -4501,7 +4562,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2014_3",
@@ -4548,7 +4610,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2014_6",
@@ -4563,7 +4626,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2014_7",
@@ -4703,7 +4767,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2014_16",
@@ -4988,7 +5053,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2014_34",
@@ -5003,7 +5069,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2014_35",
@@ -5018,7 +5085,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2016_3",
@@ -5543,7 +5611,8 @@
     "number": 3,
     "text": "Six-digit school code",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2017_4",
@@ -5552,7 +5621,8 @@
     "number": 4,
     "text": "Unless I check the box below, I grant the College Board the unlimited right to use, reproduce, and publish my free-response materials, both written and oral, for educational research and instructional purposes. My name and the name of my school will not be used in any way in connection with my free-response materials. I understand that I am free to mark \"No\" with no effect on my score or its reporting. No, I do not grant the College Board these rights. Instructions The questions for Section II are printed in this booklet. You may use any blank space in the booklet for scratch work, but you must write your answers in the spaces provided for each answer. A table of information and lists of equations that may be helpful are in the booklet. Calculators, rulers, and straightedges may be used in this section. All final numerical answers should include appropriate units. Credit for your work depends on demonstrating that you know which physical principles would be appropriate to apply in a particular situation. Therefore, you should show your work for each part in the space provided after that part. If you need more space, be sure to clearly indicate where you continue your work. Credit will be awarded only for work that is clearly designated as the solution to a specific part of a question. Credit also depends on the quality of your solutions and explanations, so you should show your work. Write clearly and legibly. Cross out any errors you make; erased or crossed-out work will not be scored. You may lose credit for incorrect work that is not crossed out. Manage your time carefully. You may proceed freely from one question to the next. You may review your responses if you finish before the end of the exam is announced. Form I Form Code 4NBP4-S ADVANCED PLACEMENT PHYSICS C TABLE OF INFORMATION CONSTANTS AND CONVERSION FACTORS Proton mass, $m_p = 1.67 \\times 10^{-27}$ kg Neutron mass, $m_n = 1.67 \\times 10^{-27}$ kg Electron mass, $m_e = 9.11 \\times 10^{-31}$ kg Avogadro’s number, $N_0 = 6.02 \\times 10^{23}$ mol$^{-1}$ Universal gas constant, $R = 8.31$ J/(mol·K) Boltzmann’s constant, $k_B = 1.38 \\times 10^{-23}$ J/K Electron charge magnitude, $e = 1.60 \\times 10^{-19}$ C 1 electron volt, 1 eV = $1.60 \\times 10^{-19}$ J Speed of light, $c = 3.00 \\times 10^8$ m/s Universal gravitational constant, $G = 6.67 \\times 10^{-11}$ (N·m$^2$)/kg$^2$ Acceleration due to gravity at Earth’s surface, $g = 9.8$ m/s$^2$ 1 unified atomic mass unit, 1 u = $1.66 \\times 10^{-27}$ kg = 931 MeV/c$^2$ Planck’s constant, $h = 6.63 \\times 10^{-34}$ J·s = $4.14 \\times 10^{-15}$ eV·s $hc = 1.99 \\times 10^{-25}$ J·m = $1.24 \\times 10^3$ eV·nm Vacuum permittivity, $\\varepsilon_0 = 8.85 \\times 10^{-12}$ C$^2$/(N·m$^2$) Coulomb’s law constant, $k = 1/(4\\pi\\varepsilon_0) = 9.0 \\times 10^9$ (N·m$^2$)/C$^2$ Vacuum permeability, $\\mu_0 = 4\\pi \\times 10^{-7}$ (T·m)/A Magnetic constant, $k' = \\mu_0/(4\\pi) = 1 \\times 10^{-7}$ (T·m)/A 1 atmosphere pressure, 1 atm = $1.0 \\times 10^5$ N/m$^2$ = $1.0 \\times 10^5$ Pa UNIT SYMBOLS | meter, m | mole, mol | watt, W | farad, F | | --- | --- | --- | --- | | kilogram, kg | hertz, Hz | coulomb, C | tesla, T | | second, s | newton, N | volt, V | degree Celsius, °C | | ampere, A | pascal, Pa | ohm, Ω | electron volt, eV | | kelvin, K | joule, J | henry, H | | PREFIXES | Factor | Prefix | Symbol | | --- | --- | --- | | $10^9$ | giga | G | | $10^6$ | mega | M | | $10^3$ | kilo | k | | $10^{-2}$ | centi | c | | $10^{-3}$ | milli | m | | $10^{-6}$ | micro | $\\mu$ | | $10^{-9}$ | nano | n | | $10^{-12}$ | pico | p | VALUES OF TRIGONOMETRIC FUNCTIONS FOR COMMON ANGLES | $\\theta$ | 0° | 30° | 37° | 45° | 53° | 60° | 90° | | --- | --- | --- | --- | --- | --- | --- | --- | | $\\sin \\theta$ | 0 | 1/2 | 3/5 | $\\sqrt{2}/2$ | 4/5 | $\\sqrt{3}/2$ | 1 | | $\\cos \\theta$ | 1 | $\\sqrt{3}/2$ | 4/5 | $\\sqrt{2}/2$ | 3/5 | 1/2 | 0 | | $\\tan \\theta$ | 0 | $\\sqrt{3}/3$ | 3/4 | 1 | 4/3 | $\\sqrt{3}$ | $\\infty$ | The following assumptions are used in this exam. I. The frame of reference of any problem is inertial unless otherwise stated. II. The direction of current is the direction in which positive charges would drift. III. The electric potential is zero at an infinite distance from an isolated point charge. IV. All batteries and meters are ideal unless otherwise stated. V. Edge effects for the electric field of a parallel plate capacitor are negligible unless otherwise stated. ADVANCED PLACEMENT PHYSICS C EQUATIONS MECHANICS v<sub>x</sub> = v<sub>x0</sub> + a<sub>x</sub>t x = x<sub>0</sub> + v<sub>x0</sub>t + ½ a<sub>x</sub>t<sup>2</sup> v<sub>x</sub><sup>2</sup> = v<sub>x0</sub><sup>2</sup> + 2a<sub>x</sub>(x - x<sub>0</sub>) ā = ΣF̄/m = F̄<sub>net</sub>/m F̄ = dp/dt J̄ = ∫F̄ dt = Δp̄ p̄ = m̄v |F̄<sub>f</sub>| ≤ μ|F̄<sub>N</sub>| ΔE = W = ∫F̄•dř K = ½mv<sup>2</sup> P = dE/dt P = F̄•v ΔU<sub>g</sub> = mgΔh a<sub>c</sub> = v<sup>2</sup>/r = ω<sup>2</sup>r τ̄ = r̄ × F̄ ā = Στ̄/I = τ̄<sub>net</sub>/I I = ∫r<sup>2</sup>dm = Σmr<sup>2</sup> x<sub>cm</sub> = Σm<sub>i</sub>x<sub>i</sub>/Σm<sub>i</sub> v = rω L̄ = r̄ × p̄ = Iω̄ K = ½Iω<sup>2</sup> ω = ω<sub>0</sub> + αt θ = θ<sub>0</sub> + ω<sub>0</sub>t + ½αt<sup>2</sup> a = acceleration E = energy F = force f = frequency h = height I = rotational inertia J = impulse K = kinetic energy k = spring constant ℓ = length L = angular momentum m = mass P = power p = momentum r = radius or distance T = period t = time U = potential energy v = velocity or speed x = position μ = coefficient of friction θ = angle τ = torque ω = angular speed α = angular acceleration φ = phase angle F̄<sub>S</sub> = -kΔx U<sub>S</sub> = ½k(Δx)<sup>2</sup> x = x<sub>max</sub>cos(ωt + φ) T = 2π/ω = 1/f T<sub>S</sub> = 2π√(m/k) T<sub>P</sub> = 2π√(ℓ/g) |F̄<sub>G</sub>| = Gm<sub>1</sub>m<sub>2</sub>/r<sup>2</sup> U<sub>G</sub> = -Gm<sub>1</sub>m<sub>2</sub>/r ELECTRICITY AND MAGNETISM |F̄<sub>E</sub>| = 1/(4πε<sub>0</sub>) |q<sub>1</sub>q<sub>2</sub>|/r<sup>2</sup> Ē = F̄<sub>E</sub>/q ∫ Ē•dA = Q/ε<sub>0</sub> E<sub>x</sub> = -dV/dx ΔV = -∫Ē•dř V = 1/(4πε<sub>0</sub>) Σq<sub>i</sub>/r<sub>i</sub> U<sub>E</sub> = qV = 1/(4πε<sub>0</sub>) q<sub>1</sub>q<sub>2</sub>/r ΔV = Q/C C = κε<sub>0</sub>A/d C<sub>p</sub> = ΣC<sub>i</sub> 1/C<sub>s</sub> = Σ1/C<sub>i</sub> I = dQ/dt U<sub>C</sub> = ½QΔV = ½C(ΔV)<sup>2</sup> R = ρℓ/A Ē = ρJ I = Ne<sub>v<sub>d</sub></sub>A I = ΔV/R R<sub>s</sub> = ΣR<sub>i</sub> 1/R<sub>p</sub> = Σ1/R<sub>i</sub> P = IV A = area B = magnetic field C = capacitance d = distance E = electric field ℰ = emf F = force I = current J = current density L = inductance ℓ = length n = number of loops of wire per unit length N = number of charge carriers per unit volume P = power Q = charge q = point charge R = resistance r = radius or distance t = time U = potential or stored energy V = electric potential v = velocity or speed ρ = resistivity Φ = flux κ = dielectric constant F̄<sub>M</sub> = qv̄ × B̄ ∫ B̄•dℓ = μ<sub>0</sub>I dB̄ = μ<sub>0</sub>Idℓ×r̂ / 4πr<sup>2</sup> F̄ = ∫Idℓ × B̄ B<sub>s</sub> = μ<sub>0</sub>nI Φ<sub>B</sub> = ∫B̄•dA ℰ = ∫Ē•dℓ = -dΦ<sub>B</sub>/dt ℰ = -L dl/dt U<sub>L</sub> = ½LI<sup>2</sup> ADVANCED PLACEMENT PHYSICS C EQUATIONS GEOMETRY AND TRIGONOMETRY Rectangle A = bh C = circumference V = volume Triangle A = ½ bh S = surface area b = base h = height l = length Circle A = πr² w = width r = radius s = arc length θ = angle Rectangular Solid V = lwh Cylinder V = πr²l S = 2πrl + 2πr² Sphere V = 4/3 πr³ S = 4πr² Right Triangle a² + b² = c² sin θ = a/c cos θ = b/c tan θ = a/b CALCULUS df/dx = df/du * du/dx d/dx(x^n) = nx^(n-1) d/dx(e^(ax)) = ae^(ax) d/dx(ln ax) = 1/x d/dx[sin(ax)] = acos(ax) d/dx[cos(ax)] = -asin(ax) ∫x^n dx = 1/(n+1) x^(n+1), n ≠ -1 ∫e^(ax) dx = 1/a e^(ax) ∫dx/(x + a) = ln|x + a| ∫cos(ax) dx = 1/a sin(ax) ∫sin(ax) dx = -1/a cos(ax) VECTOR PRODUCTS A·B = AB cos θ |A × B| = AB sin θ THIS PAGE MAY BE USED FOR SCRATCH WORK. PHYSICS C: MECHANICS SECTION II Time—45 minutes 3 Questions Directions: Answer all three questions. The suggested time is about 15 minutes for answering each of the questions, which are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this booklet in the spaces provided after each part. Unstretched Spring Block at Equilibrium Position [spring diagram] [spring diagram with 1.0 kg mass hanging] x₀",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2017_6",
@@ -5829,7 +5899,8 @@
     "number": 23,
     "text": "The figure above shows the directions and relative magnitudes of all three forces that are acting on an object. Which of the following best shows the direction of the object's acceleration?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2017_24",
@@ -6236,7 +6307,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2018_17",
@@ -6345,7 +6417,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2018_24",
@@ -6529,7 +6602,8 @@
     "number": 35,
     "text": "A cart is moving in the +x-direction and passes the origin when time t=0. The cart then moves with decreasing speed, stops, and moves in the –x-direction with increasing speed. Which of the following graphs best represents the cart’s position x as a function of time?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_1",
@@ -6671,7 +6745,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_10",
@@ -6717,7 +6792,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_13",
@@ -6732,7 +6808,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_14",
@@ -6778,7 +6855,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_17",
@@ -6793,7 +6871,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_18",
@@ -7024,7 +7103,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2021_33",
@@ -7275,7 +7355,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "D"
   },
   {
     "id": "physics-mech_2022_14",
@@ -7300,7 +7381,8 @@
     "number": 15,
     "text": "Which of the following free-body diagrams shows an object in equilibrium?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2022_16",
@@ -7315,7 +7397,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2022_17",
@@ -7345,7 +7428,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2022_19",
@@ -7689,7 +7773,8 @@
       "D": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2023_7",
@@ -8081,7 +8166,8 @@
       "C": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2023_32",
@@ -8095,7 +8181,8 @@
       "C": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2023_33",
@@ -8109,7 +8196,8 @@
       "C": "",
       "E": ""
     },
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2023_34",
@@ -8262,7 +8350,8 @@
     "number": 9,
     "text": "A sphere is dropped near the surface of Earth. While falling, the sphere reaches terminal velocity. Which of the following sets of graphs correctly shows the magnitudes of the position y, velocity v, and acceleration a of the sphere as functions of time t as the sphere is falling?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2024_10",
@@ -8319,7 +8408,8 @@
     "number": 13,
     "text": "Satellite 1 is at the position shown in Figure 1 while traveling in a circular orbit of radius r around a planet. The velocity and acceleration of Satellite 1 are represented by the vectors $v_{1}$ and $a_{1}$, respectively, shown in Figure 2. Satellite 2 is in a circular orbit around the same planet with velocity and acceleration vectors $v_{2}$ and $a_{2}$, respectively. Which of the following shows a correct pair of orbital and vector diagrams for Satellite 2 ? (A) $v_{2}=\\frac{v_{1}}{\\sqrt{2}}$ $a_{2}=\\frac{a_{1}}{4}$ $v_{2}=\\sqrt{2}v_{1}$ $a_{2}=4a_{1}$",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "A"
   },
   {
     "id": "physics-mech_2024_14",
@@ -8406,7 +8496,8 @@
     "number": 19,
     "text": "An ideal spring-block system oscillates in one-dimensional motion. A motion sensor records the velocity $ v $ of the block as a function of time $ t $, as shown. Which of the following graphs best illustrates how the velocity $ v $ of the block varies as a function of position $ x $? ① $ T = 0.4 $ ② $ \\omega = \\frac{2\\pi}{0.4} = \\frac{\\pi}{0.2} $",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "C"
   },
   {
     "id": "physics-mech_2024_20",
@@ -8495,7 +8586,8 @@
     "number": 25,
     "text": "The position of an object is marked at regular time intervals on a thin strip of paper, which is then placed above a ruler, as shown. The position of the object is modeled by the equation $x = A + Bt + Ct^2$, where $A$, $B$, and $C$ are constants with appropriate units. The positive direction is to the right. If the motion of the object is changed such that the position of the object is modeled by the equation $x = A - Bt + Ct^2$, which of the following could represent the position of the object at regular time intervals?",
     "options": {},
-    "has_figure": true
+    "has_figure": true,
+    "answer": "B"
   },
   {
     "id": "physics-mech_2024_26",
