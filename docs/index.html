@@ -20,7 +20,28 @@
 --font:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',sans-serif;
 --mono:'SF Mono','Fira Code','Consolas',monospace;
 }
+/* === DARK MODE === */
+[data-theme="dark"]{
+--bg:#0f172a;--bg2:#1e293b;--bg3:#334155;
+--text:#f1f5f9;--text2:#94a3b8;--text3:#64748b;
+--red:#ef4444;--red-light:#1c1111;--red-border:#7f1d1d;
+--green:#22c55e;--green-light:#0d1f0d;
+--border:#334155;--border2:#1e293b;
+--shadow:0 1px 4px rgba(0,0,0,.3);
+}
 body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.65;-webkit-font-smoothing:antialiased}
+
+[data-theme="dark"] .topbar{background:var(--bg2);border-bottom-color:var(--border)}
+[data-theme="dark"] .auth-box input{background:var(--bg2);color:var(--text);border-color:var(--border)}
+[data-theme="dark"] .auth-box button{background:var(--text);color:var(--bg)}
+[data-theme="dark"] .subj-btn{background:var(--bg2);color:var(--text2);border-color:var(--border)}
+[data-theme="dark"] .subj-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+[data-theme="dark"] .opt{background:var(--bg2);border-color:var(--border)}
+[data-theme="dark"] .opt:hover{border-color:var(--text3)}
+[data-theme="dark"] .q-card{background:var(--bg2);border-color:var(--border)}
+[data-theme="dark"] .start-btn{background:var(--text);color:var(--bg)}
+[data-theme="dark"] mark{background:#854d0e;color:#fef3c7}
+[data-theme="dark"] .katex{color:var(--text)}
 
 /* === AUTH SCREEN === */
 #auth{display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px}
@@ -232,6 +253,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <span class="loc" id="topLoc">Statistics</span>
 <div class="spacer"></div>
 <button class="icon-btn" onclick="toggleSearch()"><svg class="icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button>
+<button class="icon-btn" id="themeBtn" onclick="toggleTheme()" title="Toggle dark mode"><svg class="icon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button>
 </div>
 <div class="subj-bar" id="subjectBar"></div>
 
@@ -834,14 +856,15 @@ renderQuestion();
 function esc(s){if(!s)return'';return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 function formatQText(text){
 if(!text)return'';
-// Parse markdown tables before escaping
+// Try to detect and render inline tables (no newlines between rows)
+text=renderInlineTables(text);
+// Now handle normal multiline tables
 const lines=text.split('\n');
 let result=[],inTable=false,tableRows=[];
 for(let i=0;i<lines.length;i++){
 const line=lines[i].trim();
 if(line.startsWith('|')&&line.endsWith('|')){
 if(!inTable){inTable=true;tableRows=[]}
-// Skip separator rows like |---|---|
 if(/^\|[\s\-:|]+\|$/.test(line))continue;
 const cells=line.split('|').slice(1,-1).map(c=>c.trim());
 tableRows.push(cells);
@@ -850,11 +873,47 @@ if(inTable){
 result.push(buildTable(tableRows));
 inTable=false;tableRows=[];
 }
-result.push(esc(line));
+if(line)result.push(esc(line));
 }
 }
 if(inTable)result.push(buildTable(tableRows));
 return result.join('<br>');
+}
+function renderInlineTables(text){
+// Find separator pattern |---|---|---| to detect inline table
+const sepMatch=text.match(/\|([\s-]{2,}\|){2,}/);
+if(!sepMatch)return text;
+const sep=sepMatch[0];
+const numCols=(sep.match(/\|/g)||[]).length-1;
+const pipesPerRow=numCols+1;
+// Find table region: look for consecutive pipes around separator
+const sepIdx=text.indexOf(sep);
+// Find all pipes in text
+const pipePositions=[];
+for(let i=0;i<text.length;i++){if(text[i]==='|')pipePositions.push(i)}
+// Find which pipe index starts the separator
+const sepFirstPipe=pipePositions.indexOf(sepIdx);
+// Table starts at pipe index that's a multiple of pipesPerRow before separator
+const headerStart=sepFirstPipe-pipesPerRow;
+if(headerStart<0)return text;
+// Find how many complete rows exist after separator
+const totalPipesAfterSep=pipePositions.length-(sepFirstPipe+pipesPerRow);
+const dataRows=Math.floor(totalPipesAfterSep/pipesPerRow);
+const totalTablePipes=(2+dataRows)*pipesPerRow; // header+sep+data
+const tableEndPipeIdx=headerStart+totalTablePipes-1;
+if(tableEndPipeIdx>=pipePositions.length)return text;
+const tStart=pipePositions[headerStart];
+const tEnd=pipePositions[tableEndPipeIdx]+1;
+// Extract and rebuild with newlines
+const tableStr=text.substring(tStart,tEnd);
+const allParts=tableStr.split('|');
+// Group into rows (each row has numCols cells between numCols+1 pipes)
+const rows=[];
+for(let i=0;i<allParts.length-1;i+=pipesPerRow){
+const row=allParts.slice(i+1,i+pipesPerRow).map(c=>c.trim());
+if(row.length===numCols)rows.push('|'+row.join('|')+'|');
+}
+return text.substring(0,tStart).trim()+'\n'+rows.join('\n')+'\n'+text.substring(tEnd).trim();
 }
 function buildTable(rows){
 if(!rows.length)return'';
@@ -864,6 +923,13 @@ h+='<tbody>'+rows.slice(1).map(r=>'<tr>'+r.map(c=>'<td>'+esc(c)+'</td>').join(''
 }
 return h+'</table>';
 }
+// === THEME ===
+function toggleTheme(){
+const isDark=document.documentElement.getAttribute('data-theme')==='dark';
+document.documentElement.setAttribute('data-theme',isDark?'':'dark');
+localStorage.setItem('ap_theme',isDark?'light':'dark');
+}
+if(localStorage.getItem('ap_theme')==='dark')document.documentElement.setAttribute('data-theme','dark');
 </script>
 </body>
 </html>
