@@ -106,6 +106,19 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .key-terms .tag{font-size:12px;padding:3px 8px;background:var(--bg);border:1px solid var(--border);border-radius:12px;color:var(--text2);cursor:pointer;transition:all .15s}
 .key-terms .tag:hover{border-color:var(--red);color:var(--red)}
 
+/* === STATS DASHBOARD === */
+.stats-dash{margin-bottom:16px;padding:14px;background:var(--bg2);border:1px solid var(--border2);border-radius:var(--radius)}
+.stats-dash h4{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;color:var(--text3);margin-bottom:10px}
+.stats-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:10px}
+.stats-grid .s-item{text-align:center}
+.stats-grid .s-val{font-size:20px;font-weight:700}
+.stats-grid .s-label{font-size:11px;color:var(--text3)}
+.year-bars{display:flex;gap:3px;align-items:flex-end;height:40px;margin-top:8px}
+.year-bars .yb{flex:1;min-width:0;border-radius:2px 2px 0 0;cursor:pointer;position:relative;transition:opacity .15s}
+.year-bars .yb:hover{opacity:.8}
+.year-bars .yb .yb-tip{display:none;position:absolute;bottom:calc(100% + 4px);left:50%;transform:translateX(-50%);background:var(--text);color:var(--bg);font-size:10px;padding:2px 6px;border-radius:3px;white-space:nowrap;z-index:10}
+.year-bars .yb:hover .yb-tip{display:block}
+
 /* === QUIZ / PRACTICE === */
 .quiz-config{padding:16px}
 .quiz-config h3{font-size:16px;font-weight:700;margin-bottom:12px}
@@ -244,6 +257,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <!-- QUIZ PANEL -->
 <div class="panel" id="quizPanel">
 <div id="quizConfig">
+<div id="statsDash"></div>
 <h3>Start Practice</h3>
 <div class="filter-row">
 <select id="qType"><option value="mcq">Multiple Choice</option><option value="frq">Free Response</option><option value="practice">Chapter Practice</option></select>
@@ -255,6 +269,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qErrorsOnly"> Errors Only</label>
 </div>
 <button class="start-btn" onclick="startQuiz()">Start</button>
+<div id="poolInfo" style="margin-top:10px;font-size:12px;color:var(--text3)"></div>
 </div>
 <div id="quizArea" style="display:none"></div>
 <div id="quizResults" style="display:none"></div>
@@ -325,6 +340,10 @@ document.querySelectorAll('.subj-btn').forEach(b=>b.classList.toggle('active',b.
 // Reset quiz
 resetQuiz();
 switchTab(notes?'learn':'quiz');
+// Pool info
+const withAns=mcq.filter(q=>q.answer).length;
+const pi=document.getElementById('poolInfo');
+if(pi)pi.textContent=`${mcq.length} MCQ (${withAns} with answers) · ${frq.length} FRQ`;
 }
 
 function init(){
@@ -534,15 +553,17 @@ if(q.type==='mcq'&&q.options){
 body=`<div class="q-text">${formatQText(q.text)}</div>
 ${q.has_figure?`<div style="text-align:center;margin:12px 0"><img src="data/${currentSubject}/images/${q.year}_q${q.number}.png" style="max-width:100%;border:1px solid var(--border);border-radius:var(--radius)" onerror="this.parentElement.innerHTML='<span style=color:var(--text3);font-size:13px>[Figure not available]</span>'"></div>`:''}
 <div class="options">
-${Object.entries(q.options).map(([k,v])=>{
+${Object.entries(q.options).filter(([k,v])=>v&&v.trim()).map(([k,v])=>{
 let cls='opt';
 if(answered){
-if(k===q.answer)cls+=' correct';
-else if(quizAnswers[q.id]===k)cls+=' wrong';
+if(q.answer&&k===q.answer)cls+=' correct';
+else if(quizAnswers[q.id]===k&&q.answer)cls+=' wrong';
+else if(quizAnswers[q.id]===k&&!q.answer)cls+=' selected';
 }else if(quizAnswers[q.id]===k){cls+=' selected'}
 return`<div class="${cls}" onclick="selectOpt('${q.id}','${k}',${answered})">
 <span class="letter">${k}</span><span>${esc(v)}</span></div>`;
 }).join('')}
+${answered&&!q.answer?'<div style="margin-top:8px;padding:8px 12px;background:var(--bg2);border-radius:var(--radius);font-size:12px;color:var(--text3)">⚠ Answer key not available for this question</div>':''}
 </div>`;
 }else{
 // FRQ
@@ -595,11 +616,23 @@ const q=quizQuestions.find(q=>q.id===qid);
 if(q&&q.answer&&letter!==q.answer){
 // Log error
 const errs=JSON.parse(localStorage.getItem('ap_errors')||'{}');
-if(!errs[qid])errs[qid]={count:0,dates:[],text:q.text.substring(0,100),year:q.year};
+if(!errs[qid])errs[qid]={count:0,dates:[],text:q.text.substring(0,100),year:q.year,subject:currentSubject};
 errs[qid].count++;
 errs[qid].dates.push(new Date().toISOString().split('T')[0]);
 localStorage.setItem('ap_errors',JSON.stringify(errs));
 }
+// Track all attempts for stats
+const stats=JSON.parse(localStorage.getItem('ap_stats')||'{}');
+if(!stats[currentSubject])stats[currentSubject]={total:0,correct:0,byYear:{}};
+const s=stats[currentSubject];
+s.total++;
+if(q&&q.answer&&letter===q.answer)s.correct++;
+if(q&&q.year){
+if(!s.byYear[q.year])s.byYear[q.year]={total:0,correct:0};
+s.byYear[q.year].total++;
+if(q.answer&&letter===q.answer)s.byYear[q.year].correct++;
+}
+localStorage.setItem('ap_stats',JSON.stringify(stats));
 renderQuestion();
 }
 
@@ -638,6 +671,35 @@ function resetQuiz(){
 document.getElementById('quizConfig').style.display='block';
 document.getElementById('quizArea').style.display='none';
 document.getElementById('quizResults').style.display='none';
+renderStatsDash();
+}
+
+function renderStatsDash(){
+const stats=JSON.parse(localStorage.getItem('ap_stats')||'{}');
+const s=stats[currentSubject];
+const el=document.getElementById('statsDash');
+if(!s||!s.total){el.innerHTML='';return}
+const pct=s.total?Math.round(s.correct/s.total*100):0;
+const errs=JSON.parse(localStorage.getItem('ap_errors')||'{}');
+const errCount=Object.values(errs).filter(e=>e.subject===currentSubject).length;
+// Year breakdown bars
+const years=Object.entries(s.byYear||{}).sort((a,b)=>a[0]-b[0]);
+const maxT=Math.max(...years.map(([,v])=>v.total),1);
+const bars=years.map(([y,v])=>{
+const h=Math.max(4,Math.round(v.total/maxT*36));
+const pct2=v.total?Math.round(v.correct/v.total*100):0;
+const color=pct2>=70?'var(--green)':pct2>=40?'#f59e0b':'var(--red)';
+return`<div class="yb" style="height:${h}px;background:${color}" onclick="document.getElementById('qYear').value='${y}'"><div class="yb-tip">${y}: ${pct2}% (${v.correct}/${v.total})</div></div>`;
+}).join('');
+el.innerHTML=`<div class="stats-dash">
+<h4>Your Progress · ${SUBJECTS[currentSubject]?.name||currentSubject}</h4>
+<div class="stats-grid">
+<div class="s-item"><div class="s-val">${s.total}</div><div class="s-label">Attempted</div></div>
+<div class="s-item"><div class="s-val" style="color:${pct>=70?'var(--green)':pct>=40?'#f59e0b':'var(--red)'}">${pct}%</div><div class="s-label">Accuracy</div></div>
+<div class="s-item"><div class="s-val" style="color:var(--red)">${errCount}</div><div class="s-label">Errors</div></div>
+</div>
+${bars?`<div style="font-size:11px;color:var(--text3);margin-bottom:4px">Accuracy by Year (click to filter)</div><div class="year-bars">${bars}</div>`:''}
+</div>`;
 }
 
 function reviewErrors(){switchTab('review')}
@@ -772,10 +834,35 @@ renderQuestion();
 function esc(s){if(!s)return'';return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 function formatQText(text){
 if(!text)return'';
-let t=esc(text);
-// Preserve tables
-t=t.replace(/\n/g,'<br>');
-return t;
+// Parse markdown tables before escaping
+const lines=text.split('\n');
+let result=[],inTable=false,tableRows=[];
+for(let i=0;i<lines.length;i++){
+const line=lines[i].trim();
+if(line.startsWith('|')&&line.endsWith('|')){
+if(!inTable){inTable=true;tableRows=[]}
+// Skip separator rows like |---|---|
+if(/^\|[\s\-:|]+\|$/.test(line))continue;
+const cells=line.split('|').slice(1,-1).map(c=>c.trim());
+tableRows.push(cells);
+}else{
+if(inTable){
+result.push(buildTable(tableRows));
+inTable=false;tableRows=[];
+}
+result.push(esc(line));
+}
+}
+if(inTable)result.push(buildTable(tableRows));
+return result.join('<br>');
+}
+function buildTable(rows){
+if(!rows.length)return'';
+let h='<table><thead><tr>'+rows[0].map(c=>'<th>'+esc(c)+'</th>').join('')+'</tr></thead>';
+if(rows.length>1){
+h+='<tbody>'+rows.slice(1).map(r=>'<tr>'+r.map(c=>'<td>'+esc(c)+'</td>').join('')+'</tr>').join('')+'</tbody>';
+}
+return h+'</table>';
 }
 </script>
 </body>
