@@ -44,6 +44,12 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .topbar .icon-btn:hover{background:var(--bg3)}
 .topbar .icon-btn.active{color:var(--red)}
 
+/* === SUBJECT SELECTOR === */
+.subj-bar{display:flex;gap:6px;padding:8px 16px;overflow-x:auto;-webkit-overflow-scrolling:touch;background:var(--bg2);border-bottom:1px solid var(--border2)}
+.subj-btn{padding:6px 12px;border:1px solid var(--border);background:var(--bg);border-radius:16px;font-size:12px;font-weight:600;color:var(--text2);cursor:pointer;white-space:nowrap;transition:all .15s}
+.subj-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+.subj-btn:hover:not(.active){background:var(--bg3)}
+
 /* === NAV TABS === */
 .tabs{display:flex;border-bottom:1px solid var(--border);background:var(--bg);padding:0 16px;overflow-x:auto;-webkit-overflow-scrolling:touch}
 .tabs button{padding:10px 16px;border:none;background:none;font-size:13px;font-weight:600;color:var(--text3);cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent;transition:all .15s}
@@ -208,14 +214,13 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <!-- APP -->
 <div id="app">
 <div class="topbar">
-<h1>AP Hub</h1>
-<span class="sep">/</span>
+<h1>AP Study Hub</h1>
+<span class="sep">·</span>
 <span class="loc" id="topLoc">Statistics</span>
 <div class="spacer"></div>
-<button class="icon-btn" onclick="toggleSearch()" title="Search">
-<svg class="icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg>
-</button>
+<button class="icon-btn" onclick="toggleSearch()"><svg class="icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button>
 </div>
+<div class="subj-bar" id="subjectBar"></div>
 
 <div class="tabs" id="mainTabs">
 <button class="active" data-tab="learn" onclick="switchTab('learn')">Learn</button>
@@ -277,19 +282,63 @@ if(localStorage.getItem('ap_auth')==='1')showApp();
 let notes=null,mcq=[],frq=[],practice=[];
 let currentUnit=null,currentSection=null;
 let quizQuestions=[],quizIndex=0,quizAnswers={},quizMode='mcq';
+let currentSubject='stats';
 
-async function loadData(){
-const [n,m,f,p]=await Promise.all([
-fetch('data/stats/knowledge/notes.json').then(r=>r.json()),
-fetch('data/stats/questions/mcq.json').then(r=>r.json()),
-fetch('data/stats/questions/frq.json').then(r=>r.json()),
-fetch('data/stats/questions/practice.json').then(r=>r.json()),
-]);
-notes=n;mcq=m;frq=f;practice=p;
+const SUBJECTS={
+stats:{name:'Statistics',hasNotes:true,hasPractice:true},
+'human-geo':{name:'Human Geography',hasNotes:false,hasPractice:false},
+'us-history':{name:'US History',hasNotes:false,hasPractice:false},
+'art-history':{name:'Art History',hasNotes:false,hasPractice:false},
+'micro-econ':{name:'Microeconomics',hasNotes:false,hasPractice:false},
+'physics-mech':{name:'Physics C: Mechanics',hasNotes:false,hasPractice:false},
+'physics-em':{name:'Physics C: E&M',hasNotes:false,hasPractice:false},
+};
+
+async function loadSubject(slug){
+currentSubject=slug;
+notes=null;mcq=[];frq=[];practice=[];
+const base='data/'+slug;
+const fetches=[
+fetch(base+'/questions/mcq.json').then(r=>r.ok?r.json():[]).catch(()=>[]),
+fetch(base+'/questions/frq.json').then(r=>r.ok?r.json():[]).catch(()=>[]),
+];
+const info=SUBJECTS[slug];
+if(info&&info.hasPractice) fetches.push(fetch(base+'/questions/practice.json').then(r=>r.ok?r.json():[]).catch(()=>[]));
+else fetches.push(Promise.resolve([]));
+if(info&&info.hasNotes) fetches.push(fetch(base+'/knowledge/notes.json').then(r=>r.ok?r.json():null).catch(()=>null));
+else fetches.push(Promise.resolve(null));
+
+const [m,f,p,n]=await Promise.all(fetches);
+mcq=m;frq=f;practice=p;notes=n;
+
+// Update UI
+document.getElementById('topLoc').textContent=info?info.name:slug;
 renderUnits();populateYears();
+// Toggle learn tab visibility
+const learnTab=document.querySelector('[data-tab="learn"]');
+if(learnTab)learnTab.style.display=notes?'':'none';
+// Toggle practice option
+const practiceOpt=document.querySelector('#qType option[value="practice"]');
+if(practiceOpt)practiceOpt.style.display=practice.length?'':'none';
+// Update subject selector
+document.querySelectorAll('.subj-btn').forEach(b=>b.classList.toggle('active',b.dataset.subj===slug));
+// Reset quiz
+resetQuiz();
+switchTab(notes?'learn':'quiz');
 }
 
-function init(){loadData()}
+function init(){
+renderSubjectSelector();
+loadSubject('stats');
+}
+
+function renderSubjectSelector(){
+const bar=document.getElementById('subjectBar');
+if(!bar)return;
+bar.innerHTML=Object.entries(SUBJECTS).map(([slug,info])=>
+`<button class="subj-btn ${slug==='stats'?'active':''}" data-subj="${slug}" onclick="loadSubject('${slug}')">${info.name}</button>`
+).join('');
+}
 
 // === TABS ===
 function switchTab(t){
@@ -346,7 +395,7 @@ function backToUnits(){
 document.getElementById('unitListView').style.display='block';
 document.getElementById('sectionListView').style.display='none';
 document.getElementById('readerView').style.display='none';
-document.getElementById('topLoc').textContent='Statistics';
+document.getElementById('topLoc').textContent=SUBJECTS[currentSubject]?SUBJECTS[currentSubject].name:currentSubject;
 currentUnit=null;currentSection=null;
 }
 
@@ -434,7 +483,8 @@ const years=new Set();
 mcq.forEach(q=>years.add(q.year));
 frq.forEach(q=>years.add(q.year));
 const sel=document.getElementById('qYear');
-[...years].sort((a,b)=>b-a).forEach(y=>{
+sel.innerHTML='<option value="all">All Years</option>';
+[...years].filter(y=>y).sort((a,b)=>b-a).forEach(y=>{
 sel.innerHTML+=`<option value="${y}">${y}</option>`;
 });
 }
@@ -482,6 +532,7 @@ const answered=quizAnswers[q.id]!==undefined;
 let body='';
 if(q.type==='mcq'&&q.options){
 body=`<div class="q-text">${formatQText(q.text)}</div>
+${q.has_figure?`<div style="text-align:center;margin:12px 0"><img src="data/${currentSubject}/images/${q.year}_q${q.number}.png" style="max-width:100%;border:1px solid var(--border);border-radius:var(--radius)" onerror="this.parentElement.innerHTML='<span style=color:var(--text3);font-size:13px>[Figure not available]</span>'"></div>`:''}
 <div class="options">
 ${Object.entries(q.options).map(([k,v])=>{
 let cls='opt';
