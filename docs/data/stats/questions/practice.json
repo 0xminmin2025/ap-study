@@ -4,7 +4,7 @@
     "chapter": 1,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "The test grades for a certain class were entered into a Minitab worksheet, and then \n“Descriptive Statistics” were requested.  The results were   \n \n \n \nMTB > Describe 'Grades'. \n \n                  \nN     MEAN    \nMEDIAN   TRMEAN    STDEV   SEMEAN \n \n \nGrades          28    74.71     \n76.00    75.50     12.61     2.38 \n \n               \n \nMIN      MAX       Q1       Q3 \n \n \nGrades       \n35.00    94.00    68.00    84.00",
+    "text": "The test grades for a certain class were entered into a Minitab worksheet, and then \n“Descriptive Statistics” were requested. The results were \n \n \n \nMTB > Describe 'Grades'. \n \n \nN MEAN \nMEDIAN TRMEAN STDEV SEMEAN \n \n \nGrades 28 74.71 \n76.00 75.50 12.61 2.38 \n \n \n \nMIN MAX Q1 Q3 \n \n \nGrades \n35.00 94.00 68.00 84.00",
     "parts": [
       {
         "label": "(a)",
@@ -22,7 +22,7 @@
     "chapter": 1,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "The following data represent scores of 50 students on a calculus test. \n \n             72    72    93    70    59    78    74    65    73    80 \n             57    67    72    57    83    76    74    56    68    67 \n             74    76    79    72    61    72    73    76    67    49 \n             71    53    67    65    99    83    69    61    72    68 \n             65    51    75    68    75    66    77    61    64    74",
+    "text": "The following data represent scores of 50 students on a calculus test. \n \n 72 72 93 70 59 78 74 65 73 80 \n 57 67 72 57 83 76 74 56 68 67 \n 74 76 79 72 61 72 73 76 67 49 \n 71 53 67 65 99 83 69 61 72 68 \n 65 51 75 68 75 66 77 61 64 74",
     "parts": [
       {
         "label": "(a)",
@@ -40,7 +40,7 @@
     "chapter": 1,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "During the early part of the 1994 baseball season, many sports fans and baseball players \nnoticed that the number of home runs being hit seemed to be unusually large.  Here are the \ndata on the number of home runs hit by American and National League teams: \n \nAmerican League   35, 40, 43, 49, 51, 54, 57, 58, 58, 64, 68, 68, 75, 77 \nNational League   29, 31, 42, 46, 47, 48, 48, 53, 55, 55, 55, 63, 63, 67",
+    "text": "During the early part of the 1994 baseball season, many sports fans and baseball players \nnoticed that the number of home runs being hit seemed to be unusually large. Here are the \ndata on the number of home runs hit by American and National League teams: \n \nAmerican League 35, 40, 43, 49, 51, 54, 57, 58, 58, 64, 68, 68, 75, 77 \nNational League 29, 31, 42, 46, 47, 48, 48, 53, 55, 55, 55, 63, 63, 67",
     "parts": [
       {
         "label": "(a)",
@@ -58,7 +58,7 @@
     "chapter": 1,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "Data: Minitab printout of summary statistics for 28 test scores \n \n \na)  IQR = Q3 - Q1 = 84 – 68 = 16 \n \nb)  Low Outlier: Q1 – 1.5 * IQR = 68 – 1.5 * 16 = 68 – 24 = 44. Since the lowest value (35) is \nless than 44, it is an outlier. \n \nHigh Outlier: Q3 + 1.5 * IQR = 84 + 1.5 * 16 = 84 + 24 = 108. Since the highest value (94) \nis not greater than 108, it is not an outlier.",
+    "text": "Data: Minitab printout of summary statistics for 28 test scores \n \n \na) IQR = Q3 - Q1 = 84 – 68 = 16 \n \nb) Low Outlier: Q1 – 1.5 * IQR = 68 – 1.5 * 16 = 68 – 24 = 44. Since the lowest value (35) is \nless than 44, it is an outlier. \n \nHigh Outlier: Q3 + 1.5 * IQR = 84 + 1.5 * 16 = 84 + 24 = 108. Since the highest value (94) \nis not greater than 108, it is not an outlier.",
     "parts": null,
     "type": "frq"
   },
@@ -67,7 +67,7 @@
     "chapter": 1,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "Data: 50 Calculus test scores \n \na)  Using class/bar widths of 5, we get: \n \nIt would also be OK to use class widths of \n10, but bars will be fewer and higher.  \n \nb) Description of Data \n \nSHAPE – Roughly symmetric, \n \nCENTER – about 73 \n \nSPREAD – 45 to 100 \n \n15\n10\n5\n0",
+    "text": "Data: 50 Calculus test scores \n \na) Using class/bar widths of 5, we get: \n \nIt would also be OK to use class widths of \n10, but bars will be fewer and higher. \n \nb) Description of Data \n \nSHAPE – Roughly symmetric, \n \nCENTER – about 73 \n \nSPREAD – 45 to 100 \n \n15\n10\n5\n0",
     "parts": null,
     "type": "frq"
   },
@@ -76,7 +76,7 @@
     "chapter": 1,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "Data: Homeruns hit in 1994 AL vs NL \n \n \na)    American League (AL) \nNational League (NL) \n \n5 \n930 \n88741 \n884 \n75 \n2 \n3 \n4 \n5 \n6 \n7 \n9 \n1 \n26788 \n3555 \n337 \n \nb)  Overall, the American League teams hit more home runs than National League teams in \n1994. To illustrate this, the median for the AL was 57.5 while the median for the NL was \nonly 50.5.  Additionally, the low value for the NL is much lower than in the AL (29 versus \n35) and the high value in the AL is much higher than that in the NL (77 versus 67).",
+    "text": "Data: Homeruns hit in 1994 AL vs NL \n \n \na) American League (AL) \nNational League (NL) \n \n5 \n930 \n88741 \n884 \n75 \n2 \n3 \n4 \n5 \n6 \n7 \n9 \n1 \n26788 \n3555 \n337 \n \nb) Overall, the American League teams hit more home runs than National League teams in \n1994. To illustrate this, the median for the AL was 57.5 while the median for the NL was \nonly 50.5. Additionally, the low value for the NL is much lower than in the AL (29 versus \n35) and the high value in the AL is much higher than that in the NL (77 versus 67).",
     "parts": null,
     "type": "frq"
   },
@@ -103,7 +103,7 @@
     "chapter": 2,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "A lunch stand in the business district has a mean daily gross income of $520 with a standard \ndeviation of $50.  Assume that the daily gross income is normally distributed. \n \na) In what proportion of days is the gross income less than $400? \n \n \nb) In what proportion of days is the gross income more than $600? \nc) In what proportion of days is the gross income between $400 and $600? \nd) What does the gross income need to be for a day to be in the top 10% of all days?\n\nAP Statistics Chapter 2 Practice Test - ANSWERS",
+    "text": "A lunch stand in the business district has a mean daily gross income of $520 with a standard \ndeviation of $50. Assume that the daily gross income is normally distributed. \n \na) In what proportion of days is the gross income less than $400? \n \n \nb) In what proportion of days is the gross income more than $600? \nc) In what proportion of days is the gross income between $400 and $600? \nd) What does the gross income need to be for a day to be in the top 10% of all days?\n\nAP Statistics Chapter 2 Practice Test - ANSWERS",
     "parts": null,
     "type": "frq"
   },
@@ -130,7 +130,7 @@
     "chapter": 2,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "A lunch stand in the business district has a mean daily gross income of $520 with a standard \ndeviation of $50.  Assume that the daily gross income is normally distributed. \n \na) In what proportion of days is the gross income less than $400? (.0082) \nb) In what proportion of days is the gross income more than $600? (.0548) \nc) In what proportion of days is the gross income between $400 and $600? (.9370) \nd) What does the gross income need to be for a day to be in the top 10% of all days? ($584)",
+    "text": "A lunch stand in the business district has a mean daily gross income of $520 with a standard \ndeviation of $50. Assume that the daily gross income is normally distributed. \n \na) In what proportion of days is the gross income less than $400? (.0082) \nb) In what proportion of days is the gross income more than $600? (.0548) \nc) In what proportion of days is the gross income between $400 and $600? (.9370) \nd) What does the gross income need to be for a day to be in the top 10% of all days? ($584)",
     "parts": null,
     "type": "frq"
   },
@@ -139,7 +139,7 @@
     "chapter": 3,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "A study found correlation r = 0.61 between the sex of a worker and his or her income.  You \nconclude that",
+    "text": "A study found correlation r = 0.61 between the sex of a worker and his or her income. You \nconclude that",
     "parts": [
       {
         "label": "(a)",
@@ -169,7 +169,7 @@
     "chapter": 3,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "A copy machine dealer has data on the number x of copy machines at each of 89 customer \nlocations and the number y of service calls in a month at each location.  Summary calculations give \nx  = 8.4, \nxs  = 2.1, y  = 14.2, \n = 3.8, and r = 0.86.  What is the slope of the least-squares \nregression line of number of service calls on number of copiers? \nys",
+    "text": "A copy machine dealer has data on the number x of copy machines at each of 89 customer \nlocations and the number y of service calls in a month at each location. Summary calculations give \nx = 8.4, \nxs = 2.1, y = 14.2, \n = 3.8, and r = 0.86. What is the slope of the least-squares \nregression line of number of service calls on number of copiers? \nys",
     "parts": [
       {
         "label": "(a)",
@@ -245,7 +245,7 @@
       },
       {
         "label": "(d)",
-        "text": "you can’t tell which data set has a stronger linear association without seeing the data or  \n \nseeing the scatterplots."
+        "text": "you can’t tell which data set has a stronger linear association without seeing the data or \n \nseeing the scatterplots."
       },
       {
         "label": "(e)",
@@ -259,7 +259,7 @@
     "chapter": 3,
     "number": 5,
     "source": "5 Steps to a 5",
-    "text": "There is a linear relationship between the number of chirps made by the striped ground cricket and \nthe air temperature.  A least-squares fit of some data collected by a biologist gives the model   \n \n  = 25.2 + 3.3x,   9 < x < 25,   where x is the number of chirps per minute and   is the estimated \ntemperature in degrees Fahrenheit.  What is the estimated increase in temperature that corresponds \nto an increase of 5 chirps per minute? \nˆ y\nˆ y",
+    "text": "There is a linear relationship between the number of chirps made by the striped ground cricket and \nthe air temperature. A least-squares fit of some data collected by a biologist gives the model \n \n = 25.2 + 3.3x, 9 < x < 25, where x is the number of chirps per minute and is the estimated \ntemperature in degrees Fahrenheit. What is the estimated increase in temperature that corresponds \nto an increase of 5 chirps per minute? \nˆ y\nˆ y",
     "parts": [
       {
         "label": "(a)",
@@ -319,7 +319,7 @@
     "chapter": 3,
     "number": 7,
     "source": "5 Steps to a 5",
-    "text": "A set of data relates the amount of annual salary raise and the performance rating.  The least  \nsquares regression equation is  = 1400 + 2000x  where y is the raise amount and x is the \nperformance rating.  Which of statements",
+    "text": "A set of data relates the amount of annual salary raise and the performance rating. The least \nsquares regression equation is = 1400 + 2000x where y is the raise amount and x is the \nperformance rating. Which of statements",
     "parts": [
       {
         "label": "(a)",
@@ -357,15 +357,15 @@
     "chapter": 3,
     "number": 8,
     "source": "5 Steps to a 5",
-    "text": "Leonardo da Vinci, the renowned painter, speculated that an ideal human would have an armspan \n(distance from outstretched fingertip of left hand to outstretched fingertip of right hand) that was \nequal to his height.  The following computer regression printout shows the results of a least-squares \nregression on height and armspan, in inches, for a sample of 18 high school students. \n   \n \n \n \n \nWhich of the following statements is false?",
+    "text": "Leonardo da Vinci, the renowned painter, speculated that an ideal human would have an armspan \n(distance from outstretched fingertip of left hand to outstretched fingertip of right hand) that was \nequal to his height. The following computer regression printout shows the results of a least-squares \nregression on height and armspan, in inches, for a sample of 18 high school students. \n \n \n \n \n \nWhich of the following statements is false?",
     "parts": [
       {
         "label": "(a)",
-        "text": "This least-squares regression model would make a prediction that is 1.63 inches higher  \n \n \nthan da Vinci projected for a 62-inch tall student."
+        "text": "This least-squares regression model would make a prediction that is 1.63 inches higher \n \n \nthan da Vinci projected for a 62-inch tall student."
       },
       {
         "label": "(b)",
-        "text": "One of the students in the sample had a height of 70.5 inches and an armspan of 68 inches.  The \nresidual for this student is 1.83 inches."
+        "text": "One of the students in the sample had a height of 70.5 inches and an armspan of 68 inches. The \nresidual for this student is 1.83 inches."
       },
       {
         "label": "(c)",
@@ -373,7 +373,7 @@
       },
       {
         "label": "(d)",
-        "text": "For every one-inch increase in armspan, the regression model predicts about a 0.84-inch  \n \n \nincrease in height."
+        "text": "For every one-inch increase in armspan, the regression model predicts about a 0.84-inch \n \n \nincrease in height."
       },
       {
         "label": "(e)",
@@ -405,7 +405,7 @@
     "chapter": 3,
     "number": 11,
     "source": "5 Steps to a 5",
-    "text": "Based on your residual plot, would you describe Joey’s \ngrowth pattern from 18 to 30 months as linear?  Explain.",
+    "text": "Based on your residual plot, would you describe Joey’s \ngrowth pattern from 18 to 30 months as linear? Explain.",
     "parts": null,
     "type": "frq"
   },
@@ -414,23 +414,23 @@
     "chapter": 3,
     "number": 12,
     "source": "5 Steps to a 5",
-    "text": "According to the least-squares principle, which of the lines below provides the best fit for the  \ndata shown in the scatterplot?  Justify your answer.",
+    "text": "According to the least-squares principle, which of the lines below provides the best fit for the \ndata shown in the scatterplot? Justify your answer.",
     "parts": [
       {
         "label": "(a)",
-        "text": "y =\n \n         \nx\n−\n2"
+        "text": "y =\n \n \nx\n−\n2"
       },
       {
         "label": "(b)",
-        "text": "y =\n \n          \nx\n−\n5.1"
+        "text": "y =\n \n \nx\n−\n5.1"
       },
       {
         "label": "(c)",
-        "text": "y =\n \n    \nx\n−\n1"
+        "text": "y =\n \n \nx\n−\n1"
       },
       {
         "label": "(d)",
-        "text": "y =\n        \nx\n2\n3 −"
+        "text": "y =\n \nx\n2\n3 −"
       },
       {
         "label": "(e)",
@@ -444,11 +444,11 @@
     "chapter": 3,
     "number": 13,
     "source": "5 Steps to a 5",
-    "text": "Anthropologists must often estimate from human remains how tall the person was when alive.  \nCarla is studying how overall height can be predicted from the length of a leg bone in a group of 36 \nliving males.  The data show that the bone lengths have mean 45.9 cm and standard deviation 4.2 \ncm, the overall heights have mean 172.7 cm and standard deviation 8.14 cm, and the correlation \nbetween bone length and height is 0.914.",
+    "text": "Anthropologists must often estimate from human remains how tall the person was when alive. \nCarla is studying how overall height can be predicted from the length of a leg bone in a group of 36 \nliving males. The data show that the bone lengths have mean 45.9 cm and standard deviation 4.2 \ncm, the overall heights have mean 172.7 cm and standard deviation 8.14 cm, and the correlation \nbetween bone length and height is 0.914.",
     "parts": [
       {
         "label": "(a)",
-        "text": "Determine the equation of the least-squares regression line of height on bone length.  Show \nyour work."
+        "text": "Determine the equation of the least-squares regression line of height on bone length. Show \nyour work."
       },
       {
         "label": "(b)",
@@ -462,7 +462,7 @@
     "chapter": 3,
     "number": 14,
     "source": "5 Steps to a 5",
-    "text": "In general, is correlation a resistant measure of association?                     Explain briefly or give a \nsimple example to illustrate. \n \n \n \n \n \n \n \n \n \n \n \n \nI pledge that I have neither given nor received aid on this test. ____________________________\n\n[empty]",
+    "text": "In general, is correlation a resistant measure of association? Explain briefly or give a \nsimple example to illustrate. \n \n \n \n \n \n \n \n \n \n \n \n \nI pledge that I have neither given nor received aid on this test. ____________________________\n\n[empty]",
     "parts": null,
     "type": "frq"
   },
@@ -471,81 +471,7 @@
     "chapter": 5,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "Below is a two-way table that describes responses of 120 subjects to a survey in which they were asked, \"Do you exercise for at least 30 minutes four or more times per week?\" and \"What kind of vehicle do you drive?\"\n\n| Exercise? | Sedan | SUV | Truck | Total |\n|-----------|-------|-----|-------|-------|\n| Yes       | 25    | 15  | 12    | 52    |\n| No        | 20    | 24  | 24    | 68    |\n| Total     | 45    | 39  | 36    | 120   |\n\nSuppose one person from this sample is randomly selected.",
-    "parts": [
-      {
-        "label": "(a)",
-        "text": "What is the probability that the person selected drives an SUV?"
-      },
-      {
-        "label": "(b)",
-        "text": "What is the probability that the person selected drives either a sedan or a truck?"
-      },
-      {
-        "label": "(c)",
-        "text": "What is the probability that the person is a non-exerciser that drives a sedan?"
-      },
-      {
-        "label": "(d)",
-        "text": "What is the probability that the person is a non-exerciser or drives a sedan?"
-      },
-      {
-        "label": "(e)",
-        "text": "What is the probability that the person selected drives a truck given that they exercise?"
-      }
-    ],
-    "type": "frq"
-  },
-  {
-    "id": "practice-ch5-q2",
-    "chapter": 5,
-    "number": 2,
-    "source": "5 Steps to a 5",
-    "text": "There are 35 students in Ms. Ortiz’s Calculus class. One day, 24 students turned in their homework and 14 turned in test corrections. Eight of these students turned in both homework and test corrections. Suppose we randomly select a student from the class.",
-    "parts": [
-      {
-        "label": "(a)",
-        "text": "Complete a Venn diagram below so that it describes the chance process involved here. Let H = the event “turned in homework” and C = the event “turned in corrections.”"
-      },
-      {
-        "label": "(b)",
-        "text": "Using your Venn diagram, determine the probability that a student did not turn in homework or their test corrections."
-      },
-      {
-        "label": "(c)",
-        "text": "Using your Venn diagram, determine the probability that a student turned in homework given that they turned in test corrections."
-      }
-    ],
-    "type": "frq"
-  },
-  {
-    "id": "practice-ch5-q3",
-    "chapter": 5,
-    "number": 3,
-    "source": "5 Steps to a 5",
-    "text": "You have been handed a bag containing four $1 bills and two $5 bills. You will reach in the bag (blindly) and select two bills at random.",
-    "parts": [
-      {
-        "label": "(a)",
-        "text": "Sketch a complete tree diagram to represent the outcomes of this random selection."
-      },
-      {
-        "label": "(b)",
-        "text": "What is the probability that you end up with $6?"
-      },
-      {
-        "label": "(c)",
-        "text": "What is the probability that the two selected bills are the same dollar amount?"
-      }
-    ],
-    "type": "frq"
-  },
-  {
-    "id": "practice-ch5-q1",
-    "chapter": 5,
-    "number": 1,
-    "source": "5 Steps to a 5",
-    "text": "Below is a two-way table that describes responses of 120 subjects to a survey in which they were asked, \"Do you exercise for at least 30 minutes four or more times per week?\" and \"What kind of vehicle do you drive?\"\n\n| Exercise? | Sedan | SUV | Truck | Total |\n|-----------|-------|-----|-------|-------|\n| Yes       | 25    | 15  | 12    | 52    |\n| No        | 20    | 24  | 24    | 68    |\n| Total     | 45    | 39  | 36    | 120   |\n\nSuppose one person from this sample is randomly selected.",
+    "text": "Below is a two-way table that describes responses of 120 subjects to a survey in which they were asked, \"Do you exercise for at least 30 minutes four or more times per week?\" and \"What kind of vehicle do you drive?\"\n\n| Exercise? | Sedan | SUV | Truck | Total |\n|-----------|-------|-----|-------|-------|\n| Yes | 25 | 15 | 12 | 52 |\n| No | 20 | 24 | 24 | 68 |\n| Total | 45 | 39 | 36 | 120 |\n\nSuppose one person from this sample is randomly selected.",
     "parts": [
       {
         "label": "(a)",
@@ -619,7 +545,7 @@
     "chapter": 708,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "Patients receiving artificial knees often experience pain after surgery.  The pain is measured \non a subjective scale with possible values of 1 to 5.  Assume that X is a random variable \nrepresenting the pain score for a randomly elected patient.  The following table gives part of \nthe probability distribution for X. \n   \n \n           X  1 \n 2 \n 3 \n 4 \n 5     \n \n \n     P(X) .1 \n.2 \n.3 \n.3",
+    "text": "Patients receiving artificial knees often experience pain after surgery. The pain is measured \non a subjective scale with possible values of 1 to 5. Assume that X is a random variable \nrepresenting the pain score for a randomly elected patient. The following table gives part of \nthe probability distribution for X. \n \n \n X 1 \n 2 \n 3 \n 4 \n 5 \n \n \n P(X) .1 \n.2 \n.3 \n.3",
     "parts": [
       {
         "label": "(a)",
@@ -671,7 +597,7 @@
     "chapter": 708,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "A headache remedy is said to be 85% effective in curing headaches caused by simple \nnervous tension.  An investigator tests this remedy on 8 randomly selected patients suffering \nfrom nervous tension.",
+    "text": "A headache remedy is said to be 85% effective in curing headaches caused by simple \nnervous tension. An investigator tests this remedy on 8 randomly selected patients suffering \nfrom nervous tension.",
     "parts": [
       {
         "label": "(a)",
@@ -697,7 +623,7 @@
     "chapter": 708,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "Patients receiving artificial knees often experience pain after surgery.  The pain is measured \non a subjective scale with possible values of 1 to 5.  Assume that X is a random variable \nrepresenting the pain score for a randomly elected patient.  The following table gives part of \nthe probability distribution for X.  DISCRETE RANDOM VARIABLE \n   \n \n           X  1 \n 2 \n 3 \n 4 \n 5     \n \n \n     P(X) .1 \n.2 \n.3 \n.3",
+    "text": "Patients receiving artificial knees often experience pain after surgery. The pain is measured \non a subjective scale with possible values of 1 to 5. Assume that X is a random variable \nrepresenting the pain score for a randomly elected patient. The following table gives part of \nthe probability distribution for X. DISCRETE RANDOM VARIABLE \n \n \n X 1 \n 2 \n 3 \n 4 \n 5 \n \n \n P(X) .1 \n.2 \n.3 \n.3",
     "parts": [
       {
         "label": "(a)",
@@ -723,7 +649,7 @@
     "chapter": 708,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "A quarterback completes 44% of his passes.  GEOMETRIC",
+    "text": "A quarterback completes 44% of his passes. GEOMETRIC",
     "parts": [
       {
         "label": "(a)",
@@ -739,7 +665,7 @@
       },
       {
         "label": "(d)",
-        "text": "OR   \n1 – geometcdf(.44,5) = .055 \n5\n(\n5)\n(.56)\n.055\nP x >\n=\n=\n(\n5)\nP x >\n="
+        "text": "OR \n1 – geometcdf(.44,5) = .055 \n5\n(\n5)\n(.56)\n.055\nP x >\n=\n=\n(\n5)\nP x >\n="
       }
     ],
     "type": "frq"
@@ -749,7 +675,7 @@
     "chapter": 708,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "A headache remedy is said to be 85% effective in curing headaches caused by simple \nnervous tension.  An investigator tests this remedy on 8 randomly selected patients suffering \nfrom nervous tension. BINOMIAL",
+    "text": "A headache remedy is said to be 85% effective in curing headaches caused by simple \nnervous tension. An investigator tests this remedy on 8 randomly selected patients suffering \nfrom nervous tension. BINOMIAL",
     "parts": [
       {
         "label": "(a)",
@@ -757,7 +683,7 @@
       },
       {
         "label": "(b)",
-        "text": "1 – binomcdf(8,.85,6) = .657  \n(\n6)\nP x >\n="
+        "text": "1 – binomcdf(8,.85,6) = .657 \n(\n6)\nP x >\n="
       },
       {
         "label": "(c)",
@@ -813,7 +739,7 @@
       },
       {
         "label": "(c)",
-        "text": "How large a sample would you need to take to estimate p within 2% at a 99% confidence \nlevel?  Use ˆp  for the value of p*. Show your work."
+        "text": "How large a sample would you need to take to estimate p within 2% at a 99% confidence \nlevel? Use ˆp for the value of p*. Show your work."
       }
     ],
     "type": "frq"
@@ -858,7 +784,7 @@
     "chapter": 9,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "A drug manufacturer claims that 9 out of 10 doctors (90%) recommend aspirin for their \npatients with headaches. To test this claim, a random sample of 100 doctors is obtained. Of \nthese 100 doctors, 82 indicate that they recommend aspirin.  \n \na) Do these results support the claim of the drug manufacturer? Support your conclusion \nwith a test of significance. Use  = .01. \nb) What would constitute a Type II error for this test?",
+    "text": "A drug manufacturer claims that 9 out of 10 doctors (90%) recommend aspirin for their \npatients with headaches. To test this claim, a random sample of 100 doctors is obtained. Of \nthese 100 doctors, 82 indicate that they recommend aspirin. \n \na) Do these results support the claim of the drug manufacturer? Support your conclusion \nwith a test of significance. Use  = .01. \nb) What would constitute a Type II error for this test?",
     "parts": null,
     "type": "frq"
   },
@@ -876,7 +802,7 @@
     "chapter": 9,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "a) One-Sample T Test \nHypotheses \n = intelligence score of Thorndike U. \nstudents \nH0:  = 100 \nHa:  > 100 \nTest Statistic and P-value \n120\nx \n, \n15.543\ns \n \n120 100\n3.152\n15.543\n6\nt\n\n\n\n, P = .013  \nConditions \nSRS: random sample stated \nNormal: stated as normal \nIndependent: 10n = 60. The population of \nstudents should easily be more than 60 \nDecision and Conclusion \n Reject the null at the 5% level \n The undergrad students at Thorndike Univ. \nappear to be of higher intelligence than the \naverage person, as judged by this test. \nb) A Type I error would be concluding that Thorndike U. students have higher intelligence test \nscores when in fact they do not.",
+    "text": "a) One-Sample T Test \nHypotheses \n = intelligence score of Thorndike U. \nstudents \nH0:  = 100 \nHa:  > 100 \nTest Statistic and P-value \n120\nx \n, \n15.543\ns \n \n120 100\n3.152\n15.543\n6\nt\n\n\n\n, P = .013 \nConditions \nSRS: random sample stated \nNormal: stated as normal \nIndependent: 10n = 60. The population of \nstudents should easily be more than 60 \nDecision and Conclusion \n Reject the null at the 5% level \n The undergrad students at Thorndike Univ. \nappear to be of higher intelligence than the \naverage person, as judged by this test. \nb) A Type I error would be concluding that Thorndike U. students have higher intelligence test \nscores when in fact they do not.",
     "parts": null,
     "type": "frq"
   },
@@ -885,7 +811,7 @@
     "chapter": 9,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "a) One-Proportion Z Test \nHypotheses \np = proportion of doctors who recommend \naspirin for their patients with headaches \nH0: p = 0.9 \nHa: p < 0.9 \nTest Statistic and P-value \n𝑝̂ =\n82\n100 = 0.82, \n100\nn \n \n0.82\n0.9\n2.667\n(0.9)(0.1)\n100\nz\n\n\n\n, P = .004  \nConditions \nSRS: random sample stated \nNormal: 100(.9) = 90 ≥ 10, 100(.1) = 10 ≥ 10 \nIndependent: 10n = 1000. The population of \ndoctors should easily be more than 100 \nDecision and Conclusion \n Reject the null at the 1% level \n The drug manufacturer claim that 90% of \ndoctors recommend aspirin as a treatment \nfor headaches does not appear to be true. \nb) A Type II error would be concluding that 90% of doctors do recommend aspirin for headaches \nwhen in fact less than 90% of doctors recommend aspirin for headaches.",
+    "text": "a) One-Proportion Z Test \nHypotheses \np = proportion of doctors who recommend \naspirin for their patients with headaches \nH0: p = 0.9 \nHa: p < 0.9 \nTest Statistic and P-value \n𝑝̂ =\n82\n100 = 0.82, \n100\nn \n \n0.82\n0.9\n2.667\n(0.9)(0.1)\n100\nz\n\n\n\n, P = .004 \nConditions \nSRS: random sample stated \nNormal: 100(.9) = 90 ≥ 10, 100(.1) = 10 ≥ 10 \nIndependent: 10n = 1000. The population of \ndoctors should easily be more than 100 \nDecision and Conclusion \n Reject the null at the 1% level \n The drug manufacturer claim that 90% of \ndoctors recommend aspirin as a treatment \nfor headaches does not appear to be true. \nb) A Type II error would be concluding that 90% of doctors do recommend aspirin for headaches \nwhen in fact less than 90% of doctors recommend aspirin for headaches.",
     "parts": null,
     "type": "frq"
   },
@@ -894,7 +820,7 @@
     "chapter": 9,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "a) Paired Differences T Test \nHypotheses \n = mean difference between sitting and \nstanding pulse rates (diff = standing – sitting) \nH0:  = 0 \nHa:  > 0 \nTest Statistic and P-value \n2.5\nx \n, \n5.984\ns \n \n2.5\n0\n1.563\n5.984\n14\nt\n\n\n\n, P = .071  \nConditions \nSRS: random sample stated \nNormal: stated as normal \nIndependent: 10n = 140. The population of \nstudents should easily be more than 140 \nDecision and Conclusion \n Fail to reject the null at the 5% level \n The pulse rate measurements on these \nstudents do not provide significant \nevidence that standing pulse rate is higher \nthan the sitting pulse rate. \nb) A matched-pairs design like this allows for direct comparison of the treatments on each \nsubject. This eliminates lurking variables that exist due to differences between people.",
+    "text": "a) Paired Differences T Test \nHypotheses \n = mean difference between sitting and \nstanding pulse rates (diff = standing – sitting) \nH0:  = 0 \nHa:  > 0 \nTest Statistic and P-value \n2.5\nx \n, \n5.984\ns \n \n2.5\n0\n1.563\n5.984\n14\nt\n\n\n\n, P = .071 \nConditions \nSRS: random sample stated \nNormal: stated as normal \nIndependent: 10n = 140. The population of \nstudents should easily be more than 140 \nDecision and Conclusion \n Fail to reject the null at the 5% level \n The pulse rate measurements on these \nstudents do not provide significant \nevidence that standing pulse rate is higher \nthan the sitting pulse rate. \nb) A matched-pairs design like this allows for direct comparison of the treatments on each \nsubject. This eliminates lurking variables that exist due to differences between people.",
     "parts": null,
     "type": "frq"
   },
@@ -903,11 +829,11 @@
     "chapter": 10,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "A study of iron deficiency among infants compared samples of infants following different \nfeeding regimens.  One group contained breast-fed infants, while the children in another group \nwere fed a standard baby formula without any iron supplements.  Here are the results on blood \nhemoglobin levels at 12 months of age. \n \n \n \n Group \n \nn \n \nx  \n \n s  \n    \n Breast-fed  \n23 \n \n13.3  \n1.7 \n \n \n Formula \n \n19 \n \n12.4  \n1.8",
+    "text": "A study of iron deficiency among infants compared samples of infants following different \nfeeding regimens. One group contained breast-fed infants, while the children in another group \nwere fed a standard baby formula without any iron supplements. Here are the results on blood \nhemoglobin levels at 12 months of age. \n \n \n \n Group \n \nn \n \nx \n \n s \n \n Breast-fed \n23 \n \n13.3 \n1.7 \n \n \n Formula \n \n19 \n \n12.4 \n1.8",
     "parts": [
       {
         "label": "(a)",
-        "text": "Is there significant evidence that the mean hemoglobin level is higher among breast-fed \nbabies?  Give appropriate statistical evidence to support your conclusion. \n \nDo all of the following: \na. Identify the parameters of interest.  Then state the appropriate hypotheses. \nb. Verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw?"
+        "text": "Is there significant evidence that the mean hemoglobin level is higher among breast-fed \nbabies? Give appropriate statistical evidence to support your conclusion. \n \nDo all of the following: \na. Identify the parameters of interest. Then state the appropriate hypotheses. \nb. Verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw?"
       }
     ],
     "type": "frq"
@@ -917,7 +843,7 @@
     "chapter": 10,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "An association of Christmas tree growers in Indiana sponsored a sample survey of 500 \nrandomly selected Indiana households to help improve the marketing of Christmas trees.  \nOne question the researchers asked was “Did you have a Christmas tree this year?”   \n \nRespondents who had a tree during the holiday season were asked whether the tree was \nnatural or artificial.  Respondents were also asked if they lived in an urban area or in a rural \narea.  Of the 421 households displaying a Christmas tree, 160 lived in rural areas and 261 \nwere urban residents.  Here are the data: \n \nPopulation  n  \n \nX(natural) \n1 (rural)  160   \n64 \n2 (urban)  261   \n89 \n \nDo these data provide evidence of a significant difference in the proportion of rural and \nurban Indiana residents who had a natural Christmas tree this year? Perform an appropriate \ntest to answer this question. \na. Identify the parameters of interest.  Then state the appropriate hypotheses. \nb. Verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw? \n.",
+    "text": "An association of Christmas tree growers in Indiana sponsored a sample survey of 500 \nrandomly selected Indiana households to help improve the marketing of Christmas trees. \nOne question the researchers asked was “Did you have a Christmas tree this year?” \n \nRespondents who had a tree during the holiday season were asked whether the tree was \nnatural or artificial. Respondents were also asked if they lived in an urban area or in a rural \narea. Of the 421 households displaying a Christmas tree, 160 lived in rural areas and 261 \nwere urban residents. Here are the data: \n \nPopulation n \n \nX(natural) \n1 (rural) 160 \n64 \n2 (urban) 261 \n89 \n \nDo these data provide evidence of a significant difference in the proportion of rural and \nurban Indiana residents who had a natural Christmas tree this year? Perform an appropriate \ntest to answer this question. \na. Identify the parameters of interest. Then state the appropriate hypotheses. \nb. Verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw? \n.",
     "parts": null,
     "type": "frq"
   },
@@ -926,7 +852,7 @@
     "chapter": 10,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "In the 2001 regular baseball season, the World Series Champion Arizona Diamondbacks \nplayed 81 games at home and 81 games away.  They won 48 of their home games and 44 of \nthe games played away.  We can consider these games as samples from potentially large \npopulations of games played at home and away.   \n \na. Identify the populations and parameters of interest. \nb. Construct and interpret a 90% confidence interval for the difference between the \nproportion of games that the Diamondbacks win at home and the proportion that they \nwin when on the road. \nc. Most people think that it is easier to win at home than away.  Use the confidence \ninterval from part b to determine whether this is true for the Arizona Diamondbacks.\n\nAP Statistics – Chapter 10 Practice Free Response Test - SOLUTIONS \n \nProblem #1 \n \n \nProblem #2 \n \n \nP1-hat = 64/160 = 0.4, P2-hat = 89/261 = 0.341, Pc-hat = (64+89)/(160+261) = 0.363 \nZ = \n.𝟒−.𝟑𝟒𝟏\n√.𝟒(.𝟔)\n𝟏𝟔𝟎+.𝟑𝟒𝟏(.𝟔𝟓𝟗)\n𝟐𝟔𝟏\n = 1.222  and p-value = .222. \nConclusion: Since the p-value is greater than .05, we fail to reject Ho, which means we cannot \nconclude that there is a significance difference in the proportion of rural and urban Indiana \nresidents who had a natural Christmas tree this year \n \nProblem #3 \n \n \nc) Since the interval contains 0, home and away winning percentage could likely be the same for \nthe Arizona Diamondbacks. A home-field advantage is not evident from this data.",
+    "text": "In the 2001 regular baseball season, the World Series Champion Arizona Diamondbacks \nplayed 81 games at home and 81 games away. They won 48 of their home games and 44 of \nthe games played away. We can consider these games as samples from potentially large \npopulations of games played at home and away. \n \na. Identify the populations and parameters of interest. \nb. Construct and interpret a 90% confidence interval for the difference between the \nproportion of games that the Diamondbacks win at home and the proportion that they \nwin when on the road. \nc. Most people think that it is easier to win at home than away. Use the confidence \ninterval from part b to determine whether this is true for the Arizona Diamondbacks.\n\nAP Statistics – Chapter 10 Practice Free Response Test - SOLUTIONS \n \nProblem #1 \n \n \nProblem #2 \n \n \nP1-hat = 64/160 = 0.4, P2-hat = 89/261 = 0.341, Pc-hat = (64+89)/(160+261) = 0.363 \nZ = \n.𝟒−.𝟑𝟒𝟏\n√.𝟒(.𝟔)\n𝟏𝟔𝟎+.𝟑𝟒𝟏(.𝟔𝟓𝟗)\n𝟐𝟔𝟏\n = 1.222 and p-value = .222. \nConclusion: Since the p-value is greater than .05, we fail to reject Ho, which means we cannot \nconclude that there is a significance difference in the proportion of rural and urban Indiana \nresidents who had a natural Christmas tree this year \n \nProblem #3 \n \n \nc) Since the interval contains 0, home and away winning percentage could likely be the same for \nthe Arizona Diamondbacks. A home-field advantage is not evident from this data.",
     "parts": null,
     "type": "frq"
   },
@@ -935,7 +861,7 @@
     "chapter": 11,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "Computer software generated 500 random numbers that should look like they are from the \nuniform distribution on the interval 0 to 1.  They are categorized into five groups: (1) less \nthan or equal to 0.2 (2) greater than 0.2 and less than or equal to 0.4, (3) greater than 0.4 and \nless than or equal to 0.6, (4) greater than 0.6 and less than or equal to 0.8, and (5) greater than \n0.8.  The counts in the five groups are 113, 95, 108, 99, and 85, respectively.  \n \na. The probabilities for these five intervals are all the same.  What is this probability?   \nb. Compute the expected count for each interval for a sample of 500.   \nc.  Perform the goodness of fit test and summarize your results. Report the 2 statistic, the P-\nvalue and write an appropriate conclusion.",
+    "text": "Computer software generated 500 random numbers that should look like they are from the \nuniform distribution on the interval 0 to 1. They are categorized into five groups: (1) less \nthan or equal to 0.2 (2) greater than 0.2 and less than or equal to 0.4, (3) greater than 0.4 and \nless than or equal to 0.6, (4) greater than 0.6 and less than or equal to 0.8, and (5) greater than \n0.8. The counts in the five groups are 113, 95, 108, 99, and 85, respectively. \n \na. The probabilities for these five intervals are all the same. What is this probability? \nb. Compute the expected count for each interval for a sample of 500. \nc. Perform the goodness of fit test and summarize your results. Report the 2 statistic, the P-\nvalue and write an appropriate conclusion.",
     "parts": null,
     "type": "frq"
   },
@@ -944,7 +870,7 @@
     "chapter": 11,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "For 1000 shoppers donating blood at a mall, the frequencies of blood types were as shown in \nthe table below. Consider this an SRS of all mall shoppers. \n \nBlood Type \nO \nA \nB \nAB \nTotal \nFrequency \n465 \n394 \n96 \n45 \n1000 \n \nIn the general population, the blood type distribution is as follows:  \nType O = 45%, Type A = 40%, Type B = 10%, Type AB = 5%,. \nHere are the hypotheses we will test: \nHo: Mall shoppers have the same blood type proportions as the general public \nHa: Mall shoppers DO NOT have the same blood type proportions as the general public \n \na. Compute the expected counts for this table. \nb. Use the results of part",
+    "text": "For 1000 shoppers donating blood at a mall, the frequencies of blood types were as shown in \nthe table below. Consider this an SRS of all mall shoppers. \n \nBlood Type \nO \nA \nB \nAB \nTotal \nFrequency \n465 \n394 \n96 \n45 \n1000 \n \nIn the general population, the blood type distribution is as follows: \nType O = 45%, Type A = 40%, Type B = 10%, Type AB = 5%,. \nHere are the hypotheses we will test: \nHo: Mall shoppers have the same blood type proportions as the general public \nHa: Mall shoppers DO NOT have the same blood type proportions as the general public \n \na. Compute the expected counts for this table. \nb. Use the results of part",
     "parts": [
       {
         "label": "(a)",
@@ -958,7 +884,7 @@
     "chapter": 11,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "A study of the career plans of young women and men sent questionnaires to all 390 members \nof the senior class in the College of Business Administration at the University of Illinois.  \nOne question asked which major within the business program the student had chosen. Here \nare the data from the students who responded: \nMajor/Gender \nFemale \nMale \nAccounting \n68 \n56 \nAdministration \n91 \n40 \nEconomics \n7 \n8 \nFinance \n61 \n59 \nThis is an example of a single sample classified according to two categorical variables \n(gender and major).  \n.  \na. Verify that the expected cell counts satisfy the requirement for use of chi-square.   \nb. Compute the expected count for the female economics cell of the table. SHOW WORK.   \nc.  Test the null hypothesis that there is no relationship between the gender of students and \ntheir choice of major.  Give the 2 statistic and the P-value. \nd. State your conclusion in a sentence or two.\n\nAP Statistics – Chapter 11 Practice FR Solutions",
+    "text": "A study of the career plans of young women and men sent questionnaires to all 390 members \nof the senior class in the College of Business Administration at the University of Illinois. \nOne question asked which major within the business program the student had chosen. Here \nare the data from the students who responded: \nMajor/Gender \nFemale \nMale \nAccounting \n68 \n56 \nAdministration \n91 \n40 \nEconomics \n7 \n8 \nFinance \n61 \n59 \nThis is an example of a single sample classified according to two categorical variables \n(gender and major). \n. \na. Verify that the expected cell counts satisfy the requirement for use of chi-square. \nb. Compute the expected count for the female economics cell of the table. SHOW WORK. \nc. Test the null hypothesis that there is no relationship between the gender of students and \ntheir choice of major. Give the 2 statistic and the P-value. \nd. State your conclusion in a sentence or two.\n\nAP Statistics – Chapter 11 Practice FR Solutions",
     "parts": null,
     "type": "frq"
   },
@@ -985,7 +911,7 @@
     "chapter": 11,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "Test of Association Between Categorical Variables – Two-Way Table \na) All of the expected counts are more than 5 (See Matrix B after running the test). So we are \nOK to use the chi-square test. \nb) Expected counts are found by  \n(𝑟𝑜𝑤 𝑡𝑜𝑡)(𝑐𝑜𝑙 𝑡𝑜𝑡)\n𝑡𝑎𝑏𝑙𝑒 𝑡𝑜𝑡\n= (15)(227)\n390\n= 8.731 \nc) There are 3 degrees of freedom here, so \n2 = 10.907 and the p-value is .0122 \nd) Since the p-value is less than .05, we reject the null hypothesis. So we can conclude that \nthere is a relationship between gender and their choice of business major. Stated another \nway, men and women are different in their choices of business majors.",
+    "text": "Test of Association Between Categorical Variables – Two-Way Table \na) All of the expected counts are more than 5 (See Matrix B after running the test). So we are \nOK to use the chi-square test. \nb) Expected counts are found by \n(𝑟𝑜𝑤 𝑡𝑜𝑡)(𝑐𝑜𝑙 𝑡𝑜𝑡)\n𝑡𝑎𝑏𝑙𝑒 𝑡𝑜𝑡\n= (15)(227)\n390\n= 8.731 \nc) There are 3 degrees of freedom here, so \n2 = 10.907 and the p-value is .0122 \nd) Since the p-value is less than .05, we reject the null hypothesis. So we can conclude that \nthere is a relationship between gender and their choice of business major. Stated another \nway, men and women are different in their choices of business majors.",
     "parts": null,
     "type": "frq"
   },
@@ -994,7 +920,7 @@
     "chapter": 13,
     "number": 1,
     "source": "5 Steps to a 5",
-    "text": "In a study of heart surgery, one issue was the effect of drugs called beta-blockers on the pulse \nrate of patients during surgery.  The available subjects were divided at random into two \ngroups of 30 patients each.  One group received a beta-blocker; the other group received a \nplacebo.  The pulse rate of each patient at a critical point during the operation was recorded.  \nThe treatment group had mean 65.2 and standard deviation 7.8.  For the control group, the \nmean was 70.3 and the standard deviation was 8.3. \n \nPerform an appropriate significance test to see if beta-blockers reduce the pulse rate. \na. Identify the populations and parameters of interest.  Then state hypotheses. \nb. State and verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw?",
+    "text": "In a study of heart surgery, one issue was the effect of drugs called beta-blockers on the pulse \nrate of patients during surgery. The available subjects were divided at random into two \ngroups of 30 patients each. One group received a beta-blocker; the other group received a \nplacebo. The pulse rate of each patient at a critical point during the operation was recorded. \nThe treatment group had mean 65.2 and standard deviation 7.8. For the control group, the \nmean was 70.3 and the standard deviation was 8.3. \n \nPerform an appropriate significance test to see if beta-blockers reduce the pulse rate. \na. Identify the populations and parameters of interest. Then state hypotheses. \nb. State and verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw?",
     "parts": null,
     "type": "frq"
   },
@@ -1003,7 +929,7 @@
     "chapter": 13,
     "number": 2,
     "source": "5 Steps to a 5",
-    "text": "A study of “adverse symptoms” in users of over-the-counter pain relief medications assigned \nsubjects at random to one of two common pain relievers: acetaminophen and ibuprofen.  In \nall, 650 subjects took acetaminophen, and 44 experienced some adverse symptom.  Of the \n347 subjects who took ibuprofen, 49 had an adverse symptom.  We want to assess the \nevidence that the two pain relievers differ in the proportion of people who experience an \nadverse symptom. \n \nPerform an appropriate significance test to answer the question posed. \na. Identify the populations and parameters of interest.  Then state hypotheses. \nb. State and verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw? \n.",
+    "text": "A study of “adverse symptoms” in users of over-the-counter pain relief medications assigned \nsubjects at random to one of two common pain relievers: acetaminophen and ibuprofen. In \nall, 650 subjects took acetaminophen, and 44 experienced some adverse symptom. Of the \n347 subjects who took ibuprofen, 49 had an adverse symptom. We want to assess the \nevidence that the two pain relievers differ in the proportion of people who experience an \nadverse symptom. \n \nPerform an appropriate significance test to answer the question posed. \na. Identify the populations and parameters of interest. Then state hypotheses. \nb. State and verify conditions for carrying out a significance test. \nc. Calculate the test statistic and the P-value. \nd. What conclusion would you draw? \n.",
     "parts": null,
     "type": "frq"
   },
@@ -1012,7 +938,7 @@
     "chapter": 13,
     "number": 3,
     "source": "5 Steps to a 5",
-    "text": "In the 2001 regular baseball season, the World Series Champion Arizona Diamondbacks \nplayed 81 games at home and 81 games away.  They won 48 of their home games and 44 of \nthe games played away.  We can consider these games as samples from potentially large \npopulations of games played at home and away.   \n \na. Identify the populations and parameters of interest. \nb. Construct and interpret a 90% confidence interval for the difference between the \nproportion of games that the Diamondbacks win at home and the proportion that they \nwin when on the road. \nc. Most people think that it is easier to win at home than away.  Use the confidence \ninterval from part b to determine whether this is true for the Arizona Diamondbacks.\n\nAP Statistics – Chapter 13 Practice Free Response Test - SOLUTIONS \n \nProblem #1 \n \n \nProblem #2 \n \n \n \nProblem #3 \n \n \nc) Since the interval contains 0, home and away winning could likely be the same for Arizona.",
+    "text": "In the 2001 regular baseball season, the World Series Champion Arizona Diamondbacks \nplayed 81 games at home and 81 games away. They won 48 of their home games and 44 of \nthe games played away. We can consider these games as samples from potentially large \npopulations of games played at home and away. \n \na. Identify the populations and parameters of interest. \nb. Construct and interpret a 90% confidence interval for the difference between the \nproportion of games that the Diamondbacks win at home and the proportion that they \nwin when on the road. \nc. Most people think that it is easier to win at home than away. Use the confidence \ninterval from part b to determine whether this is true for the Arizona Diamondbacks.\n\nAP Statistics – Chapter 13 Practice Free Response Test - SOLUTIONS \n \nProblem #1 \n \n \nProblem #2 \n \n \n \nProblem #3 \n \n \nc) Since the interval contains 0, home and away winning could likely be the same for Arizona.",
     "parts": null,
     "type": "frq"
   }
