@@ -313,7 +313,6 @@ else{document.getElementById('authErr').style.display='block'}
 }
 function showApp(){document.getElementById('auth').style.display='none';document.getElementById('app').style.display='block';init()}
 document.getElementById('pw').addEventListener('keydown',e=>{if(e.key==='Enter')doAuth()});
-if(localStorage.getItem('ap_auth')==='1')showApp();
 
 // === DATA ===
 let notes=null,mcq=[],frq=[],practice=[];
@@ -330,6 +329,8 @@ stats:{name:'Statistics',hasNotes:true,hasPractice:true},
 'physics-mech':{name:'Physics C: Mechanics',hasNotes:false,hasPractice:false},
 'physics-em':{name:'Physics C: E&M',hasNotes:false,hasPractice:false},
 };
+
+if(localStorage.getItem('ap_auth')==='1')showApp();
 
 async function loadSubject(slug){
 currentSubject=slug;
