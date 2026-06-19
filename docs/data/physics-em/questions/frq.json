@@ -47,39 +47,6 @@
     "text": "Implicit statements of concepts normally receive credit. For example, if use of the equation \nexpressing a particular concept is worth one point, and a solution contains the application of the \nequation to the problem but does not separately list the basic equation, the point is still awarded.\n\nAP® PHYSICS C: ELECTRICITY AND MAGNETISM \n2001 SCORING GUIDELINES \n \n \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n \n3 \nQuestion 1 \n15 points total"
   },
   {
-    "id": "physics-em_2002_frq_1",
-    "type": "frq",
-    "year": 2002,
-    "number": 1,
-    "text": "The solutions contain the most common method",
-    "parts": [
-      {
-        "label": "s",
-        "text": "of solving the free-response questions, \nand the allocation of points for these solutions. Other methods of solution also receive \nappropriate credit for correct work.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2002_frq_2",
-    "type": "frq",
-    "year": 2002,
-    "number": 2,
-    "text": "Generally, double penalty for errors is avoided. For example, if an incorrect answer to part",
-    "parts": [
-      {
-        "label": "a",
-        "text": "is correctly substituted into an otherwise correct solution to part",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": ", full credit will usually be \nawarded. \nOne exception to this may be cases when the numerical answer to a later part should be easily \nrecognized as wrong, e.g., a speed faster than the speed of light in vacuum.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
     "id": "physics-em_2002_frq_3",
     "type": "frq",
     "year": 2002,
@@ -91,7 +58,7 @@
     "type": "frq",
     "year": 2002,
     "number": 4,
-    "text": "The scoring guidelines typically show numerical results using the approximate value \n10 m s\ng \u0001\nfor ease of calculation, but use of \n9.8 m s  is of course also acceptable."
+    "text": "The scoring guidelines typically show numerical results using the approximate value \n10 m s\ng \u0001\nfor ease of calculation, but use of \n9.8 m s is of course also acceptable."
   },
   {
     "id": "physics-em_2002_frq_5",
@@ -102,12 +69,12 @@
     "parts": [
       {
         "label": "a",
-        "text": "3 points \n \n \nFor a correct formula for the total charge \n1 point \nq\n\u0001\n\u0001 \u0001  \n \nFor the correct length of arc, i.e., one-third of the circumference of a circle \n1 point \n\u0001\n\u0002\n\u0001\n\u0002\n0.10 m\n1 2\n0.21 m\n3\nπ\nπr\n\u0001\n\u0001\n\u0001\n\u0001\n \n \nFor the correct answer with correct unit \n1 point \n\u0001\n\u0002\u0001\n\u0002\n6\n1.5\n C m 0.21 m\n3.1 10\n C\nq\n\u0001\n\u0001\n\u0001\n\u0002\n\u0001\n\u0002",
+        "text": "3 points \n \n \nFor a correct formula for the total charge \n1 point \nq\n\u0001\n\u0001 \u0001 \n \nFor the correct length of arc, i.e., one-third of the circumference of a circle \n1 point \n\u0001\n\u0002\n\u0001\n\u0002\n0.10 m\n1 2\n0.21 m\n3\nπ\nπr\n\u0001\n\u0001\n\u0001\n\u0001\n \n \nFor the correct answer with correct unit \n1 point \n\u0001\n\u0002\u0001\n\u0002\n6\n1.5\n C m 0.21 m\n3.1 10\n C\nq\n\u0001\n\u0001\n\u0001\n\u0002\n\u0001\n\u0002",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "5 points \n \n \nFor either of the following formulas \n1 point \nk dq\ndE\nr\n\u0001\n or \nkq\nE\nr\n\u0001\n \n \nFor an indication that x components do not cancel. Acceptable is an arrow drawn to the  \nright clearly shown on a diagram or use of horizontal component in equations. \n1 point \ncos\nx\nkλ\nθ d\ndE\nr\n\u0001\n\u0001  \n \ncos\nx\nkλ\nθ r dθ\ndE\nr\n\u0001\n \n \nFor a correct integration, without regard to limits (Several sets of limits are correct and  \ngive the correct answer.)  For example: \n1 point \n240\n120\ncos  \nsin\nx\nk\nd\nk\nE\nr\nr\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\nθ\nθ\nθ\n \n \n3\n \n  \n  \n2\nk\nk\nE\nr\nr\n\u0001\n\u0002\n\u0003\n\u0004\n\u0003\n\u0003\n\u0004\n\u0005\n\u0006\n\u0007\n\b\nλ\nλ\n \n \n\u0001\n\u0002\u0001\n\u0002\n2\n5\n3 9\n10  N m\nC\n1.5 10\n C m\n0.10 m\nE\n\u0001\n\u0001\n\u0001\n\u0001\n\u0002\n \n \nFor the correct numerical answer \n1 point \n2.3 10  N C   or  V m\nE \u0001\n\u0002\n \n \nFor the correct direction \n1 point \nIn the +x direction, or to the right, or to the East\n\nAP® PHYSICS C: ELECTRICITY AND MAGNETISM \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trad",
+        "text": "5 points \n \n \nFor either of the following formulas \n1 point \nk dq\ndE\nr\n\u0001\n or \nkq\nE\nr\n\u0001\n \n \nFor an indication that x components do not cancel. Acceptable is an arrow drawn to the \nright clearly shown on a diagram or use of horizontal component in equations. \n1 point \ncos\nx\nkλ\nθ d\ndE\nr\n\u0001\n\u0001 \n \ncos\nx\nkλ\nθ r dθ\ndE\nr\n\u0001\n \n \nFor a correct integration, without regard to limits (Several sets of limits are correct and \ngive the correct answer.) For example: \n1 point \n240\n120\ncos \nsin\nx\nk\nd\nk\nE\nr\nr\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\nθ\nθ\nθ\n \n \n3\n \n \n \n2\nk\nk\nE\nr\nr\n\u0001\n\u0002\n\u0003\n\u0004\n\u0003\n\u0003\n\u0004\n\u0005\n\u0006\n\u0007\n\b\nλ\nλ\n \n \n\u0001\n\u0002\u0001\n\u0002\n2\n5\n3 9\n10 N m\nC\n1.5 10\n C m\n0.10 m\nE\n\u0001\n\u0001\n\u0001\n\u0001\n\u0002\n \n \nFor the correct numerical answer \n1 point \n2.3 10 N C or V m\nE \u0001\n\u0002\n \n \nFor the correct direction \n1 point \nIn the +x direction, or to the right, or to the East\n\nAP® PHYSICS C: ELECTRICITY AND MAGNETISM \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trad",
         "sub_parts": null
       },
       {
@@ -122,7 +89,7 @@
     "type": "frq",
     "year": 2007,
     "number": 1,
-    "text": "A student sets up the circuit above in the lab. The values of the resistance and capacitance are as shown, but the \nconstant voltage e  delivered by the ideal battery is unknown. At time t = 0, the capacitor is uncharged and the \nstudent closes the switch. The current as a function of time is measured using a computer system, and the following \ngraph is obtained.",
+    "text": "A student sets up the circuit above in the lab. The values of the resistance and capacitance are as shown, but the \nconstant voltage e delivered by the ideal battery is unknown. At time t = 0, the capacitor is uncharged and the \nstudent closes the switch. The current as a function of time is measured using a computer system, and the following \ngraph is obtained.",
     "parts": [
       {
         "label": "a",
@@ -151,7 +118,7 @@
       },
       {
         "label": "f",
-        "text": "The capacitor is now discharged, its dielectric of constant \nk =\n is replaced by a dielectric of constant \nk =\n, \nand the procedure is repeated. Is the amount of charge on one plate of the capacitor at t = 4.0 s now greater than, \nless than, or the same as before? Justify your answer. \n \n_____Greater than        _____Less than       _____The same\n\n2007 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n \n\nVisit \n \n \n \n-7- \n \n \nE&M  2. \n \nIn the figure above, a nonconducting solid sphere of radius a with charge +Q uniformly distributed throughout  \nits volume is concentric with a nonconducting spherical shell of inner radius 2a and outer radius 3a that has a  \ncharge -Q uniformly distributed throughout its volume. Express all answers in terms of the given quantities and \nfundamental cons",
+        "text": "The capacitor is now discharged, its dielectric of constant \nk =\n is replaced by a dielectric of constant \nk =\n, \nand the procedure is repeated. Is the amount of charge on one plate of the capacitor at t = 4.0 s now greater than, \nless than, or the same as before? Justify your answer. \n \n_____Greater than _____Less than _____The same\n\n2007 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n \n\nVisitE&M 2. \n \nIn the figure above, a nonconducting solid sphere of radius a with charge +Q uniformly distributed throughout \nits volume is concentric with a nonconducting spherical shell of inner radius 2a and outer radius 3a that has a \ncharge -Q uniformly distributed throughout its volume. Express all answers in terms of the given quantities and \nfundamental cons",
         "sub_parts": null
       },
       {
@@ -183,7 +150,7 @@
       },
       {
         "label": "c",
-        "text": "Derive an expression for the electric potential difference \nX\nY\nV\nV\n-\n between points X and Y shown in the figure.\n\n2007 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n \n\nVisit \n \n \n \n \n-8- \n \nE&M",
+        "text": "Derive an expression for the electric potential difference \nX\nY\nV\nV\n-\n between points X and Y shown in the figure.\n\n2007 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n \n\nVisitE&M",
         "sub_parts": null
       }
     ]
@@ -193,11 +160,11 @@
     "type": "frq",
     "year": 2007,
     "number": 3,
-    "text": "In the diagram above, a nichrome wire of resistance per unit length l  is bent at points P and Q to form horizontal \nconducting rails that are a distance L apart. The wire is placed within a uniform magnetic field of magnitude B \npointing into the page. A conducting rod of negligible resistance, which was aligned with end PQ at time t = 0, slides \nto the right with constant speed u  and negligible friction. Express all algebraic answers in terms of the given \nquantities and fundamental constants.",
+    "text": "In the diagram above, a nichrome wire of resistance per unit length l is bent at points P and Q to form horizontal \nconducting rails that are a distance L apart. The wire is placed within a uniform magnetic field of magnitude B \npointing into the page. A conducting rod of negligible resistance, which was aligned with end PQ at time t = 0, slides \nto the right with constant speed u and negligible friction. Express all algebraic answers in terms of the given \nquantities and fundamental constants.",
     "parts": [
       {
         "label": "a",
-        "text": "Indicate the direction of the current induced in the circuit. \n \n \n______Clockwise        ______Counterclockwise \n \nJustify your answer.",
+        "text": "Indicate the direction of the current induced in the circuit. \n \n \n______Clockwise ______Counterclockwise \n \nJustify your answer.",
         "sub_parts": null
       },
       {
@@ -217,7 +184,7 @@
       },
       {
         "label": "e",
-        "text": "The force pulling the rod is now removed. Indicate whether the speed of the rod increases, decreases, or remains \nthe same. \n \n \n______Increases       _____Decreases     ______Remains the same \n \nJustify your answer.",
+        "text": "The force pulling the rod is now removed. Indicate whether the speed of the rod increases, decreases, or remains \nthe same. \n \n \n______Increases _____Decreases ______Remains the same \n \nJustify your answer.",
         "sub_parts": null
       }
     ]
@@ -227,11 +194,11 @@
     "type": "frq",
     "year": 2012,
     "number": 1,
-    "text": "Two thin, concentric, conducting spherical shells, insulated from each other, have radii of 0.10 m and 0.20 m, as shown \nabove. The inner shell is set at an electric potential of 100 V\n-\n, and the outer shell is set at an electric potential of +100 \nV, with each potential defined relative to the conventional reference point. Let \ni\nQ  and \no\nQ  represent the net charge on \nthe inner and outer shells, respectively, and let r be the radial distance from the center of the shells. Express all algebraic \nanswers in terms of \ni\nQ , \no\nQ , r, and fundamental constants, as appropriate.",
+    "text": "Two thin, concentric, conducting spherical shells, insulated from each other, have radii of 0.10 m and 0.20 m, as shown \nabove. The inner shell is set at an electric potential of 100 V\n-\n, and the outer shell is set at an electric potential of +100 \nV, with each potential defined relative to the conventional reference point. Let \ni\nQ and \no\nQ represent the net charge on \nthe inner and outer shells, respectively, and let r be the radial distance from the center of the shells. Express all algebraic \nanswers in terms of \ni\nQ , \no\nQ , r, and fundamental constants, as appropriate.",
     "parts": [
       {
         "label": "a",
-        "text": "Using Gauss’s Law, derive an algebraic expression for the electric field \n( )\nE r  for 0.10 m\n0.20 m\nr\n<\n<\n.",
+        "text": "Using Gauss’s Law, derive an algebraic expression for the electric field \n( )\nE r for 0.10 m\n0.20 m\nr\n<\n<\n.",
         "sub_parts": [
           {
             "label": "",
@@ -241,7 +208,7 @@
       },
       {
         "label": "b",
-        "text": "Determine an algebraic expression for the electric field \n( )\nE r  for \n0.20 m\nr >\n.",
+        "text": "Determine an algebraic expression for the electric field \n( )\nE r for \n0.20 m\nr >\n.",
         "sub_parts": [
           {
             "label": "",
@@ -251,7 +218,7 @@
       },
       {
         "label": "c",
-        "text": "Determine an algebraic expression for the electric potential \n( )\nV r  for \n0.20 m\nr >\n.",
+        "text": "Determine an algebraic expression for the electric potential \n( )\nV r for \n0.20 m\nr >\n.",
         "sub_parts": [
           {
             "label": "",
@@ -261,7 +228,7 @@
       },
       {
         "label": "d",
-        "text": "Using the numerical information given, calculate the value of the total charge \nT\nQ  on the two spherical shells \n(\n)\nT\ni\no\nQ\nQ\nQ\n=\n+\n.\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
+        "text": "Using the numerical information given, calculate the value of the total charge \nT\nQ on the two spherical shells \n(\n)\nT\ni\no\nQ\nQ\nQ\n=\n+\n.\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
         "sub_parts": [
           {
             "label": "",
@@ -276,7 +243,7 @@
       },
       {
         "label": "f",
-        "text": "On the axes below, sketch the electric potential V as a function of r .\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n\n-7- \n \nE&M.",
+        "text": "On the axes below, sketch the electric potential V as a function of r .\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONSE&M.",
         "sub_parts": null
       }
     ]
@@ -300,7 +267,7 @@
       },
       {
         "label": "b",
-        "text": "Using the graph, calculate the resistivity of the paper.\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n\n-8- \n \n  The student uses resistors R4 and R5 to build a circuit using wire, a 1.5 V battery, an uncharged 10 F\nm capacitor, and an \nopen switch, as shown above.",
+        "text": "Using the graph, calculate the resistivity of the paper.\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONSThe student uses resistors R4 and R5 to build a circuit using wire, a 1.5 V battery, an uncharged 10 F\nm capacitor, and an \nopen switch, as shown above.",
         "sub_parts": null
       },
       {
@@ -310,7 +277,7 @@
       },
       {
         "label": "d",
-        "text": "At time t = 0, the student closes the switch. On the axes below, sketch the magnitude of the voltage \nc\nV  across the \ncapacitor and the magnitudes of the voltages R4\nV\n and R5\nV\n across each resistor as functions of time t. Clearly label \neach curve according to the circuit element it represents. On the axes, explicitly label any intercepts, asymptotes, \nmaxima, or minima with values or expressions, as appropriate.\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n\n \nE&M.",
+        "text": "At time t = 0, the student closes the switch. On the axes below, sketch the magnitude of the voltage \nc\nV across the \ncapacitor and the magnitudes of the voltages R4\nV\n and R5\nV\n across each resistor as functions of time t. Clearly label \neach curve according to the circuit element it represents. On the axes, explicitly label any intercepts, asymptotes, \nmaxima, or minima with values or expressions, as appropriate.\n\n2012 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n\n \nE&M.",
         "sub_parts": null
       }
     ]
@@ -320,11 +287,11 @@
     "type": "frq",
     "year": 2012,
     "number": 3,
-    "text": "A closed loop is made of a U-shaped metal wire of negligible resistance and a movable metal crossbar of \nresistance R. The crossbar has mass m and length L. It is initially located a distance \nh  from the other end of the \nloop. The loop is placed vertically in a uniform horizontal magnetic field of magnitude \nB  in the direction \nshown in the figure above. Express all algebraic answers to the questions below in terms of \nB , L, m, \nh , R, and \nfundamental constants, as appropriate.",
+    "text": "A closed loop is made of a U-shaped metal wire of negligible resistance and a movable metal crossbar of \nresistance R. The crossbar has mass m and length L. It is initially located a distance \nh from the other end of the \nloop. The loop is placed vertically in a uniform horizontal magnetic field of magnitude \nB in the direction \nshown in the figure above. Express all algebraic answers to the questions below in terms of \nB , L, m, \nh , R, and \nfundamental constants, as appropriate.",
     "parts": [
       {
         "label": "a",
-        "text": "Determine the magnitude of the magnetic flux through the loop when the crossbar is in the position shown. \n \n  The crossbar is released from rest and slides with negligible friction down the U-shaped wire without losing \nelectrical contact.",
+        "text": "Determine the magnitude of the magnetic flux through the loop when the crossbar is in the position shown. \n \n The crossbar is released from rest and slides with negligible friction down the U-shaped wire without losing \nelectrical contact.",
         "sub_parts": null
       },
       {
@@ -339,17 +306,17 @@
       },
       {
         "label": "d",
-        "text": "Derive, but do NOT solve, the differential equation that could be used to determine the speed u  of the \ncrossbar as a function of time t.",
+        "text": "Derive, but do NOT solve, the differential equation that could be used to determine the speed u of the \ncrossbar as a function of time t.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "Determine the terminal speed \nT\nu  of the crossbar.",
+        "text": "Determine the terminal speed \nT\nu of the crossbar.",
         "sub_parts": null
       },
       {
         "label": "f",
-        "text": "If the resistance R of the crossbar is increased, does the terminal speed increase, decrease, or remain the \nsame? \n \n____ Increases         ____ Decreases         ____ Remains the same \n \nGive a physical justification for your answer in terms of the forces on the crossbar. \n \nSTOP",
+        "text": "If the resistance R of the crossbar is increased, does the terminal speed increase, decrease, or remain the \nsame? \n \n____ Increases ____ Decreases ____ Remains the same \n \nGive a physical justification for your answer in terms of the forces on the crossbar. \n \nSTOP",
         "sub_parts": null
       }
     ]
@@ -380,14 +347,14 @@
     "type": "frq",
     "year": 2014,
     "number": 4,
-    "text": "Connections — Understanding connections of physics to other disciplines and to \nsocietal issues \nThe AP Physics C Exams have always emphasized achievement of the first two goals.  \nOver the years, the definitions of basic knowledge of the discipline and problem \nsolving have evolved.  The AP Physics C courses have reflected changes in college \ncourses, consistent with our primary charge.  We have increased our emphasis on \nphysical intuition, experimental investigation and creativity. We include more open-\nended questions in order to assess students’ ability to explain their understanding of \nphysical concepts.  We structure questions that stress the use of mathematics to \nilluminate the physical situation rather than to show manipulative abilities.  \nThe committee is dedicated to developing exams that can be graded fairly and \nconsistently and that are free of ethnic, gender, economic or other bias.  We operate \nunder practical constraints of testing methods, allotted time and large n"
+    "text": "Connections — Understanding connections of physics to other disciplines and to \nsocietal issues \nThe AP Physics C Exams have always emphasized achievement of the first two goals. \nOver the years, the definitions of basic knowledge of the discipline and problem \nsolving have evolved. The AP Physics C courses have reflected changes in college \ncourses, consistent with our primary charge. We have increased our emphasis on \nphysical intuition, experimental investigation and creativity. We include more open-\nended questions in order to assess students’ ability to explain their understanding of \nphysical concepts. We structure questions that stress the use of mathematics to \nilluminate the physical situation rather than to show manipulative abilities. \nThe committee is dedicated to developing exams that can be graded fairly and \nconsistently and that are free of ethnic, gender, economic or other bias. We operate \nunder practical constraints of testing methods, allotted time and large n"
   },
   {
     "id": "physics-em_2014_frq_5",
     "type": "frq",
     "year": 2014,
     "number": 5,
-    "text": "Orbits of planets and satellites\t\n\t\na.\t Circular\t\nb.\t General\t\nPercentage Goals \nfor Exams\n\n\t\n\nContent Area \nAP Physics C: Electricity and Magnetism . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . \t\n100%\nA.\t Electrostatics\t\n30%"
+    "text": "Orbits of planets and satellites\t\n\t\na.\t Circular\t\nb.\t General\t\nPercentage Goals \nfor Exams\n\n\t\n\nContent Area \nAP Physics C: Electricity and Magnetism . . . . . . . . . . . . . . . . . . . . . . . . \t\n100%\nA.\t Electrostatics\t\n30%"
   },
   {
     "id": "physics-em_2014_frq_6",
@@ -554,12 +521,12 @@
       },
       {
         "label": "e",
-        "text": "Answers to AP Physics C: Mechanics Multiple-Choice Questions\n1 – d\n2 – a\n3 – a\n4 – e\n5 – a\n6 – d\n7 – b\n8 – c\n  9 – a\n10 – b\nv\n\nSample Questions for AP Physics C: Mechanics\nAP Physics C: Mechanics Sample Free-Response Questions\nAP PHYSICS C: MECHANICS \nSECTION II \nTime—45 minutes \n3 Questions \nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the \nquestions, which are worth 15 points each. The parts within a question may not have equal weight.\n \nMech. 1. \nStudents are to conduct an experiment to investigate the relationship between the terminal speed of a \nstack of falling paper coffee filters and its mass. Their procedure involves stacking a number of coffee \nfilters, like the one shown in the figure above, and dropping the stack from rest. The students change \nthe number of filters in the stack to vary the mass m while keeping the shape of the stack th",
+        "text": "Answers to AP Physics C: Mechanics Multiple-Choice Questions\n1 – d\n2 – a\n3 – a\n4 – e\n5 – a\n6 – d\n7 – b\n8 – c\n 9 – a\n10 – b\nv\n\nSample Questions for AP Physics C: Mechanics\nAP Physics C: Mechanics Sample Free-Response Questions\nAP PHYSICS C: MECHANICS \nSECTION II \nTime—45 minutes \n3 Questions \nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the \nquestions, which are worth 15 points each. The parts within a question may not have equal weight.\n \nMech. 1. \nStudents are to conduct an experiment to investigate the relationship between the terminal speed of a \nstack of falling paper coffee filters and its mass. Their procedure involves stacking a number of coffee \nfilters, like the one shown in the figure above, and dropping the stack from rest. The students change \nthe number of filters in the stack to vary the mass m while keeping the shape of the stack th",
         "sub_parts": null
       },
       {
         "label": "a",
-        "text": "\u0007The students suspect that the drag force FD is proportional to the square of the speed v: F\nCv\nD =\n2, \nwhere C is a constant. Using this relationship, derive an expression relating the terminal speed vT to \nthe mass m. \nThe students conduct the experiment and obtain the following data. \n \n \n \n \n \n \nMass of the stack of filters, m (kg)\n1 12\n10 3\n.\n¥\n-\n2 04\n10 3\n.\n¥\n-\n2 96\n10 3\n.\n¥\n-\n4 18\n10 3\n.\n¥\n-\n5 10\n10 3\n.\n¥\n-\nTerminal speed, vT  m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06",
+        "text": "\u0007The students suspect that the drag force FD is proportional to the square of the speed v: F\nCv\nD =\n2, \nwhere C is a constant. Using this relationship, derive an expression relating the terminal speed vT to \nthe mass m. \nThe students conduct the experiment and obtain the following data. \n \n \n \n \n \n \nMass of the stack of filters, m (kg)\n1 12\n10 3\n.\n¥\n-\n2 04\n10 3\n.\n¥\n-\n2 96\n10 3\n.\n¥\n-\n4 18\n10 3\n.\n¥\n-\n5 10\n10 3\n.\n¥\n-\nTerminal speed, vT m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06",
         "sub_parts": [
           {
             "label": "",
@@ -579,7 +546,7 @@
           },
           {
             "label": "",
-            "text": "¥\n-\nTerminal speed, vT  m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06"
+            "text": "¥\n-\nTerminal speed, vT m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06"
           }
         ]
       },
@@ -590,7 +557,7 @@
       },
       {
         "label": "i",
-        "text": "\u0007Assuming the functional relationship for the drag force above,use the grid below to plot a \nlinear graph as a function of m to verify the relationship. Use the empty boxes in the data table, \nas appropriate, to record any calculated values you are graphing. Label the vertical axis as \nappropriate, and place numbers on both axes. \n\nSample Questions for AP Physics C: Mechanics\n\t\n(ii)  \t Use your graph to calculate C.\nA particular stack of filters with mass m is dropped from rest and reaches a speed very close to terminal speed\nby the time it has fallen a vertical distance Y.",
+        "text": "\u0007Assuming the functional relationship for the drag force above,use the grid below to plot a \nlinear graph as a function of m to verify the relationship. Use the empty boxes in the data table, \nas appropriate, to record any calculated values you are graphing. Label the vertical axis as \nappropriate, and place numbers on both axes. \n\nSample Questions for AP Physics C: Mechanics\n\t\n(ii) \t Use your graph to calculate C.\nA particular stack of filters with mass m is dropped from rest and reaches a speed very close to terminal speed\nby the time it has fallen a vertical distance Y.",
         "sub_parts": null
       },
       {
@@ -615,11 +582,11 @@
       },
       {
         "label": "d",
-        "text": "Determine an expression for the approximate amount of mechanical energy dissipated, ∆E , due to air\n\t\nresistance during the time the stack falls a distance y, where \n . Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n  Mech. 2. \n \n  A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled  \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of  \n2 MR2\nmass M and radius R about its center of mass is \n.",
+        "text": "Determine an expression for the approximate amount of mechanical energy dissipated, ∆E , due to air\n\t\nresistance during the time the stack falls a distance y, where \n . Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 2. \n \n A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of \n2 MR2\nmass M and radius R about its center of mass is \n.",
         "sub_parts": [
           {
             "label": "",
-            "text": "Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n  Mech. 2. \n \n  A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled  \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of  \n2 MR2\nmass M and radius R about its center of mass"
+            "text": "Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 2. \n \n A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of \n2 MR2\nmass M and radius R about its center of mass"
           }
         ]
       },
@@ -655,7 +622,7 @@
       },
       {
         "label": "d",
-        "text": "A wagon containing a box is at rest on the ground below the roof so that the ball falls a vertical distance of \n3.0 m and lands and sticks in the center of the box. The total mass of the wagon and the box is 12 kg. \nCalculate the horizontal speed of the wagon immediately after the ball lands in it.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n  Mech. 3. \n A skier of mass m will be pulled up a hill by a rope, as shown above. The magnitude of the acceleration of the \nskier as a function of time lowercase t can be modeled by the equations \n \nmax sin\n      (0\n \n)\n  \n 0                          (\n),\nt\na\na\nt\nT\nT\nt\nT\np\n=\n<\n<\n \n=\n≥\n  where amax  and T are constants. The hill is inclined at an angle theta  above the horizontal, and friction between the \nskis and the snow is negligible. Express your answers in terms of given quantities and fundamental constants.",
+        "text": "A wagon containing a box is at rest on the ground below the roof so that the ball falls a vertical distance of \n3.0 m and lands and sticks in the center of the box. The total mass of the wagon and the box is 12 kg. \nCalculate the horizontal speed of the wagon immediately after the ball lands in it.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 3. \n A skier of mass m will be pulled up a hill by a rope, as shown above. The magnitude of the acceleration of the \nskier as a function of time lowercase t can be modeled by the equations \n \nmax sin\n (0\n \n)\n \n 0 (\n),\nt\na\na\nt\nT\nT\nt\nT\np\n=\n<\n<\n \n=\n≥\n where amax and T are constants. The hill is inclined at an angle theta above the horizontal, and friction between the \nskis and the snow is negligible. Express your answers in terms of given quantities and fundamental constants.",
         "sub_parts": null
       },
       {
@@ -680,11 +647,11 @@
       },
       {
         "label": "e",
-        "text": "Suppose that the magnitude of the acceleration is instead modeled as a = a\ne pt 2T\nmax\n \n-\nfor all t > 0 , where \namax  and T are the same as in the original model. On the axes below, sketch the graphs of the force exerted \nby the rope on the skier for the two models, from t = 0  to a time t\nT\n>\n. Label the original model F1  and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams.  The answers are \non page 55.  Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numerical quantities are abbreviated, using the abbrevia­\ntions listed in the table of information included with the exams (see insert in this book. )\nDirections: Each of the questions or incomplete stateme",
+        "text": "Suppose that the magnitude of the acceleration is instead modeled as a = a\ne pt 2T\nmax\n \n-\nfor all t > 0 , where \namax and T are the same as in the original model. On the axes below, sketch the graphs of the force exerted \nby the rope on the skier for the two models, from t = 0 to a time t\nT\n>\n. Label the original model F1 and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams. The answers are \non page 55. Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numerical quantities are abbreviated, using the abbrevia­\ntions listed in the table of information included with the exams (see insert in this book. )\nDirections: Each of the questions or incomplete stateme",
         "sub_parts": [
           {
             "label": "",
-            "text": "Label the original model F1  and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams.  The answers are \non page 55.  Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numer"
+            "text": "Label the original model F1 and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams. The answers are \non page 55. Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numer"
           }
         ]
       }
@@ -695,15 +662,15 @@
     "type": "frq",
     "year": 2017,
     "number": 1,
-    "text": "A very large nonconducting slab with a uniform positive volume charge density Rho sub 0  is fixed with the origin of\nthe x y z -axes at its center, as shown in the figure above. The thickness of the slab is d, the length is L, and the\nwidth is W, where \nL \nis much greater than d, and W is much greater than \nd\nd . The large faces of the slab are parallel to the x y -plane.\nConsider a Gaussian cylinder with a cross-sectional area A and height h that is positioned with its axis along\nthe z-axis, as shown in the figure below.\n\n2017 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
+    "text": "A very large nonconducting slab with a uniform positive volume charge density Rho sub 0 is fixed with the origin of\nthe x y z -axes at its center, as shown in the figure above. The thickness of the slab is d, the length is L, and the\nwidth is W, where \nL \nis much greater than d, and W is much greater than \nd\nd . The large faces of the slab are parallel to the x y -plane.\nConsider a Gaussian cylinder with a cross-sectional area A and height h that is positioned with its axis along\nthe z-axis, as shown in the figure below.\n\n2017 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
     "parts": [
       {
         "label": "a",
-        "text": "Draw a single vector on each of the dots below representing the direction of the electric field at the given \npoints. If the electric field at either point is zero, write E equals zero next to the point. \nb)\nUse Gauss’s law to derive expressions for the following. Express your answers in terms of Rho sub 0 , A, d, h, z,\nand physical constants, as appropriate.\ni.\nDerive an expression for the total flux phi  through the Gaussian surface shown.\nii.\nDerive an expression for the magnitude of the electric field as a function of z for any position inside\nthe slab, and show that it is equal to \nEpsilon, equals the fraction with numerator, rho sub 0 times z, and denominator epsilon sub \n. \nThe charged slab is now placed between two large metal plates separated by a distance of 0 point 0 1 0 meter, which is \napproximately the thickness of the slab, but the slab does not contact either metal plate. The metal plates are \ncharged, resulting in the surface charge densities S\ni\ng m\na\n,\n eq\nua\nls  plu",
+        "text": "Draw a single vector on each of the dots below representing the direction of the electric field at the given \npoints. If the electric field at either point is zero, write E equals zero next to the point. \nb)\nUse Gauss’s law to derive expressions for the following. Express your answers in terms of Rho sub 0 , A, d, h, z,\nand physical constants, as appropriate.\ni.\nDerive an expression for the total flux phi through the Gaussian surface shown.\nii.\nDerive an expression for the magnitude of the electric field as a function of z for any position inside\nthe slab, and show that it is equal to \nEpsilon, equals the fraction with numerator, rho sub 0 times z, and denominator epsilon sub \n. \nThe charged slab is now placed between two large metal plates separated by a distance of 0 point 0 1 0 meter, which is \napproximately the thickness of the slab, but the slab does not contact either metal plate. The metal plates are \ncharged, resulting in the surface charge densities S\ni\ng m\na\n,\n eq\nua\nls plu",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Derive an expression for the total flux phi  through the Gaussian surface shown."
+            "text": "Derive an expression for the total flux phi through the Gaussian surface shown."
           },
           {
             "label": "ii",
@@ -711,17 +678,17 @@
           },
           {
             "label": "",
-            "text": "The charged slab is now placed between two large metal plates separated by a distance of 0 point 0 1 0 meter, which is \napproximately the thickness of the slab, but the slab does not contact either metal plate. The metal plates are \ncharged, resulting in the surface charge densities S\ni\ng m\na\n,\n eq\nua\nls  plus or minus, 2 point 0, times, 10 to the power negative 6, coulombs per meter squared , as shown in the figure above.\nAssume the charge distribution inside the slab remains unchanged by the p"
+            "text": "The charged slab is now placed between two large metal plates separated by a distance of 0 point 0 1 0 meter, which is \napproximately the thickness of the slab, but the slab does not contact either metal plate. The metal plates are \ncharged, resulting in the surface charge densities S\ni\ng m\na\n,\n eq\nua\nls plus or minus, 2 point 0, times, 10 to the power negative 6, coulombs per meter squared , as shown in the figure above.\nAssume the charge distribution inside the slab remains unchanged by the p"
           }
         ]
       },
       {
         "label": "c",
-        "text": "i.\n  \nThe magnitude of the electric field inside the slab is zero on the z-axis at position Z sub \n0 . Which of the\nfollowing correctly indicates the value for Z sub \n0 ?Z sub 0 is greater than \n0Z sub 0 equals \n0Z sub 0 is less than \n____ \n       ____ \n      ____ \nJustify your answer.\nii.\nCalculate the valueZ sub \n \n.",
+        "text": "i.\n \nThe magnitude of the electric field inside the slab is zero on the z-axis at position Z sub \n0 . Which of the\nfollowing correctly indicates the value for Z sub \n0 ?Z sub 0 is greater than \n0Z sub 0 equals \n0Z sub 0 is less than \n____ \n ____ \n ____ \nJustify your answer.\nii.\nCalculate the valueZ sub \n \n.",
         "sub_parts": [
           {
             "label": "i",
-            "text": "The magnitude of the electric field inside the slab is zero on the z-axis at position Z sub \n0 . Which of the\nfollowing correctly indicates the value for Z sub \n0 ?Z sub 0 is greater than \n0Z sub 0 equals \n0Z sub 0 is less than \n____ \n       ____ \n      ____ \nJustify your answer."
+            "text": "The magnitude of the electric field inside the slab is zero on the z-axis at position Z sub \n0 . Which of the\nfollowing correctly indicates the value for Z sub \n0 ?Z sub 0 is greater than \n0Z sub 0 equals \n0Z sub 0 is less than \n____ \n ____ \n ____ \nJustify your answer."
           },
           {
             "label": "ii",
@@ -731,7 +698,7 @@
       },
       {
         "label": "d",
-        "text": "Calculate the magnitude of the electric potential difference from the center of the slab to the top of the slab.\n\n2017 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \n \n \n\n-7- \nThe figure shows a rectangular shaped circuit with three vertical branches. In the left branch there is an ideal battery labeled V sub 0 with its positive terminal up. In the center branch there is a capacitor labeled C sub 0 in series with a resistor labeled R sub 1. In the right branch there is a resistor labeled R sub 2. In the upper connection between the left and center vertical branches there is an open switch labeled S.",
+        "text": "Calculate the magnitude of the electric potential difference from the center of the slab to the top of the slab.\n\n2017 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONSThe figure shows a rectangular shaped circuit with three vertical branches. In the left branch there is an ideal battery labeled V sub 0 with its positive terminal up. In the center branch there is a capacitor labeled C sub 0 in series with a resistor labeled R sub 1. In the right branch there is a resistor labeled R sub 2. In the upper connection between the left and center vertical branches there is an open switch labeled S.",
         "sub_parts": null
       }
     ]
@@ -741,14 +708,14 @@
     "type": "frq",
     "year": 2017,
     "number": 2,
-    "text": "In the circuit above, an ideal battery of voltage V sub \n0  is connected to a capacitor with capacitance C sub \n0  and  \nresistors with resistances \nR\n sub 1 and r sub \n2 , with \nR\n \ns\nub 1, is greater than, r sub"
+    "text": "In the circuit above, an ideal battery of voltage V sub \n0 is connected to a capacitor with capacitance C sub \n0 and \nresistors with resistances \nR\n sub 1 and r sub \n2 , with \nR\n \ns\nub 1, is greater than, r sub"
   },
   {
     "id": "physics-em_2017_frq_3",
     "type": "frq",
     "year": 2017,
     "number": 3,
-    "text": "When studying Ampere’s law, students collect data on the magnetic field of two different solenoids in order to \ndetermine the magnetic permeability of free space Mu sub zero. The solenoids are created by wrapping wire around a \nhollow plastic tube. The solenoids of length L  with N turns of wire will be connected in series to a power supply \nand resistor. A multimeter will be used as an ammeter to measure the magnitude of the current I through the \nsolenoids. The main components for the setup with one of the solenoids are shown in the figure above.",
+    "text": "When studying Ampere’s law, students collect data on the magnetic field of two different solenoids in order to \ndetermine the magnetic permeability of free space Mu sub zero. The solenoids are created by wrapping wire around a \nhollow plastic tube. The solenoids of length L with N turns of wire will be connected in series to a power supply \nand resistor. A multimeter will be used as an ammeter to measure the magnitude of the current I through the \nsolenoids. The main components for the setup with one of the solenoids are shown in the figure above.",
     "parts": [
       {
         "label": "a",
@@ -766,11 +733,11 @@
       },
       {
         "label": "a",
-        "text": "i above, what will be the direction of the magnetic field \ninside the solenoid? \n \n ____ Toward the top of the page \n \n_____ To the left \n____ Out of the page \n \n ____ Toward the bottom of the page \n_____ To the right \n____ Into the page \n \n \n The rectangle shown below represents the solenoid (the loops of wire are not shown). Points A, B,  \nand C are along the central axis of the solenoid with point B at the middle of the solenoid. Point D  \nis directly above point B. \nThe figure presents a rectangle. There are three points, A, B, and C, along the rectangle’s horizontal central axis. Point B is located inside the rectangle at its center, point A is located inside the rectangle between point B and the left side of the rectangle, and point C is located outside of the rectangle on the right. Point D is located outside and above the rectangle, and is directly above point B.\n \n iii. From the choices below, select the point where you would place a magnetic field probe (a probe that \ncan mea",
+        "text": "i above, what will be the direction of the magnetic field \ninside the solenoid? \n \n ____ Toward the top of the page \n \n_____ To the left \n____ Out of the page \n \n ____ Toward the bottom of the page \n_____ To the right \n____ Into the page \n \n \n The rectangle shown below represents the solenoid (the loops of wire are not shown). Points A, B, \nand C are along the central axis of the solenoid with point B at the middle of the solenoid. Point D \nis directly above point B. \nThe figure presents a rectangle. There are three points, A, B, and C, along the rectangle’s horizontal central axis. Point B is located inside the rectangle at its center, point A is located inside the rectangle between point B and the left side of the rectangle, and point C is located outside of the rectangle on the right. Point D is located outside and above the rectangle, and is directly above point B.\n \n iii. From the choices below, select the point where you would place a magnetic field probe (a probe that \ncan mea",
         "sub_parts": [
           {
             "label": "iii",
-            "text": "From the choices below, select the point where you would place a magnetic field probe (a probe that \ncan measure the magnitude of the magnetic field) to best measure the strength of the magnetic field of \nthe solenoid in order to determine the magnetic permeability of free space Mu sub zero. \n \n ____ A        ____ B        ____ C        ____ D \n \n Justify your answer based on the model for a simple solenoid.\n\n2017 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS"
+            "text": "From the choices below, select the point where you would place a magnetic field probe (a probe that \ncan measure the magnitude of the magnetic field) to best measure the strength of the magnetic field of \nthe solenoid in order to determine the magnetic permeability of free space Mu sub zero. \n \n ____ A ____ B ____ C ____ D \n \n Justify your answer based on the model for a simple solenoid.\n\n2017 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS"
           },
           {
             "label": "",
@@ -778,13 +745,13 @@
           },
           {
             "label": "",
-            "text": "The figure presents 2 different solenoids. Solenoid 1 is longer and has 100 turns, which are tightly wound. Solenoid 2 is shorter and has 5 turns, which are loosely wound. The solenoids have the same diameter.\nA graph of the magnitude of the magnetic field B as a function of th e fraction with numerator, N times I, and denominator L  is shown below. The best-fit lines for \nthe data are shown as a solid line for solenoid 1 and as a dashed line for solenoid 2.  The figure presents the graph of two"
+            "text": "The figure presents 2 different solenoids. Solenoid 1 is longer and has 100 turns, which are tightly wound. Solenoid 2 is shorter and has 5 turns, which are loosely wound. The solenoids have the same diameter.\nA graph of the magnitude of the magnetic field B as a function of th e fraction with numerator, N times I, and denominator L is shown below. The best-fit lines for \nthe data are shown as a solid line for solenoid 1 and as a dashed line for solenoid 2. The figure presents the graph of two"
           }
         ]
       },
       {
         "label": "b",
-        "text": "Which solenoid’s best-fit line would give the best results for determining a value for the magnetic \npermeability of free space Mu sub zero ? \n \n____ Solenoid 1        ____ Solenoid 2 \n \nJustify your answer.",
+        "text": "Which solenoid’s best-fit line would give the best results for determining a value for the magnetic \npermeability of free space Mu sub zero ? \n \n____ Solenoid 1 ____ Solenoid 2 \n \nJustify your answer.",
         "sub_parts": null
       },
       {
@@ -799,11 +766,11 @@
       },
       {
         "label": "b",
-        "text": "to calculate the magnetic \npermeability of free space Mu sub zero . \n ii. Calculate the percent error for the experimental value of the magnetic permeability of free space Mu sub zero  \ndetermined in part",
+        "text": "to calculate the magnetic \npermeability of free space Mu sub zero . \n ii. Calculate the percent error for the experimental value of the magnetic permeability of free space Mu sub zero \ndetermined in part",
         "sub_parts": [
           {
             "label": "ii",
-            "text": "Calculate the percent error for the experimental value of the magnetic permeability of free space Mu sub zero  \ndetermined in part"
+            "text": "Calculate the percent error for the experimental value of the magnetic permeability of free space Mu sub zero \ndetermined in part"
           }
         ]
       },
@@ -843,7 +810,7 @@
     "type": "frq",
     "year": 2018,
     "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
+    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0 \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0 e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant, \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
   },
   {
     "id": "physics-em_2018_frq_2",
@@ -857,7 +824,7 @@
     "type": "frq",
     "year": 2018,
     "number": 3,
-    "text": "The figures above represent different views of two long, straight, horizontal wires, 1 and 2, carrying currents \nI s ub  1, eq ual s I and I sub 2, equals 2 I\n , respectively, in the directions shown. The wires are held in place. In Figure 1, the current in \nwire 1 is directed out of the page, and wire 1 is a distance d above wire 2. Point P is a horizontal distance dfrom \nwire 1 and a distance d directly above wire 2. Express your answers to parts",
+    "text": "The figures above represent different views of two long, straight, horizontal wires, 1 and 2, carrying currents \nI s ub 1, eq ual s I and I sub 2, equals 2 I\n , respectively, in the directions shown. The wires are held in place. In Figure 1, the current in \nwire 1 is directed out of the page, and wire 1 is a distance d above wire 2. Point P is a horizontal distance dfrom \nwire 1 and a distance d directly above wire 2. Express your answers to parts",
     "parts": [
       {
         "label": "a",
@@ -886,7 +853,7 @@
       },
       {
         "label": "d",
-        "text": "Wire 1 is now released. Which of the following best describes the initial motion of wire 1 due to the \nmagnetic field of wire 2 ? Assume gravitational effects are negligible. \n____ Wire 1 will not move. \n____ Wire 1 will move upward as viewed in Figure 1. \n____ Wire 1 will move downward as viewed in Figure 1. \n____ Wire 1 will rotate clockwise as viewed in Figure 2. \n____ Wire 1 will rotate counterclockwise as viewed in Figure 2. \nJustify your answer. \n\nWire 1 is now replaced by a conducting rectangular loop of length l, width w,  and resistance R. The loop is\nplaced a distance d from wire 2, as shown. The loop, wire, and distance d are all in the plane of the page. The \nlong side of the loop is parallel to the wire. The current I sub 2  for wire 2 is decreasing linearly as a function of  \ntime t accord",
+        "text": "Wire 1 is now released. Which of the following best describes the initial motion of wire 1 due to the \nmagnetic field of wire 2 ? Assume gravitational effects are negligible. \n____ Wire 1 will not move. \n____ Wire 1 will move upward as viewed in Figure 1. \n____ Wire 1 will move downward as viewed in Figure 1. \n____ Wire 1 will rotate clockwise as viewed in Figure 2. \n____ Wire 1 will rotate counterclockwise as viewed in Figure 2. \nJustify your answer. \n\nWire 1 is now replaced by a conducting rectangular loop of length l, width w, and resistance R. The loop is\nplaced a distance d from wire 2, as shown. The loop, wire, and distance d are all in the plane of the page. The \nlong side of the loop is parallel to the wire. The current I sub 2 for wire 2 is decreasing linearly as a function of \ntime t accord",
         "sub_parts": [
           {
             "label": "",
@@ -896,12 +863,12 @@
       },
       {
         "label": "e",
-        "text": "Of the following, select the integration that will give an expression for the flux phi as a function of time t .\np\nh i\n e\nq u a\nls\n, th e\n i\nn\nte\ng\nral with \nre\ns p e\nct \nto \nr  \nfrom r equals d, to r equals d plus w, of the fraction with numerator mu sub zero, times 2 I sub zero, times open parenthesis, 1 minus k t, close parenthesis, times l w, and denominator 2 pi, end fraction\np\nh i\n e\nq u al s, the int egra\nl\n w i\nth \nr\nespe\nc t\n to r from r equals d, to r equals d plus w, of the fraction with numerator mu sub zero, times 2 I sub zero, times open parenthesis, 1 minus k t, close parenthesis, and denominator 2 pi r, end fraction, times l\np\nh i\n e qu\nal\ns, t\nh\ne\n int egral\n w\nit h  r\nes\npe\nc t\n to r from r equals d, to r equals w, of the fraction with numerator mu sub zero, times 2 I sub zero, times open parenthesis, 1 minus k t, close parenthesis, times l w, and denominator 2 pi, end fraction\np h\ni e quals, the  in\nte\ng r al\n wi\nth \nr e\nspect to r from r equals d, to r equals w, of",
+        "text": "Of the following, select the integration that will give an expression for the flux phi as a function of time t .\np\nh i\n e\nq u a\nls\n, th e\n i\nn\nte\ng\nral with \nre\ns p e\nct \nto \nr \nfrom r equals d, to r equals d plus w, of the fraction with numerator mu sub zero, times 2 I sub zero, times open parenthesis, 1 minus k t, close parenthesis, times l w, and denominator 2 pi, end fraction\np\nh i\n e\nq u al s, the int egra\nl\n w i\nth \nr\nespe\nc t\n to r from r equals d, to r equals d plus w, of the fraction with numerator mu sub zero, times 2 I sub zero, times open parenthesis, 1 minus k t, close parenthesis, and denominator 2 pi r, end fraction, times l\np\nh i\n e qu\nal\ns, t\nh\ne\n int egral\n w\nit h r\nes\npe\nc t\n to r from r equals d, to r equals w, of the fraction with numerator mu sub zero, times 2 I sub zero, times open parenthesis, 1 minus k t, close parenthesis, times l w, and denominator 2 pi, end fraction\np h\ni e quals, the in\nte\ng r al\n wi\nth \nr e\nspect to r from r equals d, to r equals w, of",
         "sub_parts": null
       },
       {
         "label": "f",
-        "text": "Given that the flux through the rectangular loop as a function of time t is given by the equation\nph i  equal s, t\nh e  \nf r a c t i\non \nw\nit\nh numerator mu sub zero times I sub zero times l, times open parenthesis, 1 minus k t, close parenthesis, and denominator pi, end fraction, times the natural logarithm of the fraction with numerator d plus w and denominator d, end fraction, end logarithm., derive an expression for the magnitude of the current, if any, induced in the \nloop. Express your answers in terms of I sub zero comma d comma lowercase r comma uppercase rcomma w comma k comma l\nl\n, and physical constants, as appropriate.",
+        "text": "Given that the flux through the rectangular loop as a function of time t is given by the equation\nph i equal s, t\nh e \nf r a c t i\non \nw\nit\nh numerator mu sub zero times I sub zero times l, times open parenthesis, 1 minus k t, close parenthesis, and denominator pi, end fraction, times the natural logarithm of the fraction with numerator d plus w and denominator d, end fraction, end logarithm., derive an expression for the magnitude of the current, if any, induced in the \nloop. Express your answers in terms of I sub zero comma d comma lowercase r comma uppercase rcomma w comma k comma l\nl\n, and physical constants, as appropriate.",
         "sub_parts": null
       },
       {
@@ -916,14 +883,14 @@
     "type": "frq",
     "year": 2018,
     "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlo wercase a, equals acceleration \nE equals  energy \nup percase F, equals force \nlo wercase f, equals frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nup percase K, equals kinetic energy \nlo wercase k, equals spring constant \nl owercase l, equals length\nup percase L, equals angular momentum \nm equals mass \nup percase P, equals power \nlo wercase p, equals momentum \nr equals radius or distance \nup percase T, equals period \nlo wercase t, equals time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals  angle \nt au equals torque \no mega equals  angular speed \na lpha equals angular acceleration \np hi equals  phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns"
+    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlo wercase a, equals acceleration \nE equals energy \nup percase F, equals force \nlo wercase f, equals frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nup percase K, equals kinetic energy \nlo wercase k, equals spring constant \nl owercase l, equals length\nup percase L, equals angular momentum \nm equals mass \nup percase P, equals power \nlo wercase p, equals momentum \nr equals radius or distance \nup percase T, equals period \nlo wercase t, equals time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns"
   },
   {
     "id": "physics-em_2018_frq_6",
     "type": "frq",
     "year": 2018,
     "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n  Acceleration due to gravity\nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
+    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
   },
   {
     "id": "physics-em_2018_frq_7",
@@ -949,7 +916,7 @@
       },
       {
         "label": "c",
-        "text": "Using the straight line, calculate a dielectric constant for the paper. \nThe student now makes a capacitor using the same aluminum foil plates and just one sheet of paper. Using the \nexperimentally determined dielectric constant, the student calculates the capacitance to be 18 nanofarads. The student \nuses this uncharged capacitor to build a circuit using wire, a 36 volt battery, 3 identical \n0 ohm  resistors, and an open \nswitch, as shown in the figure above.",
+        "text": "Using the straight line, calculate a dielectric constant for the paper. \nThe student now makes a capacitor using the same aluminum foil plates and just one sheet of paper. Using the \nexperimentally determined dielectric constant, the student calculates the capacitance to be 18 nanofarads. The student \nuses this uncharged capacitor to build a circuit using wire, a 36 volt battery, 3 identical \n0 ohm resistors, and an open \nswitch, as shown in the figure above.",
         "sub_parts": null
       },
       {
@@ -979,22 +946,15 @@
     ]
   },
   {
-    "id": "physics-em_2019_frq_1",
-    "type": "frq",
-    "year": 2019,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
-  },
-  {
     "id": "physics-em_2019_frq_2",
     "type": "frq",
     "year": 2019,
     "number": 2,
-    "text": "The circuit shown above is constructed with two 6.0 volts batteries and three resistors with the values shown.  \nThe currents I sub 1 , I sub 2 , and I sub 3  in each branch of the circuit are indicated.",
+    "text": "The circuit shown above is constructed with two 6.0 volts batteries and three resistors with the values shown. \nThe currents I sub 1 , I sub 2 , and I sub 3 in each branch of the circuit are indicated.",
     "parts": [
       {
         "label": "a",
-        "text": "i. Using Kirchhoff’s rules, write, but DO NOT SOLVE, equations that can be used to solve for the \ncurrent in each resistor. \n ii. Calculate the current in the \n00 ohms\n resistor. \n iii. Calculate the power dissipated by the \n00 ohms\n resistor. \n \nFigure 2 presents a rectangular circuit diagram with one battery, four resistors, and a voltmeter. The left side of the circuit has a battery labeled e m f. Moving up the left side and across the top of the circuit, there is a resistor of resistance 150 ohms. To the right of the resistor, the circuit splits into two vertical branches. The first vertical branch has a resistor of resistance 200 ohms. A voltmeter labeled V is connected across the resistor. On the top side between the two vertical branches is a resistor of resistance 100 ohms. The second vertical branch has a resistor of resistance 50 ohms. The two branches join and the circuit is completed.\n  The two 6.0 volts batteries are replaced with a battery with voltage E m f  and a resist",
+        "text": "i. Using Kirchhoff’s rules, write, but DO NOT SOLVE, equations that can be used to solve for the \ncurrent in each resistor. \n ii. Calculate the current in the \n00 ohms\n resistor. \n iii. Calculate the power dissipated by the \n00 ohms\n resistor. \n \nFigure 2 presents a rectangular circuit diagram with one battery, four resistors, and a voltmeter. The left side of the circuit has a battery labeled e m f. Moving up the left side and across the top of the circuit, there is a resistor of resistance 150 ohms. To the right of the resistor, the circuit splits into two vertical branches. The first vertical branch has a resistor of resistance 200 ohms. A voltmeter labeled V is connected across the resistor. On the top side between the two vertical branches is a resistor of resistance 100 ohms. The second vertical branch has a resistor of resistance 50 ohms. The two branches join and the circuit is completed.\n The two 6.0 volts batteries are replaced with a battery with voltage E m f and a resist",
         "sub_parts": [
           {
             "label": "i",
@@ -1012,31 +972,31 @@
       },
       {
         "label": "b",
-        "text": "Calculate the current through the 50 ohms  resistor.",
+        "text": "Calculate the current through the 50 ohms resistor.",
         "sub_parts": null
       },
       {
         "label": "c",
-        "text": "Calculate the voltage e m f  of the battery. \n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
+        "text": "Calculate the voltage e m f of the battery. \n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "i. The \n00 ohms\n resistor in the circuit in Figure 2 is replaced with a \n200 m\nicrofarads  capacitor, as shown on the right, and the circuit is \nallowed to reach steady state. Calculate the current through the \n50 ohmsresistor. \n \n \n \n \n ii. The 200 ohms  resistor in the circuit in Figure 2 is replaced with  \nan ideal 50 millihenrys inductor, as shown on the right, and the circuit  \nis allowed to reach steady state. Is the current in the 50 ohms\nresistor greater than, less than, or equal to the current calculated \nin part",
+        "text": "i. The \n00 ohms\n resistor in the circuit in Figure 2 is replaced with a \n200 m\nicrofarads capacitor, as shown on the right, and the circuit is \nallowed to reach steady state. Calculate the current through the \n50 ohmsresistor. \n \n \n \n \n ii. The 200 ohms resistor in the circuit in Figure 2 is replaced with \nan ideal 50 millihenrys inductor, as shown on the right, and the circuit \nis allowed to reach steady state. Is the current in the 50 ohms\nresistor greater than, less than, or equal to the current calculated \nin part",
         "sub_parts": [
           {
             "label": "i",
-            "text": "The \n00 ohms\n resistor in the circuit in Figure 2 is replaced with a \n200 m\nicrofarads  capacitor, as shown on the right, and the circuit is \nallowed to reach steady state. Calculate the current through the \n50 ohmsresistor."
+            "text": "The \n00 ohms\n resistor in the circuit in Figure 2 is replaced with a \n200 m\nicrofarads capacitor, as shown on the right, and the circuit is \nallowed to reach steady state. Calculate the current through the \n50 ohmsresistor."
           },
           {
             "label": "ii",
-            "text": "The 200 ohms  resistor in the circuit in Figure 2 is replaced with  \nan ideal 50 millihenrys inductor, as shown on the right, and the circuit  \nis allowed to reach steady state. Is the current in the 50 ohms\nresistor greater than, less than, or equal to the current calculated \nin part"
+            "text": "The 200 ohms resistor in the circuit in Figure 2 is replaced with \nan ideal 50 millihenrys inductor, as shown on the right, and the circuit \nis allowed to reach steady state. Is the current in the 50 ohms\nresistor greater than, less than, or equal to the current calculated \nin part"
           }
         ]
       },
       {
         "label": "b",
-        "text": "? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer. \n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
+        "text": "? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer. \n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS",
         "sub_parts": null
       }
     ]
@@ -1050,12 +1010,12 @@
     "parts": [
       {
         "label": "a",
-        "text": "Select the correct direction of the magnetic field at point P.\n \n____ positive x-direction      ____ positive y-direction   ____ positive z-direction\n \n____ negative x-direction      ____ negative y-direction      ____ negative z-direction\nJustify your selection.",
+        "text": "Select the correct direction of the magnetic field at point P.\n \n____ positive x-direction ____ positive y-direction ____ positive z-direction\n \n____ negative x-direction ____ negative y-direction ____ negative z-direction\nJustify your selection.",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "i. On the cutaway view below, clearly draw an Amperian loop that can be used to determine the magnetic\nfield at point P at the center of the solenoid.\nii. Use Ampere’s law to derive an expression for the magnetic field strength at point P. Express your\nanswer in terms of I, l,  N, a, and physical constants, as appropriate.\n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nSome physics students conduct an experiment to determine the resistance R sub \nS  of a solenoid with radius \na, equals 0.015 meter, total turns N equals 100, and total length \nl equa\nl\ns 0.40 meter\n. The students connect the solenoid to  \na variable power supply. A magnetic field sensor is used to measure the magnetic field strength along the central \naxis at the center of the solenoid. The plot of the magnetic field strength B as a function of the e m f e  of the \npower supply is shown below.",
+        "text": "i. On the cutaway view below, clearly draw an Amperian loop that can be used to determine the magnetic\nfield at point P at the center of the solenoid.\nii. Use Ampere’s law to derive an expression for the magnetic field strength at point P. Express your\nanswer in terms of I, l, N, a, and physical constants, as appropriate.\n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nSome physics students conduct an experiment to determine the resistance R sub \nS of a solenoid with radius \na, equals 0.015 meter, total turns N equals 100, and total length \nl equa\nl\ns 0.40 meter\n. The students connect the solenoid to \na variable power supply. A magnetic field sensor is used to measure the magnetic field strength along the central \naxis at the center of the solenoid. The plot of the magnetic field strength B as a function of the e m f e of the \npower supply is shown below.",
         "sub_parts": [
           {
             "label": "i",
@@ -1063,17 +1023,17 @@
           },
           {
             "label": "ii",
-            "text": "Use Ampere’s law to derive an expression for the magnetic field strength at point P. Express your\nanswer in terms of I, l,  N, a, and physical constants, as appropriate.\n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nSome physics students conduct an experiment to determine the resistance R sub \nS  of a solenoid with radius \na, equals 0.015 meter, total turns N equals 100, and total leng"
+            "text": "Use Ampere’s law to derive an expression for the magnetic field strength at point P. Express your\nanswer in terms of I, l, N, a, and physical constants, as appropriate.\n2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nSome physics students conduct an experiment to determine the resistance R sub \nS of a solenoid with radius \na, equals 0.015 meter, total turns N equals 100, and total leng"
           },
           {
             "label": "",
-            "text": "The students connect the solenoid to  \na variable power supply. A magnetic field sensor is used to measure the magnetic field strength along the central \naxis at the center of the solenoid. The plot of the magnetic field strength B as a function of the e m f e  of the \npower supply is shown below."
+            "text": "The students connect the solenoid to \na variable power supply. A magnetic field sensor is used to measure the magnetic field strength along the central \naxis at the center of the solenoid. The plot of the magnetic field strength B as a function of the e m f e of the \npower supply is shown below."
           }
         ]
       },
       {
         "label": "c",
-        "text": "i. On the graph above, draw a best-fit line for the data.\nii. Use the straight line to determine the resistance R sub \nS  of the solenoid used in the experiment.",
+        "text": "i. On the graph above, draw a best-fit line for the data.\nii. Use the straight line to determine the resistance R sub \nS of the solenoid used in the experiment.",
         "sub_parts": [
           {
             "label": "i",
@@ -1081,13 +1041,13 @@
           },
           {
             "label": "ii",
-            "text": "Use the straight line to determine the resistance R sub \nS  of the solenoid used in the experiment."
+            "text": "Use the straight line to determine the resistance R sub \nS of the solenoid used in the experiment."
           }
         ]
       },
       {
         "label": "d",
-        "text": "One of the students notes that the horizontal component of the magnetic field of Earth is \n.5 \nti\nme\ns\n 10 to the negative 5 power teslas\n.\ni. Is there evidence from the graph that the horizontal orientation of the solenoid affects the measured\nvalues for B ?\n____ Yes        ____ No\nJustify your answer.\nii. Would the horizontal orientation of the solenoid affect the calculated value for R sub \nS  ?\n____ Yes        ____ No\nJustify your answer.2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nA thin conducting loop of radius b and resistance R sub \nL  is placed concentric with the solenoid, as shown above. \nThe current in the solenoid is decreased from I to zero over time delta \nt.",
+        "text": "One of the students notes that the horizontal component of the magnetic field of Earth is \n.5 \nti\nme\ns\n 10 to the negative 5 power teslas\n.\ni. Is there evidence from the graph that the horizontal orientation of the solenoid affects the measured\nvalues for B ?\n____ Yes ____ No\nJustify your answer.\nii. Would the horizontal orientation of the solenoid affect the calculated value for R sub \nS ?\n____ Yes ____ No\nJustify your answer.2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nA thin conducting loop of radius b and resistance R sub \nL is placed concentric with the solenoid, as shown above. \nThe current in the solenoid is decreased from I to zero over time delta \nt.",
         "sub_parts": [
           {
             "label": "",
@@ -1095,25 +1055,25 @@
           },
           {
             "label": "",
-            "text": "i. Is there evidence from the graph that the horizontal orientation of the solenoid affects the measured\nvalues for B ?\n____ Yes        ____ No\nJustify your answer."
+            "text": "i. Is there evidence from the graph that the horizontal orientation of the solenoid affects the measured\nvalues for B ?\n____ Yes ____ No\nJustify your answer."
           },
           {
             "label": "ii",
-            "text": "Would the horizontal orientation of the solenoid affect the calculated value for R sub \nS  ?\n____ Yes        ____ No\nJustify your answer.2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nA thin conducting loop of radius b and resistance R sub \nL  is placed concentric with the solenoid, as shown above. \nThe current in the solenoid is decreased from I to zero over t"
+            "text": "Would the horizontal orientation of the solenoid affect the calculated value for R sub \nS ?\n____ Yes ____ No\nJustify your answer.2019 AP® PHYSICS C: ELECTRICITY AND MAGNETISM FREE-RESPONSE QUESTIONS \nA thin conducting loop of radius b and resistance R sub \nL is placed concentric with the solenoid, as shown above. \nThe current in the solenoid is decreased from I to zero over t"
           }
         ]
       },
       {
         "label": "e",
-        "text": "i. Is the direction of the induced current in the loop clockwise or counterclockwise during the time period\nthat the current in the solenoid is decreasing?\n____ Clockwise        ____ Counterclockwise\nJustify your answer.\nii. Derive an equation for the average induced current i sub I N D  in the loop during the time period that the\ncurrent in the solenoid is decreasing. Express your answer in terms of I, l,  N, a, b, R sub \nL,  R sub \nS,  delta t,  and\nphysical constants, as appropriate.\nSTOP \n",
+        "text": "i. Is the direction of the induced current in the loop clockwise or counterclockwise during the time period\nthat the current in the solenoid is decreasing?\n____ Clockwise ____ Counterclockwise\nJustify your answer.\nii. Derive an equation for the average induced current i sub I N D in the loop during the time period that the\ncurrent in the solenoid is decreasing. Express your answer in terms of I, l, N, a, b, R sub \nL, R sub \nS, delta t, and\nphysical constants, as appropriate.\nSTOP",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Is the direction of the induced current in the loop clockwise or counterclockwise during the time period\nthat the current in the solenoid is decreasing?\n____ Clockwise        ____ Counterclockwise\nJustify your answer."
+            "text": "Is the direction of the induced current in the loop clockwise or counterclockwise during the time period\nthat the current in the solenoid is decreasing?\n____ Clockwise ____ Counterclockwise\nJustify your answer."
           },
           {
             "label": "ii",
-            "text": "Derive an equation for the average induced current i sub I N D  in the loop during the time period that the\ncurrent in the solenoid is decreasing. Express your answer in terms of I, l,  N, a, b, R sub \nL,  R sub \nS,  delta t,  and\nphysical constants, as appropriate.\nSTOP \n"
+            "text": "Derive an equation for the average induced current i sub I N D in the loop during the time period that the\ncurrent in the solenoid is decreasing. Express your answer in terms of I, l, N, a, b, R sub \nL, R sub \nS, delta t, and\nphysical constants, as appropriate.\nSTOP"
           }
         ]
       }
@@ -1124,28 +1084,21 @@
     "type": "frq",
     "year": 2019,
     "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals  power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals   position \nm u equals   coefficient of friction \nt heta equals   angle \nt au equals  torque \no mega equals   angular speed \na lpha equals angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx"
+    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals energy \nuppercase F, equals force \nlowercase f, equals \n frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nuppercase K, equals kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals length\nuppercase L, equals \n angular momentum \nm equals mass \nuppercase P, equals power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx"
   },
   {
     "id": "physics-em_2019_frq_6",
     "type": "frq",
     "year": 2019,
     "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2021_frq_1",
-    "type": "frq",
-    "year": 2021,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
+    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
   },
   {
     "id": "physics-em_2021_frq_2",
     "type": "frq",
     "year": 2021,
     "number": 2,
-    "text": "Students perform an experiment to study the force between two charged objects using the apparatus shown above,\n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \nwhich contains tw\n \n \no identical conducting spheres. \n \n \n \n The upper sphere is attached to an insulating string, which can be\n \n \n  \n  \n \n \n \n \n \n \nused to mo\n  \nve the sphere do\n \n \n \nwnward. The lo\n wer sphere sits on an insulating rod, which is on an electronic balance.\n \n \n \n \n \n \n \n  \n \n \n \nThe electronic balance is zeroed before the lo\n \n \n  \n \n \n wer sphere and insulating rod are in place.\n \n \n \n \n \n  \nFor the first trial, a charge of  Q  is placed on each sphere and then the upper sphere is slowly moved downward. The \nstudents measure the distance  d  between the centers of the spheres and the magnitude  F  of the force that appears on \nthe electronic balance. The recorded data are shown on the graph of  F  as a function of  the fraction 1 over d squared  shown below.",
+    "text": "Students perform an experiment to study the force between two charged objects using the apparatus shown above,\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nwhich contains tw\n \n \no identical conducting spheres. \n \n \n \n The upper sphere is attached to an insulating string, which can be\n \n \n \n \n \n \n \n \n \n \nused to mo\n \nve the sphere do\n \n \n \nwnward. The lo\n wer sphere sits on an insulating rod, which is on an electronic balance.\n \n \n \n \n \n \n \n \n \n \n \nThe electronic balance is zeroed before the lo\n \n \n \n \n \n wer sphere and insulating rod are in place.\n \n \n \n \n \n \nFor the first trial, a charge of Q is placed on each sphere and then the upper sphere is slowly moved downward. The \nstudents measure the distance d between the centers of the spheres and the magnitude F of the force that appears on \nthe electronic balance. The recorded data are shown on the graph of F as a function of the fraction 1 over d squared shown below.",
     "parts": [
       {
         "label": "a",
@@ -1180,11 +1133,11 @@
       },
       {
         "label": "c",
-        "text": "A second student suspects that the excess charges have rearranged themselves, polarizing the spheres.\ni. On the circles representing the spheres below, use a single  \np lus sign  sign on each sphere to represent the locations \nof highest concentration of the excess positive charges.\nii. Explain how this rearrangement could be responsible for the discrepancy.",
+        "text": "A second student suspects that the excess charges have rearranged themselves, polarizing the spheres.\ni. On the circles representing the spheres below, use a single \np lus sign sign on each sphere to represent the locations \nof highest concentration of the excess positive charges.\nii. Explain how this rearrangement could be responsible for the discrepancy.",
         "sub_parts": [
           {
             "label": "i",
-            "text": "On the circles representing the spheres below, use a single  \np lus sign  sign on each sphere to represent the locations \nof highest concentration of the excess positive charges."
+            "text": "On the circles representing the spheres below, use a single \np lus sign sign on each sphere to represent the locations \nof highest concentration of the excess positive charges."
           },
           {
             "label": "ii",
@@ -1194,15 +1147,15 @@
       },
       {
         "label": "d",
-        "text": "A third student suggests that the experiment be modified so that the top sphere is given a negative charge\nthat is equal in magnitude to the positive charge given to the bottom sphere.\ni. On the circles representing the spheres below, use a single  p l\nus sign  sign on the bottom sphere to represent the\nlocation of highest concentration of the excess positive charges.  Use a single  n e\ngative sign  sign on the top sphere to\nrepresent the location of the highest concentration of the excess negative charges.\nii. For a separation distance equal to that of the data point indicated in part \n (\na )( iii ) , would the magnitude of the\nforce reading with spheres of opposite charges be greater than, less than, or equal to the magnitude of the force\nreading with spheres of the same charges?\n_____ Greater than          _____ Less than          _____ Equal to \nJustify your answer. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write",
+        "text": "A third student suggests that the experiment be modified so that the top sphere is given a negative charge\nthat is equal in magnitude to the positive charge given to the bottom sphere.\ni. On the circles representing the spheres below, use a single p l\nus sign sign on the bottom sphere to represent the\nlocation of highest concentration of the excess positive charges. Use a single n e\ngative sign sign on the top sphere to\nrepresent the location of the highest concentration of the excess negative charges.\nii. For a separation distance equal to that of the data point indicated in part \n (\na )( iii ) , would the magnitude of the\nforce reading with spheres of opposite charges be greater than, less than, or equal to the magnitude of the force\nreading with spheres of the same charges?\n_____ Greater than _____ Less than _____ Equal to \nJustify your answer. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write",
         "sub_parts": [
           {
             "label": "i",
-            "text": "On the circles representing the spheres below, use a single  p l\nus sign  sign on the bottom sphere to represent the\nlocation of highest concentration of the excess positive charges.  Use a single  n e\ngative sign  sign on the top sphere to\nrepresent the location of the highest concentration of the excess negative charges."
+            "text": "On the circles representing the spheres below, use a single p l\nus sign sign on the bottom sphere to represent the\nlocation of highest concentration of the excess positive charges. Use a single n e\ngative sign sign on the top sphere to\nrepresent the location of the highest concentration of the excess negative charges."
           },
           {
             "label": "ii",
-            "text": "For a separation distance equal to that of the data point indicated in part \n (\na )( iii ) , would the magnitude of the\nforce reading with spheres of opposite charges be greater than, less than, or equal to the magnitude of the force\nreading with spheres of the same charges?\n_____ Greater than          _____ Less than          _____ Equal to \nJustify your answer. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box."
+            "text": "For a separation distance equal to that of the data point indicated in part \n (\na )( iii ) , would the magnitude of the\nforce reading with spheres of opposite charges be greater than, less than, or equal to the magnitude of the force\nreading with spheres of the same charges?\n_____ Greater than _____ Less than _____ Equal to \nJustify your answer. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box."
           }
         ]
       }
@@ -1213,50 +1166,50 @@
     "type": "frq",
     "year": 2021,
     "number": 3,
-    "text": "A thin, conducting ring of area  A  and resistance  R  is aligned in a uniform magnetic field directed to the right\nand perpendicular to the plane of the ring, as shown. At time  t equals 0 \n, the magnitude of the magnetic field is  B sub 0 .\n \nB  o f t equals the fraction beta over t  \nAt  t equals 1 second \n, the magnitude of the magnetic field begins to decrease according to the equation \n, where\n beta  has units of  tesla seconds .",
+    "text": "A thin, conducting ring of area A and resistance R is aligned in a uniform magnetic field directed to the right\nand perpendicular to the plane of the ring, as shown. At time t equals 0 \n, the magnitude of the magnetic field is B sub 0 .\n \nB o f t equals the fraction beta over t \nAt t equals 1 second \n, the magnitude of the magnetic field begins to decrease according to the equation \n, where\n beta has units of tesla seconds .",
     "parts": [
       {
         "label": "a",
-        "text": "Derive an equation for the magnitude of the induced current  I  in the ring as a function of  t for   t is greater than 1 second \n. \nExpress your answer in terms of  beta,  A,  R,  t \n, and physical constants, as appropriate.\nAssume \n.\n A equals 0.50 square meter,  R equals 2.0 ohms, and beta equals 0.50 tesla second",
+        "text": "Derive an equation for the magnitude of the induced current I in the ring as a function of t for t is greater than 1 second \n. \nExpress your answer in terms of beta, A, R, t \n, and physical constants, as appropriate.\nAssume \n.\n A equals 0.50 square meter, R equals 2.0 ohms, and beta equals 0.50 tesla second",
         "sub_parts": [
           {
             "label": "",
-            "text": "Express your answer in terms of  beta,  A,  R,  t \n, and physical constants, as appropriate.\nAssume"
+            "text": "Express your answer in terms of beta, A, R, t \n, and physical constants, as appropriate.\nAssume"
           },
           {
             "label": "",
-            "text": "A equals 0.50 square meter,  R equals 2.0 ohms, and beta equals 0.50 tesla second"
+            "text": "A equals 0.50 square meter, R equals 2.0 ohms, and beta equals 0.50 tesla second"
           }
         ]
       },
       {
         "label": "b",
-        "text": "Calculate the electrical energy dissipated in the ring from  t equals 1 second \n to \n \nt equals 2 seconds \n.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a  30 degree  angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset to a magnitude of  B sub 0  at a new time   t equals 0  \n and again begins to\ndecrease at \n t equals 1 second  according to the equation \n \nB  o f t equals the fraction beta over t  , where   Beta  has units of  time seconds .",
+        "text": "Calculate the electrical energy dissipated in the ring from t equals 1 second \n to \n \nt equals 2 seconds \n.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a 30 degree angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset to a magnitude of B sub 0 at a new time t equals 0 \n and again begins to\ndecrease at \n t equals 1 second according to the equation \n \nB o f t equals the fraction beta over t , where Beta has units of time seconds .",
         "sub_parts": [
           {
             "label": "",
-            "text": "Use a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a  30 degree  angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset"
+            "text": "Use a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a 30 degree angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset"
           }
         ]
       },
       {
         "label": "c",
-        "text": "Will the amount of energy dissipated in the ring from  \nt  \nequals 1 second \nto t\n e\nquals 2 seconds \nbe greater than, less than, or equal to \nthe energy dissipated in part  b ? \n_____ Greater than          _____ Less than          _____ Equal to \nJustify your answer. \nThe ring is now mounted on an axle that is perpendicular to the magnetic field.  The magnitude of the magnetic \nfield is now held at a constant  \nB su b\n 0 equals 0.50 tesla \n, as shown.  The ring rotates about the axle, and the  emf script uppercase E induced \nin the ring as a function of time  t is shown on the graph.",
+        "text": "Will the amount of energy dissipated in the ring from \nt \nequals 1 second \nto t\n e\nquals 2 seconds \nbe greater than, less than, or equal to \nthe energy dissipated in part b ? \n_____ Greater than _____ Less than _____ Equal to \nJustify your answer. \nThe ring is now mounted on an axle that is perpendicular to the magnetic field. The magnitude of the magnetic \nfield is now held at a constant \nB su b\n 0 equals 0.50 tesla \n, as shown. The ring rotates about the axle, and the emf script uppercase E induced \nin the ring as a function of time t is shown on the graph.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "Calculate the angular speed  omega of the rotating ring in\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: radians per second .\n\nAP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": "Calculate the angular speed omega of the rotating ring in\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: radians per second .\n\nAP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "Calculate the magnitude of the maximum  emf script uppercase E sub MAX \ninduced in the ring. \nThe ring now begins to rotate at an angular speed  2 omega .",
+        "text": "Calculate the magnitude of the maximum emf script uppercase E sub MAX \ninduced in the ring. \nThe ring now begins to rotate at an angular speed 2 omega .",
         "sub_parts": null
       },
       {
         "label": "f",
-        "text": "On the graph below, draw a curve to indicate the new induced  emf script uppercase E  in the ring. The dashed curve shows \nthe  emf  induced under the original conditions. \nJustify your sketch, specifically identifying and addressing any similarities or differences between the sketch \nand the original graph. \nPRACTICE GRAPH - Use the graph below to practice your sketch for part",
+        "text": "On the graph below, draw a curve to indicate the new induced emf script uppercase E in the ring. The dashed curve shows \nthe emf induced under the original conditions. \nJustify your sketch, specifically identifying and addressing any similarities or differences between the sketch \nand the original graph. \nPRACTICE GRAPH - Use the graph below to practice your sketch for part",
         "sub_parts": null
       },
       {
@@ -1276,21 +1229,7 @@
     "type": "frq",
     "year": 2021,
     "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals  power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals   position \nm u equals   coefficient of friction \nt heta equals   angle \nt au equals  torque \no mega equals   angular speed \na lpha equals angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
-  },
-  {
-    "id": "physics-em_2021_frq_6",
-    "type": "frq",
-    "year": 2021,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2022_frq_1",
-    "type": "frq",
-    "year": 2022,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
+    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals energy \nuppercase F, equals force \nlowercase f, equals \n frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nuppercase K, equals kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals length\nuppercase L, equals \n angular momentum \nm equals mass \nuppercase P, equals power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
   },
   {
     "id": "physics-em_2022_frq_2",
@@ -1306,7 +1245,7 @@
       },
       {
         "label": "b",
-        "text": "Show that the potential difference ∆VC across the capacitor as a function of time \nt\n− \nt is ∆ C ( )  = V0 e RC\nV\nt\n ∆ \nas \nthe capacitor discharges. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "Show that the potential difference ∆VC across the capacitor as a function of time \nt\n− \nt is ∆ C ( ) = V0 e RC\nV\nt\n ∆ \nas \nthe capacitor discharges. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
@@ -1345,7 +1284,7 @@
       },
       {
         "label": "c",
-        "text": "? \n___ Yes  \n___ No \nBriefly justify your answer. \nii. Would the vertical intercept of the graph in this final experiment change compared to the graph in part",
+        "text": "? \n___ Yes \n___ No \nBriefly justify your answer. \nii. Would the vertical intercept of the graph in this final experiment change compared to the graph in part",
         "sub_parts": [
           {
             "label": "ii",
@@ -1355,7 +1294,7 @@
       },
       {
         "label": "c",
-        "text": "? \n___ Yes  \n___ No \nBriefly justify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
+        "text": "? \n___ Yes \n___ No \nBriefly justify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
         "sub_parts": null
       }
     ]
@@ -1420,27 +1359,6 @@
     ]
   },
   {
-    "id": "physics-em_2022_frq_5",
-    "type": "frq",
-    "year": 2022,
-    "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals  power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals   position \nm u equals   coefficient of friction \nt heta equals   angle \nt au equals  torque \no mega equals   angular speed \na lpha equals angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
-  },
-  {
-    "id": "physics-em_2022_frq_6",
-    "type": "frq",
-    "year": 2022,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2022_frq_1",
-    "type": "frq",
-    "year": 2022,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
-  },
-  {
     "id": "physics-em_2022_frq_2",
     "type": "frq",
     "year": 2022,
@@ -1454,7 +1372,7 @@
       },
       {
         "label": "b",
-        "text": "Show that the current I through the capacitor as a function of time\n−t \n(R r  )C\n+\n t is I( )t = I e \nC \n0 \nas the capacitor\ndischarges. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "Show that the current I through the capacitor as a function of time\n−t \n(R r )C\n+\n t is I( )t = I e \nC \n0 \nas the capacitor\ndischarges. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
@@ -1563,32 +1481,11 @@
     ]
   },
   {
-    "id": "physics-em_2022_frq_5",
-    "type": "frq",
-    "year": 2022,
-    "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals  power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals   position \nm u equals   coefficient of friction \nt heta equals   angle \nt au equals  torque \no mega equals   angular speed \na lpha equals angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
-  },
-  {
-    "id": "physics-em_2022_frq_6",
-    "type": "frq",
-    "year": 2022,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2023_frq_1",
-    "type": "frq",
-    "year": 2023,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
-  },
-  {
     "id": "physics-em_2023_frq_2",
     "type": "frq",
     "year": 2023,
     "number": 2,
-    "text": "Two horizontal, parallel, conducting rails are separated by distance L = 0.40 m. A resistor of resistance\nR = 0.30 Ω\n  \n  connects the rails. A horizontal ideal spring is located between the rails. The right end of the spring is\nfree to move and the left end is fixed in place. A conducting bar of mass m = 0.23 kg is placed on the rails and is\nin contact with the spring, which is initially compressed. Frictional forces and the resistance of the bar and rails\nare negligible.\n• At time t = 0, the bar is released from rest and is pushed to the right by the spring.\n• At time t1, the bar loses contact with the spring and slides to the right.\n• At time t2, the bar enters and travels through a uniform magnetic field of\nmagnitude B = 0.50 T that is directed into the page, as shown.\n• At time t3, the bar enters a region where the magnitude of the uniform magnetic field is\nstill B = 0.50 T but is directed out of the page.\n• At time t4, the bar enters a region with no magnetic field.\nConsider time tB such that t < t < t3\nB \n.",
+    "text": "Two horizontal, parallel, conducting rails are separated by distance L = 0.40 m. A resistor of resistance\nR = 0.30 Ω\n \n connects the rails. A horizontal ideal spring is located between the rails. The right end of the spring is\nfree to move and the left end is fixed in place. A conducting bar of mass m = 0.23 kg is placed on the rails and is\nin contact with the spring, which is initially compressed. Frictional forces and the resistance of the bar and rails\nare negligible.\n• At time t = 0, the bar is released from rest and is pushed to the right by the spring.\n• At time t1, the bar loses contact with the spring and slides to the right.\n• At time t2, the bar enters and travels through a uniform magnetic field of\nmagnitude B = 0.50 T that is directed into the page, as shown.\n• At time t3, the bar enters a region where the magnitude of the uniform magnetic field is\nstill B = 0.50 T but is directed out of the page.\n• At time t4, the bar enters a region with no magnetic field.\nConsider time tB such that t < t < t3\nB \n.",
     "parts": [
       {
         "label": "a",
@@ -1654,7 +1551,7 @@
       },
       {
         "label": "c",
-        "text": "At time t1, the switch is closed to Position B.\ni. Immediately after time t1, is the direction of the current in the switch directed toward the left, directed\ntoward the right, or is there no current? Briefly justify your answer.\nii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 13 \niii. Derive an expression for the total energy ER\n dissipated by resistors  and 2 from immediately after\ntime t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\nfundamental constants, as appropriate.\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation \ndistance increases by a factor of 2.",
+        "text": "At time t1, the switch is closed to Position B.\ni. Immediately after time t1, is the direction of the current in the switch directed toward the left, directed\ntoward the right, or is there no current? Briefly justify your answer.\nii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 13 \niii. Derive an expression for the total energy ER\n dissipated by resistors and 2 from immediately after\ntime t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\nfundamental constants, as appropriate.\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation \ndistance increases by a factor of 2.",
         "sub_parts": [
           {
             "label": "i",
@@ -1666,13 +1563,13 @@
           },
           {
             "label": "iii",
-            "text": "Derive an expression for the total energy ER\n dissipated by resistors  and 2 from immediately after\ntime t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\nfundamental constants, as appropriate.\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation \ndistance increases by a factor of 2."
+            "text": "Derive an expression for the total energy ER\n dissipated by resistors and 2 from immediately after\ntime t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\nfundamental constants, as appropriate.\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation \ndistance increases by a factor of 2."
           }
         ]
       },
       {
         "label": "d",
-        "text": "Determine the ratio U2\nU1 \nof the energy U2\n stored in Capacitor  to the energy U1\n stored in Capacitor  a long \ntime after the plates of Capacitor 2 have been moved. Briefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \n\nVisit College Board on the web: 14 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \nWith the capacitors still charged as in part",
+        "text": "Determine the ratio U2\nU1 \nof the energy U2\n stored in Capacitor to the energy U1\n stored in Capacitor a long \ntime after the plates of Capacitor 2 have been moved. Briefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \n\nVisit College Board on the web: 14 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \nWith the capacitors still charged as in part",
         "sub_parts": null
       },
       {
@@ -1714,27 +1611,6 @@
         ]
       }
     ]
-  },
-  {
-    "id": "physics-em_2023_frq_5",
-    "type": "frq",
-    "year": 2023,
-    "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals  power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals   position \nm u equals   coefficient of friction \nt heta equals   angle \nt au equals  torque \no mega equals   angular speed \na lpha equals angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
-  },
-  {
-    "id": "physics-em_2023_frq_6",
-    "type": "frq",
-    "year": 2023,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2023_frq_1",
-    "type": "frq",
-    "year": 2023,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
   },
   {
     "id": "physics-em_2023_frq_2",
@@ -1807,7 +1683,7 @@
       },
       {
         "label": "b",
-        "text": "On the axes shown, sketch graphs of the current IR\n in Resistor  and the energy UC stored in Capacitor 1 as\nfunctions of time t from time t = 0 until steady-state conditions are nearly reached.\nA long time after the switch is closed to Position A, the total charge on the positive plate of Capacitor 1 is Q0 and \n \nCapacitor 2 is uncharged.",
+        "text": "On the axes shown, sketch graphs of the current IR\n in Resistor and the energy UC stored in Capacitor 1 as\nfunctions of time t from time t = 0 until steady-state conditions are nearly reached.\nA long time after the switch is closed to Position A, the total charge on the positive plate of Capacitor 1 is Q0 and \n \nCapacitor 2 is uncharged.",
         "sub_parts": null
       },
       {
@@ -1863,27 +1739,6 @@
         ]
       }
     ]
-  },
-  {
-    "id": "physics-em_2023_frq_5",
-    "type": "frq",
-    "year": 2023,
-    "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals  power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals   position \nm u equals   coefficient of friction \nt heta equals   angle \nt au equals  torque \no mega equals   angular speed \na lpha equals angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
-  },
-  {
-    "id": "physics-em_2023_frq_6",
-    "type": "frq",
-    "year": 2023,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2024_frq_1",
-    "type": "frq",
-    "year": 2024,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
   },
   {
     "id": "physics-em_2024_frq_2",
@@ -1961,7 +1816,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "On the following axes, sketch a graph of the magnetic flux Φ through the rectangular loop as a function of the\nposition x of Point S from x \n=  to x \nL\n4.5\n= \n. The z\n+ -direction indicated in Figure 1 corresponds to Φ\n+\n.",
+        "text": "On the following axes, sketch a graph of the magnetic flux Φ through the rectangular loop as a function of the\nposition x of Point S from x \n= to x \nL\n4.5\n= \n. The z\n+ -direction indicated in Figure 1 corresponds to Φ\n+\n.",
         "sub_parts": [
           {
             "label": "",
@@ -1971,11 +1826,11 @@
       },
       {
         "label": "b",
-        "text": "Consider the instant when Point S reaches x \nL\n1.5\n= \n.\ni. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise  \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nii. Derive an expression for IR when Point S reaches x \nL\n1.5\n= \n. If I\nR = , indicate how the derived \nexpression shows that I \nR = . Express your answer in terms of R, L, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nL\n1.5\n= \n.\nExpress your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Res",
+        "text": "Consider the instant when Point S reaches x \nL\n1.5\n= \n.\ni. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nii. Derive an expression for IR when Point S reaches x \nL\n1.5\n= \n. If I\nR = , indicate how the derived \nexpression shows that I \nR = . Express your answer in terms of R, L, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nL\n1.5\n= \n.\nExpress your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Res",
         "sub_parts": [
           {
             "label": "",
-            "text": "i. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise  \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page."
+            "text": "i. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page."
           },
           {
             "label": "ii",
@@ -1991,11 +1846,11 @@
           },
           {
             "label": "",
-            "text": "Express your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nThe total energy dissipated by the resistor in the rectangular loop as Point S moves from x \n=  to x \nL\n4.5\n= \nis E original. \nThe vertical boundary between regions 1 and 2 is now shifted to x"
+            "text": "Express your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nThe total energy dissipated by the resistor in the rectangular loop as Point S moves from x \n= to x \nL\n4.5\n= \nis E original. \nThe vertical boundary between regions 1 and 2 is now shifted to x"
           },
           {
             "label": "",
-            "text": "After the boundary is shifted, the \nrectangular loop again moves with speed v in the x\n+ -direction, as shown in Figure 2. The total energy dissipated \nby the resistor as Point S moves from x \n=  to x \nL \n4.5\n= \nis E new."
+            "text": "After the boundary is shifted, the \nrectangular loop again moves with speed v in the x\n+ -direction, as shown in Figure 2. The total energy dissipated \nby the resistor as Point S moves from x \n= to x \nL \n4.5\n= \nis E new."
           }
         ]
       },
@@ -2006,7 +1861,7 @@
       },
       {
         "label": "d",
-        "text": "On the following axes, sketch a graph of the induced current IT in the triangular loop as Point S moves\nfrom x \nL\n=  to x \nL\n= \n.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: STOP \n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: 18",
+        "text": "On the following axes, sketch a graph of the induced current IT in the triangular loop as Point S moves\nfrom x \nL\n= to x \nL\n= \n.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: STOP \n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: 18",
         "sub_parts": [
           {
             "label": "",
@@ -2021,21 +1876,7 @@
     "type": "frq",
     "year": 2024,
     "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration\nE equals   energy\nuppercase F, equals  force\nlowercase f, equals \n frequency\nh equals  height\nI equals  rotational inertia\nJ equals  impulse\nuppercase K, equals  kinetic energy\nlowercase k, equals \n spring constant\nl owercase l, equals  length\nuppercase L, equals \n angular momentum\nm equals  mass\nuppercase P, equals  power\nlowercase p, equals \n momentum\nr equals radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals  potential energy\nv equals  velocity or speed\nW equals work done on a system\nx equals   position\nm u equals   coefficient of friction\nt heta equals   angle\nt au equals  torque\no mega equals   angular speed\na lpha e"
-  },
-  {
-    "id": "physics-em_2024_frq_6",
-    "type": "frq",
-    "year": 2024,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-em_2024_frq_1",
-    "type": "frq",
-    "year": 2024,
-    "number": 1,
-    "text": "9\n9 ti\nme s 1 0 \nra i\ns\ne\nd\n \nto the power of negative 25, Joule meters, which equals 1.24 times 10 raised to the power of 3, electron volt nanometers\nVacuum permittivity,\nep\ns\ni\nl\non s\nub\n \n0  \ne\nq\nu\na\nl\ns\n, 8.85, times 10 raised to the power of negative 12, coulomb squared per open parenthesis, Newton meter squared, close parenthesis\n Coulomb’s law constant,\nk\n \ne\nq\nu\na\nl\ns\n t\nhe \nfr a c t\ni\no\nn \n \no\nver, open parenthesis, 4 pi, times epsilon sub 0, close parenthesis, which equals 9.0, times 10 raised to the power of 9, open parenthesis Newton meters squared close parenthesis, per coulomb squared\nVacuum permeability,\nm\nu\n \nsu\nb 0  e q\nu\na\nl\ns\n,\n 4 pi, times 10 raised to the power of negative 7, tesla meters per ampere\nMagnetic constant,  \nk\n \np\nr\ni\nm\ne \nequ al s\n,\n \nt\nh\ne\n \nf\nr\naction mu sub 0 over 4 pi, which equals 1, times 10 raised to the power of negative 7, tesla meters per ampere\n 1 atmosphere pressure,\n \na\ntmosp\nher\ne e q u\nals\n, 1.0\n,\n \nt\nimes 10 raised to the power of 5, ne"
+    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration\nE equals energy\nuppercase F, equals force\nlowercase f, equals \n frequency\nh equals height\nI equals rotational inertia\nJ equals impulse\nuppercase K, equals kinetic energy\nlowercase k, equals \n spring constant\nl owercase l, equals length\nuppercase L, equals \n angular momentum\nm equals mass\nuppercase P, equals power\nlowercase p, equals \n momentum\nr equals radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals potential energy\nv equals velocity or speed\nW equals work done on a system\nx equals position\nm u equals coefficient of friction\nt heta equals angle\nt au equals torque\no mega equals angular speed\na lpha e"
   },
   {
     "id": "physics-em_2024_frq_2",
@@ -2113,7 +1954,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "On the following axes, sketch a graph of the magnetic flux Φ through the square loop as a function of the\nposition x of Point S from x \n=  to x \nD\n4.5\n= \n. The z\n+ -direction indicated in Figure 1 corresponds to +Φ.",
+        "text": "On the following axes, sketch a graph of the magnetic flux Φ through the square loop as a function of the\nposition x of Point S from x \n= to x \nD\n4.5\n= \n. The z\n+ -direction indicated in Figure 1 corresponds to +Φ.",
         "sub_parts": [
           {
             "label": "",
@@ -2123,11 +1964,11 @@
       },
       {
         "label": "b",
-        "text": "Consider the instant when Point S reaches x \nD\n1.5\n= \n.\ni. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise  \n_____ Counterclockwise  \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nii. Derive an expression for IS when Point S reaches x \nD\n1.5\n= \n. If I\nS = , indicate how the derived \nexpression shows that I\nS = . Express your answer in terms of R, D, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nD\n1.5\n= \n.\nExpress your answer in terms of R, D, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Respon",
+        "text": "Consider the instant when Point S reaches x \nD\n1.5\n= \n.\ni. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nii. Derive an expression for IS when Point S reaches x \nD\n1.5\n= \n. If I\nS = , indicate how the derived \nexpression shows that I\nS = . Express your answer in terms of R, D, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nD\n1.5\n= \n.\nExpress your answer in terms of R, D, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Respon",
         "sub_parts": [
           {
             "label": "",
-            "text": "i. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise  \n_____ Counterclockwise  \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page."
+            "text": "i. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page."
           },
           {
             "label": "ii",
@@ -2147,7 +1988,7 @@
           },
           {
             "label": "",
-            "text": "After the boundary is shifted, the \nsquare loop again moves with speed v in the x\n+ -direction, as shown in Figure 2. The total energy dissipated by \nthe resistor as Point S moves from x \n=  to x \nD \n4.5\n= \nis Enew."
+            "text": "After the boundary is shifted, the \nsquare loop again moves with speed v in the x\n+ -direction, as shown in Figure 2. The total energy dissipated by \nthe resistor as Point S moves from x \n= to x \nD \n4.5\n= \nis Enew."
           }
         ]
       },
@@ -2169,20 +2010,6 @@
     ]
   },
   {
-    "id": "physics-em_2024_frq_5",
-    "type": "frq",
-    "year": 2024,
-    "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration\nE equals   energy\nuppercase F, equals  force\nlowercase f, equals \n frequency\nh equals  height\nI equals  rotational inertia\nJ equals  impulse\nuppercase K, equals  kinetic energy\nlowercase k, equals \n spring constant\nl owercase l, equals  length\nuppercase L, equals \n angular momentum\nm equals  mass\nuppercase P, equals  power\nlowercase p, equals \n momentum\nr equals radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals  potential energy\nv equals  velocity or speed\nW equals work done on a system\nx equals   position\nm u equals   coefficient of friction\nt heta equals   angle\nt au equals  torque\no mega equals   angular speed\na lpha e"
-  },
-  {
-    "id": "physics-em_2024_frq_6",
-    "type": "frq",
-    "year": 2024,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\n Acceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
     "id": "physics-em_2025_frq_1",
     "type": "frq",
     "year": 2025,
@@ -2201,7 +2028,7 @@
     "type": "frq",
     "year": 2025,
     "number": 3,
-    "text": "In Experiment 1, students are asked to use a graph to determine the resistivity \nt  of a circuit \nelement that is connected to a variable power supply, as shown in Figure 1. The circuit element \nis cylindrical and has uniform resistivity. The students have access to a voltmeter, an ammeter, \nand a ruler.\nFigure 1\nA.\tDescribe a procedure for collecting data that would allow the students to use a graph to \ndetermine \nt , including any steps necessary to reduce experimental uncertainty.\nB.\tDescribe how the collected data could be graphed and how that graph would be analyzed to \ndetermine \nt .\nIn Experiment 2, the students are asked to use a graph to determine the resistivity \nt  of solid, \ncylindrical resistors made of the same material but of different lengths L. The cross-sectional \narea of each resistor is .\nm\n5 0 10\n×\n \n2\n-\n. The students directly measure the resistance R between the \nends of each resistor. Table 1 provides L and R for each resistor.\nTable 1\nL",
+    "text": "In Experiment 1, students are asked to use a graph to determine the resistivity \nt of a circuit \nelement that is connected to a variable power supply, as shown in Figure 1. The circuit element \nis cylindrical and has uniform resistivity. The students have access to a voltmeter, an ammeter, \nand a ruler.\nFigure 1\nA.\tDescribe a procedure for collecting data that would allow the students to use a graph to \ndetermine \nt , including any steps necessary to reduce experimental uncertainty.\nB.\tDescribe how the collected data could be graphed and how that graph would be analyzed to \ndetermine \nt .\nIn Experiment 2, the students are asked to use a graph to determine the resistivity \nt of solid, \ncylindrical resistors made of the same material but of different lengths L. The cross-sectional \narea of each resistor is .\nm\n5 0 10\n×\n \n2\n-\n. The students directly measure the resistance R between the \nends of each resistor. Table 1 provides L and R for each resistor.\nTable 1\nL",
     "parts": [
       {
         "label": "m",
@@ -2238,6 +2065,6 @@
     "type": "frq",
     "year": 2025,
     "number": 4,
-    "text": "Long, parallel wires S and T are a distance d\n2  apart. Both wires carry equal currents I, but the \ncurrents are in opposite directions. Both wires are parallel to the x-axis. At the instant shown \nin Figure 1, Sphere 1 is a distance d above Wire S, Sphere 2 is a distance d below Wire S, and \nboth spheres are moving with speed v in the \ndirection\nx-\n+\n. Each sphere has positive charge Q\n+\n. \nGravitational effects are negligible.\nFigure 1\nA.\t F1 is the magnitude of the magnetic force exerted on Sphere 1 due to the currents in wires S \nand T. F2 is the magnitude of the magnetic force exerted on Sphere 2 due to the currents in \nwires S and T.\nIndicate whether F2 is greater than, less than, or equal to F1 by writing one of the following.\n•\t\nF\nF\n>\n1\n•\t\nF\nF\n<\n1\n•\t\nF\nF\n1\n=\nJustify your answer.\nB.\tDerive an expression for the magnitude Btot of the magnetic field at the location of Sphere 2 \ndue to the currents in wires S and T in terms of d, I, and physical constants, as appropriate. \nBegin yo"
+    "text": "Long, parallel wires S and T are a distance d\n2 apart. Both wires carry equal currents I, but the \ncurrents are in opposite directions. Both wires are parallel to the x-axis. At the instant shown \nin Figure 1, Sphere 1 is a distance d above Wire S, Sphere 2 is a distance d below Wire S, and \nboth spheres are moving with speed v in the \ndirection\nx-\n+\n. Each sphere has positive charge Q\n+\n. \nGravitational effects are negligible.\nFigure 1\nA.\t F1 is the magnitude of the magnetic force exerted on Sphere 1 due to the currents in wires S \nand T. F2 is the magnitude of the magnetic force exerted on Sphere 2 due to the currents in \nwires S and T.\nIndicate whether F2 is greater than, less than, or equal to F1 by writing one of the following.\n•\t\nF\nF\n>\n1\n•\t\nF\nF\n<\n1\n•\t\nF\nF\n1\n=\nJustify your answer.\nB.\tDerive an expression for the magnitude Btot of the magnetic field at the location of Sphere 2 \ndue to the currents in wires S and T in terms of d, I, and physical constants, as appropriate. \nBegin yo"
   }
 ]
