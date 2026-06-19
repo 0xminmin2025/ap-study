@@ -1495,21 +1495,6 @@
     "answer_source": "llm"
   },
   {
-    "id": "art-history_2010_5",
-    "type": "mcq",
-    "year": 2010,
-    "number": 5,
-    "text": "The artist of the work on the left is",
-    "options": {
-      "A": "Masaccio",
-      "B": "Piero della Francesca",
-      "C": "Fra Angelico",
-      "D": "Giotto"
-    },
-    "answer": "D",
-    "answer_source": "llm"
-  },
-  {
     "id": "art-history_2010_6",
     "type": "mcq",
     "year": 2010,
@@ -1597,21 +1582,6 @@
       "D": "Minoan"
     },
     "answer": "D",
-    "answer_source": "llm"
-  },
-  {
-    "id": "art-history_2011_2",
-    "type": "mcq",
-    "year": 2011,
-    "number": 2,
-    "text": "The medium of the work is",
-    "options": {
-      "A": "terracotta",
-      "B": "marble",
-      "C": "bronze",
-      "D": "wood"
-    },
-    "answer": "B",
     "answer_source": "llm"
   },
   {
@@ -1945,20 +1915,6 @@
     "answer_source": "llm"
   },
   {
-    "id": "art-history_2014_1",
-    "type": "mcq",
-    "year": 2014,
-    "number": 1,
-    "text": "The complex shown is located at the site of",
-    "options": {
-      "A": "covered in mosaic",
-      "B": "whitewashed",
-      "C": "inlaid with bronze",
-      "D": "polychromed"
-    },
-    "answer": "B"
-  },
-  {
     "id": "art-history_2014_2",
     "type": "mcq",
     "year": 2014,
@@ -2086,46 +2042,6 @@
     "answer": "A"
   },
   {
-    "id": "art-history_2014_11",
-    "type": "mcq",
-    "year": 2014,
-    "number": 11,
-    "text": "A function of both",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_12",
-    "type": "mcq",
-    "year": 2014,
-    "number": 12,
-    "text": "Which of the following best describes the",
-    "options": {},
-    "answer": "D",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_13",
-    "type": "mcq",
-    "year": 2014,
-    "number": 13,
-    "text": "Both images were probably originally",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_14",
-    "type": "mcq",
-    "year": 2014,
-    "number": 14,
-    "text": "The sculpture on the right recalls work from",
-    "options": {},
-    "answer": "C",
-    "has_figure": true
-  },
-  {
     "id": "art-history_2014_15",
     "type": "mcq",
     "year": 2014,
@@ -2138,36 +2054,6 @@
       "D": "German prince"
     },
     "answer": "D",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_16",
-    "type": "mcq",
-    "year": 2014,
-    "number": 16,
-    "text": "The walls of the chapel on the left were",
-    "options": {},
-    "answer": "C",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_17",
-    "type": "mcq",
-    "year": 2014,
-    "number": 17,
-    "text": "The walls of the chapel on the left depict events",
-    "options": {},
-    "answer": "B",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_18",
-    "type": "mcq",
-    "year": 2014,
-    "number": 18,
-    "text": "The frescoes of the chapel on the left were",
-    "options": {},
-    "answer": "A",
     "has_figure": true
   },
   {
@@ -2197,26 +2083,6 @@
       "D": "shallow modeling with the emphasis on outline"
     },
     "answer": "C"
-  },
-  {
-    "id": "art-history_2014_21",
-    "type": "mcq",
-    "year": 2014,
-    "number": 21,
-    "text": "The fresco on the right decorates which of the",
-    "options": {},
-    "answer": "B",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_22",
-    "type": "mcq",
-    "year": 2014,
-    "number": 22,
-    "text": "Both artists were interested in the study and Questions 23-29 refer to the corresponding color images shown in the insert.",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
   },
   {
     "id": "art-history_2014_23",
@@ -2317,70 +2183,6 @@
     "answer": "A"
   },
   {
-    "id": "art-history_2014_30",
-    "type": "mcq",
-    "year": 2014,
-    "number": 30,
-    "text": "The work on the left was painted by",
-    "options": {
-      "A": "High Renaissance",
-      "B": "Rococo",
-      "C": "Baroque",
-      "D": "Romanesque"
-    },
-    "answer": "A"
-  },
-  {
-    "id": "art-history_2014_31",
-    "type": "mcq",
-    "year": 2014,
-    "number": 31,
-    "text": "The figures for the work on the left were",
-    "options": {},
-    "answer": "C",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_32",
-    "type": "mcq",
-    "year": 2014,
-    "number": 32,
-    "text": "The artist of the work on the right was from",
-    "options": {},
-    "answer": "C",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_33",
-    "type": "mcq",
-    "year": 2014,
-    "number": 33,
-    "text": "Both works are from which century?",
-    "options": {},
-    "answer": "D",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_34",
-    "type": "mcq",
-    "year": 2014,
-    "number": 34,
-    "text": "Both works were intended to do all of the",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_35",
-    "type": "mcq",
-    "year": 2014,
-    "number": 35,
-    "text": "Both of these works are best described as 7 ART HISTORY SECTION I—Part B Time— 40 minutes Directions: Each of the questions or incomplete statements below is followed by four suggested answers or completions. Select the one that is best in each case and fill in the corresponding box on the student answer sheet. Réunion des Musées Nationaux / Art Resource, NY",
-    "options": {},
-    "answer": "B",
-    "has_figure": true
-  },
-  {
     "id": "art-history_2014_37",
     "type": "mcq",
     "year": 2014,
@@ -2421,46 +2223,6 @@
       "D": "printmaker"
     },
     "answer": "A"
-  },
-  {
-    "id": "art-history_2014_40",
-    "type": "mcq",
-    "year": 2014,
-    "number": 40,
-    "text": "An important early-sixteenth-century patron of",
-    "options": {},
-    "answer": "B",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_41",
-    "type": "mcq",
-    "year": 2014,
-    "number": 41,
-    "text": "All of the following are true about the Bayeux",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_42",
-    "type": "mcq",
-    "year": 2014,
-    "number": 42,
-    "text": "Which of the following was invented in the",
-    "options": {},
-    "answer": "D",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_43",
-    "type": "mcq",
-    "year": 2014,
-    "number": 43,
-    "text": "Goya’s artistic career took all of the following",
-    "options": {},
-    "answer": "C",
-    "has_figure": true
   },
   {
     "id": "art-history_2014_44",
@@ -2547,36 +2309,6 @@
     "answer": "B"
   },
   {
-    "id": "art-history_2014_50",
-    "type": "mcq",
-    "year": 2014,
-    "number": 50,
-    "text": "The term tenebrism can be used to describe which",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_51",
-    "type": "mcq",
-    "year": 2014,
-    "number": 51,
-    "text": "All of the following artists worked as court",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_52",
-    "type": "mcq",
-    "year": 2014,
-    "number": 52,
-    "text": "Which of the following was a leading painters -1 - Questions 55-59 refer to the following image. Erich Lessing / Art Resource, NY",
-    "options": {},
-    "answer": "D",
-    "has_figure": true
-  },
-  {
     "id": "art-history_2014_53",
     "type": "mcq",
     "year": 2014,
@@ -2660,26 +2392,6 @@
       "D": "cloisonné"
     },
     "answer": "A"
-  },
-  {
-    "id": "art-history_2014_60",
-    "type": "mcq",
-    "year": 2014,
-    "number": 60,
-    "text": "Louise Nevelson’s sculptures were typically Questions 67-68 refer to the following image. Scala / Art Resource, NY",
-    "options": {},
-    "answer": "C",
-    "has_figure": true
-  },
-  {
-    "id": "art-history_2014_61",
-    "type": "mcq",
-    "year": 2014,
-    "number": 61,
-    "text": "The medium that mixes pigment with hot wax is",
-    "options": {},
-    "answer": "A",
-    "has_figure": true
   },
   {
     "id": "art-history_2014_62",
@@ -2778,16 +2490,6 @@
       "D": "Germany"
     },
     "answer": "A"
-  },
-  {
-    "id": "art-history_2014_70",
-    "type": "mcq",
-    "year": 2014,
-    "number": 70,
-    "text": "The object shown was found in 4",
-    "options": {},
-    "answer": "B",
-    "has_figure": true
   },
   {
     "id": "art-history_2014_71",
