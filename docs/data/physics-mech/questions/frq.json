@@ -47,39 +47,6 @@
     "text": "Implicit statements of concepts normally receive credit. For example, if use of the equation \nexpressing a particular concept is worth one point, and a solution contains the application of the \nequation to the problem but does not separately list the basic equation, the point is still awarded.\n\nAP® PHYSICS C: MECHANICS \n2001 SCORING GUIDELINES \n \n \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n \n3 \nQuestion 1 \n15 points total"
   },
   {
-    "id": "physics-mech_2002_frq_1",
-    "type": "frq",
-    "year": 2002,
-    "number": 1,
-    "text": "The solutions contain the most common method",
-    "parts": [
-      {
-        "label": "s",
-        "text": "of solving the free-response questions, \nand the allocation of points for these solutions. Other methods of solution also receive \nappropriate credit for correct work.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-mech_2002_frq_2",
-    "type": "frq",
-    "year": 2002,
-    "number": 2,
-    "text": "Generally, double penalty for errors is avoided. For example, if an incorrect answer to part",
-    "parts": [
-      {
-        "label": "a",
-        "text": "is correctly substituted into an otherwise correct solution to part",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": ", full credit will usually be \nawarded. \nOne exception to this may be cases when the numerical answer to a later part should be easily \nrecognized as wrong, e.g., a speed faster than the speed of light in vacuum.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
     "id": "physics-mech_2002_frq_3",
     "type": "frq",
     "year": 2002,
@@ -91,7 +58,7 @@
     "type": "frq",
     "year": 2002,
     "number": 4,
-    "text": "The scoring guidelines typically show numerical results using the approximate value \n10 m s\ng \u0001\nfor ease of calculation, but use of \n9.8 m s  is of course also acceptable."
+    "text": "The scoring guidelines typically show numerical results using the approximate value \n10 m s\ng \u0001\nfor ease of calculation, but use of \n9.8 m s is of course also acceptable."
   },
   {
     "id": "physics-mech_2002_frq_5",
@@ -107,7 +74,7 @@
       },
       {
         "label": "b",
-        "text": "3 points \n \n \nFor any indication that the velocity \u0001 is the time derivative of position x \n1 point \n1\ndx\ndt\nt\n\u0001\n\u0002\n \n \nFor correctly expressing the above equation as an integral, with or without using limits \n1 point \n \n5\nx\ndt\nt\n\u0001\n\u0002\n\u0001\n \n \nSubstituting \n5\nu\nt\n\u0001 \u0002\nand \ndu\ndt\n\u0001\n \n \n\u0001\n\u0002\n8\nln\nln 1\n5\n5\ndu\nx\nu\nC\nt\nC\nu\n\u0001\n\u0001\n\u0002\n\u0001\n\u0002\n\u0002\n\u0001\n  (or equivalent using limits) \n \nThe condition  x = 0  at  t = 0  gives  C = 0 \n \nFor the correct answer \n1 point \n\u0001\n\u0002\n8 ln 1\n5\nx\nt\n\u0001\n\u0002\n\nAP® PHYSICS C: MECHANICS \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n4 \n \nQuestion 1 (cont’d.) \n \n \nDistribution of \n \npoints",
+        "text": "3 points \n \n \nFor any indication that the velocity \u0001 is the time derivative of position x \n1 point \n1\ndx\ndt\nt\n\u0001\n\u0002\n \n \nFor correctly expressing the above equation as an integral, with or without using limits \n1 point \n \n5\nx\ndt\nt\n\u0001\n\u0002\n\u0001\n \n \nSubstituting \n5\nu\nt\n\u0001 \u0002\nand \ndu\ndt\n\u0001\n \n \n\u0001\n\u0002\n8\nln\nln 1\n5\n5\ndu\nx\nu\nC\nt\nC\nu\n\u0001\n\u0001\n\u0002\n\u0001\n\u0002\n\u0002\n\u0001\n (or equivalent using limits) \n \nThe condition x = 0 at t = 0 gives C = 0 \n \nFor the correct answer \n1 point \n\u0001\n\u0002\n8 ln 1\n5\nx\nt\n\u0001\n\u0002\n\nAP® PHYSICS C: MECHANICS \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n4 \n \nQuestion 1 (cont’d.) \n \n \nDistribution of \n \npoints",
         "sub_parts": null
       },
       {
@@ -117,7 +84,7 @@
       },
       {
         "label": "d",
-        "text": "3 points \n \n \nFor a correct expression for the impulse \n1 point \nJ\np\n\u0001\n\u0001\n or  \n \nm\nυ\n\u0001  \n \nFor correct substitution into the equation above \n1 point \n\u0001 \u0002\n\u0001 \u0002\n\u0001\n\u0002\n\u0001\n\u0002\n\u0001\n2\n1500 kg\n8 m s\ntotal\nJ\nm\nυ\nυ\n\u0001\n\u0002\n\u0003\n\u0002\n\u0003\n\u0004\n \n \nFor the correct sign on the final answer \n1 point \n10,909kg m s   or  N s\nJ\n\u0001\n\u0001\n\u0001 \u0002\n \n \n \nAlternate \nAlternate solution \npoints \nFor a correct expression for the impulse \n1 point \n \n  or  \n \naverage\nJ\nF dt\nF\nt\n\u0001\n\u0001 \u0001\n   \n \nFor correct substitution into the equation above \n1 point \n\u0001\n\u0002\n2\n60,000  \n5\nJ\ndt\nt\n\u0001\n\u0002\n\u0003\n\u0001\n \n \nFor the correct sign on the final answer \n1 point \n10,909kg m s   or  N s\nJ\n\u0001\n\u0001\n\u0001 \u0002\n \n \n \n \n \nUnits point \nFor correct units on the answers to both part",
+        "text": "3 points \n \n \nFor a correct expression for the impulse \n1 point \nJ\np\n\u0001\n\u0001\n or \n \nm\nυ\n\u0001 \n \nFor correct substitution into the equation above \n1 point \n\u0001 \u0002\n\u0001 \u0002\n\u0001\n\u0002\n\u0001\n\u0002\n\u0001\n2\n1500 kg\n8 m s\ntotal\nJ\nm\nυ\nυ\n\u0001\n\u0002\n\u0003\n\u0002\n\u0003\n\u0004\n \n \nFor the correct sign on the final answer \n1 point \n10,909kg m s or N s\nJ\n\u0001\n\u0001\n\u0001 \u0002\n \n \n \nAlternate \nAlternate solution \npoints \nFor a correct expression for the impulse \n1 point \n \n or \n \naverage\nJ\nF dt\nF\nt\n\u0001\n\u0001 \u0001\n \n \nFor correct substitution into the equation above \n1 point \n\u0001\n\u0002\n2\n60,000 \n5\nJ\ndt\nt\n\u0001\n\u0002\n\u0003\n\u0001\n \n \nFor the correct sign on the final answer \n1 point \n10,909kg m s or N s\nJ\n\u0001\n\u0001\n\u0001 \u0002\n \n \n \n \n \nUnits point \nFor correct units on the answers to both part",
         "sub_parts": null
       },
       {
@@ -132,32 +99,32 @@
       },
       {
         "label": "a",
-        "text": "2 points \n         \nFor determining the rotational inertia of each tire \n1 point \n2\n1\n1\n2 4\nm\nI\nML\nr\nmr\n\u0001\n\u0001\n\u0001\n \n \nFor the correct total rotational inertia for all 4 tires \n1 point \n1\n2\ntot\nI\nI\nmr\n\u0001\n\u0001",
+        "text": "2 points \n \nFor determining the rotational inertia of each tire \n1 point \n2\n1\n1\n2 4\nm\nI\nML\nr\nmr\n\u0001\n\u0001\n\u0001\n \n \nFor the correct total rotational inertia for all 4 tires \n1 point \n1\n2\ntot\nI\nI\nmr\n\u0001\n\u0001",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "7 points \n \nFor an indication of the conservation of mechanical energy\n1 point \ntop\nbottom\nE\nE\n\u0001\n;  U\nK\n\u0001\n\u0001\n\u0001 \u0002\n; or equivalent \n \nFor correct expressions for energies at the top \n1 point \n\u0001\n0;\n2\ntop\ntop\nK\nU\nmgh\nmgh\nmgh\n\u0001\n\u0002\n\u0002\n\u0003\n\u0002\n\u0004\n \n \nFor a correct expression for potential energy at the bottom and for recognizing  \nthat kinetic energy at the bottom is the sum of translational and rotational  \nkinetic energies \n1 point \n0;\nbottom\nbottom\ntrans\nrot\nU\nK\nK\nK\n\u0001\n\u0001\n\u0002\n \n \nFor a correct expression for translational kinetic energy at the bottom \n1 point \n\u0001\n\u0002 2\n1 2\ntrans\nK\nm υ\nmυ\n\u0001\n\u0001\n \n \nFor a correct expression for rotational kinetic energy at the bottom \n1 point \n1\nrot\nK\nI\u0001\n\u0001\n \n \nFor recognition of the relationship between translational and rotational velocity \n1 point \nυ\nr\n\u0001 \u0001\n \n \nSubstituting these expressions to determine total kinetic energy at the bottom \n \n\u0001\n2\n2\n1 1\n2 2\nbottom\nυ\nK\nmυ\nmr\nmυ\nr\n\u0001\n\u0002\n\u0003\n\u0002\n\u0004\n \n \nSetting potential energy at the top equal to the kinetic energy at the bottom \n \n5\n4",
+        "text": "7 points \n \nFor an indication of the conservation of mechanical energy\n1 point \ntop\nbottom\nE\nE\n\u0001\n; U\nK\n\u0001\n\u0001\n\u0001 \u0002\n; or equivalent \n \nFor correct expressions for energies at the top \n1 point \n\u0001\n0;\n2\ntop\ntop\nK\nU\nmgh\nmgh\nmgh\n\u0001\n\u0002\n\u0002\n\u0003\n\u0002\n\u0004\n \n \nFor a correct expression for potential energy at the bottom and for recognizing \nthat kinetic energy at the bottom is the sum of translational and rotational \nkinetic energies \n1 point \n0;\nbottom\nbottom\ntrans\nrot\nU\nK\nK\nK\n\u0001\n\u0001\n\u0002\n \n \nFor a correct expression for translational kinetic energy at the bottom \n1 point \n\u0001\n\u0002 2\n1 2\ntrans\nK\nm υ\nmυ\n\u0001\n\u0001\n \n \nFor a correct expression for rotational kinetic energy at the bottom \n1 point \n1\nrot\nK\nI\u0001\n\u0001\n \n \nFor recognition of the relationship between translational and rotational velocity \n1 point \nυ\nr\n\u0001 \u0001\n \n \nSubstituting these expressions to determine total kinetic energy at the bottom \n \n\u0001\n2\n2\n1 1\n2 2\nbottom\nυ\nK\nmυ\nmr\nmυ\nr\n\u0001\n\u0002\n\u0003\n\u0002\n\u0004\n \n \nSetting potential energy at the top equal to the kinetic energy at the bottom \n \n5\n4",
         "sub_parts": null
       },
       {
         "label": "c",
-        "text": "4 points \n \nFor recognition that energy is conserved (Although it is an inelastic collision, the  \nmass of the bumper is negligibly small, thus its kinetic energy is negligible  \nand there is no loss of energy.) \n1 point \nFor a correct expression for potential energy of the spring at maximum compression \n1 point \n1\nK\nm\nU\nkx\n\u0001\n \n \nFor applying conservation of energy by equating the potential energy of the spring at \nmaximum compression EITHER to the gravitational potential energy of the cart  \nand wheels at the top of the inclined plane OR to the kinetic energy of the cart and \nwheels at the bottom of the inclined plane \n1 point \n1\n2\nm\nkx\nmgh\n\u0001\n   OR     \n2\n5\n4\nm\nkx\nMυ\n\u0001\n \n \nFor a correct solution of either of these equations for \nm\nx  (including a correct  \nsubstitution for \u0001 from part",
+        "text": "4 points \n \nFor recognition that energy is conserved (Although it is an inelastic collision, the \nmass of the bumper is negligibly small, thus its kinetic energy is negligible \nand there is no loss of energy.) \n1 point \nFor a correct expression for potential energy of the spring at maximum compression \n1 point \n1\nK\nm\nU\nkx\n\u0001\n \n \nFor applying conservation of energy by equating the potential energy of the spring at \nmaximum compression EITHER to the gravitational potential energy of the cart \nand wheels at the top of the inclined plane OR to the kinetic energy of the cart and \nwheels at the bottom of the inclined plane \n1 point \n1\n2\nm\nkx\nmgh\n\u0001\n OR \n2\n5\n4\nm\nkx\nMυ\n\u0001\n \n \nFor a correct solution of either of these equations for \nm\nx (including a correct \nsubstitution for \u0001 from part",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "for the second equation) or an answer consistent  \nwith work done in",
+        "text": "for the second equation) or an answer consistent \nwith work done in",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "1 point \nm\nmgh\nx\nk\n\u0001\n \n \nNotes:  \nIf there was no attempt to use energy then 1 point only was given for \ndp\nF\nkx\nma\ndt\n\u0001 \u0002\n\u0001\n\u0001\n  \nor a similar expression. \n \nFurther, if there was written recognition of the necessity to slow down the wheel rotation, \ntorque, angular acceleration, etc, then 1 point was given.",
+        "text": "1 point \nm\nmgh\nx\nk\n\u0001\n \n \nNotes: \nIf there was no attempt to use energy then 1 point only was given for \ndp\nF\nkx\nma\ndt\n\u0001 \u0002\n\u0001\n\u0001\n \nor a similar expression. \n \nFurther, if there was written recognition of the necessity to slow down the wheel rotation, \ntorque, angular acceleration, etc, then 1 point was given.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "2 points \n \nFor an explanation that discusses the inelastic collision with a loss of mechanical  \nenergy or a reduced velocity resulting in a smaller compression. The discussion  \nshould have been correctly stated. If there were any incorrect statements, then  \n1 point was subtracted. Points were neither added or subtracted for irrelevant \nstatements, such as references to friction. \n2 points\n\nAP® PHYSICS C: MECHANICS \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n8 \n \nQuestion 3 \n \n15 points total \nDistribution of \n \npoints",
+        "text": "2 points \n \nFor an explanation that discusses the inelastic collision with a loss of mechanical \nenergy or a reduced velocity resulting in a smaller compression. The discussion \nshould have been correctly stated. If there were any incorrect statements, then \n1 point was subtracted. Points were neither added or subtracted for irrelevant \nstatements, such as references to friction. \n2 points\n\nAP® PHYSICS C: MECHANICS \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n8 \n \nQuestion 3 \n \n15 points total \nDistribution of \n \npoints",
         "sub_parts": null
       },
       {
@@ -167,12 +134,12 @@
       },
       {
         "label": "b",
-        "text": "4 points \n \nFor the expression for force as a derivative of potential relative to position\n2 points \n dU\nF\ndx\n\u0001 \u0002\n \n \nOnly one point was awarded if the negative sign was missing.   A non-calculus statement \nsuch as \n \nU\nF\nx\n\u0001\n\u0001\n\u0001 \u0002\n earned no credit. \n \nFor taking a derivative of the potential function \n1 point \n\u0001\n4.0\n \n2.0\nd\nF\ndx\nx\n\u0001\n\u0002 \u0003\n\u0004\n\u0005\n \n \nFor the correct answer or answer consistent with non-inclusion of minus sign in  \nabove equation \n1 point \n\u0001\n\u00022\n4.0\n2.0\nF\nx\n\u0001\n\u0002\n\nAP® PHYSICS C: MECHANICS \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n9 \n \nQuestion 3 (cont’d.) \n \n \nDistribution of",
+        "text": "4 points \n \nFor the expression for force as a derivative of potential relative to position\n2 points \n dU\nF\ndx\n\u0001 \u0002\n \n \nOnly one point was awarded if the negative sign was missing. A non-calculus statement \nsuch as \n \nU\nF\nx\n\u0001\n\u0001\n\u0001 \u0002\n earned no credit. \n \nFor taking a derivative of the potential function \n1 point \n\u0001\n4.0\n \n2.0\nd\nF\ndx\nx\n\u0001\n\u0002 \u0003\n\u0004\n\u0005\n \n \nFor the correct answer or answer consistent with non-inclusion of minus sign in \nabove equation \n1 point \n\u0001\n\u00022\n4.0\n2.0\nF\nx\n\u0001\n\u0002\n\nAP® PHYSICS C: MECHANICS \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n9 \n \nQuestion 3 (cont’d.) \n \n \nDistribution of",
         "sub_parts": null
       },
       {
         "label": "c",
-        "text": "3 points \npoints \n \nFor explicitly indicating the use of conservation of energy or the net work-energy  \ntheorem in words or by an equation (but not just K = U) \n1 point \n\u0001 \u0002\n\u0001 \u0002\n1\n2\nU\nU\nU\nmυ\n\u0001\n\u0001\n\u0002\n\u0001\n \n \n\u0001\n\u0002 2\n2.0 J\n1.0 J\n0.5 kg\nυ\n\u0001\n\u0002\n \n \nFor the correct answer \n2 points \n\u0001 = 2.0 m/s",
+        "text": "3 points \npoints \n \nFor explicitly indicating the use of conservation of energy or the net work-energy \ntheorem in words or by an equation (but not just K = U) \n1 point \n\u0001 \u0002\n\u0001 \u0002\n1\n2\nU\nU\nU\nmυ\n\u0001\n\u0001\n\u0002\n\u0001\n \n \n\u0001\n\u0002 2\n2.0 J\n1.0 J\n0.5 kg\nυ\n\u0001\n\u0002\n \n \nFor the correct answer \n2 points \n\u0001 = 2.0 m/s",
         "sub_parts": null
       },
       {
@@ -182,17 +149,17 @@
       },
       {
         "label": "e",
-        "text": "(at least two of the items if more than two were used)  \n2 points \nNote: If part",
+        "text": "(at least two of the items if more than two were used) \n2 points \nNote: If part",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "was not attempted, only 1 point maximum was awarded.  Unreasonable \nindications, such as all the items being checked, were not awarded any points.",
+        "text": "was not attempted, only 1 point maximum was awarded. Unreasonable \nindications, such as all the items being checked, were not awarded any points.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "3 points \n \n \nFor a complete description of any correct procedure.  \nPartial credit was awarded for less complete descriptions. The following were common \nexamples. Other examples, though rarely cited, could receive partial or full credit. \n3 points",
+        "text": "3 points \n \n \nFor a complete description of any correct procedure. \nPartial credit was awarded for less complete descriptions. The following were common \nexamples. Other examples, though rarely cited, could receive partial or full credit. \n3 points",
         "sub_parts": null
       }
     ]
@@ -216,7 +183,7 @@
     "type": "frq",
     "year": 2013,
     "number": 1,
-    "text": "A student places a 0.40 kg glider on an air track of negligible friction and holds it so that it touches an \nuncompressed ideal spring, as shown in Figure 1 above. The student then pushes the glider back to compress the \nspring by 0.25 m, as shown in Figure 2. At time t = 0, the student releases the glider, and a motion sensor begins \nrecording the velocity of the reflector at the front of the glider as a function of time. The data points are shown in \nthe table below. At time t = 0.79 s, the glider loses contact with the spring.  \n \nTime",
+    "text": "A student places a 0.40 kg glider on an air track of negligible friction and holds it so that it touches an \nuncompressed ideal spring, as shown in Figure 1 above. The student then pushes the glider back to compress the \nspring by 0.25 m, as shown in Figure 2. At time t = 0, the student releases the glider, and a motion sensor begins \nrecording the velocity of the reflector at the front of the glider as a function of time. The data points are shown in \nthe table below. At time t = 0.79 s, the glider loses contact with the spring. \n \nTime",
     "parts": [
       {
         "label": "s",
@@ -225,7 +192,7 @@
       },
       {
         "label": "a",
-        "text": "On the axes below, plot the data points for velocity u  as a function of time t for the glider, and draw a \nsmooth curve that best fits the data. Be sure to label an appropriate scale on the vertical axis.",
+        "text": "On the axes below, plot the data points for velocity u as a function of time t for the glider, and draw a \nsmooth curve that best fits the data. Be sure to label an appropriate scale on the vertical axis.",
         "sub_parts": null
       },
       {
@@ -254,7 +221,7 @@
       },
       {
         "label": "e",
-        "text": "The experiment is run again, but this time the glider is attached to the spring rather than simply being pushed \nagainst it.  \n \ni. Determine the amplitude of the resulting periodic motion. \n ii. Calculate the period of oscillation of the resulting periodic motion.\n\n2013 AP\n® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n\n-7- \n \n  Mech 2.  \n  A box of mass m initially at rest is acted upon by a constant applied force of magnitude \nA\nF , as shown in the \nfigure above. The friction between the box and the horizontal surface can be assumed to be negligible, but the \nbox is subject to a drag force of magnitude ku  where u  is the speed of the box and k  is a positive constant. \nExpress all your answers in terms of the given quantities and fundamental constants, as appropriate.",
+        "text": "The experiment is run again, but this time the glider is attached to the spring rather than simply being pushed \nagainst it. \n \ni. Determine the amplitude of the resulting periodic motion. \n ii. Calculate the period of oscillation of the resulting periodic motion.\n\n2013 AP\n® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSMech 2. \n A box of mass m initially at rest is acted upon by a constant applied force of magnitude \nA\nF , as shown in the \nfigure above. The friction between the box and the horizontal surface can be assumed to be negligible, but the \nbox is subject to a drag force of magnitude ku where u is the speed of the box and k is a positive constant. \nExpress all your answers in terms of the given quantities and fundamental constants, as appropriate.",
         "sub_parts": [
           {
             "label": "i",
@@ -262,7 +229,7 @@
           },
           {
             "label": "ii",
-            "text": "Calculate the period of oscillation of the resulting periodic motion.\n\n2013 AP\n® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n\n-7- \n \n  Mech 2.  \n  A box of mass m initially at rest is acted upon by a constant applied force of magnitude \nA\nF , as shown in the \nfigure above. The friction between the box and the horizontal surface can be assumed to be negligible, but the \nbox is s"
+            "text": "Calculate the period of oscillation of the resulting periodic motion.\n\n2013 AP\n® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSMech 2. \n A box of mass m initially at rest is acted upon by a constant applied force of magnitude \nA\nF , as shown in the \nfigure above. The friction between the box and the horizontal surface can be assumed to be negligible, but the \nbox is s"
           }
         ]
       },
@@ -273,7 +240,7 @@
       },
       {
         "label": "b",
-        "text": "Write, but do not solve, a differential equation that could be used to determine the speed u  of the box as a \nfunction of time t. If you need to draw anything other than what you have shown in part",
+        "text": "Write, but do not solve, a differential equation that could be used to determine the speed u of the box as a \nfunction of time t. If you need to draw anything other than what you have shown in part",
         "sub_parts": null
       },
       {
@@ -303,12 +270,12 @@
       },
       {
         "label": "b",
-        "text": "to derive the equation for the speed u  of the box as a function of \ntime t. Assume that u  = 0 at time t = 0.",
+        "text": "to derive the equation for the speed u of the box as a function of \ntime t. Assume that u = 0 at time t = 0.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "On the axes below, sketch a graph of the speed u  of the box as a function of time t. Explicitly label any \nintercepts, asymptotes, maxima, or minima with numerical values or algebraic expressions, as appropriate.\n\n2013 AP\n® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n\n \n  Mech 3.  \n  A disk of mass M = 2.0 kg and radius R = 0.10 m is supported by a rope of negligible mass, as shown above. The \nrope is attached to the ceiling at one end and passes under the disk. The other end of the rope is pulled upward \nwith a force \nA\nF . The rotational inertia of the disk around its center is \n2 2\nMR\n.",
+        "text": "On the axes below, sketch a graph of the speed u of the box as a function of time t. Explicitly label any \nintercepts, asymptotes, maxima, or minima with numerical values or algebraic expressions, as appropriate.\n\n2013 AP\n® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n\n \n Mech 3. \n A disk of mass M = 2.0 kg and radius R = 0.10 m is supported by a rope of negligible mass, as shown above. The \nrope is attached to the ceiling at one end and passes under the disk. The other end of the rope is pulled upward \nwith a force \nA\nF . The rotational inertia of the disk around its center is \n2 2\nMR\n.",
         "sub_parts": [
           {
             "label": "",
@@ -318,7 +285,7 @@
       },
       {
         "label": "a",
-        "text": "Calculate the magnitude of the force \nA\nF  necessary to hold the disk at rest. \n  At time t = 0, the force \nA\nF  is increased to 12 N, causing the disk to accelerate upward. The rope does not slip on \nthe disk as the disk rotates.",
+        "text": "Calculate the magnitude of the force \nA\nF necessary to hold the disk at rest. \n At time t = 0, the force \nA\nF is increased to 12 N, causing the disk to accelerate upward. The rope does not slip on \nthe disk as the disk rotates.",
         "sub_parts": null
       },
       {
@@ -338,7 +305,7 @@
       },
       {
         "label": "e",
-        "text": "The disk is replaced by a hoop of the same mass and radius. Indicate whether the linear acceleration of the \nhoop is greater than, less than, or the same as the linear acceleration of the disk. \n \n     Greater than           Less than           The same as \n \nJustify your answer.  \n \n \n \n \n \n \n \nSTOP",
+        "text": "The disk is replaced by a hoop of the same mass and radius. Indicate whether the linear acceleration of the \nhoop is greater than, less than, or the same as the linear acceleration of the disk. \n \n Greater than Less than The same as \n \nJustify your answer. \n \n \n \n \n \n \n \nSTOP",
         "sub_parts": null
       }
     ]
@@ -348,7 +315,7 @@
     "type": "frq",
     "year": 2017,
     "number": 1,
-    "text": "An Atwood’s machine consists of two blocks connected by a light string that passes over a frictionless pulley of \nnegligible mass, as shown in the figure above. The masses of the two blocks, \nM\n sub 1\n \nand M sub 2\n , can be varied. \nM\n sub 2\n  is \nalways greater than \nM\n sub 1\n .",
+    "text": "An Atwood’s machine consists of two blocks connected by a light string that passes over a frictionless pulley of \nnegligible mass, as shown in the figure above. The masses of the two blocks, \nM\n sub 1\n \nand M sub 2\n , can be varied. \nM\n sub 2\n is \nalways greater than \nM\n sub 1\n .",
     "parts": [
       {
         "label": "a",
@@ -357,7 +324,7 @@
       },
       {
         "label": "b",
-        "text": "Using the forces in your diagrams above, write an equation applying Newton’s second law to each block and \nuse these two equations to derive the magnitude of the acceleration of the blocks and show that it is given by \nthe equation: \na\n \ne\nq\nu\na\nl\ns\n \nt\nh\ne\n \nf\nr\na\nc\ntion with numerator, open parenthesis, M sub 2 minus M sub 1, close parenthesis, and denominator, open parenthesis, M sub 1 plus M sub 2, close parenthesis, end fraction, g\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n \n\n-6- \n  The magnitude of the acceleration a was measured for different values of \nM\n sub 1\n \nand M sub 2\n , and the data are  \nshown below. \nT\nh e figu\nre s\nhows\n a 5\n row\n tab\nl\ne  with \n5 co\nlumn\ns of \ndata\n. Th\ne heading\n for \nrow 1\n is “\nM sub\n 1, \ni\nn\n \nkilograms.” The heading for row 2 is “M sub 2, in kilograms.” The heading for row 3 is “a, in meters per s squared.” The dat",
+        "text": "Using the forces in your diagrams above, write an equation applying Newton’s second law to each block and \nuse these two equations to derive the magnitude of the acceleration of the blocks and show that it is given by \nthe equation: \na\n \ne\nq\nu\na\nl\ns\n \nt\nh\ne\n \nf\nr\na\nc\ntion with numerator, open parenthesis, M sub 2 minus M sub 1, close parenthesis, and denominator, open parenthesis, M sub 1 plus M sub 2, close parenthesis, end fraction, g\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSThe magnitude of the acceleration a was measured for different values of \nM\n sub 1\n \nand M sub 2\n , and the data are \nshown below. \nT\nh e figu\nre s\nhows\n a 5\n row\n tab\nl\ne with \n5 co\nlumn\ns of \ndata\n. Th\ne heading\n for \nrow 1\n is “\nM sub\n 1, \ni\nn\n \nkilograms.” The heading for row 2 is “M sub 2, in kilograms.” The heading for row 3 is “a, in meters per s squared.” The dat",
         "sub_parts": [
           {
             "label": "",
@@ -367,7 +334,7 @@
       },
       {
         "label": "c",
-        "text": "Indicate below which quantities should be graphed to yield a straight line whose slope could be used to \ncalculate a numerical value for the acceleration due to gravity g.  \n \nVertical axis:\n \n \n \n \n \n \n \nHorizontal axis:\n \n  \n \n \n \n \nUse the remaining rows in the table above, as needed, to record any quantities that you indicated that are not \ngiven.",
+        "text": "Indicate below which quantities should be graphed to yield a straight line whose slope could be used to \ncalculate a numerical value for the acceleration due to gravity g. \n \nVertical axis:\n \n \n \n \n \n \n \nHorizontal axis:\n \n \n \n \n \n \nUse the remaining rows in the table above, as needed, to record any quantities that you indicated that are not \ngiven.",
         "sub_parts": null
       },
       {
@@ -382,17 +349,17 @@
       },
       {
         "label": "e",
-        "text": "Using your straight line, determine an experimental value for g.\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n \n\n-7- \nThe figure presents an Atwood’s machine. A block labeled M sub 1 is on a smooth, horizontal table, attached to a pulley on the right edge of the table. A block labeled M sub 2 is also attached to the pulley, hanging over the side of the table.\nThe experiment is now repeated with a modification. The Atwood’s machine is now set up so that the block  \nof mass \nM\n sub 1\n  is on a smooth, horizontal table and the block of mass \nM\n sub 2\n  is hanging over the side of the table,  \nas shown in the figure above.",
+        "text": "Using your straight line, determine an experimental value for g.\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSThe figure presents an Atwood’s machine. A block labeled M sub 1 is on a smooth, horizontal table, attached to a pulley on the right edge of the table. A block labeled M sub 2 is also attached to the pulley, hanging over the side of the table.\nThe experiment is now repeated with a modification. The Atwood’s machine is now set up so that the block \nof mass \nM\n sub 1\n is on a smooth, horizontal table and the block of mass \nM\n sub 2\n is hanging over the side of the table, \nas shown in the figure above.",
         "sub_parts": null
       },
       {
         "label": "f",
-        "text": "For the same values of \nM\n sub 1\n \nand M sub 2\n ,  is the magnitude of the tension in the string when the blocks are \nmoving higher, lower, or equal to the magnitude of the tension in the string when the blocks are moving in \nthe first experiment?  \n \n____ Higher        ____ Lower        ____ Equal to \n \nJustify your answer.",
+        "text": "For the same values of \nM\n sub 1\n \nand M sub 2\n , is the magnitude of the tension in the string when the blocks are \nmoving higher, lower, or equal to the magnitude of the tension in the string when the blocks are moving in \nthe first experiment? \n \n____ Higher ____ Lower ____ Equal to \n \nJustify your answer.",
         "sub_parts": null
       },
       {
         "label": "g",
-        "text": "The value determined for the acceleration due to gravity g is lower than in the first experiment. Give one \nphysical factor that could account for this lower value and explain how this factor affected the experiment.\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n \n \n\n-8- The figure presents a block of mass m at rest at the top of an inclined plane that moves downward from left to right. The height of the inclined plane is labeled h. On the surface and to the right of the plane, a spring is horizontally placed on a wall.\nNote: Figure not drawn to scale.",
+        "text": "The value determined for the acceleration due to gravity g is lower than in the first experiment. Give one \nphysical factor that could account for this lower value and explain how this factor affected the experiment.\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSThe figure presents a block of mass m at rest at the top of an inclined plane that moves downward from left to right. The height of the inclined plane is labeled h. On the surface and to the right of the plane, a spring is horizontally placed on a wall.\nNote: Figure not drawn to scale.",
         "sub_parts": null
       }
     ]
@@ -421,7 +388,7 @@
       },
       {
         "label": "a",
-        "text": "i. Derive an expression for the speed of the block just before it collides with the spring. \n \n \n ii. Is the speed halfway down the incline greater than, less than, or equal to one-half the speed at the \nbottom of the inclined plane? \n \n ____ Greater than        _____ Less than         ____ Equal to \n \n Justify your answer.",
+        "text": "i. Derive an expression for the speed of the block just before it collides with the spring. \n \n \n ii. Is the speed halfway down the incline greater than, less than, or equal to one-half the speed at the \nbottom of the inclined plane? \n \n ____ Greater than _____ Less than ____ Equal to \n \n Justify your answer.",
         "sub_parts": [
           {
             "label": "i",
@@ -429,7 +396,7 @@
           },
           {
             "label": "ii",
-            "text": "Is the speed halfway down the incline greater than, less than, or equal to one-half the speed at the \nbottom of the inclined plane? \n \n ____ Greater than        _____ Less than         ____ Equal to \n \n Justify your answer."
+            "text": "Is the speed halfway down the incline greater than, less than, or equal to one-half the speed at the \nbottom of the inclined plane? \n \n ____ Greater than _____ Less than ____ Equal to \n \n Justify your answer."
           }
         ]
       },
@@ -440,16 +407,16 @@
       },
       {
         "label": "c",
-        "text": "Determine an expression for the time from when the block collides with the spring to when the spring \nreaches its maximum compression. \n  The block is again released from rest at the top of the incline, and when it reaches the horizontal surface it is \nmoving with speed v sub 0. Now suppose the block experiences a resistive force as it slides on the horizontal surface. \nThe magnitude of the resistive force F is given as a function of speed v by \nF\n \ne\nq\nuals, beta v squared\n,  where beta  is a positive \nconstant with units of Ki lograms per meter .",
+        "text": "Determine an expression for the time from when the block collides with the spring to when the spring \nreaches its maximum compression. \n The block is again released from rest at the top of the incline, and when it reaches the horizontal surface it is \nmoving with speed v sub 0. Now suppose the block experiences a resistive force as it slides on the horizontal surface. \nThe magnitude of the resistive force F is given as a function of speed v by \nF\n \ne\nq\nuals, beta v squared\n, where beta is a positive \nconstant with units of Ki lograms per meter .",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "i. Write, but do NOT solve, a differential equation for the speed of the block on the horizontal surface as \na function of time t before it reaches the spring. Express your answer in terms of m, h, k, ,  v, and \nbeta\nphysical constants, as appropriate. \n ii. Using the differential equation from part",
+        "text": "i. Write, but do NOT solve, a differential equation for the speed of the block on the horizontal surface as \na function of time t before it reaches the spring. Express your answer in terms of m, h, k, , v, and \nbeta\nphysical constants, as appropriate. \n ii. Using the differential equation from part",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Write, but do NOT solve, a differential equation for the speed of the block on the horizontal surface as \na function of time t before it reaches the spring. Express your answer in terms of m, h, k, ,  v, and \nbeta\nphysical constants, as appropriate."
+            "text": "Write, but do NOT solve, a differential equation for the speed of the block on the horizontal surface as \na function of time t before it reaches the spring. Express your answer in terms of m, h, k, , v, and \nbeta\nphysical constants, as appropriate."
           },
           {
             "label": "ii",
@@ -459,7 +426,7 @@
       },
       {
         "label": "d",
-        "text": "i, show that the speed of the block v of t  as a function of  \ntime t can be written in the form T h\ne\n \nf\nr\na\nc t\ni\no\nn\n \n1 over v  o f t, equals the fraction 1 over v sub 0, end fraction, plus the fraction beta t, over m, where v sub 0 is the speed at t equals zero.\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS",
+        "text": "i, show that the speed of the block v of t as a function of \ntime t can be written in the form T h\ne\n \nf\nr\na\nc t\ni\no\nn\n \n1 over v o f t, equals the fraction 1 over v sub 0, end fraction, plus the fraction beta t, over m, where v sub 0 is the speed at t equals zero.\n\n2017 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS",
         "sub_parts": null
       },
       {
@@ -474,7 +441,7 @@
     "type": "frq",
     "year": 2017,
     "number": 3,
-    "text": "A uniform solid cylinder of mass M equals 0 point 5 0 ki logram and radius R equals 0 point 1 0 meter\n is released from rest, rolls without slipping \ndown a 1 point 0 meter long inclined plane, and is launched horizontally from a horizontal table of height 0 point 7 5 meter. The \ninclined plane makes an angle of 30 degrees  with the horizontal. The cylinder lands on the floor a distance D away \nfrom the edge of the table, as shown in the figure above. There is a smooth transition from the inclined plane to \nthe horizontal table, and the motion occurs with no frictional energy losses. The rotational inertia of a cylinder \naround its center is M R squared over \n.",
+    "text": "A uniform solid cylinder of mass M equals 0 point 5 0 ki logram and radius R equals 0 point 1 0 meter\n is released from rest, rolls without slipping \ndown a 1 point 0 meter long inclined plane, and is launched horizontally from a horizontal table of height 0 point 7 5 meter. The \ninclined plane makes an angle of 30 degrees with the horizontal. The cylinder lands on the floor a distance D away \nfrom the edge of the table, as shown in the figure above. There is a smooth transition from the inclined plane to \nthe horizontal table, and the motion occurs with no frictional energy losses. The rotational inertia of a cylinder \naround its center is M R squared over \n.",
     "parts": [
       {
         "label": "a",
@@ -488,29 +455,29 @@
       },
       {
         "label": "c",
-        "text": "Calculate the ratio of the rotational kinetic energy to the total kinetic energy for the cylinder at the moment  \nit reaches the floor.",
+        "text": "Calculate the ratio of the rotational kinetic energy to the total kinetic energy for the cylinder at the moment \nit reaches the floor.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "Calculate the horizontal distance D.  \n  A sphere of the same mass and radius is now rolled down the same inclined plane. The rotational inertia of  \na sphere around its center is \nT\nw\no  fifths M R squared .",
+        "text": "Calculate the horizontal distance D. \n A sphere of the same mass and radius is now rolled down the same inclined plane. The rotational inertia of \na sphere around its center is \nT\nw\no fifths M R squared .",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "i. Is the total kinetic energy of the sphere at the moment it reaches the floor greater than, less than,  \nor equal to the total kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer. \n ii. Is the rotational kinetic energy of the sphere at the moment it reaches the floor greater than, less than, \nor equal to the rotational kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer. \n iii. Is the horizontal distance the sphere travels from the table to where it hits the floor greater than, less \nthan, or equal to the horizontal distance the cylinder travels from the table to where it hits the floor? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer. \n \n \nSTOP",
+        "text": "i. Is the total kinetic energy of the sphere at the moment it reaches the floor greater than, less than, \nor equal to the total kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer. \n ii. Is the rotational kinetic energy of the sphere at the moment it reaches the floor greater than, less than, \nor equal to the rotational kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer. \n iii. Is the horizontal distance the sphere travels from the table to where it hits the floor greater than, less \nthan, or equal to the horizontal distance the cylinder travels from the table to where it hits the floor? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer. \n \n \nSTOP",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Is the total kinetic energy of the sphere at the moment it reaches the floor greater than, less than,  \nor equal to the total kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer."
+            "text": "Is the total kinetic energy of the sphere at the moment it reaches the floor greater than, less than, \nor equal to the total kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer."
           },
           {
             "label": "ii",
-            "text": "Is the rotational kinetic energy of the sphere at the moment it reaches the floor greater than, less than, \nor equal to the rotational kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer."
+            "text": "Is the rotational kinetic energy of the sphere at the moment it reaches the floor greater than, less than, \nor equal to the rotational kinetic energy of the cylinder at the moment it reaches the floor? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer."
           },
           {
             "label": "iii",
-            "text": "Is the horizontal distance the sphere travels from the table to where it hits the floor greater than, less \nthan, or equal to the horizontal distance the cylinder travels from the table to where it hits the floor? \n \n ____ Greater than        ____ Less than        ____ Equal to \n \n Justify your answer. \n \n \nSTOP"
+            "text": "Is the horizontal distance the sphere travels from the table to where it hits the floor greater than, less \nthan, or equal to the horizontal distance the cylinder travels from the table to where it hits the floor? \n \n ____ Greater than ____ Less than ____ Equal to \n \n Justify your answer. \n \n \nSTOP"
           }
         ]
       }
@@ -525,7 +492,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "While taking the first data point, the student notices that the electromagnet actually releases the sphere after\nthe timer begins. Would the value of g calculated from this one measurement be greater than, less than, or\nequal to the actual value of g at the student’s location?\n____ Greater than        ____ Less than     ____ Equal to\nJustify your answer.\nThe electromagnet is replaced so that the timer begins when the sphere is released. The student varies the \ndistance h. The student measures and records the time Δt  of the fall for each particular height, resulting in the \nfollowing data table.  \n \nh",
+        "text": "While taking the first data point, the student notices that the electromagnet actually releases the sphere after\nthe timer begins. Would the value of g calculated from this one measurement be greater than, less than, or\nequal to the actual value of g at the student’s location?\n____ Greater than ____ Less than ____ Equal to\nJustify your answer.\nThe electromagnet is replaced so that the timer begins when the sphere is released. The student varies the \ndistance h. The student measures and records the time Δt of the fall for each particular height, resulting in the \nfollowing data table. \n \nh",
         "sub_parts": null
       },
       {
@@ -555,12 +522,12 @@
       },
       {
         "label": "d",
-        "text": "Using the straight line, calculate an experimental value for g.\nAnother student fits the data in the table to a quadratic equation. The student’s equation for the distance fallen y\nas a function of time t  is y = \n= \n2 \nAt\n +\n2 \nBt\n \n+ C , where A \n5.75 m s , B = −0.524 m s , and C = +0.080 m . \nVertically down is the positive direction.",
+        "text": "Using the straight line, calculate an experimental value for g.\nAnother student fits the data in the table to a quadratic equation. The student’s equation for the distance fallen y\nas a function of time t is y = \n= \n2 \nAt\n +\n2 \nBt\n \n+ C , where A \n5.75 m s , B = −0.524 m s , and C = +0.080 m . \nVertically down is the positive direction.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "Using the student’s equation above, do the following.\ni. Derive an expression for the velocity of the sphere as a function of time.\nii. Calculate the new experimental value for g.\niii. Using 9.81 m s2  as the accepted value for g at this location, calculate the percent error for the value \nfound in part",
+        "text": "Using the student’s equation above, do the following.\ni. Derive an expression for the velocity of the sphere as a function of time.\nii. Calculate the new experimental value for g.\niii. Using 9.81 m s2 as the accepted value for g at this location, calculate the percent error for the value \nfound in part",
         "sub_parts": [
           {
             "label": "i",
@@ -572,7 +539,7 @@
           },
           {
             "label": "iii",
-            "text": "Using 9.81 m s2  as the accepted value for g at this location, calculate the percent error for the value \nfound in part"
+            "text": "Using 9.81 m s2 as the accepted value for g at this location, calculate the percent error for the value \nfound in part"
           }
         ]
       },
@@ -593,7 +560,7 @@
     "type": "frq",
     "year": 2018,
     "number": 2,
-    "text": "Two carts are on a horizontal, level track of negligible friction. Cart 1 has a sensor that measures the force \nexerted on it during a collision with cart 2, which has a spring attached. Cart 1 is moving with a speed of \nv = 3.00 m s  \n0 \ntoward cart 2, which is at rest, as shown in the figure above. The total mass of cart 1 and \nthe force sensor is 0.500 kg, the mass of cart 2 is 1.05 kg, and the spring has negligible mass. The spring has \na spring constant of \n \nk = 130 N m. The data for the force the spring exerts on cart 1 are shown in the graph \n2\nF = (3200  N s )t - (500  N s )t \nbelow. A student models the data as the quadratic fit \n.",
+    "text": "Two carts are on a horizontal, level track of negligible friction. Cart 1 has a sensor that measures the force \nexerted on it during a collision with cart 2, which has a spring attached. Cart 1 is moving with a speed of \nv = 3.00 m s \n0 \ntoward cart 2, which is at rest, as shown in the figure above. The total mass of cart 1 and \nthe force sensor is 0.500 kg, the mass of cart 2 is 1.05 kg, and the spring has negligible mass. The spring has \na spring constant of \n \nk = 130 N m. The data for the force the spring exerts on cart 1 are shown in the graph \n2\nF = (3200 N s )t - (500 N s )t \nbelow. A student models the data as the quadratic fit \n.",
     "parts": [
       {
         "label": "a",
@@ -602,7 +569,7 @@
       },
       {
         "label": "b",
-        "text": "i. Calculate the speed of cart 1 after the collision. \nii. In which direction does cart 1 move after the collision? \n____ Left \n  ____ Right \n____ The direction is undefined, because the speed of cart 1 is zero after the collision.",
+        "text": "i. Calculate the speed of cart 1 after the collision. \nii. In which direction does cart 1 move after the collision? \n____ Left \n ____ Right \n____ The direction is undefined, because the speed of cart 1 is zero after the collision.",
         "sub_parts": [
           {
             "label": "i",
@@ -610,7 +577,7 @@
           },
           {
             "label": "ii",
-            "text": "In which direction does cart 1 move after the collision? \n____ Left \n  ____ Right \n____ The direction is undefined, because the speed of cart 1 is zero after the collision."
+            "text": "In which direction does cart 1 move after the collision? \n____ Left \n ____ Right \n____ The direction is undefined, because the speed of cart 1 is zero after the collision."
           }
         ]
       },
@@ -653,7 +620,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "Using integral calculus, show that the rotational inertia of the rod about its left end is ML2 2.  \n \nThe thin hoop shown above in Figure 1 has a mass M, radius L, and a rotational inertia around its center of ML2 . \nThree rods identical to the rod from part",
+        "text": "Using integral calculus, show that the rotational inertia of the rod about its left end is ML2 2. \n \nThe thin hoop shown above in Figure 1 has a mass M, radius L, and a rotational inertia around its center of ML2 . \nThree rods identical to the rod from part",
         "sub_parts": null
       },
       {
@@ -663,12 +630,12 @@
       },
       {
         "label": "b",
-        "text": "Derive an expression for the rotational inertia Itot  of the hoop-rods system about the center of the hoop. \n \nExpress your answer in terms of M, L, and physical constants, as appropriate. \nThe hoop-rods system is initially at rest and held in place but is free to rotate around its center. A constant force \nF is exerted tangent to the hoop for a time Δt .",
+        "text": "Derive an expression for the rotational inertia Itot of the hoop-rods system about the center of the hoop. \n \nExpress your answer in terms of M, L, and physical constants, as appropriate. \nThe hoop-rods system is initially at rest and held in place but is free to rotate around its center. A constant force \nF is exerted tangent to the hoop for a time Δt .",
         "sub_parts": null
       },
       {
         "label": "c",
-        "text": "Derive an expression for the final angular speed ω  of the hoop-rods system. Express your answer in terms \nof M, L, F, Δt , and physical constants, as appropriate. \n\n \n \n \n \n \n \n \n2018 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \nThe hoop-rods system is rolling without slipping along a level horizontal surface with the angular speed \nfound in part",
+        "text": "Derive an expression for the final angular speed ω of the hoop-rods system. Express your answer in terms \nof M, L, F, Δt , and physical constants, as appropriate. \n\n \n \n \n \n \n \n \n2018 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \nThe hoop-rods system is rolling without slipping along a level horizontal surface with the angular speed \nfound in part",
         "sub_parts": null
       },
       {
@@ -738,14 +705,14 @@
     "type": "frq",
     "year": 2019,
     "number": 4,
-    "text": "Connections — Understanding connections of physics to other disciplines and to \nsocietal issues \nThe AP Physics C Exams have always emphasized achievement of the first two goals.  \nOver the years, the definitions of basic knowledge of the discipline and problem \nsolving have evolved.  The AP Physics C courses have reflected changes in college \ncourses, consistent with our primary charge.  We have increased our emphasis on \nphysical intuition, experimental investigation and creativity. We include more open-\nended questions in order to assess students’ ability to explain their understanding of \nphysical concepts.  We structure questions that stress the use of mathematics to \nilluminate the physical situation rather than to show manipulative abilities.  \nThe committee is dedicated to developing exams that can be graded fairly and \nconsistently and that are free of ethnic, gender, economic or other bias.  We operate \nunder practical constraints of testing methods, allotted time and large n"
+    "text": "Connections — Understanding connections of physics to other disciplines and to \nsocietal issues \nThe AP Physics C Exams have always emphasized achievement of the first two goals. \nOver the years, the definitions of basic knowledge of the discipline and problem \nsolving have evolved. The AP Physics C courses have reflected changes in college \ncourses, consistent with our primary charge. We have increased our emphasis on \nphysical intuition, experimental investigation and creativity. We include more open-\nended questions in order to assess students’ ability to explain their understanding of \nphysical concepts. We structure questions that stress the use of mathematics to \nilluminate the physical situation rather than to show manipulative abilities. \nThe committee is dedicated to developing exams that can be graded fairly and \nconsistently and that are free of ethnic, gender, economic or other bias. We operate \nunder practical constraints of testing methods, allotted time and large n"
   },
   {
     "id": "physics-mech_2019_frq_5",
     "type": "frq",
     "year": 2019,
     "number": 5,
-    "text": "Orbits of planets and satellites\t\n\t\na.\t Circular\t\nb.\t General\t\nPercentage Goals \nfor Exams\n\n\t\n\nContent Area \nAP Physics C: Electricity and Magnetism . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . \t\n100%\nA.\t Electrostatics\t\n30%"
+    "text": "Orbits of planets and satellites\t\n\t\na.\t Circular\t\nb.\t General\t\nPercentage Goals \nfor Exams\n\n\t\n\nContent Area \nAP Physics C: Electricity and Magnetism . . . . . . . . . . . . . . . . . . . . . . . . \t\n100%\nA.\t Electrostatics\t\n30%"
   },
   {
     "id": "physics-mech_2019_frq_6",
@@ -912,12 +879,12 @@
       },
       {
         "label": "e",
-        "text": "Answers to AP Physics C: Mechanics Multiple-Choice Questions\n1 – d\n2 – a\n3 – a\n4 – e\n5 – a\n6 – d\n7 – b\n8 – c\n  9 – a\n10 – b\nv\n\nSample Questions for AP Physics C: Mechanics\nAP Physics C: Mechanics Sample Free-Response Questions\nAP PHYSICS C: MECHANICS \nSECTION II \nTime—45 minutes \n3 Questions \nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the \nquestions, which are worth 15 points each. The parts within a question may not have equal weight.\n \nMech. 1. \nStudents are to conduct an experiment to investigate the relationship between the terminal speed of a \nstack of falling paper coffee filters and its mass. Their procedure involves stacking a number of coffee \nfilters, like the one shown in the figure above, and dropping the stack from rest. The students change \nthe number of filters in the stack to vary the mass m while keeping the shape of the stack th",
+        "text": "Answers to AP Physics C: Mechanics Multiple-Choice Questions\n1 – d\n2 – a\n3 – a\n4 – e\n5 – a\n6 – d\n7 – b\n8 – c\n 9 – a\n10 – b\nv\n\nSample Questions for AP Physics C: Mechanics\nAP Physics C: Mechanics Sample Free-Response Questions\nAP PHYSICS C: MECHANICS \nSECTION II \nTime—45 minutes \n3 Questions \nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the \nquestions, which are worth 15 points each. The parts within a question may not have equal weight.\n \nMech. 1. \nStudents are to conduct an experiment to investigate the relationship between the terminal speed of a \nstack of falling paper coffee filters and its mass. Their procedure involves stacking a number of coffee \nfilters, like the one shown in the figure above, and dropping the stack from rest. The students change \nthe number of filters in the stack to vary the mass m while keeping the shape of the stack th",
         "sub_parts": null
       },
       {
         "label": "a",
-        "text": "\u0007The students suspect that the drag force FD is proportional to the square of the speed v: F\nCv\nD =\n2, \nwhere C is a constant. Using this relationship, derive an expression relating the terminal speed vT to \nthe mass m. \nThe students conduct the experiment and obtain the following data. \n \n \n \n \n \n \nMass of the stack of filters, m (kg)\n1 12\n10 3\n.\n¥\n-\n2 04\n10 3\n.\n¥\n-\n2 96\n10 3\n.\n¥\n-\n4 18\n10 3\n.\n¥\n-\n5 10\n10 3\n.\n¥\n-\nTerminal speed, vT  m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06",
+        "text": "\u0007The students suspect that the drag force FD is proportional to the square of the speed v: F\nCv\nD =\n2, \nwhere C is a constant. Using this relationship, derive an expression relating the terminal speed vT to \nthe mass m. \nThe students conduct the experiment and obtain the following data. \n \n \n \n \n \n \nMass of the stack of filters, m (kg)\n1 12\n10 3\n.\n¥\n-\n2 04\n10 3\n.\n¥\n-\n2 96\n10 3\n.\n¥\n-\n4 18\n10 3\n.\n¥\n-\n5 10\n10 3\n.\n¥\n-\nTerminal speed, vT m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06",
         "sub_parts": [
           {
             "label": "",
@@ -937,7 +904,7 @@
           },
           {
             "label": "",
-            "text": "¥\n-\nTerminal speed, vT  m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06"
+            "text": "¥\n-\nTerminal speed, vT m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06"
           }
         ]
       },
@@ -948,7 +915,7 @@
       },
       {
         "label": "i",
-        "text": "\u0007Assuming the functional relationship for the drag force above,use the grid below to plot a \nlinear graph as a function of m to verify the relationship. Use the empty boxes in the data table, \nas appropriate, to record any calculated values you are graphing. Label the vertical axis as \nappropriate, and place numbers on both axes. \n\nSample Questions for AP Physics C: Mechanics\n\t\n(ii)  \t Use your graph to calculate C.\nA particular stack of filters with mass m is dropped from rest and reaches a speed very close to terminal speed\nby the time it has fallen a vertical distance Y.",
+        "text": "\u0007Assuming the functional relationship for the drag force above,use the grid below to plot a \nlinear graph as a function of m to verify the relationship. Use the empty boxes in the data table, \nas appropriate, to record any calculated values you are graphing. Label the vertical axis as \nappropriate, and place numbers on both axes. \n\nSample Questions for AP Physics C: Mechanics\n\t\n(ii) \t Use your graph to calculate C.\nA particular stack of filters with mass m is dropped from rest and reaches a speed very close to terminal speed\nby the time it has fallen a vertical distance Y.",
         "sub_parts": null
       },
       {
@@ -973,11 +940,11 @@
       },
       {
         "label": "d",
-        "text": "Determine an expression for the approximate amount of mechanical energy dissipated, ∆E , due to air\n\t\nresistance during the time the stack falls a distance y, where \n . Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n  Mech. 2. \n \n  A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled  \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of  \n2 MR2\nmass M and radius R about its center of mass is \n.",
+        "text": "Determine an expression for the approximate amount of mechanical energy dissipated, ∆E , due to air\n\t\nresistance during the time the stack falls a distance y, where \n . Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 2. \n \n A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of \n2 MR2\nmass M and radius R about its center of mass is \n.",
         "sub_parts": [
           {
             "label": "",
-            "text": "Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n  Mech. 2. \n \n  A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled  \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of  \n2 MR2\nmass M and radius R about its center of mass"
+            "text": "Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 2. \n \n A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of \n2 MR2\nmass M and radius R about its center of mass"
           }
         ]
       },
@@ -1013,7 +980,7 @@
       },
       {
         "label": "d",
-        "text": "A wagon containing a box is at rest on the ground below the roof so that the ball falls a vertical distance of \n3.0 m and lands and sticks in the center of the box. The total mass of the wagon and the box is 12 kg. \nCalculate the horizontal speed of the wagon immediately after the ball lands in it.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n  Mech. 3. \n A skier of mass m will be pulled up a hill by a rope, as shown above. The magnitude of the acceleration of the \nskier as a function of time lowercase t can be modeled by the equations \n \nmax sin\n      (0\n \n)\n  \n 0                          (\n),\nt\na\na\nt\nT\nT\nt\nT\np\n=\n<\n<\n \n=\n≥\n  where amax  and T are constants. The hill is inclined at an angle theta  above the horizontal, and friction between the \nskis and the snow is negligible. Express your answers in terms of given quantities and fundamental constants.",
+        "text": "A wagon containing a box is at rest on the ground below the roof so that the ball falls a vertical distance of \n3.0 m and lands and sticks in the center of the box. The total mass of the wagon and the box is 12 kg. \nCalculate the horizontal speed of the wagon immediately after the ball lands in it.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 3. \n A skier of mass m will be pulled up a hill by a rope, as shown above. The magnitude of the acceleration of the \nskier as a function of time lowercase t can be modeled by the equations \n \nmax sin\n (0\n \n)\n \n 0 (\n),\nt\na\na\nt\nT\nT\nt\nT\np\n=\n<\n<\n \n=\n≥\n where amax and T are constants. The hill is inclined at an angle theta above the horizontal, and friction between the \nskis and the snow is negligible. Express your answers in terms of given quantities and fundamental constants.",
         "sub_parts": null
       },
       {
@@ -1038,11 +1005,11 @@
       },
       {
         "label": "e",
-        "text": "Suppose that the magnitude of the acceleration is instead modeled as a = a\ne pt 2T\nmax\n \n-\nfor all t > 0 , where \namax  and T are the same as in the original model. On the axes below, sketch the graphs of the force exerted \nby the rope on the skier for the two models, from t = 0  to a time t\nT\n>\n. Label the original model F1  and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams.  The answers are \non page 55.  Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numerical quantities are abbreviated, using the abbrevia­\ntions listed in the table of information included with the exams (see insert in this book. )\nDirections: Each of the questions or incomplete stateme",
+        "text": "Suppose that the magnitude of the acceleration is instead modeled as a = a\ne pt 2T\nmax\n \n-\nfor all t > 0 , where \namax and T are the same as in the original model. On the axes below, sketch the graphs of the force exerted \nby the rope on the skier for the two models, from t = 0 to a time t\nT\n>\n. Label the original model F1 and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams. The answers are \non page 55. Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numerical quantities are abbreviated, using the abbrevia­\ntions listed in the table of information included with the exams (see insert in this book. )\nDirections: Each of the questions or incomplete stateme",
         "sub_parts": [
           {
             "label": "",
-            "text": "Label the original model F1  and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams.  The answers are \non page 55.  Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numer"
+            "text": "Label the original model F1 and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams. The answers are \non page 55. Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numer"
           }
         ]
       }
@@ -1060,7 +1027,7 @@
     "type": "frq",
     "year": 2019,
     "number": 2,
-    "text": "A pendulum of length L consists of block 1 of mass 3 M attached to the end of a string. Block 1 is released  \n \n  \n \n \n \n \n2019 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \nfrom rest with the string horizontal, as shown above. At the bottom of its swing, block 1 collides with block 2 of \nmass M, which is initially at rest at the edge of a table of height 2 L. Block 1 never touches the table. As a result \nof the collision, block 2 is launched horizontally from the table, landing on the floor a distance 4 L from the base \nof the table. After the collision, block 1 continues forward and swings up. At its highest point, the string makes \nan angle theta sub max  to the vertical. Air resistance and friction are negligible. Express all algebraic answers in terms of \nM, L, and physical constants, as appropriate.",
+    "text": "A pendulum of length L consists of block 1 of mass 3 M attached to the end of a string. Block 1 is released \n \n \n \n \n \n \n2019 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \nfrom rest with the string horizontal, as shown above. At the bottom of its swing, block 1 collides with block 2 of \nmass M, which is initially at rest at the edge of a table of height 2 L. Block 1 never touches the table. As a result \nof the collision, block 2 is launched horizontally from the table, landing on the floor a distance 4 L from the base \nof the table. After the collision, block 1 continues forward and swings up. At its highest point, the string makes \nan angle theta sub max to the vertical. Air resistance and friction are negligible. Express all algebraic answers in terms of \nM, L, and physical constants, as appropriate.",
     "parts": [
       {
         "label": "a",
@@ -1074,7 +1041,7 @@
       },
       {
         "label": "c",
-        "text": "Derive an expression for the tension F sub T  in the string when the string is vertical just before block 1 makes \ncontact with block 2. If you need to draw anything other than what you have shown in part",
+        "text": "Derive an expression for the tension F sub T in the string when the string is vertical just before block 1 makes \ncontact with block 2. If you need to draw anything other than what you have shown in part",
         "sub_parts": null
       },
       {
@@ -1119,7 +1086,7 @@
       },
       {
         "label": "g",
-        "text": "Calculate the angle theta sub max  that the string makes with the vertical, as shown in the original figure, when \nblock 1 is at its highest point after the collision. \n",
+        "text": "Calculate the angle theta sub max that the string makes with the vertical, as shown in the original figure, when \nblock 1 is at its highest point after the collision.",
         "sub_parts": null
       }
     ]
@@ -1129,11 +1096,11 @@
     "type": "frq",
     "year": 2019,
     "number": 3,
-    "text": "A horizontal circular platform with rotational inertia I sub p  rotates freely without friction on a vertical axis. A small \nmotor-driven wheel that is used to rotate the platform is mounted under the platform and touches it. The wheel \nhas radius r and touches the platform a distance D from the vertical axis of the platform, as shown above. The \nplatform starts at rest, and the wheel exerts a constant horizontal force of magnitude F tangent to the wheel until \nthe platform reaches an angular speed omega sub p  after time delta t. During time delta t , the wheel stays in contact with the \nplatform without slipping.",
+    "text": "A horizontal circular platform with rotational inertia I sub p rotates freely without friction on a vertical axis. A small \nmotor-driven wheel that is used to rotate the platform is mounted under the platform and touches it. The wheel \nhas radius r and touches the platform a distance D from the vertical axis of the platform, as shown above. The \nplatform starts at rest, and the wheel exerts a constant horizontal force of magnitude F tangent to the wheel until \nthe platform reaches an angular speed omega sub p after time delta t. During time delta t , the wheel stays in contact with the \nplatform without slipping.",
     "parts": [
       {
         "label": "a",
-        "text": "Derive an expression for the angular speed omega sub p  of the platform. Express your answer in terms of I sub p , r, D, F, \ndelta t , and physical constants, as appropriate.",
+        "text": "Derive an expression for the angular speed omega sub p of the platform. Express your answer in terms of I sub p , r, D, F, \ndelta t , and physical constants, as appropriate.",
         "sub_parts": null
       },
       {
@@ -1143,17 +1110,17 @@
       },
       {
         "label": "c",
-        "text": "Derive an expression for the angular speed of the wheel omega sub W  when the platform has reached angular \nspeed omega sub p . Express your answer in terms of D, r, omega sub p , and physical constants, as appropriate. \n \n  \n \n \nWhen the platform is spinning at angular speed omega sub p , the motor-driven wheel is removed. A student holds a disk \ndirectly above and concentric with the platform, as shown above. The disk has the same rotational inertia I sub p  as \nthe platform. The student releases the disk from rest, and the disk falls onto the platform. After a short time, the \ndisk and platform are observed to be rotating together at angular speed omega sub f.",
+        "text": "Derive an expression for the angular speed of the wheel omega sub W when the platform has reached angular \nspeed omega sub p . Express your answer in terms of D, r, omega sub p , and physical constants, as appropriate. \n \n \n \n \nWhen the platform is spinning at angular speed omega sub p , the motor-driven wheel is removed. A student holds a disk \ndirectly above and concentric with the platform, as shown above. The disk has the same rotational inertia I sub p as \nthe platform. The student releases the disk from rest, and the disk falls onto the platform. After a short time, the \ndisk and platform are observed to be rotating together at angular speed omega sub f.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "Derive an expression for omega sub f. Express your answer in terms of omega sub p , I sub p, and physical constants, as \nappropriate. \n2019 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n-8- \nA student now uses the rotating platform open parenthesis, I sub p equals 3.1 kilograms times meters squared, close parenthesis \n to determine the rotational inertia I sub U  of an \nunknown object about a vertical axis that passes through the object’s center of mass. The platform is rotating at \nan initial angular speed omega sub i  when the unknown object is dropped with its center of mass directly above the center \nof the platform. The platform and object are observed to be rotating together at angular speed omega sub f. Trials are \nrepeated for different values of omega sub i. A graph of omega sub f  as a function of omega sub i  is shown on the axes below. \n \n \n \n \n2019 AP® PHYSICS C:",
+        "text": "Derive an expression for omega sub f. Express your answer in terms of omega sub p , I sub p, and physical constants, as \nappropriate. \n2019 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSA student now uses the rotating platform open parenthesis, I sub p equals 3.1 kilograms times meters squared, close parenthesis \n to determine the rotational inertia I sub U of an \nunknown object about a vertical axis that passes through the object’s center of mass. The platform is rotating at \nan initial angular speed omega sub i when the unknown object is dropped with its center of mass directly above the center \nof the platform. The platform and object are observed to be rotating together at angular speed omega sub f. Trials are \nrepeated for different values of omega sub i. A graph of omega sub f as a function of omega sub i is shown on the axes below. \n \n \n \n \n2019 AP® PHYSICS C:",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "i. On the graph on the previous page, draw a best-fit line for the data.  \nii. Using the straight line, calculate the rotational inertia of the unknown object I sub U  about a vertical axis \npassing through its center of mass.",
+        "text": "i. On the graph on the previous page, draw a best-fit line for the data. \nii. Using the straight line, calculate the rotational inertia of the unknown object I sub U about a vertical axis \npassing through its center of mass.",
         "sub_parts": [
           {
             "label": "i",
@@ -1161,23 +1128,23 @@
           },
           {
             "label": "ii",
-            "text": "Using the straight line, calculate the rotational inertia of the unknown object I sub U  about a vertical axis \npassing through its center of mass."
+            "text": "Using the straight line, calculate the rotational inertia of the unknown object I sub U about a vertical axis \npassing through its center of mass."
           }
         ]
       },
       {
         "label": "f",
-        "text": "The kinetic energy of the spinning platform before the object is dropped on it is K sub i . The total kinetic energy \nof the platform-object system when it reaches angular speed omega sub f  is K  sub f . Which of the following  \nexpressions is true?  \n____ \n____\n____\nK \nsu b f,\n is less than K sub \ni\nK\n su\nb  f , eq\nu\nals K sub i\nK\n \ns ub  f, \ni\ns greater than K sub i\nJustify your answer.",
+        "text": "The kinetic energy of the spinning platform before the object is dropped on it is K sub i . The total kinetic energy \nof the platform-object system when it reaches angular speed omega sub f is K sub f . Which of the following \nexpressions is true? \n____ \n____\n____\nK \nsu b f,\n is less than K sub \ni\nK\n su\nb f , eq\nu\nals K sub i\nK\n \ns ub f, \ni\ns greater than K sub i\nJustify your answer.",
         "sub_parts": null
       },
       {
         "label": "g",
-        "text": "One of the students observes that the center of mass of the object is not actually aligned with the axis of  \nthe platform. Is the experimental value of I sub U  obtained in part",
+        "text": "One of the students observes that the center of mass of the object is not actually aligned with the axis of \nthe platform. Is the experimental value of I sub U obtained in part",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "greater than, less than, or equal to the \nactual value of the rotational inertia of the unknown object about a vertical axis that passes through its  \ncenter of mass? \n____ Greater than \n____ Less than  \n____ Equal to \nJustify your answer. \n2019 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONS \n-10- \nSTOP \n \n",
+        "text": "greater than, less than, or equal to the \nactual value of the rotational inertia of the unknown object about a vertical axis that passes through its \ncenter of mass? \n____ Greater than \n____ Less than \n____ Equal to \nJustify your answer. \n2019 AP® PHYSICS C: MECHANICS FREE-RESPONSE QUESTIONSSTOP",
         "sub_parts": null
       }
     ]
@@ -1187,80 +1154,59 @@
     "type": "frq",
     "year": 2019,
     "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu"
+    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals energy \nuppercase F, equals force \nlowercase f, equals \n frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nuppercase K, equals kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals length\nuppercase L, equals \n angular momentum \nm equals mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu"
   },
   {
     "id": "physics-mech_2019_frq_6",
     "type": "frq",
     "year": 2019,
     "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2019_frq_5",
-    "type": "frq",
-    "year": 2019,
-    "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu"
-  },
-  {
-    "id": "physics-mech_2019_frq_6",
-    "type": "frq",
-    "year": 2019,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2021_frq_1",
-    "type": "frq",
-    "year": 2021,
-    "number": 1,
-    "text": "2 .\n3 .\n4 ."
+    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
   },
   {
     "id": "physics-mech_2021_frq_2",
     "type": "frq",
     "year": 2021,
     "number": 2,
-    "text": "A block of mass  m  starts from rest at point  A  and travels with negligible friction through the loop onto a\nhorizontal surface, where the block makes contact with a spring of spring constant \n k \nequals the fraction m g over 2 R \n. All motion of the \nspring is in the horizontal direction. Point  C  is the highest point on the loop, and point  B  is the rightmost point \non the loop. Express all algebraic answers in terms of m, h, RR, and physical constants, as appropriate.",
+    "text": "A block of mass m starts from rest at point A and travels with negligible friction through the loop onto a\nhorizontal surface, where the block makes contact with a spring of spring constant \n k \nequals the fraction m g over 2 R \n. All motion of the \nspring is in the horizontal direction. Point C is the highest point on the loop, and point B is the rightmost point \non the loop. Express all algebraic answers in terms of m, h, RR, and physical constants, as appropriate.",
     "parts": [
       {
         "label": "a",
-        "text": "On the dot below, which represents the block, draw an arrow that represents the direction of the acceleration\nof the block at point  B  in the figure above. The arrow must start on and point away from the dot.\nJustify your answer.",
+        "text": "On the dot below, which represents the block, draw an arrow that represents the direction of the acceleration\nof the block at point B in the figure above. The arrow must start on and point away from the dot.\nJustify your answer.",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "i. Derive an expression for the speed  v  of the block at point B.\nii. Derive an expression for the magnitude of the net force  F  on the block at point B.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "i. Derive an expression for the speed v of the block at point B.\nii. Derive an expression for the magnitude of the net force F on the block at point B.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Derive an expression for the speed  v  of the block at point B."
+            "text": "Derive an expression for the speed v of the block at point B."
           },
           {
             "label": "ii",
-            "text": "Derive an expression for the magnitude of the net force  F  on the block at point B.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page."
+            "text": "Derive an expression for the magnitude of the net force F on the block at point B.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page."
           }
         ]
       },
       {
         "label": "c",
-        "text": "In terms of R, derive an expression for the minimum height  h sub min  necessary for the block to maintain\ncontact with the track through point C.",
+        "text": "In terms of R, derive an expression for the minimum height h sub min necessary for the block to maintain\ncontact with the track through point C.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "It is determined that \n \n \nh\n equals 0.30 meter and R equals 0.10 meter \n. If the block is released from a height greater than that\nfound in part ( )\nc , what would be the maximum compression  x sub MAX   of the spring?",
+        "text": "It is determined that \n \n \nh\n equals 0.30 meter and R equals 0.10 meter \n. If the block is released from a height greater than that\nfound in part ( )\nc , what would be the maximum compression x sub MAX of the spring?",
         "sub_parts": [
           {
             "label": "",
-            "text": "If the block is released from a height greater than that\nfound in part ( )\nc , what would be the maximum compression  x sub MAX   of the spring?"
+            "text": "If the block is released from a height greater than that\nfound in part ( )\nc , what would be the maximum compression x sub MAX of the spring?"
           }
         ]
       },
       {
         "label": "e",
-        "text": "A graph of the maximum compression of the spring as a function of height is shown below. The height\n h sub min  is the height calculated in part ( )\nc .\ni. Explain why section I appears as a horizontal line segment on the horizontal axis.\nii. Explain the reason for the shape of section II on the graph.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
+        "text": "A graph of the maximum compression of the spring as a function of height is shown below. The height\n h sub min is the height calculated in part ( )\nc .\ni. Explain why section I appears as a horizontal line segment on the horizontal axis.\nii. Explain the reason for the shape of section II on the graph.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
         "sub_parts": [
           {
             "label": "i",
@@ -1279,11 +1225,11 @@
     "type": "frq",
     "year": 2021,
     "number": 3,
-    "text": "A triangular rod of length  L and mass  M  has a nonuniform linear mass density given by the equation \n \nl\namb\nda equals y x squared \n ,\nwhere \n gamma equals the fraction 3 M over L cubed, end fraction and  x  is the distance from point  P  at the left end of the rod.",
+    "text": "A triangular rod of length L and mass M has a nonuniform linear mass density given by the equation \n \nl\namb\nda equals y x squared \n ,\nwhere \n gamma equals the fraction 3 M over L cubed, end fraction and x is the distance from point P at the left end of the rod.",
     "parts": [
       {
         "label": "a",
-        "text": "Using integral calculus, show that the rotational inertia  I  of the rod about an axis perpendicular to the page\nand through point  P  is   th\nree fifths M L squared \n .",
+        "text": "Using integral calculus, show that the rotational inertia I of the rod about an axis perpendicular to the page\nand through point P is th\nree fifths M L squared \n .",
         "sub_parts": [
           {
             "label": "",
@@ -1298,12 +1244,12 @@
       },
       {
         "label": "c",
-        "text": "For an axis perpendicular to the page, is the value of the rotational inertia of the rod around point  P  greater\nthan, less than, or equal to the value of the rotational inertia of the rod around the rod’s center of mass?\n_____ Greater than \n_____ Less than \n_____ Equal to \nJustify your answer. \nUnauthorized copying or reuse of this page is illegal. \nPage 8 \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe rod is released from rest in the position shown, and the rod begins to rotate about a horizontal axis \nperpendicular to the page and through point P.",
+        "text": "For an axis perpendicular to the page, is the value of the rotational inertia of the rod around point P greater\nthan, less than, or equal to the value of the rotational inertia of the rod around the rod’s center of mass?\n_____ Greater than \n_____ Less than \n_____ Equal to \nJustify your answer. \n \nPage 8 \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe rod is released from rest in the position shown, and the rod begins to rotate about a horizontal axis \nperpendicular to the page and through point P.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "On the axes below, sketch graphs of the magnitude of the net torque  tau  on the rod and the angular speed  omega \nof the rod as functions of time  t  from the time the rod is released until the time its center of mass reaches its\nlowest point.",
+        "text": "On the axes below, sketch graphs of the magnitude of the net torque tau on the rod and the angular speed omega \nof the rod as functions of time t from the time the rod is released until the time its center of mass reaches its\nlowest point.",
         "sub_parts": null
       },
       {
@@ -1313,11 +1259,11 @@
       },
       {
         "label": "f",
-        "text": "The mass of the rod is  3.0 kilograms \n, and the length of the rod is  1.0 meter \n. Calculate the linear speed  v  of point  S  as\nthe rod swings through the vertical position shown.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 10",
+        "text": "The mass of the rod is 3.0 kilograms \n, and the length of the rod is 1.0 meter \n. Calculate the linear speed v of point S as\nthe rod swings through the vertical position shown.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 10",
         "sub_parts": [
           {
             "label": "",
-            "text": "Calculate the linear speed  v  of point  S  as\nthe rod swings through the vertical position shown.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 10"
+            "text": "Calculate the linear speed v of point S as\nthe rod swings through the vertical position shown.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 10"
           }
         ]
       }
@@ -1328,47 +1274,33 @@
     "type": "frq",
     "year": 2021,
     "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb"
-  },
-  {
-    "id": "physics-mech_2021_frq_6",
-    "type": "frq",
-    "year": 2021,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2021_frq_1",
-    "type": "frq",
-    "year": 2021,
-    "number": 1,
-    "text": "2 .\n3 .\n4 ."
+    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals energy \nuppercase F, equals force \nlowercase f, equals \n frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nuppercase K, equals kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals length\nuppercase L, equals \n angular momentum \nm equals mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb"
   },
   {
     "id": "physics-mech_2021_frq_2",
     "type": "frq",
     "year": 2021,
     "number": 2,
-    "text": "Object A is a long, thin, uniform rod of mass  M and length  2 L  that is free to rotate about a pivot of negligible \nfriction at its left end, as shown above.",
+    "text": "Object A is a long, thin, uniform rod of mass M and length 2 L that is free to rotate about a pivot of negligible \nfriction at its left end, as shown above.",
     "parts": [
       {
         "label": "a",
-        "text": "Using integral calculus, derive an expression to show that the rotational inertia  I sub A   of object A about the \npivot is given by  four thirds M L squared \n. \nObject B of total mass  M  is formed by attaching two thin, uniform, identical rods of length  L  at a right angle \nto each other. Object B is held in place, as shown above. Express your answers in part",
+        "text": "Using integral calculus, derive an expression to show that the rotational inertia I sub A of object A about the \npivot is given by four thirds M L squared \n. \nObject B of total mass M is formed by attaching two thin, uniform, identical rods of length L at a right angle \nto each other. Object B is held in place, as shown above. Express your answers in part",
         "sub_parts": [
           {
             "label": "",
-            "text": "Object B of total mass  M  is formed by attaching two thin, uniform, identical rods of length  L  at a right angle \nto each other. Object B is held in place, as shown above. Express your answers in part"
+            "text": "Object B of total mass M is formed by attaching two thin, uniform, identical rods of length L at a right angle \nto each other. Object B is held in place, as shown above. Express your answers in part"
           }
         ]
       },
       {
         "label": "b",
-        "text": "in terms of  L  .",
+        "text": "in terms of L .",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "Determine the following for the given coordinate system shown in the figure. \ni. The x-coordinate of the center of mass of object B \nii. The y-coordinate of the center of mass of object B \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page. \nObject  B  has a rotational inertia of  I sub B  about its pivot.",
+        "text": "Determine the following for the given coordinate system shown in the figure. \ni. The x-coordinate of the center of mass of object B \nii. The y-coordinate of the center of mass of object B \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page. \nObject B has a rotational inertia of I sub B about its pivot.",
         "sub_parts": [
           {
             "label": "i",
@@ -1376,28 +1308,28 @@
           },
           {
             "label": "ii",
-            "text": "The y-coordinate of the center of mass of object B \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page. \nObject  B  has a rotational inertia of  I sub B  about its pivot."
+            "text": "The y-coordinate of the center of mass of object B \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page. \nObject B has a rotational inertia of I sub B about its pivot."
           }
         ]
       },
       {
         "label": "c",
-        "text": "Is the value of  I sub B  greater than, less than, or equal to  I sub A  ? \n_____ Greater than \n_____ Less than \n_____ Equal to \nJustify your answer. \nObject B is released from rest and begins to rotate about its pivot.",
+        "text": "Is the value of I sub B greater than, less than, or equal to I sub A ? \n_____ Greater than \n_____ Less than \n_____ Equal to \nJustify your answer. \nObject B is released from rest and begins to rotate about its pivot.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "On the axes below, sketch graphs of the magnitude of the angular acceleration  alpha  and the angular speed  \n omega \nof object B as functions of time  t  from the time it is released to the time its center of mass reaches its lowest \npoint. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "On the axes below, sketch graphs of the magnitude of the angular acceleration alpha and the angular speed \n omega \nof object B as functions of time t from the time it is released to the time its center of mass reaches its lowest \npoint. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "While object B \n \nrotates from the horizontal position down through the angle  theta  shown above, is the \nmagnitude of its angular acceleration increasing, decreasing, or not changing? \n_____ Increasing \n_____ Decreasing \n_____ Not changing \nJustify your answer. \nObject B rotates through the position shown above.",
+        "text": "While object B \n \nrotates from the horizontal position down through the angle theta shown above, is the \nmagnitude of its angular acceleration increasing, decreasing, or not changing? \n_____ Increasing \n_____ Decreasing \n_____ Not changing \nJustify your answer. \nObject B rotates through the position shown above.",
         "sub_parts": null
       },
       {
         "label": "f",
-        "text": "Derive an expression for the angular speed of object B when it is in the position shown above. Express your \nanswer in terms of  M  ,  \n L , \n \n I sub B , and physical constants, as appropriate. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
+        "text": "Derive an expression for the angular speed of object B when it is in the position shown above. Express your \nanswer in terms of M , \n L , \n \n I sub B , and physical constants, as appropriate. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
         "sub_parts": null
       }
     ]
@@ -1407,30 +1339,30 @@
     "type": "frq",
     "year": 2021,
     "number": 3,
-    "text": "A  block  of  mass  m is  placed  on  top  of  an  ideal  spring  of  spring  constant  k .  The  block  is  pushed  against  the  spring,\ncompressing  the  spring  a  distance  d\nelta x .  The  block  is  released  from  rest,  leaves  the  spring  at  the  position  shown  in  the\n \nfigure,  travels  upward,  and  enters  a  track  with  a  constant  radius  of  curvature   R that  has  negligible  friction.  The  block\n \nenters the \n \ntrack \n \nat \n point \n \n A , maintains \n \ncontact \n \nwith \n \nthe \n \ntrack, \n \nand \n \ne xits horizontally \n \nat \n point \n \n  B , a  distance \n \n 3\n R \n \nabove the\n \npoint the \n \nblock \n \nw as released. \n \n The block \n \nthen \n \nf alls to \n the \n \nground \n \nand \n \nlands \n \na  horizontal \n \ndistance \n \n D from the \n \nend \n \nof \n the\n \ntrack.  Express  all  algebraic  answers  in  terms  of m , k , \nde\nl\nt\na\n \nx, R\n,  and  physical  constants,  as  appropriate.  The  size  of  the\nblock is much smaller than the radius of curvature of the track.",
+    "text": "A block of mass m is placed on top of an ideal spring of spring constant k . The block is pushed against the spring,\ncompressing the spring a distance d\nelta x . The block is released from rest, leaves the spring at the position shown in the\n \nfigure, travels upward, and enters a track with a constant radius of curvature R that has negligible friction. The block\n \nenters the \n \ntrack \n \nat \n point \n \n A , maintains \n \ncontact \n \nwith \n \nthe \n \ntrack, \n \nand \n \ne xits horizontally \n \nat \n point \n \n B , a distance \n \n 3\n R \n \nabove the\n \npoint the \n \nblock \n \nw as released. \n \n The block \n \nthen \n \nf alls to \n the \n \nground \n \nand \n \nlands \n \na horizontal \n \ndistance \n \n D from the \n \nend \n \nof \n the\n \ntrack. Express all algebraic answers in terms of m , k , \nde\nl\nt\na\n \nx, R\n, and physical constants, as appropriate. The size of the\nblock is much smaller than the radius of curvature of the track.",
     "parts": [
       {
         "label": "a",
-        "text": "On the dot below, which represents the block, draw and label the forces (not components) that act on the\nblock while still in contact with the track at point  B .  Each force must be represented by a distinct arrow\nstarting on, and pointing away from, the dot.\nJustify your choice of vectors. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": "On the dot below, which represents the block, draw and label the forces (not components) that act on the\nblock while still in contact with the track at point B . Each force must be represented by a distinct arrow\nstarting on, and pointing away from, the dot.\nJustify your choice of vectors. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "i. Derive an expression for the speed  v  of the block at point B. \nii. Derive an expression for the magnitude of the net force  F  on the block at point B.",
+        "text": "i. Derive an expression for the speed v of the block at point B. \nii. Derive an expression for the magnitude of the net force F on the block at point B.",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Derive an expression for the speed  v  of the block at point B."
+            "text": "Derive an expression for the speed v of the block at point B."
           },
           {
             "label": "ii",
-            "text": "Derive an expression for the magnitude of the net force  F  on the block at point B."
+            "text": "Derive an expression for the magnitude of the net force F on the block at point B."
           }
         ]
       },
       {
         "label": "c",
-        "text": "Derive an expression for the minimum value of  delta x sub min required in order for the block to maintain contact \nwith the track through point B. \nThe procedure is repeated several times with the distance  delta x is greater than delta x sub min \n .",
+        "text": "Derive an expression for the minimum value of delta x sub min required in order for the block to maintain contact \nwith the track through point B. \nThe procedure is repeated several times with the distance delta x is greater than delta x sub min \n .",
         "sub_parts": [
           {
             "label": "",
@@ -1440,12 +1372,12 @@
       },
       {
         "label": "d",
-        "text": "Calculate the distance  D  that the block travels. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": "Calculate the distance D that the block travels. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "The graph below shows the best-fit line drawn by the students through their data of  D  as a function of  delta x . \ni. Explain why there are no data for section I of the graph. \nii. Explain the reason for the shape and minimum value of section II on the graph. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 12",
+        "text": "The graph below shows the best-fit line drawn by the students through their data of D as a function of delta x . \ni. Explain why there are no data for section I of the graph. \nii. Explain the reason for the shape and minimum value of section II on the graph. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 12",
         "sub_parts": [
           {
             "label": "i",
@@ -1464,16 +1396,16 @@
     "type": "frq",
     "year": 2021,
     "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb\n \nx\n \ns\nq\nu\na\nr\ne\nd\n, equals v sub x zero squared, plus 2 a sub x, open parenthesis x minus x sub zero close parenthesis \f\nvec\nt\no\nr\n a equals the fraction the summation of vector F over m, which equals the fraction vector F sub net over \nm\nv\ne\nc\nto\nr\n F equals the derivative of vector p with respect to t\nv\ne\nc\nt\no\nr\n J equals integral vector F times d t, which equals delta vector \np\nG\nG\nv\nec\nt\no\nr p equals m times vector v \nt\nh\ne\n \na\nb\ns\nolute value of vector F sub f is less than or equal to mu, times the absolute value of vector F sub n\nD\ne\nl t\na\n \nE\n \ne\nq uals W which equals the integral of vector F dot d vector r\nK\n \ne\nq\nu\na\nls one half m times v squared\nP  e\nq\nuals the derivative of E with respect to t\nP\n e\nq\nu\nals vector F dot vector v\nd\ne\nl\nt\na\n U sub g equals m times g, times delta h\na\n \ns\nu\nb\n \nc\n equals, the fraction, v squared over r, which equals, omega squared times \nr\nr\nv e\nc\nt\no\nr tau equals vector r, cross, vector \nF\nv\ne\nc\nt\no\nr\n \na\nl\npha\n equals the fraction the summati",
+    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals energy \nuppercase F, equals force \nlowercase f, equals \n frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nuppercase K, equals kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals length\nuppercase L, equals \n angular momentum \nm equals mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb\n \nx\n \ns\nq\nu\na\nr\ne\nd\n, equals v sub x zero squared, plus 2 a sub x, open parenthesis x minus x sub zero close parenthesis \f\nvec\nt\no\nr\n a equals the fraction the summation of vector F over m, which equals the fraction vector F sub net over \nm\nv\ne\nc\nto\nr\n F equals the derivative of vector p with respect to t\nv\ne\nc\nt\no\nr\n J equals integral vector F times d t, which equals delta vector \np\nG\nG\nv\nec\nt\no\nr p equals m times vector v \nt\nh\ne\n \na\nb\ns\nolute value of vector F sub f is less than or equal to mu, times the absolute value of vector F sub n\nD\ne\nl t\na\n \nE\n \ne\nq uals W which equals the integral of vector F dot d vector r\nK\n \ne\nq\nu\na\nls one half m times v squared\nP e\nq\nuals the derivative of E with respect to t\nP\n e\nq\nu\nals vector F dot vector v\nd\ne\nl\nt\na\n U sub g equals m times g, times delta h\na\n \ns\nu\nb\n \nc\n equals, the fraction, v squared over r, which equals, omega squared times \nr\nr\nv e\nc\nt\no\nr tau equals vector r, cross, vector \nF\nv\ne\nc\nt\no\nr\n \na\nl\npha\n equals the fraction the summati",
     "parts": [
       {
         "label": "a",
-        "text": "Calculate the minimum value of the coefficient of static friction   mu sub S that would keep the two-block system at \n \nrest. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: a \n t \nAP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 1 on this page. \nThe coefficient of friction is such that when block 2 is released from rest, block 1 travels across the surface. \nThe acceleration  of each block is recorded with motion detectors 1 and 2, as shown in the figure. The data \nfor the motion detectors as functions of time  are shown on the graphs. For each motion detector, the positive \ndirection is away from the detector.",
+        "text": "Calculate the minimum value of the coefficient of static friction mu sub S that would keep the two-block system at \n \nrest. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: a \n t \nAP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 1 on this page. \nThe coefficient of friction is such that when block 2 is released from rest, block 1 travels across the surface. \nThe acceleration of each block is recorded with motion detectors 1 and 2, as shown in the figure. The data \nfor the motion detectors as functions of time are shown on the graphs. For each motion detector, the positive \ndirection is away from the detector.",
         "sub_parts": null
       },
       {
         "label": "b",
-        "text": "On the dots below, which represent the blocks, draw and label the forces (not components) that act on each\nblock.  Each force must be represented by a distinct arrow starting on, and pointing away from, the dot.",
+        "text": "On the dots below, which represent the blocks, draw and label the forces (not components) that act on each\nblock. Each force must be represented by a distinct arrow starting on, and pointing away from, the dot.",
         "sub_parts": null
       },
       {
@@ -1483,12 +1415,12 @@
       },
       {
         "label": "d",
-        "text": "Careful measurements determine that the coefficient of kinetic friction is larger than the value calculated in\npart ( )\nc . Does the following explanation sufficiently account for the observed discrepancy?\n“The horizontal table was not perfectly level before the experiment was conducted. The observed difference in \nthe angle accounts for the difference in the expected and calculated values of \n_____\n mu sub k .” \nYes              _____ No \nJustify your answer. \nThe experiment is moved to a surface with negligible friction and run for eight trials.  In each trial, the students \nvary the masses m sub 1 andm sub 2  \nof blocks 1 and 2, respectively, while keeping the total mass  m\n \nsub 1 \np\nl\nu\ns\n m sub 2 equals 0.64 kilogram \nconstant.  The data for the acceleration  a of block 1 as a function of   m sub 2  are shown on the graph below.",
+        "text": "Careful measurements determine that the coefficient of kinetic friction is larger than the value calculated in\npart ( )\nc . Does the following explanation sufficiently account for the observed discrepancy?\n“The horizontal table was not perfectly level before the experiment was conducted. The observed difference in \nthe angle accounts for the difference in the expected and calculated values of \n_____\n mu sub k .” \nYes _____ No \nJustify your answer. \nThe experiment is moved to a surface with negligible friction and run for eight trials. In each trial, the students \nvary the masses m sub 1 andm sub 2 \nof blocks 1 and 2, respectively, while keeping the total mass m\n \nsub 1 \np\nl\nu\ns\n m sub 2 equals 0.64 kilogram \nconstant. The data for the acceleration a of block 1 as a function of m sub 2 are shown on the graph below.",
         "sub_parts": null
       },
       {
         "label": "e",
-        "text": "i. Draw a best-fit line for the data points.\nii. Using the straight line, calculate an experimental value for the acceleration due to gravity  g .\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 1 on this page.",
+        "text": "i. Draw a best-fit line for the data points.\nii. Using the straight line, calculate an experimental value for the acceleration due to gravity g .\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 1 on this page.",
         "sub_parts": [
           {
             "label": "i",
@@ -1496,30 +1428,16 @@
           },
           {
             "label": "ii",
-            "text": "Using the straight line, calculate an experimental value for the acceleration due to gravity  g .\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 1 on this page."
+            "text": "Using the straight line, calculate an experimental value for the acceleration due to gravity g .\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nContinue your response to QUESTION 1 on this page."
           }
         ]
       },
       {
         "label": "f",
-        "text": "The students lift the left end of the surface so that the surface is inclined at an angle to the horizontal, and\n \nthe experiment for  \nm su b \n2  equals 0.20 kilogram \nis repeated.  Would the acceleration of the system be greater than, less \nthan, or equal to the acceleration of the system in the original experiment? \n_____ Greater than \n_____ Less than \n_____ Equal to \nJustify your claim.  \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nBegin your response to QUESTION 2 on this page.",
+        "text": "The students lift the left end of the surface so that the surface is inclined at an angle to the horizontal, and\n \nthe experiment for \nm su b \n2 equals 0.20 kilogram \nis repeated. Would the acceleration of the system be greater than, less \nthan, or equal to the acceleration of the system in the original experiment? \n_____ Greater than \n_____ Less than \n_____ Equal to \nJustify your claim. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Mechanics 2021 Free-Response Questions\nBegin your response to QUESTION 2 on this page.",
         "sub_parts": null
       }
     ]
-  },
-  {
-    "id": "physics-mech_2021_frq_6",
-    "type": "frq",
-    "year": 2021,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2022_frq_1",
-    "type": "frq",
-    "year": 2022,
-    "number": 1,
-    "text": "2 .\n3 .\n4 ."
   },
   {
     "id": "physics-mech_2022_frq_2",
@@ -1569,11 +1487,11 @@
       },
       {
         "label": "d",
-        "text": ". To explain this discrepancy, one of the students proposes that the mass of Cart 1 \nwas incorrectly measured at the beginning of the experiment. The students measure the mass of Cart 1 again \nand record a new value, m1 ′. \nShould the students expect that m1′  will be greater than 0.250 kg, less than 0.250 kg, or equal to 0.250 kg ? \n_____m ′ > 0.250 kg \n1 \n_____m ′ < 0.250 kg \n_____ m ′ = 0.250 kg \n1 \nJustify your answer. \nVisit College Board on the web: AP® Physics C: Mechanics 2022 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
+        "text": ". To explain this discrepancy, one of the students proposes that the mass of Cart 1 \nwas incorrectly measured at the beginning of the experiment. The students measure the mass of Cart 1 again \nand record a new value, m1 ′. \nShould the students expect that m1′ will be greater than 0.250 kg, less than 0.250 kg, or equal to 0.250 kg ? \n_____m ′ > 0.250 kg \n1 \n_____m ′ < 0.250 kg \n_____ m ′ = 0.250 kg \n1 \nJustify your answer. \nVisit College Board on the web: AP® Physics C: Mechanics 2022 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
         "sub_parts": [
           {
             "label": "",
-            "text": "To explain this discrepancy, one of the students proposes that the mass of Cart 1 \nwas incorrectly measured at the beginning of the experiment. The students measure the mass of Cart 1 again \nand record a new value, m1 ′. \nShould the students expect that m1′  will be greater than 0.250 kg, less than 0.250 kg, or equal to 0.250 kg ? \n_____m ′ > 0.250 kg \n1 \n_____m ′ < 0.250 kg \n_____ m ′ = 0.250 kg \n1 \nJustify your answer. \nVisit College Board on th"
+            "text": "To explain this discrepancy, one of the students proposes that the mass of Cart 1 \nwas incorrectly measured at the beginning of the experiment. The students measure the mass of Cart 1 again \nand record a new value, m1 ′. \nShould the students expect that m1′ will be greater than 0.250 kg, less than 0.250 kg, or equal to 0.250 kg ? \n_____m ′ > 0.250 kg \n1 \n_____m ′ < 0.250 kg \n_____ m ′ = 0.250 kg \n1 \nJustify your answer. \nVisit College Board on th"
           }
         ]
       }
@@ -1584,7 +1502,7 @@
     "type": "frq",
     "year": 2022,
     "number": 3,
-    "text": "A solid uniform disk is supported by a vertical stand. The disk is able to rotate with negligible friction about an \naxle that passes through the center of the disk. The mass and radius of the disk are given by Md and R, \nrespectively. The rotational inertia of the disk is \n1 \nI = \nM R\nd\nd\n2 \n.  A string of negligible mass is draped over the disk \nand attached to the top of the disk at point P. One end of the string is connected to an unstretched ideal spring of \nspring constant k , which is fixed to the ground as shown in Figure 1. \nA block of mass mB is then attached to the string on the right side of the disk. The block is slowly lowered until \nthe spring-disk-block system reaches equilibrium, as shown in Figure 2. In this equilibrium position, the disk has \nrotated clockwise through a small angle q. \nGive all algebraic answers in terms of Md, R, k , q, and physical constants, as appropriate. \nVisit College Board on the web: AP® Physics C: Mechanics 2022 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+    "text": "A solid uniform disk is supported by a vertical stand. The disk is able to rotate with negligible friction about an \naxle that passes through the center of the disk. The mass and radius of the disk are given by Md and R, \nrespectively. The rotational inertia of the disk is \n1 \nI = \nM R\nd\nd\n2 \n. A string of negligible mass is draped over the disk \nand attached to the top of the disk at point P. One end of the string is connected to an unstretched ideal spring of \nspring constant k , which is fixed to the ground as shown in Figure 1. \nA block of mass mB is then attached to the string on the right side of the disk. The block is slowly lowered until \nthe spring-disk-block system reaches equilibrium, as shown in Figure 2. In this equilibrium position, the disk has \nrotated clockwise through a small angle q. \nGive all algebraic answers in terms of Md, R, k , q, and physical constants, as appropriate. \nVisit College Board on the web: AP® Physics C: Mechanics 2022 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
     "parts": [
       {
         "label": "a",
@@ -1622,27 +1540,6 @@
         ]
       }
     ]
-  },
-  {
-    "id": "physics-mech_2022_frq_5",
-    "type": "frq",
-    "year": 2022,
-    "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb"
-  },
-  {
-    "id": "physics-mech_2022_frq_6",
-    "type": "frq",
-    "year": 2022,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2022_frq_1",
-    "type": "frq",
-    "year": 2022,
-    "number": 1,
-    "text": "2 .\n3 .\n4 ."
   },
   {
     "id": "physics-mech_2022_frq_2",
@@ -1761,27 +1658,6 @@
     ]
   },
   {
-    "id": "physics-mech_2022_frq_5",
-    "type": "frq",
-    "year": 2022,
-    "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb"
-  },
-  {
-    "id": "physics-mech_2022_frq_6",
-    "type": "frq",
-    "year": 2022,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2023_frq_1",
-    "type": "frq",
-    "year": 2023,
-    "number": 1,
-    "text": "2 .\n3 .\n4 ."
-  },
-  {
     "id": "physics-mech_2023_frq_2",
     "type": "frq",
     "year": 2023,
@@ -1790,7 +1666,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "Using \nI\n k\nT = 2p\n, derive an expression for T as a function of N . Express your answer in terms\nof M, R, k, N , and physical constants, as appropriate.\nVisit College Board on the web: ",
+        "text": "Using \nI\n k\nT = 2p\n, derive an expression for T as a function of N . Express your answer in terms\nof M, R, k, N , and physical constants, as appropriate.\nVisit College Board on the web:",
         "sub_parts": null
       },
       {
@@ -1843,11 +1719,11 @@
       },
       {
         "label": "i",
-        "text": "? \n___ greater than \n___less than \n___the same as \nJustify your answer. \nii. When N = 1, the maximum angular speed of the torsional pendulum with a uniform disk is found to \nbe wU. When N = 1, the maximum angular speed of the torsional pendulum with a nonuniform disk is \nwnon-U . Which of the following correctly compares\n____\nand \n wU \nwnon-U ?\nw > w \nU \nnon-U \n____w < w \nU \nnon-U \n____ w = w\nU \nnon-U \nBriefly justify your answer. \nVisit College Board on the web: ",
+        "text": "? \n___ greater than \n___less than \n___the same as \nJustify your answer. \nii. When N = 1, the maximum angular speed of the torsional pendulum with a uniform disk is found to \nbe wU. When N = 1, the maximum angular speed of the torsional pendulum with a nonuniform disk is \nwnon-U . Which of the following correctly compares\n____\nand \n wU \nwnon-U ?\nw > w \nU \nnon-U \n____w < w \nU \nnon-U \n____ w = w\nU \nnon-U \nBriefly justify your answer. \nVisit College Board on the web:",
         "sub_parts": [
           {
             "label": "ii",
-            "text": "When N = 1, the maximum angular speed of the torsional pendulum with a uniform disk is found to \nbe wU. When N = 1, the maximum angular speed of the torsional pendulum with a nonuniform disk is \nwnon-U . Which of the following correctly compares\n____\nand \n wU \nwnon-U ?\nw > w \nU \nnon-U \n____w < w \nU \nnon-U \n____ w = w\nU \nnon-U \nBriefly justify your answer. \nVisit College Board on the web: "
+            "text": "When N = 1, the maximum angular speed of the torsional pendulum with a uniform disk is found to \nbe wU. When N = 1, the maximum angular speed of the torsional pendulum with a nonuniform disk is \nwnon-U . Which of the following correctly compares\n____\nand \n wU \nwnon-U ?\nw > w \nU \nnon-U \n____w < w \nU \nnon-U \n____ w = w\nU \nnon-U \nBriefly justify your answer. \nVisit College Board on the web:"
           }
         ]
       }
@@ -1906,27 +1782,6 @@
     ]
   },
   {
-    "id": "physics-mech_2023_frq_5",
-    "type": "frq",
-    "year": 2023,
-    "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration \nE equals   energy \nuppercase F, equals  force \nlowercase f, equals \n frequency \nh equals  height \nI equals  rotational inertia \nJ equals  impulse \nuppercase K, equals  kinetic energy \nlowercase k, equals \nspring constant \nl owercase l, equals  length\nuppercase L, equals \n angular momentum \nm equals  mass \nuppercase P, equals \npower \nlowercase p, equals \n momentum \nr equals  radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals  potential energy \nv equals  velocity or speed \nW equals work done on a system \nx equals  position \nm u equals  coefficient of friction \nt heta equals   angle \nt au equals   torque \no mega equals   angular speed \na lpha equals  angular acceleration \np hi equals   phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb"
-  },
-  {
-    "id": "physics-mech_2023_frq_6",
-    "type": "frq",
-    "year": 2023,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
-  },
-  {
-    "id": "physics-mech_2023_frq_1",
-    "type": "frq",
-    "year": 2023,
-    "number": 1,
-    "text": "2 .\n3 .\n4 ."
-  },
-  {
     "id": "physics-mech_2023_frq_2",
     "type": "frq",
     "year": 2023,
@@ -1945,7 +1800,7 @@
       },
       {
         "label": "c",
-        "text": "The student plots the data for \nT  as a function of \n−1\nN \n, as shown.\ni. Draw the best-fit line for the data.\nii. The mass of the block is measured to be m = 1.5 kg. Using the graph, calculate an experimental value for\nthe spring constant k for a single spring.\niii. The student finds that the value given by the manufacturer for the spring constant is larger than the value\ndetermined experimentally in part",
+        "text": "The student plots the data for \nT as a function of \n−1\nN \n, as shown.\ni. Draw the best-fit line for the data.\nii. The mass of the block is measured to be m = 1.5 kg. Using the graph, calculate an experimental value for\nthe spring constant k for a single spring.\niii. The student finds that the value given by the manufacturer for the spring constant is larger than the value\ndetermined experimentally in part",
         "sub_parts": [
           {
             "label": "i",
@@ -2012,7 +1867,7 @@
       },
       {
         "label": "b",
-        "text": "While the wind blows, the three-blade system operates at a constant angular speed w0 = 2.6 rad/s. The length\nof one blade is L = 36 m. The numerical value of the rotational inertia of the system is\nI \n= 6 . 7  ¥ 106 kg·m2\nsys\n. Calculate the time T it takes the outer edge of a single blade to complete one\nrevolution.",
+        "text": "While the wind blows, the three-blade system operates at a constant angular speed w0 = 2.6 rad/s. The length\nof one blade is L = 36 m. The numerical value of the rotational inertia of the system is\nI \n= 6 . 7 ¥ 106 kg·m2\nsys\n. Calculate the time T it takes the outer edge of a single blade to complete one\nrevolution.",
         "sub_parts": [
           {
             "label": "",
@@ -2050,21 +1905,14 @@
     "type": "frq",
     "year": 2023,
     "number": 5,
-    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration\nE equals   energy\nuppercase F, equals  force\nlowercase f, equals \n frequency\nh equals  height\nI equals  rotational inertia\nJ equals  impulse\nuppercase K, equals  kinetic energy\nlowercase k, equals \nspring constant\nl owercase l, equals  length\nuppercase L, equals \n angular momentum\nm equals  mass\nuppercase P, equals \npower\nlowercase p, equals \n momentum\nr equals  radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals  potential energy\nv equals  velocity or speed\nW equals work done on a system\nx equals  position\nm u equals  coefficient of friction\nt heta equals   angle\nt au equals   torque\no mega equals   angular speed\na lpha equals  angular acceleration\np hi equals   phase angle\nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb\n \nx\n \ns\nq\nu\na\nr\ne\nd\n, equal"
-  },
-  {
-    "id": "physics-mech_2023_frq_6",
-    "type": "frq",
-    "year": 2023,
-    "number": 6,
-    "text": "6 7 ,\n t\ni\nm\ne\ns\n 10 raised to the power of negative 11, meters cubed per kilogram second squared\nAcceleration due to gravity\n \nat Earth’s surface,\ng\n equa l\ns , 9.8 meters per second squared\n1 unified atomic mass unit,\n1 \nu\n eq\nuals\n, \n1.6\n6 ti mes  \n0\n \nraised to the power of negative 27 kilograms, which equals 931 mega electron volts, over the speed of light squared\n Planck’s constant,\nh\n e\nqu\nals"
+    "text": "ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \nacceleration\nE equals energy\nuppercase F, equals force\nlowercase f, equals \n frequency\nh equals height\nI equals rotational inertia\nJ equals impulse\nuppercase K, equals kinetic energy\nlowercase k, equals \nspring constant\nl owercase l, equals length\nuppercase L, equals \n angular momentum\nm equals mass\nuppercase P, equals \npower\nlowercase p, equals \n momentum\nr equals radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals potential energy\nv equals velocity or speed\nW equals work done on a system\nx equals position\nm u equals coefficient of friction\nt heta equals angle\nt au equals torque\no mega equals angular speed\na lpha equals angular acceleration\np hi equals phase angle\nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne\nq\nu\na\nl\ns\n \nx\n \ns\nu\nb\n zero, plus v sub x zero, times t, plus one half a sub x times t squared t\nv\n \ns\nu\nb\n \nx\n \ns\nq\nu\na\nr\ne\nd\n, equal"
   },
   {
     "id": "physics-mech_2024_frq_1",
     "type": "frq",
     "year": 2024,
     "number": 1,
-    "text": "Block A and Block B of masses m and 3m, respectively, are arranged in a setup consisting of an ideal spring\nwith spring constant k and a horizontal surface. Friction between the surface and the blocks is negligible except in\na region of length D, where the coefficient of kinetic friction between Block A and the surface is m. Block B is\nattached to a string of length ℓ and negligible mass, as shown in Figure 1. Block A is held against the spring,\ncompressing the spring a distance x c .\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Begin your response to QUESTION 1 on this page.\n\nAt time   \nt = 0, Block A is located at position   \nx = x0 and is released from rest. After the block is released, the \nfollowing occurs. \n• At time   \nt = t1, Block A \n \nis at   \nx = x1 after traveling a distance  x c . Block A \n \nmoves with speed v,\nand the spring is at its equilibrium position.\n• At time   \nt = t2, the left side of Block A is at   \nx = x2 after passing through a distance \n \nD across\nthe region with nonnegligible friction.\n• At time   \nt = t3, Block A is at   \n \nx = x3 and Block A collides with and sticks to Block B.",
+    "text": "Block A and Block B of masses m and 3m, respectively, are arranged in a setup consisting of an ideal spring\nwith spring constant k and a horizontal surface. Friction between the surface and the blocks is negligible except in\na region of length D, where the coefficient of kinetic friction between Block A and the surface is m. Block B is\nattached to a string of length ℓ and negligible mass, as shown in Figure 1. Block A is held against the spring,\ncompressing the spring a distance x c .\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Begin your response to QUESTION 1 on this page.\n\nAt time \nt = 0, Block A is located at position \nx = x0 and is released from rest. After the block is released, the \nfollowing occurs. \n• At time \nt = t1, Block A \n \nis at \nx = x1 after traveling a distance x c . Block A \n \nmoves with speed v,\nand the spring is at its equilibrium position.\n• At time \nt = t2, the left side of Block A is at \nx = x2 after passing through a distance \n \nD across\nthe region with nonnegligible friction.\n• At time \nt = t3, Block A is at \n \nx = x3 and Block A collides with and sticks to Block B.",
     "parts": [
       {
         "label": "a",
@@ -2083,7 +1931,7 @@
       },
       {
         "label": "a",
-        "text": "(ii), express your answer in terms of m, k , D, m,  x c, and physical constants, as\n \nappropriate.\ni. Derive an expression for the speed v of Block A at time t1.\nii. Derive an expression for the speed vA,B of the two-block system immediately after the collision at\ntime t3.\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.",
+        "text": "(ii), express your answer in terms of m, k , D, m, x c, and physical constants, as\n \nappropriate.\ni. Derive an expression for the speed v of Block A at time t1.\nii. Derive an expression for the speed vA,B of the two-block system immediately after the collision at\ntime t3.\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.",
         "sub_parts": [
           {
             "label": "i",
@@ -2116,7 +1964,7 @@
       },
       {
         "label": "i",
-        "text": "for the time interval  t = 0 to\n t = t1. Explicitly reference features of the shape of the graph you drew in part",
+        "text": "for the time interval t = 0 to\n t = t1. Explicitly reference features of the shape of the graph you drew in part",
         "sub_parts": null
       },
       {
@@ -2126,17 +1974,17 @@
       },
       {
         "label": "i",
-        "text": ".\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.\n\nAfter the collision, the two-block system instantaneously comes to rest at time t4, which occurs when the string \nmakes a small angle q max with the vertical, as shown in Figure 2. For times   \nt > t4, the system oscillates with\nfrequency f ℓ. The support holding the string is raised, and the procedure is then repeated using a new string of \n \nlength  2 ℓ.",
+        "text": ".\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.\n\nAfter the collision, the two-block system instantaneously comes to rest at time t4, which occurs when the string \nmakes a small angle q max with the vertical, as shown in Figure 2. For times \nt > t4, the system oscillates with\nfrequency f ℓ. The support holding the string is raised, and the procedure is then repeated using a new string of \n \nlength 2 ℓ.",
         "sub_parts": [
           {
             "label": "",
-            "text": "AP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.\n\nAfter the collision, the two-block system instantaneously comes to rest at time t4, which occurs when the string \nmakes a small angle q max with the vertical, as shown in Figure 2. For times   \nt > t4, the system oscillates with\nfrequency f ℓ. The support holding the string is raised, and the p"
+            "text": "AP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.\n\nAfter the collision, the two-block system instantaneously comes to rest at time t4, which occurs when the string \nmakes a small angle q max with the vertical, as shown in Figure 2. For times \nt > t4, the system oscillates with\nfrequency f ℓ. The support holding the string is raised, and the p"
           }
         ]
       },
       {
         "label": "c",
-        "text": "Indicate how the new frequency of oscillation   \nf 2ℓ of the system on the new string of length  2 ℓ will compare\nto the frequency of oscillation  f ℓ from the original procedure.\n_____ f \n> f \n2ℓ\nℓ\n_____ f \n< f \n2ℓ\nℓ\n_____ f \n= f\n2ℓ\nℓ\nBriefly justify your answer. \nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.",
+        "text": "Indicate how the new frequency of oscillation \nf 2ℓ of the system on the new string of length 2 ℓ will compare\nto the frequency of oscillation f ℓ from the original procedure.\n_____ f \n> f \n2ℓ\nℓ\n_____ f \n< f \n2ℓ\nℓ\n_____ f \n= f\n2ℓ\nℓ\nBriefly justify your answer. \nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page.",
         "sub_parts": null
       }
     ]
@@ -2188,11 +2036,11 @@
       },
       {
         "label": "e",
-        "text": "The student has access to but does not have to use all of the following equipment.\n• Cylinder Set 1: cylinders of the same known length with different known masses\n• Cylinder Set 2: cylinders of the same known mass with different known lengths\n• A motion detector that can measure velocity as a function of time\ni. Indicate two quantities that when graphed could be used to determine whether the length of the cylinder\naffects the maximum speed.\nVertical axis: ______________  \nHorizontal axis: _______________ \nii. Briefly describe how the quantities graphed could be used to determine the relationship between\ncylinder length and maximum speed.\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: 12 \nContinue your response to QUESTION 2 on this page.",
+        "text": "The student has access to but does not have to use all of the following equipment.\n• Cylinder Set 1: cylinders of the same known length with different known masses\n• Cylinder Set 2: cylinders of the same known mass with different known lengths\n• A motion detector that can measure velocity as a function of time\ni. Indicate two quantities that when graphed could be used to determine whether the length of the cylinder\naffects the maximum speed.\nVertical axis: ______________ \nHorizontal axis: _______________ \nii. Briefly describe how the quantities graphed could be used to determine the relationship between\ncylinder length and maximum speed.\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: 12 \nContinue your response to QUESTION 2 on this page.",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Indicate two quantities that when graphed could be used to determine whether the length of the cylinder\naffects the maximum speed.\nVertical axis: ______________  \nHorizontal axis: _______________"
+            "text": "Indicate two quantities that when graphed could be used to determine whether the length of the cylinder\naffects the maximum speed.\nVertical axis: ______________ \nHorizontal axis: _______________"
           },
           {
             "label": "ii",
@@ -2216,7 +2064,7 @@
       },
       {
         "label": "b",
-        "text": "In Figure 1, Point P is located 3 L\n8  from the pivot and Point Q is located 6 L\n from the pivot. Derive an \nequation for the tension FT in the horizontal string in terms of L, m, q, and physical constants, as appropriate.",
+        "text": "In Figure 1, Point P is located 3 L\n8 from the pivot and Point Q is located 6 L\n from the pivot. Derive an \nequation for the tension FT in the horizontal string in terms of L, m, q, and physical constants, as appropriate.",
         "sub_parts": null
       },
       {
@@ -2250,7 +2098,7 @@
     "type": "frq",
     "year": 2024,
     "number": 1,
-    "text": "Blocks A and B of masses m \nand m, respectively, are arranged in a setup consisting of a ramp that makes an\nangle q with a smooth horizontal table and an ideal spring of spring constant k fixed to a wall, as shown.\nBlock A is held at rest a distance D up the ramp, and Block B is at rest on the horizontal table. The coefficient of\nkinetic friction between Block A and the rough ramp is m in the region of length D, and there is negligible\nfriction between the blocks and the smooth table.\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page. \nAt time t \n= , Block A is located at horizontal position x \n=  and is released from rest. After the block is \nreleased, the following occurs. \n• At time t \nt1\n= , Block A has traveled a distance D down the ramp, has transitioned to the table,\nand is moving with speed v at x \nx1\n= \n.\n• At time t \nt2\n= , Block A is at x \nx2\n= \n when it collides with and sticks to Block B. \n• At time t \nt3\n= , the combined blocks A and B are at x \nx3\n= \n when they collide with and stick to \nthe spring in its equilibrium position. \n• At time t \nt4\n= , the combined blocks A and B are instantaneously at rest and the spring is\ncompressed a distance xc from its equilibrium position.",
+    "text": "Blocks A and B of masses m \nand m, respectively, are arranged in a setup consisting of a ramp that makes an\nangle q with a smooth horizontal table and an ideal spring of spring constant k fixed to a wall, as shown.\nBlock A is held at rest a distance D up the ramp, and Block B is at rest on the horizontal table. The coefficient of\nkinetic friction between Block A and the rough ramp is m in the region of length D, and there is negligible\nfriction between the blocks and the smooth table.\nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 1 on this page. \nAt time t \n= , Block A is located at horizontal position x \n= and is released from rest. After the block is \nreleased, the following occurs. \n• At time t \nt1\n= , Block A has traveled a distance D down the ramp, has transitioned to the table,\nand is moving with speed v at x \nx1\n= \n.\n• At time t \nt2\n= , Block A is at x \nx2\n= \n when it collides with and sticks to Block B. \n• At time t \nt3\n= , the combined blocks A and B are at x \nx3\n= \n when they collide with and stick to \nthe spring in its equilibrium position. \n• At time t \nt4\n= , the combined blocks A and B are instantaneously at rest and the spring is\ncompressed a distance xc from its equilibrium position.",
     "parts": [
       {
         "label": "a",
@@ -2355,7 +2203,7 @@
       },
       {
         "label": "c",
-        "text": "Suppose the student throws the same sphere downward with a nonzero initial speed. The magnitude of the new\ndrag force at terminal speed after being thrown downward is Fnew.\nIndicate whether Fnew would be greater than, less than, or equal to the magnitude of Fdrag at terminal speed \nrepresented in Figure 2. \n_____ Greater than  \n_____ Less than  \n_____ Equal to \nBriefly justify your answer. \nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page.",
+        "text": "Suppose the student throws the same sphere downward with a nonzero initial speed. The magnitude of the new\ndrag force at terminal speed after being thrown downward is Fnew.\nIndicate whether Fnew would be greater than, less than, or equal to the magnitude of Fdrag at terminal speed \nrepresented in Figure 2. \n_____ Greater than \n_____ Less than \n_____ Equal to \nBriefly justify your answer. \nAP® Physics C: Mechanics 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
