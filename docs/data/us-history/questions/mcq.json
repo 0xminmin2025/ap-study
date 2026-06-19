@@ -13,15 +13,6 @@
     "answer": "B"
   },
   {
-    "id": "us-history_2006_2",
-    "type": "mcq",
-    "year": 2006,
-    "number": 2,
-    "text": "Which of the following best explains why Massachusetts Bay officials banished Anne Hutchinson? (A) She challenged gender roles and Puritan orthodoxy .",
-    "options": {},
-    "has_figure": true
-  },
-  {
     "id": "us-history_2006_3",
     "type": "mcq",
     "year": 2006,
@@ -205,15 +196,6 @@
     },
     "answer": "C",
     "answer_source": "llm"
-  },
-  {
-    "id": "us-history_2006_15",
-    "type": "mcq",
-    "year": 2006,
-    "number": 15,
-    "text": "The purpose of the Lend-Lease Act was to",
-    "options": {},
-    "has_figure": true
   },
   {
     "id": "us-history_2006_16",
@@ -454,15 +436,6 @@
     "answer_source": "llm"
   },
   {
-    "id": "us-history_2006_32",
-    "type": "mcq",
-    "year": 2006,
-    "number": 32,
-    "text": "Which of the following was true of women in the",
-    "options": {},
-    "has_figure": true
-  },
-  {
     "id": "us-history_2006_33",
     "type": "mcq",
     "year": 2006,
@@ -623,15 +596,6 @@
     "answer_source": "llm"
   },
   {
-    "id": "us-history_2006_47",
-    "type": "mcq",
-    "year": 2006,
-    "number": 47,
-    "text": "Under Chief Justice John Marshall, Supreme Court",
-    "options": {},
-    "has_figure": true
-  },
-  {
     "id": "us-history_2006_48",
     "type": "mcq",
     "year": 2006,
@@ -709,16 +673,6 @@
       "E": "direct the focus of American postwar foreign policy away from Europe"
     },
     "answer": "C"
-  },
-  {
-    "id": "us-history_2006_54",
-    "type": "mcq",
-    "year": 2006,
-    "number": 54,
-    "text": "Which of the following conditions in England motivated Puritans to migrate to New England in the 1630s? I. Political repression of dissident Protestants",
-    "options": {},
-    "answer": "E",
-    "has_figure": true
   },
   {
     "id": "us-history_2006_55",
@@ -1053,15 +1007,6 @@
     },
     "answer": "D",
     "answer_source": "llm"
-  },
-  {
-    "id": "us-history_2006_77",
-    "type": "mcq",
-    "year": 2006,
-    "number": 77,
-    "text": "The illustration above was most likely meant to",
-    "options": {},
-    "has_figure": true
   },
   {
     "id": "us-history_2006_78",
@@ -2674,15 +2619,6 @@
     "answer": "C"
   },
   {
-    "id": "us-history_2016_12",
-    "type": "mcq",
-    "year": 2016,
-    "number": 12,
-    "text": "An implication of Las Casas’ argument is that a major cause of the decline of the native populations in the Americas after 1492 was the",
-    "options": {},
-    "has_figure": true
-  },
-  {
     "id": "us-history_2016_13",
     "type": "mcq",
     "year": 2016,
@@ -2710,15 +2646,6 @@
     },
     "answer": "B",
     "answer_source": "llm"
-  },
-  {
-    "id": "us-history_2016_15",
-    "type": "mcq",
-    "year": 2016,
-    "number": 15,
-    "text": "Which of the following best describes the overarching goals of the Populist Party in the late nineteenth century?",
-    "options": {},
-    "has_figure": true
   },
   {
     "id": "us-history_2016_16",
@@ -2836,15 +2763,6 @@
       "D": ""
     },
     "answer": "A"
-  },
-  {
-    "id": "us-history_2016_24",
-    "type": "mcq",
-    "year": 2016,
-    "number": 24,
-    "text": "Which of the following primary sources would most likely support Berlin’s argument in the excerpt?",
-    "options": {},
-    "has_figure": true
   },
   {
     "id": "us-history_2016_25",
@@ -3066,15 +2984,6 @@
     "answer": "C"
   },
   {
-    "id": "us-history_2016_40",
-    "type": "mcq",
-    "year": 2016,
-    "number": 40,
-    "text": "Emerson’s remarks in the excerpt most directly reflected which of the following developments during the early nineteenth century?",
-    "options": {},
-    "has_figure": true
-  },
-  {
     "id": "us-history_2016_41",
     "type": "mcq",
     "year": 2016,
@@ -3087,15 +2996,6 @@
       "D": ""
     },
     "answer": "C"
-  },
-  {
-    "id": "us-history_2016_42",
-    "type": "mcq",
-    "year": 2016,
-    "number": 42,
-    "text": "Which of the following developments contributed most directly to the conditions described in the excerpt?",
-    "options": {},
-    "has_figure": true
   },
   {
     "id": "us-history_2016_43",
