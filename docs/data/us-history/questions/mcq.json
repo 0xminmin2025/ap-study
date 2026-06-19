@@ -159,8 +159,7 @@
       "A": "the cause of decreased agricultural production",
       "B": "tangible evidence of the strength of the nation's largest cities",
       "C": "a representation of the conformity of postwar culture",
-      "D": "the end of social and economic differentiation in housing",
-      "E": ""
+      "D": "the end of social and economic differentiation in housing"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -175,8 +174,7 @@
       "A": "The Supreme Court sustained laws barring the interstate sale of goods produced by child labor.",
       "B": "Introduction of the minimum wage made child labor uneconomical.",
       "C": "The American birth rate declined, thus reducing the number of children available to work.",
-      "D": "Factory owners advocated state ckld labor laws.",
-      "E": ""
+      "D": "Factory owners advocated state ckld labor laws."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -191,8 +189,7 @@
       "A": "Frontier life tended to promote the acceptance of greater political equality for women.",
       "B": "Fewer women lived in the southeastern states than in other parts of the country; therefore, suffrage was less of an issue.",
       "C": "None of the states of the Confederacy granted votes to women before 1920.",
-      "D": "The Seneca Falls Movement resulted in gains in the area of political and legal rights for women.",
-      "E": ""
+      "D": "The Seneca Falls Movement resulted in gains in the area of political and legal rights for women."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -269,8 +266,7 @@
       "A": "They were willing to accept slavery where it existed but opposed further expansion to the territories.",
       "B": "They were active supporters of complete abolition.",
       "C": "They favored continued importation of slaves from Africa.",
-      "D": "They advocated expansion of the slave system to provide cheap labor for northern factories.",
-      "E": ""
+      "D": "They advocated expansion of the slave system to provide cheap labor for northern factories."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -317,8 +313,7 @@
       "A": "labor organizer and Spcialist Party activist",
       "B": "leader of the People's Party",
       "C": "reformer who encouraged new immigrants to homestead",
-      "D": "playwright whose dramas celebrated the assimilation of immigrants into American society",
-      "E": ""
+      "D": "playwright whose dramas celebrated the assimilation of immigrants into American society"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -365,8 +360,7 @@
       "A": "seek state regulation of railways",
       "B": "limit production of crops",
       "C": "organize cooperative marketing societies",
-      "D": "form a third political party",
-      "E": ""
+      "D": "form a third political party"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -381,8 +375,7 @@
       "A": "encourage young men to enlist in the army",
       "B": "finance American involvement in the First World War",
       "C": "support the establishment of Boy Scout troops throughout the nation",
-      "D": "aid in the implementation of New Deal programs",
-      "E": ""
+      "D": "aid in the implementation of New Deal programs"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -429,8 +422,7 @@
       "A": "conceal from the public the true reason for United States entry into the First World War",
       "B": "arouse public support for United States entry into the First World War",
       "C": "assess the public's support of his bid for a third presidential term",
-      "D": "warn the public that Germany had not been treated fairly at Versailles",
-      "E": ""
+      "D": "warn the public that Germany had not been treated fairly at Versailles"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -509,8 +501,7 @@
       "A": "ease the economic difficulties of sharecroppers and tenant farmers",
       "B": "provide for the distribution of surplus meat and produce to the poor",
       "C": "reapportion electoral districts to give farmers greater representation in Congress",
-      "D": "expand agricultural production by subsidizing farmers",
-      "E": ""
+      "D": "expand agricultural production by subsidizing farmers"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -589,8 +580,7 @@
       "A": "There was widespread prosperity in Europe after the First World War.",
       "B": "Most European countries passed laws forbidding immigration to the United States.",
       "C": "A significant increase in emigration from Latin America left fewer jobs for European immigrants.",
-      "D": "Fear of political persecution after the Palmer raids and the Sacco and Vanzetti case discouraged many Europeans from emigrating.",
-      "E": ""
+      "D": "Fear of political persecution after the Palmer raids and the Sacco and Vanzetti case discouraged many Europeans from emigrating."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -684,8 +674,7 @@
       "A": "restricting agricultural production",
       "B": "restoring public confidence in the banlung system",
       "C": "deficit financing",
-      "D": "nationalizing basic industries",
-      "E": ""
+      "D": "nationalizing basic industries"
     },
     "answer": "D"
   },
@@ -699,8 +688,7 @@
       "A": "the public was more interested in foreign policy than in domestic reforms",
       "B": "the President was more interested in domestic programs than in foreign policy",
       "C": "protesters were successfully challenging the goals of Lyndon B. Johnson's Great Society",
-      "D": "opposition to the Vietnam War improved Lyndon B. Johnson's hopes for reelection",
-      "E": ""
+      "D": "opposition to the Vietnam War improved Lyndon B. Johnson's hopes for reelection"
     },
     "answer": "E"
   },
@@ -746,8 +734,7 @@
       "A": "Payment of a $20 million indemnity to Spain",
       "B": "Humanitarian efforts on behalf of concentration camp victims",
       "C": "Acquisition of the Philippine Islands",
-      "D": "Liberation of Cuba from Spanish control",
-      "E": ""
+      "D": "Liberation of Cuba from Spanish control"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -810,8 +797,7 @@
       "A": "Established merchants in cities like Boston and Philadelphia",
       "B": "Presbyterians in the southern colonies",
       "C": "Backwoods farmers isolated on the colonial frontier",
-      "D": "Landless sons in New England communities",
-      "E": ""
+      "D": "Landless sons in New England communities"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -874,8 +860,7 @@
       "A": "attack on the Tariff of Abominations",
       "B": "defense of the principle of national union",
       "C": "assertion of the idea of States' rights",
-      "D": "apology for New England's disloyalty in the War of 1812",
-      "E": ""
+      "D": "apology for New England's disloyalty in the War of 1812"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1002,8 +987,7 @@
       "A": "Increasing resistance to taxation",
       "B": "The inability of newcomers to acquire fertile farmland",
       "C": "Overpopulation in urban areas",
-      "D": "Sectional divisions between northern and southern colonies",
-      "E": ""
+      "D": "Sectional divisions between northern and southern colonies"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1050,8 +1034,7 @@
       "A": "The principles of republican agrarianism",
       "B": "a major migration from California to the (B ) Improvements in agricultural technology Central Plains",
       "C": "an increase in the number of transient people",
-      "D": "a dramatic increase in the number of foreign immigrants",
-      "E": ""
+      "D": "a dramatic increase in the number of foreign immigrants"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1111,8 +1094,7 @@
       "A": "Steel plow",
       "B": "Cattle",
       "C": "Horses",
-      "D": "Christianity",
-      "E": ""
+      "D": "Christianity"
     },
     "answer": "C"
   },
@@ -1202,8 +1184,7 @@
       "A": "demand economic relief",
       "B": "show support for the Republican Party",
       "C": "promote the cause of African American civil rights",
-      "D": "support laws prohibiting the sale of alcohol",
-      "E": ""
+      "D": "support laws prohibiting the sale of alcohol"
     },
     "answer": "A"
   },
@@ -1297,8 +1278,7 @@
       "A": "devastating period of disease called the starving time",
       "B": "use of indentured servants, and later enslaved Africans, for agricultural labor",
       "C": "concentration of settlers and farms into small village communities",
-      "D": "emergence of peaceful and cooperative relationships with neighboring American Indian peoples",
-      "E": ""
+      "D": "emergence of peaceful and cooperative relationships with neighboring American Indian peoples"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1361,8 +1341,7 @@
       "A": "Germans",
       "B": "Russians",
       "C": "Scots",
-      "D": "Irish",
-      "E": ""
+      "D": "Irish"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1377,8 +1356,7 @@
       "A": "The American Indian population was distributed uniformly throughout North America.",
       "B": "The most densely populated regions of North America would eventually become part of New Spain.",
       "C": "The most densely populated regions of North America would eventually become part of New France.",
-      "D": "Compared with other areas of North America, relatively few American Indians lived in the Southeast.",
-      "E": ""
+      "D": "Compared with other areas of North America, relatively few American Indians lived in the Southeast."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1425,8 +1403,7 @@
       "A": "Promotion of union membership for workers in war industries",
       "B": "Encouragement of greater acceptance of African American workers in wartime industrial jobs",
       "C": "Celebration of the United States policy of racial integration in the armed forces",
-      "D": "Response to criticism that corporate profiteering undermined United States war efforts",
-      "E": ""
+      "D": "Response to criticism that corporate profiteering undermined United States war efforts"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1537,8 +1514,7 @@
       "A": "previous support for a strict interpretation of the Constitution",
       "B": "veto of funding for Meriwether Lewis and William Clark’s expedition",
       "C": "admiration of France’s military power",
-      "D": "devotion to new methods of cartography",
-      "E": ""
+      "D": "devotion to new methods of cartography"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1553,8 +1529,7 @@
       "A": "Americans with relatively stable incomes found it increasingly difficult to make ends meet.",
       "B": "Wheat farming became more lucrative.",
       "C": "Many American farmers struggled financially.",
-      "D": "Cheap foreign goods were the primary cause for the decline in prices.",
-      "E": ""
+      "D": "Cheap foreign goods were the primary cause for the decline in prices."
     },
     "has_figure": true,
     "answer": "C"
@@ -1586,7 +1561,7 @@
       "B": "was a more legitimate representative of the Chinese people than was Taiwan",
       "C": "had become an important global power that could not be ignored",
       "D": "might form an alliance with South Korea and Japan against the United States",
-      "E": "was likely to shun cultural and educational exchanges with Western European nations © Cartoon News International"
+      "E": "was likely to shun cultural and educational exchanges with Western European nations "
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1601,8 +1576,7 @@
       "A": "In order for integration policies to work, Nixon needed to pick up the support of the silent majority.",
       "B": "The Nixon administration was arguing that integration was no longer a relevant policy.",
       "C": "Nixon was reversing progress toward integration made in the 1960s.",
-      "D": "Nixon needed to attract more Black votes in order to move forward in civil rights.",
-      "E": ""
+      "D": "Nixon needed to attract more Black votes in order to move forward in civil rights."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1697,8 +1671,7 @@
       "A": "rebelling openly, using weapons, and planning confrontations",
       "B": "organizing petitions and demonstrations against slavery",
       "C": "escaping to Canada via the Underground Railroad",
-      "D": "working slowly and breaking tools",
-      "E": ""
+      "D": "working slowly and breaking tools"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1809,8 +1782,7 @@
       "A": "Evangelicalism",
       "B": "Transcendentalism",
       "C": "Abolitionism",
-      "D": "Mormon theology",
-      "E": ""
+      "D": "Mormon theology"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1905,8 +1877,7 @@
       "A": "Mexican workers to come to the United States as temporary laborers from the 1940s to the 1960s",
       "B": "federal courts to protect the civil rights of Mexican Americans in the 1960s",
       "C": "the United States media to broadcast Latino music and movies in the 1980s",
-      "D": "Congress to enact more restrictive immigration laws in the 1990s",
-      "E": ""
+      "D": "Congress to enact more restrictive immigration laws in the 1990s"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1985,8 +1956,7 @@
       "A": "Urban workers",
       "B": "Railroad executives",
       "C": "New York City financiers",
-      "D": "Midwestern farmers",
-      "E": ""
+      "D": "Midwestern farmers"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -2113,8 +2083,7 @@
       "A": "make the new nation dependent on foreign markets for its exports",
       "B": "prevent the expansion of slavery to new states",
       "C": "lead to a military alliance with Great Britain against revolutionary France",
-      "D": "lead to heavy taxes on whiskey producers in Pennsylvania",
-      "E": ""
+      "D": "lead to heavy taxes on whiskey producers in Pennsylvania"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2129,8 +2098,7 @@
       "A": "Vietnamization",
       "B": "escalation",
       "C": "détente",
-      "D": "containment",
-      "E": ""
+      "D": "containment"
     },
     "has_figure": true,
     "answer": "C"
@@ -2193,8 +2161,7 @@
       "A": "inspired southern states to tighten slave codes to prevent future uprisings",
       "B": "strengthened the movement for a new constitution",
       "C": "led to the expulsion of Lord Baltimore’s officials from Maryland",
-      "D": "led to the establishment of the Anglican church as the official church in the colonies",
-      "E": ""
+      "D": "led to the establishment of the Anglican church as the official church in the colonies"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2209,8 +2176,7 @@
       "A": "The New Deal",
       "B": "The Fair Deal",
       "C": "The Great Society",
-      "D": "Supply-side economics",
-      "E": ""
+      "D": "Supply-side economics"
     },
     "has_figure": true,
     "answer": "C"
@@ -2321,8 +2287,7 @@
       "A": "An undisputed claim to Oregon",
       "B": "Control of the sugar trade with Cuba",
       "C": "Possession of California and most of the Southwest",
-      "D": "Possession of the Philippines",
-      "E": ""
+      "D": "Possession of the Philippines"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2449,8 +2414,7 @@
       "A": "concentrated in suburbs in the South and Southwest",
       "B": "evangelical Protestants",
       "C": "urban African Americans",
-      "D": "afraid that the Soviet Union represented a growing menace",
-      "E": ""
+      "D": "afraid that the Soviet Union represented a growing menace"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2481,8 +2445,7 @@
       "A": "the creation of a classless society",
       "B": "the capacity of trained professionals to find rational, scientific solutions to society’s problems",
       "C": "an ideal society based on shared ownership through voluntary organizations rather than increasing government power",
-      "D": "the expanding role of the United States as an imperial power",
-      "E": ""
+      "D": "the expanding role of the United States as an imperial power"
     },
     "answer": "B",
     "answer_source": "llm"
