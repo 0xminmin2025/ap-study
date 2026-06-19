@@ -483,8 +483,7 @@
       "A": "t O i",
       "B": "t O i",
       "C": "t O i",
-      "D": "t O i",
-      "E": ""
+      "D": "t O i"
     },
     "has_figure": true,
     "answer": "B"
@@ -515,8 +514,7 @@
       "A": "vv vh 0",
       "B": "vv 0 0",
       "C": "0 vh 0",
-      "D": "0 0 g",
-      "E": ""
+      "D": "0 0 g"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -531,8 +529,7 @@
       "A": "x",
       "B": "x",
       "C": "x O t O t O t",
-      "D": "x",
-      "E": ""
+      "D": "x"
     },
     "has_figure": true,
     "answer": "C"
@@ -578,8 +575,7 @@
       "A": "MωR",
       "B": "Mω²R",
       "C": "MωR²",
-      "D": "Mω²R² / 2",
-      "E": ""
+      "D": "Mω²R² / 2"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -656,8 +652,7 @@
       "A": "I only",
       "B": "II only",
       "C": "I and III only",
-      "D": "II and III only",
-      "E": ""
+      "D": "II and III only"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -720,8 +715,7 @@
       "A": "0 J",
       "B": "94 J",
       "C": "186 J",
-      "D": "314 J",
-      "E": ""
+      "D": "314 J"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1066,8 +1060,7 @@
       "A": "It is uncharged.",
       "B": "It is positively charged.",
       "C": "It is negatively charged.",
-      "D": "It is charged, but its sign cannot be predicted.",
-      "E": ""
+      "D": "It is charged, but its sign cannot be predicted."
     },
     "has_figure": true,
     "answer": "C"
@@ -1413,8 +1406,7 @@
       "A": "Toward origin Toward origin",
       "B": "Toward origin Away from origin",
       "C": "Away from origin Toward origin",
-      "D": "Away from origin Away from origin",
-      "E": ""
+      "D": "Away from origin Away from origin"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1445,8 +1437,7 @@
       "A": "Zero",
       "B": "kqQ/r",
       "C": "kqQ/R",
-      "D": "kq(Q - q)/r",
-      "E": ""
+      "D": "kq(Q - q)/r"
     },
     "answer": "A"
   },
@@ -1819,8 +1810,7 @@
       "A": "Linear momentum is converted to angular momentum.",
       "B": "Kinetic energy is converted to angular momentum.",
       "C": "Rotational kinetic energy is conserved.",
-      "D": "Translational kinetic energy is conserved.",
-      "E": ""
+      "D": "Translational kinetic energy is conserved."
     },
     "answer": "E",
     "has_figure": true
@@ -2154,8 +2144,7 @@
       "A": "-36 V",
       "B": "-7 V",
       "C": "-3 V",
-      "D": "10 V",
-      "E": ""
+      "D": "10 V"
     },
     "answer": "B"
   },
@@ -2229,8 +2218,7 @@
       "A": "B(2πr) = μ₀I",
       "B": "B(2πr) = μ₀I(r²/R²)",
       "C": "B(2πr) = 0",
-      "D": "B(2πR) = μ₀I",
-      "E": ""
+      "D": "B(2πR) = μ₀I"
     },
     "answer": "A"
   },
@@ -2490,8 +2478,7 @@
       "A": "a changing magnetic field produces an electric field",
       "B": "a changing electric field produces a magnetic field",
       "C": "the net magnetic flux through a closed surface depends on the current inside",
-      "D": "the net electric flux through a closed surface depends on the charge inside",
-      "E": ""
+      "D": "the net electric flux through a closed surface depends on the charge inside"
     },
     "answer": "A"
   },
@@ -2581,8 +2568,7 @@
       "A": "P₁ is at a higher potential than P₂.",
       "B": "P₂ is at a higher potential than P₁.",
       "C": "P₁ and P₂ are at equal positive potential.",
-      "D": "P₁ and P₂ are at equal negative potential.",
-      "E": ""
+      "D": "P₁ and P₂ are at equal negative potential."
     },
     "answer": "A",
     "has_figure": true
@@ -2642,8 +2628,7 @@
       "A": "$F$ only",
       "B": "$M_1$ and $M_2$ only",
       "C": "The ratio of $M_1$ and $M_2$ only",
-      "D": "$F$ and the ratio of $M_1$ and $M_2$ only",
-      "E": ""
+      "D": "$F$ and the ratio of $M_1$ and $M_2$ only"
     },
     "answer": "C"
   },
@@ -3058,8 +3043,7 @@
       "A": "v │ │ └───→ t O x │ │ └───→ t O",
       "B": "v │ │ └───→ t O x │ │ └───→ t O",
       "C": "v │ │ └───→ t O x │ │ └───→ t O",
-      "D": "v │ │ └───→ t O x │ │ └───→ t O",
-      "E": ""
+      "D": "v │ │ └───→ t O x │ │ └───→ t O"
     },
     "answer": "D",
     "has_figure": true
@@ -3074,8 +3058,7 @@
       "A": "μ ≥ mg",
       "B": "μ ≥ g/ω²R",
       "C": "μ ≥ ω²R/g",
-      "D": "μ ≤ g/ω²R",
-      "E": ""
+      "D": "μ ≤ g/ω²R"
     },
     "answer": "B",
     "has_figure": true
@@ -3090,8 +3073,7 @@
       "A": "It has a constant acceleration while moving up the plane and a greater acceleration when moving down the plane.",
       "B": "It has a constant acceleration while moving up the plane and a smaller acceleration when moving down the plane.",
       "C": "It moves with a constant velocity both up and down the plane.",
-      "D": "It has the same acceleration as it moves up and down the plane.",
-      "E": ""
+      "D": "It has the same acceleration as it moves up and down the plane."
     },
     "answer": "D",
     "has_figure": true
@@ -3244,8 +3226,7 @@
       "A": "0.40 m",
       "B": "1.0 m",
       "C": "2.5 m",
-      "D": "10 m",
-      "E": ""
+      "D": "10 m"
     },
     "answer": "E"
   },
@@ -3305,8 +3286,7 @@
       "A": "16 N/m",
       "B": "20 N/m",
       "C": "32 N/m",
-      "D": "40 N/m",
-      "E": ""
+      "D": "40 N/m"
     },
     "answer": "A"
   },
@@ -3365,8 +3345,7 @@
       "A": "2 d x kx m dt =",
       "B": "2 d x kx m dt - =",
       "C": "d k m dt u u - =",
-      "D": "dx kx m dt =",
-      "E": ""
+      "D": "dx kx m dt ="
     },
     "answer": "B"
   },
@@ -3441,8 +3420,7 @@
       "A": "4 N",
       "B": "8 N",
       "C": "20 N",
-      "D": "40 N",
-      "E": ""
+      "D": "40 N"
     },
     "answer": "D",
     "has_figure": true
@@ -3502,8 +3480,7 @@
       "A": "a x O",
       "B": "a x O",
       "C": "a x O",
-      "D": "a x O",
-      "E": ""
+      "D": "a x O"
     },
     "answer": "D",
     "has_figure": true
@@ -3549,8 +3526,7 @@
       "A": "( ) f i m u u -",
       "B": "( ) f i m u u -",
       "C": "( ) f i m u u +",
-      "D": "i mu",
-      "E": ""
+      "D": "i mu"
     },
     "answer": "C"
   },
@@ -3579,8 +3555,7 @@
       "A": "It is always equal to 5 m/s.",
       "B": "It is always equal to 15 m/s.",
       "C": "It oscillates with a range of 0 to 5 m/s.",
-      "D": "It oscillates with a range of 0 to 15 m/s.",
-      "E": ""
+      "D": "It oscillates with a range of 0 to 15 m/s."
     },
     "answer": "B"
   },
@@ -3703,8 +3678,7 @@
       "A": "zero",
       "B": "constant, but not zero",
       "C": "decreasing at a constant rate",
-      "D": "increasing at a constant rate",
-      "E": ""
+      "D": "increasing at a constant rate"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3735,8 +3709,7 @@
       "A": "4",
       "B": "2",
       "C": "1",
-      "D": "",
-      "E": ""
+      "D": ""
     },
     "answer": "C"
   },
@@ -3861,8 +3834,7 @@
       "A": "It is elastic because momentum is conserved.",
       "B": "It is elastic because kinetic energy is conserved.",
       "C": "It is inelastic because momentum is not conserved.",
-      "D": "It is inelastic because kinetic energy is not conserved.",
-      "E": ""
+      "D": "It is inelastic because kinetic energy is not conserved."
     },
     "has_figure": true,
     "answer": "D"
@@ -4005,8 +3977,7 @@
       "A": "The person’s weight is exactly the same as at the surface.",
       "B": "The person’s weight is greater than at the surface.",
       "C": "The person’s weight is less than at the surface.",
-      "D": "The person’s weight may increase or decrease, depending on the density of the planet.",
-      "E": ""
+      "D": "The person’s weight may increase or decrease, depending on the density of the planet."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -4053,8 +4024,7 @@
       "A": "It is less.",
       "B": "It is equal.",
       "C": "It is greater.",
-      "D": "It cannot be determined without knowing the mass of the racket.",
-      "E": ""
+      "D": "It cannot be determined without knowing the mass of the racket."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -4085,8 +4055,7 @@
       "A": "U D < and K D >",
       "B": "U D = and K D >",
       "C": "U D < and K D =",
-      "D": "U D = and K D =",
-      "E": ""
+      "D": "U D = and K D ="
     },
     "answer": "A",
     "answer_source": "llm"
@@ -4212,8 +4181,7 @@
       "A": "M",
       "B": "M",
       "C": "M",
-      "D": "2M",
-      "E": ""
+      "D": "2M"
     },
     "answer": "B"
   },
@@ -4258,8 +4226,7 @@
       "A": "0.4 m/s",
       "B": "0.6 m/s",
       "C": "1.3 m/s",
-      "D": "2.5 m/s",
-      "E": ""
+      "D": "2.5 m/s"
     },
     "has_figure": true,
     "answer": "D"
@@ -4338,8 +4305,7 @@
       "A": "I only",
       "B": "III only",
       "C": "I and II only",
-      "D": "II and III only",
-      "E": ""
+      "D": "II and III only"
     },
     "has_figure": true,
     "answer": "A"
@@ -4401,8 +4367,7 @@
       "A": "60 w",
       "B": "20 w",
       "C": "3 w",
-      "D": "w",
-      "E": ""
+      "D": "w"
     },
     "has_figure": true,
     "answer": "C"
@@ -4480,8 +4445,7 @@
       "A": "24 m 24m s",
       "B": "24 m 18m s",
       "C": "18 m 18m s",
-      "D": "18 m 12m s",
-      "E": ""
+      "D": "18 m 12m s"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -4544,8 +4508,7 @@
       "A": "pY KY",
       "B": "3pY 3KY",
       "C": "3pY 6KY",
-      "D": "6pY 3KY",
-      "E": ""
+      "D": "6pY 3KY"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -4623,8 +4586,7 @@
       "A": "Decreasing Positive",
       "B": "Increasing Positive",
       "C": "Constant Positive",
-      "D": "Decreasing Negative",
-      "E": ""
+      "D": "Decreasing Negative"
     },
     "has_figure": true,
     "answer": "A"
@@ -4655,8 +4617,7 @@
       "A": "2 M L M",
       "B": "( ) 2 M M L M +",
       "C": "( ) 2 M M L M +",
-      "D": "( 1 M L M M + )",
-      "E": ""
+      "D": "( 1 M L M M + )"
     },
     "has_figure": true,
     "answer": "B"
@@ -4766,8 +4727,7 @@
       "A": "20 N",
       "B": "10 N",
       "C": "4.0 N",
-      "D": "1.0 N",
-      "E": ""
+      "D": "1.0 N"
     },
     "answer": "D"
   },
@@ -4796,8 +4756,7 @@
       "A": "A",
       "B": "B",
       "C": "C",
-      "D": "None, because the springs do not stretch.",
-      "E": ""
+      "D": "None, because the springs do not stretch."
     },
     "has_figure": true,
     "answer": "C"
@@ -4859,8 +4818,7 @@
       "A": "v",
       "B": "v",
       "C": "2v",
-      "D": "v",
-      "E": ""
+      "D": "v"
     },
     "answer": "A"
   },
@@ -4922,8 +4880,7 @@
       "A": "BR RL v v +  ",
       "B": "BR RL v v -  ",
       "C": "BR RL v v - +  ",
-      "D": "BR RL v v +  ",
-      "E": ""
+      "D": "BR RL v v +  "
     },
     "answer": "A"
   },
@@ -4984,8 +4941,7 @@
       "A": "3 GM R",
       "B": "3 GM R",
       "C": "3 GM R",
-      "D": "3GM R",
-      "E": ""
+      "D": "3GM R"
     },
     "has_figure": true,
     "answer": "C"
@@ -5015,8 +4971,7 @@
       "A": "2mg k",
       "B": "mg k",
       "C": "sin mg k q",
-      "D": "2 sin mg k q",
-      "E": ""
+      "D": "2 sin mg k q"
     },
     "answer": "A",
     "has_figure": true
@@ -5046,8 +5001,7 @@
       "A": "E M GM M R",
       "B": "E M GM M R",
       "C": "E M GM M R -",
-      "D": "E M GM M R -",
-      "E": ""
+      "D": "E M GM M R -"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -5109,8 +5063,7 @@
       "A": "s",
       "B": "m s",
       "C": "m s",
-      "D": "m s",
-      "E": ""
+      "D": "m s"
     },
     "answer": "C"
   },
@@ -5156,8 +5109,7 @@
       "A": "Zero",
       "B": "$mg$",
       "C": "$2mg$",
-      "D": "$4mg$",
-      "E": ""
+      "D": "$4mg$"
     },
     "answer": "D"
   },
@@ -5815,8 +5767,7 @@
       "A": "Kinetic energy of the comet",
       "B": "Speed of the comet",
       "C": "Acceleration of the comet",
-      "D": "Gravitational potential energy of the Sun-comet system",
-      "E": ""
+      "D": "Gravitational potential energy of the Sun-comet system"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -6005,8 +5956,7 @@
       "A": "1.5 N",
       "B": "4.0 N",
       "C": "4.5 N",
-      "D": "7.5 N",
-      "E": ""
+      "D": "7.5 N"
     },
     "has_figure": true,
     "answer": "C"
@@ -6037,8 +5987,7 @@
       "A": "6 N•m",
       "B": "10 N•m",
       "C": "30 N•m",
-      "D": "60 N•m",
-      "E": ""
+      "D": "60 N•m"
     },
     "has_figure": true,
     "answer": "C"
@@ -6069,8 +6018,7 @@
       "A": "2α",
       "B": "αt + β",
       "C": "2αt + β",
-      "D": "αt³/3 + βt²/2 + γt",
-      "E": ""
+      "D": "αt³/3 + βt²/2 + γt"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -7701,8 +7649,7 @@
       "A": "The boxes move together to the left with the same acceleration.",
       "B": "The boxes move together to the right with the same acceleration.",
       "C": "The boxes move together to the left with the same constant speed.",
-      "D": "The boxes move together to the right with the same constant speed.",
-      "E": ""
+      "D": "The boxes move together to the right with the same constant speed."
     },
     "has_figure": true,
     "answer": "B"
@@ -7923,8 +7870,7 @@
       "A": "–3.7 m/s",
       "B": "–1.4 m/s",
       "C": "–1.0 m/s",
-      "D": "+1.0 m/s",
-      "E": ""
+      "D": "+1.0 m/s"
     },
     "has_figure": true,
     "answer": "B"
@@ -8016,7 +7962,6 @@
     "number": 26,
     "text": "A student is performing an experiment to determine the power delivered to a block that is pulled at a constant speed across a surface by an external force. There is friction between the block and surface. Which of the following sets of equipment and corresponding measurements would allow the student to determine the power delivered to the block by the external force? F·V = P ↑ ↑ Force Sensor motion sensor 3.0 kg W ← → E 30° 6.0 m/s S N",
     "options": {
-      "E": "",
       "A": "A force sensor to measure the applied force, a stopwatch to measure time, and a scale to measure the mass of the block",
       "B": "A stopwatch to measure time and a motion sensor to measure speed",
       "C": "A motion sensor to measure speed, a stopwatch to measure time, and a meterstick to measure distance",
