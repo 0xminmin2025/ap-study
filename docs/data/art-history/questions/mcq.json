@@ -1384,7 +1384,7 @@
       "A": "Socrates",
       "B": "Pericles",
       "C": "Saint John the Baptist",
-      "D": "Saint Mark \n \n2L. \nDonatello, David, c. 1430–1435 (Erich Lessing / \nArt Resource, NY) \nQuestions 1-7 -- Slides \n(Note: students do not see \nthis slide information during \nthe exam administration.) \n2R. \nDonatello, Saint Mark, 1411–1413 (© Elio Ciol / Corbis)\n\n2009 AP® ART HISTORY SLIDE-BASED MULTIPLE-CHOICE QUESTIONS"
+      "D": "Saint Mark \n \n2L. \nDonatello, David, c. 1430–1435 (Erich Lessing / \nArt Resource, NY) \nQuestions 1-7 -- Slides \n(Note: students do not see \nthis slide information during \nthe exam administration.) \n2R. \nDonatello, Saint Mark, 1411–1413 (\n\n2009 AP® ART HISTORY SLIDE-BASED MULTIPLE-CHOICE QUESTIONS"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -2012,20 +2012,6 @@
       "D": "Istanbul"
     },
     "answer": "D"
-  },
-  {
-    "id": "art-history_2014_9",
-    "type": "mcq",
-    "year": 2014,
-    "number": 9,
-    "text": "The sculpture on the left was made in which period?",
-    "options": {
-      "A": "a glorified interpretation of history",
-      "B": "the origins of Christian sculpture",
-      "C": "the persistence of Augustan ideals",
-      "D": "the growing political unrest of its era"
-    },
-    "answer": "C"
   },
   {
     "id": "art-history_2014_10",
@@ -3127,7 +3113,7 @@
       "A": "The use of hierarchical scale",
       "B": "The use of a diagonal composition",
       "C": "The use of a flattened pictorial plane",
-      "D": "The use of expressively distorted figures \n© RMN-Grand Palais / Art Resource, NY"
+      "D": "The use of expressively distorted figures \n"
     },
     "has_figure": true,
     "answer": "B"
