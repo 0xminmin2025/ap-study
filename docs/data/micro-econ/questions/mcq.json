@@ -39,8 +39,7 @@
       "A": "increasing the demand for pretzels and therefore the supply of pretzels",
       "B": "increasing the demand for pretzels and therefore the price of pretzels",
       "C": "decreasing the demand for pretzels and therefore the price of pretzels",
-      "D": "increasing the supply of pretzels and therefore the price of pretzels",
-      "E": ""
+      "D": "increasing the supply of pretzels and therefore the price of pretzels"
     },
     "answer": "B"
   },
@@ -130,8 +129,7 @@
       "A": "Consumers would be willing to purchase more than 10 units at the price of $20 per unit.",
       "B": "The firm would definitely experience a loss.",
       "C": "The firm would have to lower its price to sell more than 10 units.",
-      "D": "The firm’s average cost of production would initially increase.",
-      "E": ""
+      "D": "The firm’s average cost of production would initially increase."
     },
     "answer": "C"
   },
@@ -220,8 +218,7 @@
       "A": "More regressive national sales tax",
       "B": "More progressive income taxes",
       "C": "An increase in the high school dropout rate",
-      "D": "An increase in structural unemployment",
-      "E": ""
+      "D": "An increase in structural unemployment"
     },
     "answer": "B"
   },
@@ -250,8 +247,7 @@
       "A": "make flashlights more available",
       "B": "create a shortage of flashlights",
       "C": "shift the demand curve for flashlights to the right",
-      "D": "shift the supply curve for flashlights to the left",
-      "E": ""
+      "D": "shift the supply curve for flashlights to the left"
     },
     "answer": "B"
   },
@@ -280,8 +276,7 @@
       "A": "$0.00",
       "B": "$0.45",
       "C": "$0.55",
-      "D": "$1.00",
-      "E": ""
+      "D": "$1.00"
     },
     "answer": "D",
     "has_figure": true
@@ -341,8 +336,7 @@
       "A": "higher short-run and long-run prices for gadgets",
       "B": "reduced short-run profits, followed by the exit of some firms",
       "C": "an upward shift in all short-run cost curves, followed by a higher long-run price for gadgets",
-      "D": "a higher short-run price for gadgets, followed by an increase in the quantity produced",
-      "E": ""
+      "D": "a higher short-run price for gadgets, followed by an increase in the quantity produced"
     },
     "answer": "D"
   },
@@ -372,8 +366,7 @@
       "A": "$50",
       "B": "$250",
       "C": "$300",
-      "D": "$400",
-      "E": ""
+      "D": "$400"
     },
     "answer": "D"
   },
@@ -447,8 +440,7 @@
       "A": "Electricity from a public utility",
       "B": "Mail delivery service by the post office",
       "C": "Social Security payments",
-      "D": "National defense",
-      "E": ""
+      "D": "National defense"
     },
     "answer": "D"
   },
@@ -508,8 +500,7 @@
       "A": "elastic",
       "B": "inelastic",
       "C": "unit elastic",
-      "D": "perfectly elastic",
-      "E": ""
+      "D": "perfectly elastic"
     },
     "answer": "C"
   },
@@ -568,8 +559,7 @@
       "A": "I and II only",
       "B": "I and III only",
       "C": "I and IV only",
-      "D": "II, III, and IV only",
-      "E": ""
+      "D": "II, III, and IV only"
     },
     "answer": "C",
     "has_figure": true
@@ -599,8 +589,7 @@
       "A": "Neither company has a dominant strategy.",
       "B": "Both companies have an incentive to reduce production by 10%.",
       "C": "Both companies have an incentive to reduce production by 20%.",
-      "D": "Only UA has an incentive to reduce production by 20%.",
-      "E": ""
+      "D": "Only UA has an incentive to reduce production by 20%."
     },
     "answer": "B"
   },
@@ -659,8 +648,7 @@
       "A": "has no incentive to minimize its costs",
       "B": "produces too little output and sets a price above marginal cost",
       "C": "earns too much profit by charging consumers any price it wants",
-      "D": "produces too much output and thus wastes scarce resources",
-      "E": ""
+      "D": "produces too much output and thus wastes scarce resources"
     },
     "answer": "B"
   },
@@ -674,8 +662,7 @@
       "A": "The distribution of income is significantly less equal after accounting for the impact of government policies.",
       "B": "The distribution of income is about the same after accounting for the impact of government policies.",
       "C": "The largest gainers from government policies are the third and fourth quintile groups.",
-      "D": "The only quintile to benefit from government policies is the lowest quintile.",
-      "E": ""
+      "D": "The only quintile to benefit from government policies is the lowest quintile."
     },
     "answer": "E",
     "has_figure": true
@@ -750,8 +737,7 @@
       "A": "Its short-run average total costs will rise.",
       "B": "Its long-run average total costs will rise.",
       "C": "Its long-run average total costs will fall.",
-      "D": "Its short-run total costs will fall.",
-      "E": ""
+      "D": "Its short-run total costs will fall."
     },
     "answer": "C"
   },
@@ -826,8 +812,7 @@
       "A": "years of schooling",
       "B": "occupations",
       "C": "marginal products",
-      "D": "marginal revenue products",
-      "E": ""
+      "D": "marginal revenue products"
     },
     "answer": "E"
   },
@@ -901,8 +886,7 @@
       "A": "private cost of producing good X exceeds the social cost of production at all levels of output",
       "B": "production of good X creates a negative externality",
       "C": "production of good X occurs in an imperfectly competitive market",
-      "D": "market quantity, Q3, is the socially optimal quantity",
-      "E": ""
+      "D": "market quantity, Q3, is the socially optimal quantity"
     },
     "answer": "B"
   },
@@ -1059,8 +1043,7 @@
       "A": "All products produced by the firms in the industry are homogeneous.",
       "B": "All firms in the industry are price takers.",
       "C": "All consumers and firms are completely aware of the prices at which transactions take place in the industry.",
-      "D": "There are barriers to entry into and exit from the industry.",
-      "E": ""
+      "D": "There are barriers to entry into and exit from the industry."
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1171,8 +1154,7 @@
       "A": "A decrease in the demand for towels, which leads to a shortage of towels followed by upward pressure on the price of towels",
       "B": "A decrease in the demand for towels, which leads to a surplus of towels followed by downward pressure on the price of towels",
       "C": "A decrease in the supply of towels, which leads to a shortage of towels followed by upward pressure on the price of towels",
-      "D": "An increase in the supply of towels, which leads to a surplus of towels followed by downward pressure on the price of towels",
-      "E": ""
+      "D": "An increase in the supply of towels, which leads to a surplus of towels followed by downward pressure on the price of towels"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1251,8 +1233,7 @@
       "A": "the price of good X",
       "B": "income",
       "C": "the price of good Z",
-      "D": "the supply of good Z",
-      "E": ""
+      "D": "the supply of good Z"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1267,8 +1248,7 @@
       "A": "TUV",
       "B": "STU",
       "C": "RSTU",
-      "D": "RSTUV",
-      "E": ""
+      "D": "RSTUV"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1378,8 +1358,7 @@
       "A": "The market will adjust automatically to equate marginal social costs and marginal social benefits.",
       "B": "Marginal social costs will exceed marginal private costs unless businesses are forced to internalize the external costs.",
       "C": "Marginal private costs will exceed marginal social costs, but the government can correct the problem.",
-      "D": "Producers should be subsidized so that they will produce more of the good.",
-      "E": ""
+      "D": "Producers should be subsidized so that they will produce more of the good."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1472,8 +1451,7 @@
       "A": "Increase Increase",
       "B": "Increase Decrease",
       "C": "Decrease Increase",
-      "D": "Decrease Decrease",
-      "E": ""
+      "D": "Decrease Decrease"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1488,8 +1466,7 @@
       "A": "low price and earn a profit of $40",
       "B": "low price and earn a profit of $50",
       "C": "high price and earn a profit of $50",
-      "D": "high price and earn a profit of $70",
-      "E": ""
+      "D": "high price and earn a profit of $70"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1567,8 +1544,7 @@
       "A": "make additional income through commercial endorsements of products",
       "B": "are able to participate in sports for only a limited number of years before changing occupations",
       "C": "earn far more as professional athletes than they could earn in their next-best occupation",
-      "D": "participate in sporting events only about six months during a year",
-      "E": ""
+      "D": "participate in sporting events only about six months during a year"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1629,8 +1605,7 @@
       "A": "Sam has an absolute advantage in making blankets.",
       "B": "Sam has an absolute advantage in knitting sweaters.",
       "C": "Sam has a comparative advantage in making blankets.",
-      "D": "Sam has a comparative advantage in knitting sweaters.",
-      "E": ""
+      "D": "Sam has a comparative advantage in knitting sweaters."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1692,8 +1667,7 @@
       "A": "the number of diamonds SteveR Incorporated offers for sale affects the price of diamonds",
       "B": "marginal revenue is negative throughout the range of the demand curve",
       "C": "marginal revenue is positive throughout the range of the demand curve",
-      "D": "the diamond industry consists of a few firms selling similar diamonds",
-      "E": ""
+      "D": "the diamond industry consists of a few firms selling similar diamonds"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1819,8 +1793,7 @@
       "A": "more than the profit-maximizing level of output",
       "B": "less than the profit-maximizing level of output",
       "C": "at a level of output where average total cost is at a minimum",
-      "D": "at a level of output where marginal costs are rising",
-      "E": ""
+      "D": "at a level of output where marginal costs are rising"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1851,8 +1824,7 @@
       "A": "Fixed supply",
       "B": "Effective price ceilings",
       "C": "Reduced market demand",
-      "D": "Negative externalities",
-      "E": ""
+      "D": "Negative externalities"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2153,8 +2125,7 @@
       "A": "marginal utility",
       "B": "producer surplus",
       "C": "consumer surplus",
-      "D": "economic rent",
-      "E": ""
+      "D": "economic rent"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2247,8 +2218,7 @@
       "A": "marginal revenue exceeds marginal cost by the highest amount",
       "B": "marginal revenue equals marginal cost",
       "C": "price exceeds average cost by the highest amount",
-      "D": "price equals average cost",
-      "E": ""
+      "D": "price equals average cost"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2327,8 +2297,7 @@
       "A": "In equilibrium, the marginal benefit exceeds the price charged by the firms.",
       "B": "In equilibrium, the marginal benefit exceeds the marginal cost of production.",
       "C": "In equilibrium, the marginal revenue of the firm is not equal to its marginal cost.",
-      "D": "In long-run equilibrium, the firm is earning economic profits.",
-      "E": ""
+      "D": "In long-run equilibrium, the firm is earning economic profits."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2470,8 +2439,7 @@
       "A": "Monopoly",
       "B": "Monopolistic competition",
       "C": "Perfect competition",
-      "D": "Natural monopoly",
-      "E": ""
+      "D": "Natural monopoly"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2486,8 +2454,7 @@
       "A": "$50 $100",
       "B": "$150 $150",
       "C": "$300 $50",
-      "D": "$100 $100",
-      "E": ""
+      "D": "$100 $100"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -2565,8 +2532,7 @@
       "A": "Increase Decrease",
       "B": "Increase Increase",
       "C": "Decrease Increase",
-      "D": "Decrease Decrease",
-      "E": ""
+      "D": "Decrease Decrease"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2661,8 +2627,7 @@
       "A": "greater than one",
       "B": "equal to one",
       "C": "equal to zero",
-      "D": "less than zero",
-      "E": ""
+      "D": "less than zero"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2773,8 +2738,7 @@
       "A": "marginal factor cost of labor is equal to the marginal revenue product of labor",
       "B": "marginal factor cost of labor is equal to the price of the good produced using labor",
       "C": "marginal product of labor is equal to the marginal revenue product of labor",
-      "D": "marginal product of labor is equal to the marginal factor cost of labor",
-      "E": ""
+      "D": "marginal product of labor is equal to the marginal factor cost of labor"
     },
     "answer": "A"
   },
@@ -2804,8 +2768,7 @@
       "A": "Granting a per-unit subsidy on the monopolist’s output",
       "B": "Granting an annual lump-sum subsidy to the monopolist",
       "C": "Imposing a per-unit tax on the monopolist’s output",
-      "D": "Imposing a price floor on the monopolist",
-      "E": ""
+      "D": "Imposing a price floor on the monopolist"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2868,8 +2831,7 @@
       "A": "Increase Increase",
       "B": "Increase Decrease",
       "C": "Decrease Increase",
-      "D": "Decrease Decrease",
-      "E": ""
+      "D": "Decrease Decrease"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2948,8 +2910,7 @@
       "A": "Marginal cost is greater than marginal revenue.",
       "B": "Price is greater than marginal cost.",
       "C": "Price is equal to average total cost.",
-      "D": "Price is equal to marginal cost.",
-      "E": ""
+      "D": "Price is equal to marginal cost."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -3012,8 +2973,7 @@
       "A": "Marginal social benefit is less than marginal private cost.",
       "B": "Marginal social benefit is greater than marginal private benefit.",
       "C": "Marginal social cost is greater than marginal social benefit.",
-      "D": "Marginal social cost is less than marginal private benefit.",
-      "E": ""
+      "D": "Marginal social cost is less than marginal private benefit."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3108,8 +3068,7 @@
       "A": "Good X becomes relatively less expensive than its substitutes, so consumers buy more of good X and fewer of the substitutes.",
       "B": "The marginal utility of consuming good X increases as more of good X is consumed.",
       "C": "The lower price of good X decreases the marginal utility per dollar; therefore, consumers buy more of good X.",
-      "D": "The demand curve for good X shifts to the left.",
-      "E": ""
+      "D": "The demand curve for good X shifts to the left."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -3187,8 +3146,7 @@
       "A": "$ 2",
       "B": "$ 4",
       "C": "$ 5",
-      "D": "$ 8",
-      "E": ""
+      "D": "$ 8"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3250,8 +3208,7 @@
       "A": "Kim should perform both tasks.",
       "B": "Maria should perform both tasks.",
       "C": "Kim should install computers and Maria should paint garages.",
-      "D": "Kim should paint garages and Maria should install computers.",
-      "E": ""
+      "D": "Kim should paint garages and Maria should install computers."
     },
     "has_figure": true,
     "answer": "C"
@@ -3314,8 +3271,7 @@
       "A": "Fixed costs",
       "B": "Implicit costs",
       "C": "Marginal costs",
-      "D": "Explicit costs",
-      "E": ""
+      "D": "Explicit costs"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3362,8 +3318,7 @@
       "A": "Q sub one",
       "B": "Q sub 2",
       "C": "Q sub 3",
-      "D": "Q sub 4",
-      "E": ""
+      "D": "Q sub 4"
     },
     "has_figure": true,
     "answer": "C"
@@ -3442,8 +3397,7 @@
       "A": "Shift right No shift",
       "B": "Shift left No shift",
       "C": "Shift left Shift left",
-      "D": "Shift left Shift right",
-      "E": ""
+      "D": "Shift left Shift right"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -3538,8 +3492,7 @@
       "A": "bought more X and more Y",
       "B": "bought more X and less Y",
       "C": "bought less X and more Y",
-      "D": "bought less X and less Y",
-      "E": ""
+      "D": "bought less X and less Y"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -3634,8 +3587,7 @@
       "A": "Perfect competition",
       "B": "Monopolistic competition",
       "C": "Oligopoly",
-      "D": "Monopoly",
-      "E": ""
+      "D": "Monopoly"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -3681,8 +3633,7 @@
       "A": "P sub 5",
       "B": "P sub 4",
       "C": "P sub 3",
-      "D": "P sub 2",
-      "E": ""
+      "D": "P sub 2"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3697,8 +3648,7 @@
       "A": "M R greater than P M R equals P",
       "B": "M R less than P M R equals P",
       "C": "MR decreases when P increases. MR increases when P decreases.",
-      "D": "M R equals P M R equals P",
-      "E": ""
+      "D": "M R equals P M R equals P"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3744,8 +3694,7 @@
       "A": "An increase in the demand for housing, resulting in a decrease in the quantity of housing supplied",
       "B": "An increase in rents, resulting in an increase in the quantity of housing supplied",
       "C": "An increase in the demand for housing, resulting in an increase in the quantity of housing demanded",
-      "D": "A decrease in rents, resulting in an increase in the quantity of housing supplied",
-      "E": ""
+      "D": "A decrease in rents, resulting in an increase in the quantity of housing supplied"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3808,8 +3757,7 @@
       "A": "economies of scale",
       "B": "increasing returns to scale",
       "C": "constant returns to scale",
-      "D": "decreasing returns to scale",
-      "E": ""
+      "D": "decreasing returns to scale"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -3856,8 +3804,7 @@
       "A": "Increase Increase",
       "B": "Increase Decrease",
       "C": "Increase Not change",
-      "D": "Decrease Increase",
-      "E": ""
+      "D": "Decrease Increase"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -3984,8 +3931,7 @@
       "A": "Increase Increase",
       "B": "Increase Decrease",
       "C": "No change Decrease",
-      "D": "Decrease Increase",
-      "E": ""
+      "D": "Decrease Increase"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -4063,8 +4009,7 @@
       "A": "$50,000",
       "B": "$75,000",
       "C": "$100,000",
-      "D": "$125,000",
-      "E": ""
+      "D": "$125,000"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -4095,8 +4040,7 @@
       "A": "It is sustaining a loss and should shut down.",
       "B": "It is earning zero economic profit and will remain in business.",
       "C": "Its accounting profits exceed implicit costs.",
-      "D": "It will temporarily shut down until price rises.",
-      "E": ""
+      "D": "It will temporarily shut down until price rises."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -4127,8 +4071,7 @@
       "A": "Q 1 and P 1",
       "B": "Q 1 and P 2",
       "C": "Q 1 and P 4",
-      "D": "Q 2 and P 3",
-      "E": ""
+      "D": "Q 2 and P 3"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -4255,8 +4198,7 @@
       "A": "the demand curve to shift to the left",
       "B": "the demand curve to shift to the right",
       "C": "the short-run supply curve to shift to the right",
-      "D": "the long-run supply curve to shift to the right",
-      "E": ""
+      "D": "the long-run supply curve to shift to the right"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -4431,8 +4373,7 @@
       "A": "Robin has an absolute advantage in making smoothies and a comparative advantage in making pizzas.",
       "B": "Robin has both an absolute advantage and a comparative advantage in making pizzas.",
       "C": "Dana has a comparative advantage in making both smoothies and pizzas.",
-      "D": "Dana has a comparative advantage in making pizzas, and Robin has a comparative advantage in making smoothies.",
-      "E": ""
+      "D": "Dana has a comparative advantage in making pizzas, and Robin has a comparative advantage in making smoothies."
     },
     "answer": "D",
     "answer_source": "llm"
@@ -4574,8 +4515,7 @@
       "A": "The tax burden will fall equally on both consumers and producers.",
       "B": "The tax burden will fall more on producers.",
       "C": "The tax burden will fall more on consumers.",
-      "D": "The percentage increase in the price of soft drinks will be greater than the percentage increase in the quantity demanded.",
-      "E": ""
+      "D": "The percentage increase in the price of soft drinks will be greater than the percentage increase in the quantity demanded."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -4654,8 +4594,7 @@
       "A": "Quantity of education in the private market is more than the socially optimal quantity.",
       "B": "Consumers of education could be subsidized in order to achieve the socially optimal quantity.",
       "C": "Producers of education could be taxed in order to achieve the socially optimal quantity.",
-      "D": "Consumers of education could be taxed in order to achieve the socially optimal quantity.",
-      "E": ""
+      "D": "Consumers of education could be taxed in order to achieve the socially optimal quantity."
     },
     "has_figure": true
   },
@@ -4749,8 +4688,7 @@
       "A": "An increase in the cost of producing pizza",
       "B": "A decrease in the price of pizza",
       "C": "An increase in the price of a complementary product",
-      "D": "An increase in consumers’ income",
-      "E": ""
+      "D": "An increase in consumers’ income"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -4909,8 +4847,7 @@
       "A": "1",
       "B": "2",
       "C": "4",
-      "D": "5",
-      "E": ""
+      "D": "5"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -4973,8 +4910,7 @@
       "A": "it is best for each firm given what the other firm has chosen",
       "B": "the total industry profits are maximized",
       "C": "Firm A has an incentive to change its strategy and chooses not to advertise",
-      "D": "it is the best outcome for Firm B regardless of what firm A does",
-      "E": ""
+      "D": "it is the best outcome for Firm B regardless of what firm A does"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -5005,8 +4941,7 @@
       "A": "Perfectly elastic Perfectly inelastic",
       "B": "Perfectly inelastic Perfectly elastic",
       "C": "Perfectly inelastic Relatively elastic",
-      "D": "Relatively inelastic Perfectly elastic",
-      "E": ""
+      "D": "Relatively inelastic Perfectly elastic"
     },
     "has_figure": true,
     "answer": "C"
@@ -5101,8 +5036,7 @@
       "A": "diseconomies of scale",
       "B": "constant returns to scale",
       "C": "economies of scale",
-      "D": "decreasing marginal cost",
-      "E": ""
+      "D": "decreasing marginal cost"
     },
     "has_figure": true,
     "answer": "B"
@@ -5181,8 +5115,7 @@
       "A": "Increase Increase",
       "B": "Increase No change",
       "C": "No change Increase",
-      "D": "Increase Decrease",
-      "E": ""
+      "D": "Increase Decrease"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -5420,8 +5353,7 @@
       "A": "Short run, because price is greater than marginal cost",
       "B": "Short run, because the firm is earning a positive economic profit",
       "C": "Long run, because price is greater than average total cost",
-      "D": "Long run, because marginal revenue is not equal to zero",
-      "E": ""
+      "D": "Long run, because marginal revenue is not equal to zero"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -5596,8 +5528,7 @@
       "A": "increase output and price",
       "B": "increase output and decrease price",
       "C": "decrease output and price",
-      "D": "decrease output and increase price",
-      "E": ""
+      "D": "decrease output and increase price"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -5628,8 +5559,7 @@
       "A": "5 tons",
       "B": "4 tons",
       "C": "3 tons",
-      "D": "2 tons",
-      "E": ""
+      "D": "2 tons"
     },
     "has_figure": true,
     "answer": "B"
@@ -5724,8 +5654,7 @@
       "A": "$80",
       "B": "$74",
       "C": "$50",
-      "D": "$35",
-      "E": ""
+      "D": "$35"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -5867,8 +5796,7 @@
       "A": "It would increase the number of housing units available, creating a surplus.",
       "B": "It would decrease the number of housing units available, creating a shortage.",
       "C": "It would have no impact on the number of housing units available.",
-      "D": "It would increase the consumer surplus and decrease the producer surplus.",
-      "E": ""
+      "D": "It would increase the consumer surplus and decrease the producer surplus."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -5915,8 +5843,7 @@
       "A": "$2 12",
       "B": "$4 7",
       "C": "$6 6",
-      "D": "$8 4",
-      "E": ""
+      "D": "$8 4"
     },
     "has_figure": true,
     "answer": "C"
@@ -5994,8 +5921,7 @@
       "A": "None ($27, $28)",
       "B": "($27, $28) ($15, $45)",
       "C": "($30, $26) ($15, $45)",
-      "D": "($27, $28) ($27, $28)",
-      "E": ""
+      "D": "($27, $28) ($27, $28)"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -6152,8 +6078,7 @@
       "A": "22",
       "B": "20",
       "C": "18",
-      "D": "0",
-      "E": ""
+      "D": "0"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -6248,8 +6173,7 @@
       "A": "reduce a firm’s short-run average total cost",
       "B": "minimize a firm’s long-run average total cost",
       "C": "make a firm’s demand curve more elastic",
-      "D": "make a firm’s demand curve less elastic",
-      "E": ""
+      "D": "make a firm’s demand curve less elastic"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -6424,8 +6348,7 @@
       "A": "5 6",
       "B": "5 7",
       "C": "6 5",
-      "D": "7 7",
-      "E": ""
+      "D": "7 7"
     },
     "has_figure": true,
     "answer": "B"
@@ -6536,8 +6459,7 @@
       "A": "public goods exclude nonpaying consumers, while private goods are available to all",
       "B": "public goods are inferior goods, while private goods are normal goods",
       "C": "public goods generate negative externalities, while private goods generate positive externalities",
-      "D": "it is difficult to charge customers directly for the provision of public goods",
-      "E": ""
+      "D": "it is difficult to charge customers directly for the provision of public goods"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -6567,8 +6489,7 @@
       "A": "It decreases, because the production of good Y decreases by greater amounts.",
       "B": "It decreases, because the production of good Y increases by smaller amounts.",
       "C": "It remains constant, because the production of good X increases by the same amount.",
-      "D": "It increases, because the production of good Y decreases by greater amounts.",
-      "E": ""
+      "D": "It increases, because the production of good Y decreases by greater amounts."
     },
     "answer": "A",
     "has_figure": true
@@ -6840,8 +6761,7 @@
       "A": "1",
       "B": "2",
       "C": "3",
-      "D": "4",
-      "E": ""
+      "D": "4"
     },
     "answer": "D"
   },
@@ -6871,8 +6791,7 @@
       "A": "Do Not Change Subscription Price is a dominant strategy for Daily Voice.} \\\\ \\text{",
       "B": "Do Not Change Subscription Price is a dominant strategy for Town Herald.} \\\\ \\text{",
       "C": "Increase Subscription Price is a dominant strategy for Daily Voice.} \\\\ \\text{",
-      "D": "Increase Subscription Price is a dominant strategy for Town Herald.} \\\\ \\text{",
-      "E": ""
+      "D": "Increase Subscription Price is a dominant strategy for Town Herald.} \\\\ \\text{"
     },
     "answer": "D"
   },
@@ -6993,8 +6912,7 @@
       "A": "eliminating monopolies wherever they exist",
       "B": "preventing monopolies from generating negative externalities",
       "C": "limiting practices that increase a firm’s market power",
-      "D": "imposing price ceilings on products produced by monopolies",
-      "E": ""
+      "D": "imposing price ceilings on products produced by monopolies"
     },
     "answer": "C"
   },
@@ -7054,8 +6972,7 @@
       "A": "An increase in the price of strawberries, a substitute",
       "B": "An increase in the supply of strawberries, a substitute",
       "C": "An increase in the price of farmland used to grow blueberries",
-      "D": "A decrease in the price of blueberry harvesting equipment",
-      "E": ""
+      "D": "A decrease in the price of blueberry harvesting equipment"
     },
     "answer": "E"
   },
@@ -7115,8 +7032,7 @@
       "A": "It can increase total revenue by raising price.",
       "B": "It can decrease average total cost by reducing output.",
       "C": "Price is equal to marginal revenue.",
-      "D": "Marginal revenue is less than marginal cost.",
-      "E": ""
+      "D": "Marginal revenue is less than marginal cost."
     },
     "answer": "E"
   },
@@ -7265,8 +7181,7 @@
       "A": "There will be a shortage of the good.",
       "B": "The sum of consumer and producer surpluses will decrease.",
       "C": "The equilibrium price of the good will decrease.",
-      "D": "The quantity sold of the good will remain unchanged.",
-      "E": ""
+      "D": "The quantity sold of the good will remain unchanged."
     },
     "answer": "B"
   },
@@ -7280,8 +7195,7 @@
       "A": "It increases from 2 to 4 units.",
       "B": "It increases from 2 to 5 units.",
       "C": "It increases from 2 to 8 units.",
-      "D": "It increases from 0 to 14 units.",
-      "E": ""
+      "D": "It increases from 0 to 14 units."
     },
     "answer": "D",
     "has_figure": true
@@ -7447,8 +7361,7 @@
       "A": "a higher average tax rate at low income levels than at high income levels",
       "B": "tax rates that increase total tax revenues",
       "C": "marginal tax rates that do not change as income changes",
-      "D": "marginal tax rates that increase as income increases",
-      "E": ""
+      "D": "marginal tax rates that increase as income increases"
     },
     "answer": "D"
   },
@@ -10323,8 +10236,7 @@
       "A": "Both price and consumer surplus will increase.",
       "B": "Both price nnd consumer surplus will remain the same.",
       "C": "Price will increase and consumer surplus will decrease.",
-      "D": "Price will increase nnd consumer surplus will remain the same.",
-      "E": ""
+      "D": "Price will increase nnd consumer surplus will remain the same."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -10398,8 +10310,7 @@
     "options": {
       "A": "It will decrease by $25.",
       "B": "It will dee心lSC by $40. {C) It wilJ increase by $90.",
-      "D": "It will increo.se by $40.",
-      "E": ""
+      "D": "It will increo.se by $40."
     },
     "has_figure": true
   },
@@ -10505,8 +10416,7 @@
       "A": "To i o rncrease positive extemaUties in consumption in order to increase consumers'standard of living",
       "B": "To decrease negative externalities in productiƤn in order to achieve a socially optimal quantity of output",
       "C": "To increase competition in markets in order to reduce inefficiencies caused by monopoly power",
-      "D": "To encourage finns to pay their workers a wage equal to their marginal revenue product in order to decrease income inequality",
-      "E": ""
+      "D": "To encourage finns to pay their workers a wage equal to their marginal revenue product in order to decrease income inequality"
     },
     "answer": "D"
   },
@@ -10567,8 +10477,7 @@
       "A": "$3",
       "B": "$5",
       "C": "$300",
-      "D": "$500",
-      "E": ""
+      "D": "$500"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -10612,8 +10521,7 @@
     "options": {
       "A": "Total revenue will decrease.",
       "B": "Marginal revenue will decrease.",
-      "C": "Marginal cost will increase. (D）.Average total cost will incre还e.",
-      "E": ""
+      "C": "Marginal cost will increase. (D）.Average total cost will incre还e."
     }
   },
   {
@@ -10702,8 +10610,7 @@
       "A": "Neither firm has a dominant strategy.",
       "B": "Both finns have a dominant strategy to open a new composting center.",
       "C": "Both firms have a dominant strategy to open a new recycling center.",
-      "D": "Cleared4U has a dominant strategy to open a new recycling中nter, and Bygone2 has a dominant strategy to open a new composting center.",
-      "E": ""
+      "D": "Cleared4U has a dominant strategy to open a new recycling中nter, and Bygone2 has a dominant strategy to open a new composting center."
     },
     "answer": "C",
     "answer_source": "llm"
