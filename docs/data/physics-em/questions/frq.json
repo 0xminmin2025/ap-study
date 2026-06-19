@@ -1,90 +1,5 @@
 [
   {
-    "id": "physics-em_2001_frq_1",
-    "type": "frq",
-    "year": 2001,
-    "number": 1,
-    "text": "The solutions contain the most common method",
-    "parts": [
-      {
-        "label": "s",
-        "text": "of solving the free-response questions, and the \nallocation of points for these solutions. Other methods of solution also receive appropriate credit for \ncorrect work.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2001_frq_2",
-    "type": "frq",
-    "year": 2001,
-    "number": 2,
-    "text": "Generally, double penalty for errors is avoided. For example, if an incorrect answer to part",
-    "parts": [
-      {
-        "label": "a",
-        "text": "is \ncorrectly substituted into an otherwise correct solution to part",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": ", full credit will usually be awarded.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2001_frq_3",
-    "type": "frq",
-    "year": 2001,
-    "number": 3,
-    "text": "An exception to this may be cases when the numerical answer to a later part should be easily \nrecognized as wrong, e.g., a speed faster than the speed of light in vacuum."
-  },
-  {
-    "id": "physics-em_2001_frq_4",
-    "type": "frq",
-    "year": 2001,
-    "number": 4,
-    "text": "Implicit statements of concepts normally receive credit. For example, if use of the equation \nexpressing a particular concept is worth one point, and a solution contains the application of the \nequation to the problem but does not separately list the basic equation, the point is still awarded.\n\nAP® PHYSICS C: ELECTRICITY AND MAGNETISM \n2001 SCORING GUIDELINES \n \n \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n \n3 \nQuestion 1 \n15 points total"
-  },
-  {
-    "id": "physics-em_2002_frq_3",
-    "type": "frq",
-    "year": 2002,
-    "number": 3,
-    "text": "Implicit statements of concepts normally receive credit. For example, if use of the equation \nexpressing a particular concept is worth one point, and a student’s solution contains the \napplication of that equation to the problem but the student does not write the basic equation, \nthe point is still awarded."
-  },
-  {
-    "id": "physics-em_2002_frq_4",
-    "type": "frq",
-    "year": 2002,
-    "number": 4,
-    "text": "The scoring guidelines typically show numerical results using the approximate value \n10 m s\ng \u0001\nfor ease of calculation, but use of \n9.8 m s is of course also acceptable."
-  },
-  {
-    "id": "physics-em_2002_frq_5",
-    "type": "frq",
-    "year": 2002,
-    "number": 5,
-    "text": "Numerical answers that differ from the published answer due to differences in rounding \nthroughout the question typically receive full credit. The exception is usually when rounding \nmakes a difference in obtaining a reasonable answer. For example, in calculations of mass \ndifferences in a nuclear reaction, rounding to too few digits can lose the accuracy required to \ndetermine a mass difference.\n\nAP® PHYSICS C: ELECTRICITY AND MAGNETISM \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trademarks of the College Entrance Examination Board. \n \n3 \n \nQuestion 1 \n \n15 points total \nDistribution of \n \npoints",
-    "parts": [
-      {
-        "label": "a",
-        "text": "3 points \n \n \nFor a correct formula for the total charge \n1 point \nq\n\u0001\n\u0001 \u0001 \n \nFor the correct length of arc, i.e., one-third of the circumference of a circle \n1 point \n\u0001\n\u0002\n\u0001\n\u0002\n0.10 m\n1 2\n0.21 m\n3\nπ\nπr\n\u0001\n\u0001\n\u0001\n\u0001\n \n \nFor the correct answer with correct unit \n1 point \n\u0001\n\u0002\u0001\n\u0002\n6\n1.5\n C m 0.21 m\n3.1 10\n C\nq\n\u0001\n\u0001\n\u0001\n\u0002\n\u0001\n\u0002",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "5 points \n \n \nFor either of the following formulas \n1 point \nk dq\ndE\nr\n\u0001\n or \nkq\nE\nr\n\u0001\n \n \nFor an indication that x components do not cancel. Acceptable is an arrow drawn to the \nright clearly shown on a diagram or use of horizontal component in equations. \n1 point \ncos\nx\nkλ\nθ d\ndE\nr\n\u0001\n\u0001 \n \ncos\nx\nkλ\nθ r dθ\ndE\nr\n\u0001\n \n \nFor a correct integration, without regard to limits (Several sets of limits are correct and \ngive the correct answer.) For example: \n1 point \n240\n120\ncos \nsin\nx\nk\nd\nk\nE\nr\nr\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\n\u0001\nθ\nθ\nθ\n \n \n3\n \n \n \n2\nk\nk\nE\nr\nr\n\u0001\n\u0002\n\u0003\n\u0004\n\u0003\n\u0003\n\u0004\n\u0005\n\u0006\n\u0007\n\b\nλ\nλ\n \n \n\u0001\n\u0002\u0001\n\u0002\n2\n5\n3 9\n10 N m\nC\n1.5 10\n C m\n0.10 m\nE\n\u0001\n\u0001\n\u0001\n\u0001\n\u0002\n \n \nFor the correct numerical answer \n1 point \n2.3 10 N C or V m\nE \u0001\n\u0002\n \n \nFor the correct direction \n1 point \nIn the +x direction, or to the right, or to the East\n\nAP® PHYSICS C: ELECTRICITY AND MAGNETISM \n2002 SCORING GUIDELINES \n\nAdvanced Placement Program and AP are registered trad",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "3 points \npoints \n \nFor a correct formula, either 1, 2, or 3 below \n1 point",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
     "id": "physics-em_2007_frq_1",
     "type": "frq",
     "year": 2007,
@@ -318,342 +233,6 @@
         "label": "f",
         "text": "If the resistance R of the crossbar is increased, does the terminal speed increase, decrease, or remain the \nsame? \n \n____ Increases ____ Decreases ____ Remains the same \n \nGive a physical justification for your answer in terms of the forces on the crossbar. \n \nSTOP",
         "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2014_frq_1",
-    "type": "frq",
-    "year": 2014,
-    "number": 1,
-    "text": "Physics knowledge — Basic knowledge of the discipline of physics, including \nphenomenology, theories and techniques, concepts and general principles"
-  },
-  {
-    "id": "physics-em_2014_frq_2",
-    "type": "frq",
-    "year": 2014,
-    "number": 2,
-    "text": "Problem solving — Ability to ask physical questions and to obtain solutions to \nphysical questions through the use of qualitative, quantitative reasoning and \nexperimental investigation"
-  },
-  {
-    "id": "physics-em_2014_frq_3",
-    "type": "frq",
-    "year": 2014,
-    "number": 3,
-    "text": "Student attributes — Fostering of important student attributes, including \nappreciation of the physical world and the discipline of physics, curiosity, \ncreativity and reasoned skepticism"
-  },
-  {
-    "id": "physics-em_2014_frq_4",
-    "type": "frq",
-    "year": 2014,
-    "number": 4,
-    "text": "Connections — Understanding connections of physics to other disciplines and to \nsocietal issues \nThe AP Physics C Exams have always emphasized achievement of the first two goals. \nOver the years, the definitions of basic knowledge of the discipline and problem \nsolving have evolved. The AP Physics C courses have reflected changes in college \ncourses, consistent with our primary charge. We have increased our emphasis on \nphysical intuition, experimental investigation and creativity. We include more open-\nended questions in order to assess students’ ability to explain their understanding of \nphysical concepts. We structure questions that stress the use of mathematics to \nilluminate the physical situation rather than to show manipulative abilities. \nThe committee is dedicated to developing exams that can be graded fairly and \nconsistently and that are free of ethnic, gender, economic or other bias. We operate \nunder practical constraints of testing methods, allotted time and large n"
-  },
-  {
-    "id": "physics-em_2014_frq_5",
-    "type": "frq",
-    "year": 2014,
-    "number": 5,
-    "text": "Orbits of planets and satellites\t\n\t\na.\t Circular\t\nb.\t General\t\nPercentage Goals \nfor Exams\n\n\t\n\nContent Area \nAP Physics C: Electricity and Magnetism . . . . . . . . . . . . . . . . . . . . . . . . \t\n100%\nA.\t Electrostatics\t\n30%"
-  },
-  {
-    "id": "physics-em_2014_frq_6",
-    "type": "frq",
-    "year": 2014,
-    "number": 6,
-    "text": "The sum of all the external forces on a system of particles is zero. Which of the \nfollowing must be true of the system?",
-    "parts": [
-      {
-        "label": "a",
-        "text": "The total mechanical energy is constant.",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "The total potential energy is constant.",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "The total kinetic energy is constant.",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "The total linear momentum is constant.",
-        "sub_parts": null
-      },
-      {
-        "label": "e",
-        "text": "It is in static equilibrium.\n\nSample Questions for AP Physics C: Mechanics",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2014_frq_7",
-    "type": "frq",
-    "year": 2014,
-    "number": 7,
-    "text": "A toy cannon is fixed to a small cart and both move to the right with speed v along \na straight track, as shown above. The cannon points in the direction of motion. \nWhen the cannon fires a projectile the cart and cannon are brought to rest. If M is \nthe mass of the cart and ­cannon combined without the projectile, and m is the mass \nof the projectile, what is the speed of the projectile relative to the ground \nimmediately after it is fired?",
-    "parts": [
-      {
-        "label": "a",
-        "text": "Mv\nm",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "M\nm v\nm\n+\n(\n)",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "M\nm v\nm\n-\n(\n)",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "mv\nM\n(\n)",
-        "sub_parts": null
-      },
-      {
-        "label": "e",
-        "text": "mv\nM\nm\n-\n(\n)",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2014_frq_8",
-    "type": "frq",
-    "year": 2014,
-    "number": 8,
-    "text": "A disk X rotates freely with angular velocity ω on frictionless bearings, as shown \nabove. A second identical disk Y, initially not rotating, is placed on X so that both \ndisks rotate together without slipping. When the disks are rotating together, which \nof the following is half what it was before?",
-    "parts": [
-      {
-        "label": "a",
-        "text": "Moment of inertia of X",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "Moment of inertia of Y",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "Angular velocity of X",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "Angular velocity of Y",
-        "sub_parts": null
-      },
-      {
-        "label": "e",
-        "text": "Angular momentum of both disks\nv\n\nSample Questions for AP Physics C: Mechanics",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2014_frq_9",
-    "type": "frq",
-    "year": 2014,
-    "number": 9,
-    "text": "The ring and the disk shown above have identical masses, radii, and velocities, and \nare not attached to each other. If the ring and the disk each roll without slipping up \nan inclined plane, how will the distances that they move up the plane before coming \nto rest compare?",
-    "parts": [
-      {
-        "label": "a",
-        "text": "The ring will move farther than will the disk.",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "The disk will move farther than will the ring.",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "The ring and the disk will move equal distances.",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "The relative distances depend on the angle of elevation of the plane.",
-        "sub_parts": null
-      },
-      {
-        "label": "e",
-        "text": "The relative distances depend on the length of the plane.",
-        "sub_parts": null
-      }
-    ]
-  },
-  {
-    "id": "physics-em_2014_frq_10",
-    "type": "frq",
-    "year": 2014,
-    "number": 10,
-    "text": "Let g be the acceleration due to gravity at the surface of a planet of radius R. Which \nof the following is a dimensionally correct formula for the minimum kinetic energy \nK that a projectile of mass m must have at the planet’s surface if the projectile is to \nescape from the planet’s gravitational field?",
-    "parts": [
-      {
-        "label": "a",
-        "text": "",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "K = mg\nR",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "K\nm g\nR\n=",
-        "sub_parts": null
-      },
-      {
-        "label": "e",
-        "text": "Answers to AP Physics C: Mechanics Multiple-Choice Questions\n1 – d\n2 – a\n3 – a\n4 – e\n5 – a\n6 – d\n7 – b\n8 – c\n 9 – a\n10 – b\nv\n\nSample Questions for AP Physics C: Mechanics\nAP Physics C: Mechanics Sample Free-Response Questions\nAP PHYSICS C: MECHANICS \nSECTION II \nTime—45 minutes \n3 Questions \nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the \nquestions, which are worth 15 points each. The parts within a question may not have equal weight.\n \nMech. 1. \nStudents are to conduct an experiment to investigate the relationship between the terminal speed of a \nstack of falling paper coffee filters and its mass. Their procedure involves stacking a number of coffee \nfilters, like the one shown in the figure above, and dropping the stack from rest. The students change \nthe number of filters in the stack to vary the mass m while keeping the shape of the stack th",
-        "sub_parts": null
-      },
-      {
-        "label": "a",
-        "text": "\u0007The students suspect that the drag force FD is proportional to the square of the speed v: F\nCv\nD =\n2, \nwhere C is a constant. Using this relationship, derive an expression relating the terminal speed vT to \nthe mass m. \nThe students conduct the experiment and obtain the following data. \n \n \n \n \n \n \nMass of the stack of filters, m (kg)\n1 12\n10 3\n.\n¥\n-\n2 04\n10 3\n.\n¥\n-\n2 96\n10 3\n.\n¥\n-\n4 18\n10 3\n.\n¥\n-\n5 10\n10 3\n.\n¥\n-\nTerminal speed, vT m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06",
-        "sub_parts": [
-          {
-            "label": "",
-            "text": "¥\n-\n2 04\n10 3"
-          },
-          {
-            "label": "",
-            "text": "¥\n-\n2 96\n10 3"
-          },
-          {
-            "label": "",
-            "text": "¥\n-\n4 18\n10 3"
-          },
-          {
-            "label": "",
-            "text": "¥\n-\n5 10\n10 3"
-          },
-          {
-            "label": "",
-            "text": "¥\n-\nTerminal speed, vT m s\n(\n)\n0.51\n0.62\n0.82\n0.92\n1.06"
-          }
-        ]
-      },
-      {
-        "label": "b",
-        "text": "",
-        "sub_parts": null
-      },
-      {
-        "label": "i",
-        "text": "\u0007Assuming the functional relationship for the drag force above,use the grid below to plot a \nlinear graph as a function of m to verify the relationship. Use the empty boxes in the data table, \nas appropriate, to record any calculated values you are graphing. Label the vertical axis as \nappropriate, and place numbers on both axes. \n\nSample Questions for AP Physics C: Mechanics\n\t\n(ii) \t Use your graph to calculate C.\nA particular stack of filters with mass m is dropped from rest and reaches a speed very close to terminal speed\nby the time it has fallen a vertical distance Y.",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "",
-        "sub_parts": null
-      },
-      {
-        "label": "i",
-        "text": "\u0007Sketch an approximate graph of speed versus time from the time the filters are released up to the time\n\t\n\t\n that the filters have fallen the distance Y. Indicate time \n and terminal speed v\nvT\n=\n on\n\t\n\t\nthe graph.\n\t\n(ii) \t Suppose you had a graph like the one sketched in",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "",
-        "sub_parts": null
-      },
-      {
-        "label": "i",
-        "text": "that had a numerical scale on each axis.\n\t\n\t\nDescribe how you could use the graph to approximate the distance Y.",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "Determine an expression for the approximate amount of mechanical energy dissipated, ∆E , due to air\n\t\nresistance during the time the stack falls a distance y, where \n . Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 2. \n \n A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of \n2 MR2\nmass M and radius R about its center of mass is \n.",
-        "sub_parts": [
-          {
-            "label": "",
-            "text": "Express your answer in terms of y, m,\n\t\nvT, and fundamental constants.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 2. \n \n A bowling ball of mass 6.0 kg is released from rest from the top of a slanted roof that is 4.0 m long and angled \nat 30∞, as shown above. The ball rolls along the roof without slipping. The rotational inertia of a sphere of \n2 MR2\nmass M and radius R about its center of mass"
-          }
-        ]
-      },
-      {
-        "label": "a",
-        "text": "On the figure below, draw and label the forces (not components) acting on the ball at their points of \napplication as it rolls along the roof.",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "Calculate the force due to friction acting on the ball as it rolls along the roof. If you need to draw anything \nother than what you have shown in part",
-        "sub_parts": null
-      },
-      {
-        "label": "a",
-        "text": "to assist in your solution, use the space below. Do NOT add \nanything to the figure in part",
-        "sub_parts": null
-      },
-      {
-        "label": "a",
-        "text": ".",
-        "sub_parts": [
-          {
-            "label": "",
-            "text": ""
-          }
-        ]
-      },
-      {
-        "label": "c",
-        "text": "Calculate the linear speed of the center of mass of the ball when it reaches the bottom edge of the roof.",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "A wagon containing a box is at rest on the ground below the roof so that the ball falls a vertical distance of \n3.0 m and lands and sticks in the center of the box. The total mass of the wagon and the box is 12 kg. \nCalculate the horizontal speed of the wagon immediately after the ball lands in it.\n\nSample Questions for AP Physics C: Mechanics\n \n \n \n Mech. 3. \n A skier of mass m will be pulled up a hill by a rope, as shown above. The magnitude of the acceleration of the \nskier as a function of time lowercase t can be modeled by the equations \n \nmax sin\n (0\n \n)\n \n 0 (\n),\nt\na\na\nt\nT\nT\nt\nT\np\n=\n<\n<\n \n=\n≥\n where amax and T are constants. The hill is inclined at an angle theta above the horizontal, and friction between the \nskis and the snow is negligible. Express your answers in terms of given quantities and fundamental constants.",
-        "sub_parts": null
-      },
-      {
-        "label": "a",
-        "text": "Derive an expression for the velocity of the skier as a function of time during the acceleration. Assume the \nskier starts from rest.",
-        "sub_parts": null
-      },
-      {
-        "label": "b",
-        "text": "Derive an expression for the work done by the net force on the skier from rest until terminal speed is reached.",
-        "sub_parts": null
-      },
-      {
-        "label": "c",
-        "text": "Determine the magnitude of the force exerted by the rope on the skier at terminal speed.",
-        "sub_parts": null
-      },
-      {
-        "label": "d",
-        "text": "Derive an expression for the total impulse imparted to the skier during the acceleration.",
-        "sub_parts": null
-      },
-      {
-        "label": "e",
-        "text": "Suppose that the magnitude of the acceleration is instead modeled as a = a\ne pt 2T\nmax\n \n-\nfor all t > 0 , where \namax and T are the same as in the original model. On the axes below, sketch the graphs of the force exerted \nby the rope on the skier for the two models, from t = 0 to a time t\nT\n>\n. Label the original model F1 and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams. The answers are \non page 55. Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numerical quantities are abbreviated, using the abbrevia­\ntions listed in the table of information included with the exams (see insert in this book. )\nDirections: Each of the questions or incomplete stateme",
-        "sub_parts": [
-          {
-            "label": "",
-            "text": "Label the original model F1 and the \nnew model F2 .\n\nSample Questions for AP Physics C: Electricity and Magnetism\nAP Physics C: Electricity and Magnetism Sample \nMultiple-Choice Questions\nMost of the following sample questions have appeared in past exams. The answers are \non page 55. Additional questions can be found in the 2009 AP Physics B and Physics C \nReleased Exams book.\nNote: Units associated with numer"
-          }
-        ]
       }
     ]
   },
@@ -1102,7 +681,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "i. Draw a line that represents the best fit to the points shown.\nii. Use the graph to calculate the charge Q.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page. \niii. On the graph on the previous page, draw a circle around the data point that was taken when the distance\nbetween the centers of the spheres was the least.\niv. Determine the distance between the centers of the spheres for the data point indicated above.\nv. What physical quantity does the vertical intercept represent?\nJustify your answer. \nThe experiment is extended by collecting additional data points, which appear on the right side of the graph \nshown above. The new data points do not follow the linear pattern seen with the first points. The group",
+        "text": "i. Draw a line that represents the best fit to the points shown.\nii. Use the graph to calculate the charge Q.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nContinue your response to QUESTION 2 on this page. \niii. On the graph on the previous page, draw a circle around the data point that was taken when the distance\nbetween the centers of the spheres was the least.\niv. Determine the distance between the centers of the spheres for the data point indicated above.\nv. What physical quantity does the vertical intercept represent?\nJustify your answer. \nThe experiment is extended by collecting additional data points, which appear on the right side of the graph \nshown above. The new data points do not follow the linear pattern seen with the first points. The group",
         "sub_parts": [
           {
             "label": "i",
@@ -1110,7 +689,7 @@
           },
           {
             "label": "ii",
-            "text": "Use the graph to calculate the charge Q.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page."
+            "text": "Use the graph to calculate the charge Q.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nContinue your response to QUESTION 2 on this page."
           },
           {
             "label": "iii",
@@ -1128,7 +707,7 @@
       },
       {
         "label": "b",
-        "text": "One student suspects that charge is slowly leaking off the top sphere. Could this explain the discrepancy?\n____ Yes \n_____ No \nJustify your answer. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "One student suspects that charge is slowly leaking off the top sphere. Could this explain the discrepancy?\n____ Yes \n_____ No \nJustify your answer. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
@@ -1184,11 +763,11 @@
       },
       {
         "label": "b",
-        "text": "Calculate the electrical energy dissipated in the ring from t equals 1 second \n to \n \nt equals 2 seconds \n.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a 30 degree angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset to a magnitude of B sub 0 at a new time t equals 0 \n and again begins to\ndecrease at \n t equals 1 second according to the equation \n \nB o f t equals the fraction beta over t , where Beta has units of time seconds .",
+        "text": "Calculate the electrical energy dissipated in the ring from t equals 1 second \n to \n \nt equals 2 seconds \n.\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a 30 degree angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset to a magnitude of B sub 0 at a new time t equals 0 \n and again begins to\ndecrease at \n t equals 1 second according to the equation \n \nB o f t equals the fraction beta over t , where Beta has units of time seconds .",
         "sub_parts": [
           {
             "label": "",
-            "text": "Use a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a 30 degree angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset"
+            "text": "Use a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nContinue your response to QUESTION 3 on this page. \nThe ring is then rotated so that the plane of the ring is aligned at a 30 degree angle to the magnetic field, as shown. \nThe magnitude of the magnetic field is reset"
           }
         ]
       },
@@ -1199,7 +778,7 @@
       },
       {
         "label": "d",
-        "text": "Calculate the angular speed omega of the rotating ring in\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: radians per second .\n\nAP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": "Calculate the angular speed omega of the rotating ring in\nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nAP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
@@ -1214,22 +793,15 @@
       },
       {
         "label": "f",
-        "text": ". Any work shown on the graph \nbelow will NOT be graded. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 10",
+        "text": ". Any work shown on the graph \nbelow will NOT be graded. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nSTOP \n\n",
         "sub_parts": [
           {
             "label": "",
-            "text": "Any work shown on the graph \nbelow will NOT be graded. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2021 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 10"
+            "text": "Any work shown on the graph \nbelow will NOT be graded. \nUse a pencil or pen with black or dark blue ink only. Do NOT write your name. Do NOT write outside the box. \n\nSTOP \n\n"
           }
         ]
       }
     ]
-  },
-  {
-    "id": "physics-em_2021_frq_5",
-    "type": "frq",
-    "year": 2021,
-    "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\n\nADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration \nE equals energy \nuppercase F, equals force \nlowercase f, equals \n frequency \nh equals height \nI equals rotational inertia \nJ equals impulse \nuppercase K, equals kinetic energy \nlowercase k, equals \n spring constant \nl owercase l, equals length\nuppercase L, equals \n angular momentum \nm equals mass \nuppercase P, equals power \nlowercase p, equals \n momentum \nr equals radius or distance \nuppercase T, equals \n period \nlowercase t, equals \n time \nU equals potential energy \nv equals velocity or speed \nW equals work done on a system \nx equals position \nm u equals coefficient of friction \nt heta equals angle \nt au equals torque \no mega equals angular speed \na lpha equals angular acceleration \np hi equals phase angle \nv\n \ns\nu\nb\n \nx\n equals v sub x zero, plus, a sub x times t\nx\nx\n \ne"
   },
   {
     "id": "physics-em_2022_frq_2",
@@ -1245,12 +817,12 @@
       },
       {
         "label": "b",
-        "text": "Show that the potential difference ∆VC across the capacitor as a function of time \nt\n− \nt is ∆ C ( ) = V0 e RC\nV\nt\n ∆ \nas \nthe capacitor discharges. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "Show that the potential difference ∆VC across the capacitor as a function of time \nt\n− \nt is ∆ C ( ) = V0 e RC\nV\nt\n ∆ \nas \nthe capacitor discharges. \n\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
         "label": "c",
-        "text": "The experiment is performed using a resistor of R = 150 kΩ. Data for the potential difference ∆VC across the \ncapacitor as a function of t are recorded and a plot of \n⎟⎟⎟\n⎛ ∆V ⎞\nC\n⎜\nln⎜ ⎝ ∆V ⎟⎠\n⎜ \n0 \nas a function of t is created on the graph\nbelow. \ni. Draw the best-fit line for the data. \nii. Using the best-fit line, calculate a value for the unknown capacitance C . \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "The experiment is performed using a resistor of R = 150 kΩ. Data for the potential difference ∆VC across the \ncapacitor as a function of t are recorded and a plot of \n⎟⎟⎟\n⎛ ∆V ⎞\nC\n⎜\nln⎜ ⎝ ∆V ⎟⎠\n⎜ \n0 \nas a function of t is created on the graph\nbelow. \ni. Draw the best-fit line for the data. \nii. Using the best-fit line, calculate a value for the unknown capacitance C . \n\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": [
           {
             "label": "i",
@@ -1258,7 +830,7 @@
           },
           {
             "label": "ii",
-            "text": "Using the best-fit line, calculate a value for the unknown capacitance C . \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page."
+            "text": "Using the best-fit line, calculate a value for the unknown capacitance C . \n\nContinue your response to QUESTION 2 on this page."
           }
         ]
       },
@@ -1294,7 +866,7 @@
       },
       {
         "label": "c",
-        "text": "? \n___ Yes \n___ No \nBriefly justify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
+        "text": "? \n___ Yes \n___ No \nBriefly justify your answer. \n\nBegin your response to QUESTION 3 on this page.",
         "sub_parts": null
       }
     ]
@@ -1313,7 +885,7 @@
       },
       {
         "label": "b",
-        "text": "Calculate the magnetic flux through the loop due to only the long wire at time t = 3.0 s. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": "Calculate the magnetic flux through the loop due to only the long wire at time t = 3.0 s. \n\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
@@ -1338,7 +910,7 @@
       },
       {
         "label": "c",
-        "text": ". Which of the following could explain this discrepancy? Select one answer. \n___ \n___\n___ \n___ \n___\nThe students did not account for Earth’s magnetic field. \n The rectangular loop is tilted and is not in the same plane as the wire. \nThe resistance of the lightbulb is greater than the recorded value. \nThe long side of the rectangular loop is shorter than the recorded value. \n The current in the long wire changes at a faster rate than expected. \nBriefly justify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": ". Which of the following could explain this discrepancy? Select one answer. \n___ \n___\n___ \n___ \n___\nThe students did not account for Earth’s magnetic field. \n The rectangular loop is tilted and is not in the same plane as the wire. \nThe resistance of the lightbulb is greater than the recorded value. \nThe long side of the rectangular loop is shorter than the recorded value. \n The current in the long wire changes at a faster rate than expected. \nBriefly justify your answer. \n\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": [
           {
             "label": "",
@@ -1353,7 +925,7 @@
       },
       {
         "label": "c",
-        "text": "? \n___I < I \n1\n___I = I \n1 \n___ I > I\n1 \nJustify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 14",
+        "text": "? \n___I < I \n1\n___I = I \n1 \n___ I > I\n1 \nJustify your answer. \n\nSTOP \n\n",
         "sub_parts": null
       }
     ]
@@ -1372,12 +944,12 @@
       },
       {
         "label": "b",
-        "text": "Show that the current I through the capacitor as a function of time\n−t \n(R r )C\n+\n t is I( )t = I e \nC \n0 \nas the capacitor\ndischarges. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "Show that the current I through the capacitor as a function of time\n−t \n(R r )C\n+\n t is I( )t = I e \nC \n0 \nas the capacitor\ndischarges. \n\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
         "label": "c",
-        "text": "The students determine the time constant t for the circuit as a function of the resistance R. The students’ data \nare shown in the following graph. \ni. Draw the best-fit line for the data. \nii. Using the best-fit line, calculate a value for the internal resistance rC of the capacitor. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page.",
+        "text": "The students determine the time constant t for the circuit as a function of the resistance R. The students’ data \nare shown in the following graph. \ni. Draw the best-fit line for the data. \nii. Using the best-fit line, calculate a value for the internal resistance rC of the capacitor. \n\nContinue your response to QUESTION 2 on this page.",
         "sub_parts": [
           {
             "label": "i",
@@ -1385,7 +957,7 @@
           },
           {
             "label": "ii",
-            "text": "Using the best-fit line, calculate a value for the internal resistance rC of the capacitor. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 2 on this page."
+            "text": "Using the best-fit line, calculate a value for the internal resistance rC of the capacitor. \n\nContinue your response to QUESTION 2 on this page."
           }
         ]
       },
@@ -1416,7 +988,7 @@
       },
       {
         "label": "c",
-        "text": "? \n___ More steep \n___ Less steep \n___ Remain unchanged \nBriefly justify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nBegin your response to QUESTION 3 on this page.",
+        "text": "? \n___ More steep \n___ Less steep \n___ Remain unchanged \nBriefly justify your answer. \n\nBegin your response to QUESTION 3 on this page.",
         "sub_parts": null
       }
     ]
@@ -1435,7 +1007,7 @@
       },
       {
         "label": "b",
-        "text": "Calculate the current in the loop of wire at time t = 2.0 s. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": "Calculate the current in the loop of wire at time t = 2.0 s. \n\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
@@ -1460,11 +1032,11 @@
       },
       {
         "label": "b",
-        "text": ". Which \nof the following could explain this discrepancy? Select one answer. \n___ \n___ \n___ \n___ \n___ \nThe experiment did not account for Earth’s magnetic field. \nThe plane of the loop is not perpendicular to the axis of the solenoid. \nThe center of the loop is not on the axis of the solenoid. \nThe resistance of the loop is less than the given value. \nThe radius of the loop is actually larger than 0.10 m. \nJustify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nContinue your response to QUESTION 3 on this page.",
+        "text": ". Which \nof the following could explain this discrepancy? Select one answer. \n___ \n___ \n___ \n___ \n___ \nThe experiment did not account for Earth’s magnetic field. \nThe plane of the loop is not perpendicular to the axis of the solenoid. \nThe center of the loop is not on the axis of the solenoid. \nThe resistance of the loop is less than the given value. \nThe radius of the loop is actually larger than 0.10 m. \nJustify your answer. \n\nContinue your response to QUESTION 3 on this page.",
         "sub_parts": [
           {
             "label": "",
-            "text": "Which \nof the following could explain this discrepancy? Select one answer. \n___ \n___ \n___ \n___ \n___ \nThe experiment did not account for Earth’s magnetic field. \nThe plane of the loop is not perpendicular to the axis of the solenoid. \nThe center of the loop is not on the axis of the solenoid. \nThe resistance of the loop is less than the given value. \nThe radius of the loop is actually larger than 0.10 m. \nJustify your answer. \nVisit College Board o"
+            "text": "Which \nof the following could explain this discrepancy? Select one answer. \n___ \n___ \n___ \n___ \n___ \nThe experiment did not account for Earth’s magnetic field. \nThe plane of the loop is not perpendicular to the axis of the solenoid. \nThe center of the loop is not on the axis of the solenoid. \nThe resistance of the loop is less than the given value. \nThe radius of the loop is actually larger than 0.10 m. \nJustify your answer. \n"
           }
         ]
       },
@@ -1475,7 +1047,7 @@
       },
       {
         "label": "b",
-        "text": "and I2 represents the current \ninduced in the second loop of wire? \n___\n___\n___\n___ \nI 2 \n \n= 1 \nI 1 \nI2\n1 <\n< 2 \nI1\nI2 \n= 2 \nI1\nI2 > 2 \nI1 \nJustify your answer. \nVisit College Board on the web: AP® Physics C: Electricity and Magnetism 2022 Free-Response Questions\nSTOP \n\nVisit College Board on the web: 15",
+        "text": "and I2 represents the current \ninduced in the second loop of wire? \n___\n___\n___\n___ \nI 2 \n \n= 1 \nI 1 \nI2\n1 <\n< 2 \nI1\nI2 \n= 2 \nI1\nI2 > 2 \nI1 \nJustify your answer. \n\nSTOP \n\n",
         "sub_parts": null
       }
     ]
@@ -1489,7 +1061,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "On the following diagram of the bar, draw an arrow indicating the direction of the net force Fnet exerted on the\nbar at time tB. If the net force is zero, write Fnet = 0.\n\nVisit College Board on the web: 9 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
+        "text": "On the following diagram of the bar, draw an arrow indicating the direction of the net force Fnet exerted on the\nbar at time tB. If the net force is zero, write Fnet = 0.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
@@ -1508,7 +1080,7 @@
       },
       {
         "label": "c",
-        "text": "On the following axes, sketch a graph of the speed v of the bar as a function of time t between t = 0 and t4.\n\nVisit College Board on the web: 10 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
+        "text": "On the following axes, sketch a graph of the speed v of the bar as a function of time t between t = 0 and t4.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
@@ -1527,7 +1099,7 @@
       },
       {
         "label": "e",
-        "text": "Describe a modification to m, B, or L that will result in a smaller induced potential difference across the\noriginal resistor immediately after the bar enters the first uniform magnetic field. Justify your answer.\n\nVisit College Board on the web: 11 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions",
+        "text": "Describe a modification to m, B, or L that will result in a smaller induced potential difference across the\noriginal resistor immediately after the bar enters the first uniform magnetic field. Justify your answer.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions",
         "sub_parts": null
       }
     ]
@@ -1541,7 +1113,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "Write, but do NOT solve, a differential equation that can be used to determine the charge Q on the positive\nplate of Capacitor 1 as a function of time t after the switch is closed to Position A. Express your answer in\nterms of Ɛ, R, C, Q, t, and fundamental constants, as appropriate.\n\nVisit College Board on the web: 12 \nBegin your response to QUESTION 3 on this page.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page.",
+        "text": "Write, but do NOT solve, a differential equation that can be used to determine the charge Q on the positive\nplate of Capacitor 1 as a function of time t after the switch is closed to Position A. Express your answer in\nterms of Ɛ, R, C, Q, t, and fundamental constants, as appropriate.\n\nBegin your response to QUESTION 3 on this page.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
@@ -1551,7 +1123,7 @@
       },
       {
         "label": "c",
-        "text": "At time t1, the switch is closed to Position B.\ni. Immediately after time t1, is the direction of the current in the switch directed toward the left, directed\ntoward the right, or is there no current? Briefly justify your answer.\nii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 13 \niii. Derive an expression for the total energy ER\n dissipated by resistors and 2 from immediately after\ntime t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\nfundamental constants, as appropriate.\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation \ndistance increases by a factor of 2.",
+        "text": "At time t1, the switch is closed to Position B.\ni. Immediately after time t1, is the direction of the current in the switch directed toward the left, directed\ntoward the right, or is there no current? Briefly justify your answer.\nii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\niii. Derive an expression for the total energy ER\n dissipated by resistors and 2 from immediately after\ntime t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\nfundamental constants, as appropriate.\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation \ndistance increases by a factor of 2.",
         "sub_parts": [
           {
             "label": "i",
@@ -1559,7 +1131,7 @@
           },
           {
             "label": "ii",
-            "text": "Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 13"
+            "text": "Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\n"
           },
           {
             "label": "iii",
@@ -1569,7 +1141,7 @@
       },
       {
         "label": "d",
-        "text": "Determine the ratio U2\nU1 \nof the energy U2\n stored in Capacitor to the energy U1\n stored in Capacitor a long \ntime after the plates of Capacitor 2 have been moved. Briefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \n\nVisit College Board on the web: 14 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \nWith the capacitors still charged as in part",
+        "text": "Determine the ratio U2\nU1 \nof the energy U2\n stored in Capacitor to the energy U1\n stored in Capacitor a long \ntime after the plates of Capacitor 2 have been moved. Briefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \nWith the capacitors still charged as in part",
         "sub_parts": null
       },
       {
@@ -1594,7 +1166,7 @@
       },
       {
         "label": "e",
-        "text": "(ii) in terms of R, C, Q0, and fundamental constants, as\nappropriate.\ni. Derive an expression for the current I0 from the battery immediately after the switch is closed to\nPosition A.\nii. Determine the current I∞\nA\n from the battery a long time after the switch is closed to Position \n.\n\nVisit College Board on the web: 15 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\nVisit College Board on the web: 16",
+        "text": "(ii) in terms of R, C, Q0, and fundamental constants, as\nappropriate.\ni. Derive an expression for the current I0 from the battery immediately after the switch is closed to\nPosition A.\nii. Determine the current I∞\nA\n from the battery a long time after the switch is closed to Position \n.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\n",
         "sub_parts": [
           {
             "label": "i",
@@ -1606,7 +1178,7 @@
           },
           {
             "label": "",
-            "text": "Visit College Board on the web: 15 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\nVisit College Board on the web: 16"
+            "text": "\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\n"
           }
         ]
       }
@@ -1617,7 +1189,7 @@
     "type": "frq",
     "year": 2023,
     "number": 2,
-    "text": "Two parallel conducting rails are separated by distance d = 0.30 m. A resistor of resistance R = 0.20 Ω connects\nthe rails. A conducting bar is placed on a sloped section of the rails at height H above the horizontal section of the\nrails. Frictional forces and the resistances of the bar and rails are negligible.\n• At time t = 0, the bar is released from rest from position x0 and slides down the sloped section\nof the rails, as shown in the Perspective View.\n• At time t1, the bar reaches position x1 and smoothly transitions to the horizontal section of the\nrails and enters a uniform magnetic field of magnitude B1 = 0.40 T that is directed in the\n+y-direction.\n• At time t2, the bar reaches position x2 and enters a region with no magnetic field.\n• At time t3, the bar reaches position x3 and enters a uniform magnetic field of\nmagnitude B2 = 0.60 T that is directed in the +z-direction.\n• At time t4, the bar reaches position x4 and enters a region with no magnetic field.\nThe bar is at position xB (shown in Top View) at time tB such that t1 < tB < t2. \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nBegin your response to QUESTION 2 on this page. \n\nVisit College Board on the web: 9 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
+    "text": "Two parallel conducting rails are separated by distance d = 0.30 m. A resistor of resistance R = 0.20 Ω connects\nthe rails. A conducting bar is placed on a sloped section of the rails at height H above the horizontal section of the\nrails. Frictional forces and the resistances of the bar and rails are negligible.\n• At time t = 0, the bar is released from rest from position x0 and slides down the sloped section\nof the rails, as shown in the Perspective View.\n• At time t1, the bar reaches position x1 and smoothly transitions to the horizontal section of the\nrails and enters a uniform magnetic field of magnitude B1 = 0.40 T that is directed in the\n+y-direction.\n• At time t2, the bar reaches position x2 and enters a region with no magnetic field.\n• At time t3, the bar reaches position x3 and enters a uniform magnetic field of\nmagnitude B2 = 0.60 T that is directed in the +z-direction.\n• At time t4, the bar reaches position x4 and enters a region with no magnetic field.\nThe bar is at position xB (shown in Top View) at time tB such that t1 < tB < t2. \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nBegin your response to QUESTION 2 on this page. \n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
     "parts": [
       {
         "label": "a",
@@ -1645,7 +1217,7 @@
       },
       {
         "label": "c",
-        "text": "On the following axes, sketch a graph of the speed v of the bar as a function of time t between t = 0 and t4.\n\nVisit College Board on the web: 10 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
+        "text": "On the following axes, sketch a graph of the speed v of the bar as a function of time t between t = 0 and t4.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 2 on this page.",
         "sub_parts": null
       },
       {
@@ -1664,7 +1236,7 @@
       },
       {
         "label": "e",
-        "text": "Describe a modification to H, B1, or d that will result in a larger induced current in the new bar immediately\nafter the bar enters the first uniform magnetic field. Justify your answer.\n\nVisit College Board on the web: 11 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions",
+        "text": "Describe a modification to H, B1, or d that will result in a larger induced current in the new bar immediately\nafter the bar enters the first uniform magnetic field. Justify your answer.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions",
         "sub_parts": null
       }
     ]
@@ -1678,7 +1250,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "Write, but do NOT solve, a differential equation that can be used to determine the charge Q on the positive\nplate of Capacitor 1 as a function of time t after the switch is closed to Position A. Express your answer in\nterms of Ɛ, R, C, Q, t, and fundamental constants, as appropriate.\n\nVisit College Board on the web: 12 \nBegin your response to QUESTION 3 on this page.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page.",
+        "text": "Write, but do NOT solve, a differential equation that can be used to determine the charge Q on the positive\nplate of Capacitor 1 as a function of time t after the switch is closed to Position A. Express your answer in\nterms of Ɛ, R, C, Q, t, and fundamental constants, as appropriate.\n\nBegin your response to QUESTION 3 on this page.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page.",
         "sub_parts": null
       },
       {
@@ -1688,7 +1260,7 @@
       },
       {
         "label": "c",
-        "text": "At time t1, the switch is closed to Position B.\ni. Immediately after t1, is the direction of the current in Resistor 1 directed up, directed down, or is there no\ncurrent? Briefly justify your answer.\nii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 13 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \niii. Derive an expression for the total energy dissipated by Resistor 1 immediately after time t1 until new\nsteady-state conditions have been reached. Express your answer in terms of C, Q 0, and fundamental\n \nconstants, as appropriate.\nWith the switch still closed to Position B, a dielectric material with dielectric constant k = 2 is inserted between \nthe plates of Capacitor 2.",
+        "text": "At time t1, the switch is closed to Position B.\ni. Immediately after t1, is the direction of the current in Resistor 1 directed up, directed down, or is there no\ncurrent? Briefly justify your answer.\nii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \niii. Derive an expression for the total energy dissipated by Resistor 1 immediately after time t1 until new\nsteady-state conditions have been reached. Express your answer in terms of C, Q 0, and fundamental\n \nconstants, as appropriate.\nWith the switch still closed to Position B, a dielectric material with dielectric constant k = 2 is inserted between \nthe plates of Capacitor 2.",
         "sub_parts": [
           {
             "label": "i",
@@ -1696,7 +1268,7 @@
           },
           {
             "label": "ii",
-            "text": "Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 13 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page."
+            "text": "Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page."
           },
           {
             "label": "iii",
@@ -1706,7 +1278,7 @@
       },
       {
         "label": "d",
-        "text": "Determine the charge on the positive plate of Capacitor 2 a long time after the dielectric has been inserted.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nVisit College Board on the web: 14 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \nWith the switch still closed to Position B, a wire of negligible resistance is connected between two corners of the \ncircuit, as shown.",
+        "text": "Determine the charge on the positive plate of Capacitor 2 a long time after the dielectric has been inserted.\nExpress your answer in terms of Q 0 and fundamental constants, as appropriate.\n \n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nContinue your response to QUESTION 3 on this page. \nWith the switch still closed to Position B, a wire of negligible resistance is connected between two corners of the \ncircuit, as shown.",
         "sub_parts": null
       },
       {
@@ -1726,7 +1298,7 @@
       },
       {
         "label": "e",
-        "text": "(ii) in terms of R, C, Q 0, and fundamental constants, as\n \nappropriate.\ni. Derive an expression for the current in Resistor 2 immediately after the wire is connected to the circuit.\nii. Determine the current in Resistor 2 a long time after the wire is connected to the circuit.\n\nVisit College Board on the web: 15 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\nVisit College Board on the web: 16",
+        "text": "(ii) in terms of R, C, Q 0, and fundamental constants, as\n \nappropriate.\ni. Derive an expression for the current in Resistor 2 immediately after the wire is connected to the circuit.\nii. Determine the current in Resistor 2 a long time after the wire is connected to the circuit.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\n",
         "sub_parts": [
           {
             "label": "i",
@@ -1734,7 +1306,7 @@
           },
           {
             "label": "ii",
-            "text": "Determine the current in Resistor 2 a long time after the wire is connected to the circuit.\n\nVisit College Board on the web: 15 \nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\nVisit College Board on the web: 16"
+            "text": "Determine the current in Resistor 2 a long time after the wire is connected to the circuit.\n\nAP® Physics C: Electricity and Magnetism 2023 Free-Response Questions \nSTOP \n\n"
           }
         ]
       }
@@ -1749,7 +1321,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "i. On the circuit diagram shown in Figure 1, draw the voltmeter, using the following symbol, with\nconnections that would allow the students to correctly measure a potential difference that decreases with\ntime.\nii. Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using the measured quantity that decreases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page.",
+        "text": "i. On the circuit diagram shown in Figure 1, draw the voltmeter, using the following symbol, with\nconnections that would allow the students to correctly measure a potential difference that decreases with\ntime.\nii. Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using the measured quantity that decreases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": [
           {
             "label": "i",
@@ -1757,7 +1329,7 @@
           },
           {
             "label": "ii",
-            "text": "Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using the measured quantity that decreases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page."
+            "text": "Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using the measured quantity that decreases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           }
         ]
       },
@@ -1782,7 +1354,7 @@
       },
       {
         "label": "i",
-        "text": "would be used to determine the\nexperimental value for R.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page.",
+        "text": "would be used to determine the\nexperimental value for R.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": null
       },
       {
@@ -1797,11 +1369,11 @@
       },
       {
         "label": "d",
-        "text": "Indicate whether\nV2\nΔ\nis greater than, less than, or equal to \nV1\nΔ\n. \n_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV\nV\n1\nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Begin your response to QUESTION 3 on this page.",
+        "text": "Indicate whether\nV2\nΔ\nis greater than, less than, or equal to \nV1\nΔ\n. \n_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV\nV\n1\nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": [
           {
             "label": "",
-            "text": "_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV\nV\n1\nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Begin your response to QUESTION 3 on this page."
+            "text": "_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV\nV\n1\nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           }
         ]
       }
@@ -1812,7 +1384,7 @@
     "type": "frq",
     "year": 2024,
     "number": 3,
-    "text": "A wire is connected to a resistor of resistance R to form a rigid rectangular loop of width L and height L\n2 . An\nexternal force is exerted on the loop so that the loop always moves with constant speed v in the x\n+ -direction, as\nshown in Figure 1. The loop then enters Region 1 of external uniform magnetic field of magnitude B that is\ndirected in the z\n−-direction. Region 1 has boundaries x \nL \n= \nand x \nL\n2.5\n= \n. The loop later enters Region 2 with\ntwo external, uniform magnetic fields, each of magnitude B, that are parallel but are directed in\nopposite z-directions. Region 2 has boundaries x \nL \n2.5\n= \nand x \nL\n3.5\n= \n. Point S is the midpoint of the leading\nedge of the loop and is aligned with the horizontal boundary in Region 2 that separates the two magnetic fields.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page.",
+    "text": "A wire is connected to a resistor of resistance R to form a rigid rectangular loop of width L and height L\n2 . An\nexternal force is exerted on the loop so that the loop always moves with constant speed v in the x\n+ -direction, as\nshown in Figure 1. The loop then enters Region 1 of external uniform magnetic field of magnitude B that is\ndirected in the z\n−-direction. Region 1 has boundaries x \nL \n= \nand x \nL\n2.5\n= \n. The loop later enters Region 2 with\ntwo external, uniform magnetic fields, each of magnitude B, that are parallel but are directed in\nopposite z-directions. Region 2 has boundaries x \nL \n2.5\n= \nand x \nL\n3.5\n= \n. Point S is the midpoint of the leading\nedge of the loop and is aligned with the horizontal boundary in Region 2 that separates the two magnetic fields.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
     "parts": [
       {
         "label": "a",
@@ -1826,11 +1398,11 @@
       },
       {
         "label": "b",
-        "text": "Consider the instant when Point S reaches x \nL\n1.5\n= \n.\ni. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nii. Derive an expression for IR when Point S reaches x \nL\n1.5\n= \n. If I\nR = , indicate how the derived \nexpression shows that I \nR = . Express your answer in terms of R, L, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nL\n1.5\n= \n.\nExpress your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Res",
+        "text": "Consider the instant when Point S reaches x \nL\n1.5\n= \n.\ni. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nii. Derive an expression for IR when Point S reaches x \nL\n1.5\n= \n. If I\nR = , indicate how the derived \nexpression shows that I \nR = . Express your answer in terms of R, L, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nL\n1.5\n= \n.\nExpress your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Res",
         "sub_parts": [
           {
             "label": "",
-            "text": "i. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page."
+            "text": "i. Indicate whether the current IR that is induced in the rectangular loop when Point S reaches x \nL\n1.5\n= \nis clockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           },
           {
             "label": "ii",
@@ -1846,7 +1418,7 @@
           },
           {
             "label": "",
-            "text": "Express your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nThe total energy dissipated by the resistor in the rectangular loop as Point S moves from x \n= to x \nL\n4.5\n= \nis E original. \nThe vertical boundary between regions 1 and 2 is now shifted to x"
+            "text": "Express your answer in terms of R, L, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nThe total energy dissipated by the resistor in the rectangular loop as Point S moves from x \n= to x \nL\n4.5\n= \nis E original. \nThe vertical boundary between regions 1 and 2 is now shifted to x"
           },
           {
             "label": "",
@@ -1856,16 +1428,16 @@
       },
       {
         "label": "c",
-        "text": "Indicate whether E new is greater than, less than, or equal to E original.\n_____ E \nE \nnew \noriginal\n>\n_____ E \nE\nnew \noriginal\n<\n_____ E \nE\nnew \noriginal\n=\nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nThe original magnetic fields are modified so that the region L \nx \nL\n3.5\n<\n<\n contains an external uniform magnetic \nfield of magnitude B that is directed in the z\n−-direction. \nA new wire is connected to a resistor of resistance R to form a rigid triangular loop with base length L and \nheight L\n2 . An external force is exerted on the loop so that the loop always moves with speed v in \nthe x\n+ -direction, as shown in Figure 3. Point S represents the lower-leading corner of the loop.",
+        "text": "Indicate whether E new is greater than, less than, or equal to E original.\n_____ E \nE \nnew \noriginal\n>\n_____ E \nE\nnew \noriginal\n<\n_____ E \nE\nnew \noriginal\n=\nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nThe original magnetic fields are modified so that the region L \nx \nL\n3.5\n<\n<\n contains an external uniform magnetic \nfield of magnitude B that is directed in the z\n−-direction. \nA new wire is connected to a resistor of resistance R to form a rigid triangular loop with base length L and \nheight L\n2 . An external force is exerted on the loop so that the loop always moves with speed v in \nthe x\n+ -direction, as shown in Figure 3. Point S represents the lower-leading corner of the loop.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "On the following axes, sketch a graph of the induced current IT in the triangular loop as Point S moves\nfrom x \nL\n= to x \nL\n= \n.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: STOP \n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: 18",
+        "text": "On the following axes, sketch a graph of the induced current IT in the triangular loop as Point S moves\nfrom x \nL\n= to x \nL\n= \n.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": [
           {
             "label": "",
-            "text": "AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: STOP \n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: 18"
+            "text": "AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           }
         ]
       }
@@ -1876,7 +1448,7 @@
     "type": "frq",
     "year": 2024,
     "number": 5,
-    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: ADVANCED PLACEMENT PHYSICS C EQUATIONS \nMECHANICS\nlowercase a, equals \n acceleration\nE equals energy\nuppercase F, equals force\nlowercase f, equals \n frequency\nh equals height\nI equals rotational inertia\nJ equals impulse\nuppercase K, equals kinetic energy\nlowercase k, equals \n spring constant\nl owercase l, equals length\nuppercase L, equals \n angular momentum\nm equals mass\nuppercase P, equals power\nlowercase p, equals \n momentum\nr equals radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals potential energy\nv equals velocity or speed\nW equals work done on a system\nx equals position\nm u equals coefficient of friction\nt heta equals angle\nt au equals torque\no mega equals angular speed\na lpha e"
+    "text": "Edge effects for the electric field of a parallel plate capacitor are\nnegligible unless otherwise stated.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nMECHANICS\nlowercase a, equals \n acceleration\nE equals energy\nuppercase F, equals force\nlowercase f, equals \n frequency\nh equals height\nI equals rotational inertia\nJ equals impulse\nuppercase K, equals kinetic energy\nlowercase k, equals \n spring constant\nl owercase l, equals length\nuppercase L, equals \n angular momentum\nm equals mass\nuppercase P, equals power\nlowercase p, equals \n momentum\nr equals radius or distance\nuppercase T, equals \n period\nlowercase t, equals \n time\nU equals potential energy\nv equals velocity or speed\nW equals work done on a system\nx equals position\nm u equals coefficient of friction\nt heta equals angle\nt au equals torque\no mega equals angular speed\na lpha e"
   },
   {
     "id": "physics-em_2024_frq_2",
@@ -1887,7 +1459,7 @@
     "parts": [
       {
         "label": "a",
-        "text": "i. On the circuit diagram shown in Figure 1, draw the voltmeter, using the following symbol, with\nconnections that would allow the students to correctly measure a potential difference that increases with\ntime.\nii. Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using a measured quantity that increases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page.",
+        "text": "i. On the circuit diagram shown in Figure 1, draw the voltmeter, using the following symbol, with\nconnections that would allow the students to correctly measure a potential difference that increases with\ntime.\nii. Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using a measured quantity that increases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": [
           {
             "label": "i",
@@ -1895,7 +1467,7 @@
           },
           {
             "label": "ii",
-            "text": "Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using a measured quantity that increases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page."
+            "text": "Describe a procedure for collecting data that would allow the students to graphically determine the\nexperimental value for R using a measured quantity that increases with time. Provide enough detail so\nthat another student could replicate the experiment.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           }
         ]
       },
@@ -1920,7 +1492,7 @@
       },
       {
         "label": "i",
-        "text": "would be used to determine the\nexperimental value for R.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 2 on this page.",
+        "text": "would be used to determine the\nexperimental value for R.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": null
       },
       {
@@ -1935,11 +1507,11 @@
       },
       {
         "label": "d",
-        "text": "Indicate whether\nV2\nΔ\nis greater than, less than, or equal to \nV1\nΔ\n. \n_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV \nV \n2 \n1 \nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Begin your response to QUESTION 3 on this page.",
+        "text": "Indicate whether\nV2\nΔ\nis greater than, less than, or equal to \nV1\nΔ\n. \n_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV \nV \n2 \n1 \nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": [
           {
             "label": "",
-            "text": "_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV \nV \n2 \n1 \nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Begin your response to QUESTION 3 on this page."
+            "text": "_____ \nV \nV \n2 \n>\nΔ\nΔ\n_____ \nV \nV \n2 \n<\nΔ\nΔ\n_____ \nV \nV \n2 \n1 \nΔ\nΔ\n=\nJustify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           }
         ]
       }
@@ -1950,7 +1522,7 @@
     "type": "frq",
     "year": 2024,
     "number": 3,
-    "text": "A wire is connected to a resistor of resistance R to form a rigid square loop of side length D. An external force is\nexerted on the loop so that the loop always moves with constant speed v in the +x direction, as shown in Figure 1.\nThe loop then enters Region 1 of external uniform magnetic field of magnitude B that is directed in\nthe +z-direction. Region 1 has boundaries x \nD \n= \nand x \nD\n= \n. The loop later enters Region 2 of external uniform\nmagnetic field of magnitude 2B that is directed in the z\n+ -direction. Region 2 has boundaries x \nD\n= \nand x \nD\n3.5\n= \n. Point S is the midpoint of the leading edge of the loop.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page.",
+    "text": "A wire is connected to a resistor of resistance R to form a rigid square loop of side length D. An external force is\nexerted on the loop so that the loop always moves with constant speed v in the +x direction, as shown in Figure 1.\nThe loop then enters Region 1 of external uniform magnetic field of magnitude B that is directed in\nthe +z-direction. Region 1 has boundaries x \nD \n= \nand x \nD\n= \n. The loop later enters Region 2 of external uniform\nmagnetic field of magnitude 2B that is directed in the z\n+ -direction. Region 2 has boundaries x \nD\n= \nand x \nD\n3.5\n= \n. Point S is the midpoint of the leading edge of the loop.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
     "parts": [
       {
         "label": "a",
@@ -1964,11 +1536,11 @@
       },
       {
         "label": "b",
-        "text": "Consider the instant when Point S reaches x \nD\n1.5\n= \n.\ni. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nii. Derive an expression for IS when Point S reaches x \nD\n1.5\n= \n. If I\nS = , indicate how the derived \nexpression shows that I\nS = . Express your answer in terms of R, D, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nD\n1.5\n= \n.\nExpress your answer in terms of R, D, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Respon",
+        "text": "Consider the instant when Point S reaches x \nD\n1.5\n= \n.\ni. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nii. Derive an expression for IS when Point S reaches x \nD\n1.5\n= \n. If I\nS = , indicate how the derived \nexpression shows that I\nS = . Express your answer in terms of R, D, v, B, and physical constants, as \nappropriate. \niii. Derive an expression for the power P dissipated by the resistor when Point S reaches x \nD\n1.5\n= \n.\nExpress your answer in terms of R, D, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Respon",
         "sub_parts": [
           {
             "label": "",
-            "text": "i. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page."
+            "text": "i. Indicate whether the current IS that is induced in the square loop when Point S reaches x \nD\n1.5\n= \n is\nclockwise, counterclockwise, or zero.\n_____ Clockwise \n_____ Counterclockwise \n_____ Zero \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           },
           {
             "label": "ii",
@@ -1984,7 +1556,7 @@
           },
           {
             "label": "",
-            "text": "Express your answer in terms of R, D, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nThe total energy dissipated by the resistor in the square loop as Point S moves from x = 0 to x \nD\n4.5\n= \nis E original. \nThe vertical boundary between regions 1 and 2 is now shifted to x \nD\n2"
+            "text": "Express your answer in terms of R, D, v, B, and physical constants, as appropriate.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nThe total energy dissipated by the resistor in the square loop as Point S moves from x = 0 to x \nD\n4.5\n= \nis E original. \nThe vertical boundary between regions 1 and 2 is now shifted to x \nD\n2"
           },
           {
             "label": "",
@@ -1994,16 +1566,16 @@
       },
       {
         "label": "c",
-        "text": "Indicate whether E new is greater than, less than, or equal to E original.\n_____ E \nE \nnew \noriginal\n> \n_____ E \nE \nnew \noriginal\n< \n_____ E \nE \nnew \noriginal\n= \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: Continue your response to QUESTION 3 on this page. \nThe original magnetic fields are modified so that the region D \nx \nD\n3.5\n<\n<\n contains an external uniform magnetic \nfield of magnitude B that is directed in the z\n+ -direction. \nA new wire is connected to a resistor of resistance R to form a rigid triangular loop with base length D and \nheight D. An external force is exerted on the loop so that the loop always moves with speed v in the x\n+ -direction, \nas shown in Figure 3. Point S represents the upper-leading corner of the loop.",
+        "text": "Indicate whether E new is greater than, less than, or equal to E original.\n_____ E \nE \nnew \noriginal\n> \n_____ E \nE \nnew \noriginal\n< \n_____ E \nE \nnew \noriginal\n= \nBriefly justify your answer. \nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nThe original magnetic fields are modified so that the region D \nx \nD\n3.5\n<\n<\n contains an external uniform magnetic \nfield of magnitude B that is directed in the z\n+ -direction. \nA new wire is connected to a resistor of resistance R to form a rigid triangular loop with base length D and \nheight D. An external force is exerted on the loop so that the loop always moves with speed v in the x\n+ -direction, \nas shown in Figure 3. Point S represents the upper-leading corner of the loop.",
         "sub_parts": null
       },
       {
         "label": "d",
-        "text": "On the following axes, sketch a graph of the induced current IT in the loop as Point S moves\nfrom x \nD \n= \nto x \nD\n= \n.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: STOP \n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: 18",
+        "text": "On the following axes, sketch a graph of the induced current IT in the loop as Point S moves\nfrom x \nD \n= \nto x \nD\n= \n.\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n",
         "sub_parts": [
           {
             "label": "",
-            "text": "AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: STOP \n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nVisit College Board on the web: 18"
+            "text": "AP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\nAP® Physics C: Electricity and Magnetism 2024 Free-Response Questions\n\n"
           }
         ]
       }
@@ -2021,7 +1593,7 @@
     "type": "frq",
     "year": 2025,
     "number": 2,
-    "text": "Express your answer in terms of R1, \nv , r, and physical constants, as \nappropriate.\nii.\tDerive an expression for the absolute value \nV\nT\n of the potential difference between \nthe outer and inner shells in terms of R1, R2, \nv , and physical constants, as appropriate. \nBegin your derivation by writing a fundamental physics principle or an equation from \nthe reference information.\n\nVisit College Board on the web: 4\b\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\niii.\tOn the axes shown in Figure 2, sketch a graph of E as a function of r from r\n=\n to a \nposition that is outside the outer shell.\nB.\tA material of dielectric constant l is inserted into the isolated, charged capacitor such that \nthe material fills the region R\nr\nR\n<\n<\n2, as shown in Figure 3.\nDerive an expression for the capacitance C of the capacitor with the material inserted \nin terms of L, R1, R2, l, and physical constants, as appropriate. Begin your derivatio"
+    "text": "Express your answer in terms of R1, \nv , r, and physical constants, as \nappropriate.\nii.\tDerive an expression for the absolute value \nV\nT\n of the potential difference between \nthe outer and inner shells in terms of R1, R2, \nv , and physical constants, as appropriate. \nBegin your derivation by writing a fundamental physics principle or an equation from \nthe reference information.\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\niii.\tOn the axes shown in Figure 2, sketch a graph of E as a function of r from r\n=\n to a \nposition that is outside the outer shell.\nB.\tA material of dielectric constant l is inserted into the isolated, charged capacitor such that \nthe material fills the region R\nr\nR\n<\n<\n2, as shown in Figure 3.\nDerive an expression for the capacitance C of the capacitor with the material inserted \nin terms of L, R1, R2, l, and physical constants, as appropriate. Begin your derivatio"
   },
   {
     "id": "physics-em_2025_frq_3",
@@ -2032,11 +1604,11 @@
     "parts": [
       {
         "label": "m",
-        "text": "R X\n_\ni\n0.010\n0.90\n0.020\n1.6\n0.030\n2.5\n0.040\n3.2\n0.050\n4.0\nC.\t\ni.\tIndicate two quantities, either measured quantities from Table 1 or additional calculated \nquantities, that could be graphed to produce a straight line that could be used to \ndetermine \nt .\nVertical axis: ______ \t\nHorizontal axis: ______\n\nVisit College Board on the web: 8\b\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\nii.\tOn the grid provided, create a graph of the quantities indicated in part C",
+        "text": "R X\n_\ni\n0.010\n0.90\n0.020\n1.6\n0.030\n2.5\n0.040\n3.2\n0.050\n4.0\nC.\t\ni.\tIndicate two quantities, either measured quantities from Table 1 or additional calculated \nquantities, that could be graphed to produce a straight line that could be used to \ndetermine \nt .\nVertical axis: ______ \t\nHorizontal axis: ______\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\nii.\tOn the grid provided, create a graph of the quantities indicated in part C",
         "sub_parts": [
           {
             "label": "i",
-            "text": "Indicate two quantities, either measured quantities from Table 1 or additional calculated \nquantities, that could be graphed to produce a straight line that could be used to \ndetermine \nt .\nVertical axis: ______ \t\nHorizontal axis: ______\n\nVisit College Board on the web: 8\b\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS"
+            "text": "Indicate two quantities, either measured quantities from Table 1 or additional calculated \nquantities, that could be graphed to produce a straight line that could be used to \ndetermine \nt .\nVertical axis: ______ \t\nHorizontal axis: ______\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS"
           },
           {
             "label": "ii",
@@ -2046,7 +1618,7 @@
       },
       {
         "label": "i",
-        "text": ".\n•\t\nUse Table 2 to record the measured or calculated quantities that you will plot.\n•\t\nClearly label the axes, including units as appropriate.\n•\t\nPlot the points you recorded in Table 2.\niii.\tDraw a best-fit line for the data graphed in part C (ii).\nD.\tUsing the best-fit line that you drew in part C (iii), calculate an experimental value for \nt .\n\nVisit College Board on the web: 9\b\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\nQuestion 4",
+        "text": ".\n•\t\nUse Table 2 to record the measured or calculated quantities that you will plot.\n•\t\nClearly label the axes, including units as appropriate.\n•\t\nPlot the points you recorded in Table 2.\niii.\tDraw a best-fit line for the data graphed in part C (ii).\nD.\tUsing the best-fit line that you drew in part C (iii), calculate an experimental value for \nt .\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\nQuestion 4",
         "sub_parts": [
           {
             "label": "",
@@ -2054,7 +1626,7 @@
           },
           {
             "label": "iii",
-            "text": "Draw a best-fit line for the data graphed in part C (ii).\nD.\tUsing the best-fit line that you drew in part C (iii), calculate an experimental value for \nt .\n\nVisit College Board on the web: 9\b\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\nQuestion 4"
+            "text": "Draw a best-fit line for the data graphed in part C (ii).\nD.\tUsing the best-fit line that you drew in part C (iii), calculate an experimental value for \nt .\n\nAP PHYSICS C: ELECTRICITY AND MAGNETISM 2025 n FREE-RESPONSE QUESTIONS\nQuestion 4"
           }
         ]
       }
