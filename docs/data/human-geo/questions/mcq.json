@@ -100,8 +100,7 @@
       "A": "High birth and low death rates",
       "B": "A high infant mortality rate",
       "C": "A high crude birth rate",
-      "D": "Low birth and death rates",
-      "E": ""
+      "D": "Low birth and death rates"
     },
     "answer": "D",
     "has_figure": true
@@ -221,8 +220,7 @@
       "A": "central plaza",
       "B": "government housing project",
       "C": "zone of heavy industry",
-      "D": "skyscraper office building",
-      "E": ""
+      "D": "skyscraper office building"
     },
     "answer": "D"
   },
@@ -296,8 +294,7 @@
       "A": "Farming areas",
       "B": "Rural nonfarming areas",
       "C": "Central cities",
-      "D": "Metropolitan areas",
-      "E": ""
+      "D": "Metropolitan areas"
     },
     "answer": "C"
   },
@@ -416,8 +413,7 @@
       "A": "Vietnam",
       "B": "South Korea",
       "C": "Taiwan",
-      "D": "Singapore",
-      "E": ""
+      "D": "Singapore"
     },
     "answer": "C"
   },
@@ -491,8 +487,7 @@
       "A": "geography’s emphasis on landscape features",
       "B": "spatial patterns on the landscape",
       "C": "a definition of geography that is simply locational",
-      "D": "the idea that the explanation of a spatial pattern is crucial",
-      "E": ""
+      "D": "the idea that the explanation of a spatial pattern is crucial"
     },
     "answer": "A"
   },
@@ -582,8 +577,7 @@
       "A": "British Isles, Scandinavia, United States",
       "B": "Northeast Asia, Eastern Europe, South Africa",
       "C": "Australia, New Zealand, China",
-      "D": "Southeast Asia, Mesoamerica, Middle East",
-      "E": ""
+      "D": "Southeast Asia, Mesoamerica, Middle East"
     },
     "answer": "B"
   },
@@ -672,8 +666,7 @@
       "A": "in the dry regions of Africa and Asia",
       "B": "in the tropical regions of Africa and Asia",
       "C": "in the hinterlands of Australia",
-      "D": "by Native American buffalo hunters",
-      "E": ""
+      "D": "by Native American buffalo hunters"
     },
     "answer": "A"
   },
@@ -792,8 +785,7 @@
       "A": "Afro-Asiatic, Semitic, Arabic, Berber",
       "B": "Sino-Tibetan, Sinitic, Mandarin, Chinese",
       "C": "Indo-European, Indo-Iranian, Hindi, Bengali",
-      "D": "Indo-European, Baltic-Slavic, Russian, Ukrainian",
-      "E": ""
+      "D": "Indo-European, Baltic-Slavic, Russian, Ukrainian"
     },
     "answer": "D"
   },
@@ -942,8 +934,7 @@
       "A": "The People’s Republic of China has only one time zone.",
       "B": "Standard time zones were established in the United States in 1883 to accommodate internal railroad travel.",
       "C": "International time zones were established in 1884 to facilitate international communication.",
-      "D": "Time zones were established to facilitate the planting and harvesting of crops.",
-      "E": ""
+      "D": "Time zones were established to facilitate the planting and harvesting of crops."
     },
     "answer": "E"
   },
@@ -1063,8 +1054,7 @@
       "A": "production facilities that are generally located as close as possible to the sites of raw material production",
       "B": "strong unions and localized involvement in all facets of the production process",
       "C": "spatial disaggregation of the production process",
-      "D": "reliance on highly skilled labor at all phases of the production process",
-      "E": ""
+      "D": "reliance on highly skilled labor at all phases of the production process"
     },
     "answer": "B"
   },
@@ -1123,8 +1113,7 @@
       "A": "North America",
       "B": "South America",
       "C": "Africa",
-      "D": "Europe",
-      "E": ""
+      "D": "Europe"
     },
     "answer": "C"
   },
@@ -1202,8 +1191,7 @@
       "A": "Reparations",
       "B": "Quotas",
       "C": "Foreign aid",
-      "D": "Foreign direct investment",
-      "E": ""
+      "D": "Foreign direct investment"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1312,8 +1300,7 @@
       "A": "Coal mined and transported within the United States by railroads",
       "B": "Coal imported from foreign countries by ships",
       "C": "Natural gas drilled and imported from foreign countries by pipelines",
-      "D": "Oil (petroleum) drilled and transported within the United States via pipelines",
-      "E": ""
+      "D": "Oil (petroleum) drilled and transported within the United States via pipelines"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1424,8 +1411,7 @@
       "A": "actual birth rate",
       "B": "crude birth rate",
       "C": "total fertility rate",
-      "D": "adjusted birth rate",
-      "E": ""
+      "D": "adjusted birth rate"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1520,8 +1506,7 @@
       "A": "An old population age structure",
       "B": "High birth rates, but low death rates",
       "C": "Low birth rates, low death rates, and low rates of population growth",
-      "D": "High birth rates, high death rates, and low rates of population growth",
-      "E": ""
+      "D": "High birth rates, high death rates, and low rates of population growth"
     },
     "answer": "A",
     "has_figure": true
@@ -1616,8 +1601,7 @@
       "A": "food processing",
       "B": "mechanized farming",
       "C": "mixed crop and livestock farming",
-      "D": "agribusiness",
-      "E": ""
+      "D": "agribusiness"
     },
     "answer": "A"
   },
@@ -1711,8 +1695,7 @@
       "A": "converting annual plants to perennials, which do not require replanting",
       "B": "increasing the size of fruits and grains",
       "C": "increasing plants’ drought resistance and resistance to pests",
-      "D": "cutting the cost of bulk seeds during planting seasons",
-      "E": ""
+      "D": "cutting the cost of bulk seeds during planting seasons"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1823,8 +1806,7 @@
       "A": "University students on limited incomes",
       "B": "Double-income households without children",
       "C": "People above age sixty-five on limited incomes",
-      "D": "Double-income households with children",
-      "E": ""
+      "D": "Double-income households with children"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1871,8 +1853,7 @@
       "A": "It seeks to evaluate the impact of a single factor of production on location.",
       "B": "It seeks to minimize costs among multiple inputs of production.",
       "C": "It is applicable only in postindustrial economies with predictable spatial patterns.",
-      "D": "It depends on the availability of a single node, link, and input of production.",
-      "E": ""
+      "D": "It depends on the availability of a single node, link, and input of production."
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1887,8 +1868,7 @@
       "A": "Wyoming is a major cattle-ranching area.",
       "B": "Oregon has established a Forest Resources Institute.",
       "C": "New Jersey’s nickname is the Garden State.",
-      "D": "Florida’s government has a Department of Citrus.",
-      "E": ""
+      "D": "Florida’s government has a Department of Citrus."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1903,8 +1883,7 @@
       "A": "They are all federal states.",
       "B": "They are all formerly communist states.",
       "C": "They are all mega states.",
-      "D": "They are all unitary states.",
-      "E": ""
+      "D": "They are all unitary states."
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1935,8 +1914,7 @@
       "A": "Worldwide fertilizer use is declining with the rise of sustainable agriculture.",
       "B": "Developed countries in the core are using greater amounts of fertilizer.",
       "C": "Developing countries in the periphery are shifting to more sustainable agriculture and using smaller amounts of fertilizer.",
-      "D": "Worldwide fertilizer use is increasing but faster in peripheral developing countries.",
-      "E": ""
+      "D": "Worldwide fertilizer use is increasing but faster in peripheral developing countries."
     },
     "has_figure": true,
     "answer": "D"
@@ -1951,8 +1929,7 @@
       "A": "Depopulation",
       "B": "Deforestation",
       "C": "Desertification",
-      "D": "Deindustrialization",
-      "E": ""
+      "D": "Deindustrialization"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1967,8 +1944,7 @@
       "A": "decolonization",
       "B": "Pan-Africanism",
       "C": "neocolonialism",
-      "D": "imperialism",
-      "E": ""
+      "D": "imperialism"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2094,8 +2070,7 @@
       "A": "superimposed boundary",
       "B": "relict boundary",
       "C": "fortified boundary",
-      "D": "antecedent boundary",
-      "E": ""
+      "D": "antecedent boundary"
     },
     "has_figure": true,
     "answer": "B"
@@ -2222,8 +2197,7 @@
       "A": "Stimulus diffusion",
       "B": "Hierarchical diffusion",
       "C": "Assimilation",
-      "D": "Acculturation",
-      "E": ""
+      "D": "Acculturation"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2238,8 +2212,7 @@
       "A": "Providing for the needs of its aging population",
       "B": "Finding enough teachers to educate the young",
       "C": "Limiting out-migration of the 60to 64-year-old age cohort",
-      "D": "Providing prenatal medical care",
-      "E": ""
+      "D": "Providing prenatal medical care"
     },
     "has_figure": true,
     "answer": "A"
@@ -2286,8 +2259,7 @@
       "A": "A common language",
       "B": "An organized economy and circulation system",
       "C": "Political sovereignty",
-      "D": "A permanent resident population",
-      "E": ""
+      "D": "A permanent resident population"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2317,8 +2289,7 @@
       "A": "Animal grazing",
       "B": "Deforestation",
       "C": "Heavy industry",
-      "D": "Irrigation",
-      "E": ""
+      "D": "Irrigation"
     },
     "answer": "E"
   },
@@ -2332,8 +2303,7 @@
       "A": "Increase funding for child care and schools",
       "B": "Increase efforts to attract immigrant labor",
       "C": "Decrease efforts to provide jobs for young people",
-      "D": "Decrease efforts to attract financial investment",
-      "E": ""
+      "D": "Decrease efforts to attract financial investment"
     },
     "answer": "D"
   },
@@ -2377,8 +2347,7 @@
       "A": "Colonial powers still maintain direct control over their former colonies despite independence.",
       "B": "Colonial powers refused to allow migration from the former colonies, harming the ability of former colonies to gain the benefit of remittances.",
       "C": "Former colonies have become high-tech service centers that still require investment and migration of labor from the core.",
-      "D": "Former colonies are often dependent on core states for markets given the importance of natural resources to local economies.",
-      "E": ""
+      "D": "Former colonies are often dependent on core states for markets given the importance of natural resources to local economies."
     },
     "answer": "B"
   },
@@ -2408,8 +2377,7 @@
       "A": "Urban development is unplanned and lacks a system of zoning.",
       "B": "Urban sprawl continues to expand along major transportation routes.",
       "C": "Gentrification and infilling are most common along major transportation routes.",
-      "D": "Most new development is reserved for commercial and recreational land use.",
-      "E": ""
+      "D": "Most new development is reserved for commercial and recreational land use."
     },
     "answer": "A",
     "has_figure": true
@@ -2455,8 +2423,7 @@
       "A": "size of the agricultural operation",
       "B": "type of crop being cultivated",
       "C": "effect of agricultural chemicals on water quality",
-      "D": "role that map scale plays in agriculture",
-      "E": ""
+      "D": "role that map scale plays in agriculture"
     },
     "answer": "C",
     "has_figure": true
@@ -2516,8 +2483,7 @@
       "A": "Community gardens in Venezuela, which increase the self-sufficiency of the urban population",
       "B": "Banana groves in Costa Rica, where a multinational corporation exports to global consumers",
       "C": "Salmon farming in the coastal waters of Chile, which increases sustainable fish stocks",
-      "D": "Small family farms in Brazil, which produce crops such as maize, manioc, and beans",
-      "E": ""
+      "D": "Small family farms in Brazil, which produce crops such as maize, manioc, and beans"
     },
     "answer": "D"
   },
@@ -2546,8 +2512,7 @@
       "A": "Ilo is an important cultural center that connects Bolivian citizens to global popular culture.",
       "B": "Ilo is an annexed region of territory that is part of Bolivia’s sovereign land area.",
       "C": "Ilo functions as a special economic zone that has given Bolivia access to ocean shipping and global trade.",
-      "D": "Ilo is a major military base that could lead to armed conflict between Peru and Bolivia over security.",
-      "E": ""
+      "D": "Ilo is a major military base that could lead to armed conflict between Peru and Bolivia over security."
     },
     "answer": "C"
   },
@@ -2561,8 +2526,7 @@
       "A": "Supranational boundaries indicating membership in nongovernmental organizations",
       "B": "Contested boundaries indicating disputes over territorial claims",
       "C": "Cultural boundaries indicating traditional ethnic divisions",
-      "D": "Antecedent boundaries indicating early settlement areas",
-      "E": ""
+      "D": "Antecedent boundaries indicating early settlement areas"
     },
     "answer": "C"
   },
@@ -2637,8 +2601,7 @@
       "A": "By transitioning to a tertiary sector economy to increase average per capita income",
       "B": "By expanding transportation infrastructure to serve a growing population",
       "C": "By legislating pronatalist policies to ensure a long-term supply of workers",
-      "D": "By implementing natural resource conservation policies to increase energy efficiency",
-      "E": ""
+      "D": "By implementing natural resource conservation policies to increase energy efficiency"
     },
     "answer": "E"
   },
@@ -2668,8 +2631,7 @@
       "A": "Per capita income decreased and led to a decrease in pork consumption.",
       "B": "Increased urbanization led to fewer people living and working on livestock farms.",
       "C": "The slowing of human population growth increased the available feed resources for livestock farms.",
-      "D": "Economic changes led to the expansion of the middle-class consumer population.",
-      "E": ""
+      "D": "Economic changes led to the expansion of the middle-class consumer population."
     },
     "answer": "C"
   },
@@ -2714,8 +2676,7 @@
       "A": "While the Second Agricultural Revolution increased the use of fossil fuel–powered machinery, the Green Revolution focused on cleaner farm machinery that used electric power.",
       "B": "The increased food production of the Second Agricultural Revolution enabled the Industrial Revolution in Europe and North America, while the Green Revolution enabled the rise of ecotourism in less developed countries.",
       "C": "The Second Agricultural Revolution technologies of crop rotation and machinery uniformly improved farming globally, while the Green Revolution had more significant effects on farm outputs in Europe and North America.",
-      "D": "Both the Second Agricultural Revolution and the Green Revolution increased output per acre, contributing to the expansion of large-scale commercial agriculture and declines in subsistence farming.",
-      "E": ""
+      "D": "Both the Second Agricultural Revolution and the Green Revolution increased output per acre, contributing to the expansion of large-scale commercial agriculture and declines in subsistence farming."
     },
     "answer": "C"
   },
@@ -2789,8 +2750,7 @@
       "A": "High gross national income per capita, high percentage of economic production in the primary sector, high infant mortality rates",
       "B": "Low gross national income per capita, high percentage of economic production in the tertiary sector, high levels of literacy",
       "C": "Low gross national income per capita, low status of women, high infant mortality rates",
-      "D": "High gross national income per capita, high levels of literacy, high life expectancy",
-      "E": ""
+      "D": "High gross national income per capita, high levels of literacy, high life expectancy"
     },
     "answer": "B",
     "has_figure": true
@@ -2865,8 +2825,7 @@
       "A": "Monocropping",
       "B": "Contract harvesting",
       "C": "Livestock fattening",
-      "D": "Genetic engineering",
-      "E": ""
+      "D": "Genetic engineering"
     },
     "answer": "E"
   },
@@ -2956,8 +2915,7 @@
       "A": "More places are becoming tourist destinations, resulting in dispersed settlement patterns.",
       "B": "More people are able to travel long distances at lower costs, resulting in time-space compression.",
       "C": "Fewer people are experiencing acculturation, resulting in adoption of practices associated with different ethnicities.",
-      "D": "Fewer employees work remotely, resulting in increased salaries that provide a higher standard of living.",
-      "E": ""
+      "D": "Fewer employees work remotely, resulting in increased salaries that provide a higher standard of living."
     },
     "answer": "A"
   },
@@ -2987,8 +2945,7 @@
       "A": "Hierarchical diffusion, because migrants moved from Germany to the Americas and introduced Black Forest ham on a person-to-person basis",
       "B": "Contagious diffusion, because colonial leaders introduced Black Forest ham to indigenous populations in the Americas",
       "C": "Stimulus diffusion, because people in the Americas began to consume Black Forest ham as a result of local food shortages",
-      "D": "Relocation diffusion, because migrants moved from Germany to the Americas and brought traditional foods like Black Forest ham with them",
-      "E": ""
+      "D": "Relocation diffusion, because migrants moved from Germany to the Americas and brought traditional foods like Black Forest ham with them"
     },
     "answer": "C",
     "has_figure": true
@@ -3003,8 +2960,7 @@
       "A": "The cultural process of creolization has blended European, indigenous, and African ingredients to produce new cultural foods that appeal to global consumers.",
       "B": "Political decolonization led local consumers in former colonies to emphasize the cultural importance of regional foods that had been diminished during the colonial period.",
       "C": "Consumers in the eat-local movement tend to purchase value-added agricultural products regardless of the farm location as long as the food is of high quality.",
-      "D": "Large-scale globalization forces, such as corporate marketing and free trade, have spread once-regional foods to many different locations around the world.",
-      "E": ""
+      "D": "Large-scale globalization forces, such as corporate marketing and free trade, have spread once-regional foods to many different locations around the world."
     },
     "answer": "B"
   },
@@ -3048,8 +3004,7 @@
       "A": "an example of cultural syncretism",
       "B": "an attitude based on cultural relativism",
       "C": "an ethnocentric approach to cultural differences",
-      "D": "an ethnonationalist approach to territoriality",
-      "E": ""
+      "D": "an ethnonationalist approach to territoriality"
     },
     "answer": "B"
   },
@@ -3079,8 +3034,7 @@
       "A": "Countries in which young women have low rates of literacy because of few educational opportunities also have high percentages of young women who are married by age 15.",
       "B": "Countries in which the female literacy rates are higher have a higher percentage of women employed in agriculture, stimulating economic development.",
       "C": "Nigeria is more economically developed than Zambia because it has a higher percentage of women making their own decisions about family planning, indicating participation in the workforce.",
-      "D": "Zambia is more economically developed than Albania because it has a higher percentage of women making their own decisions about family planning, indicating participation in the workforce.",
-      "E": ""
+      "D": "Zambia is more economically developed than Albania because it has a higher percentage of women making their own decisions about family planning, indicating participation in the workforce."
     },
     "answer": "B",
     "has_figure": true
@@ -3111,8 +3065,7 @@
       "A": "A low degree, because world cities function at the top of global urban hierarchies, but connections among places are driven by cities with more historical significance on a regional scale",
       "B": "A low degree, because world cities function at the top the global hierarchy, but smaller settlements facilitate connections on a regional scale",
       "C": "A low degree, because smaller settlements help facilitate connections among places, while world cities function at the top of both regional and global urban hierarchies",
-      "D": "A high degree, because world cities facilitate connections between places and function at the top of both regional and global urban hierarchies",
-      "E": ""
+      "D": "A high degree, because world cities facilitate connections between places and function at the top of both regional and global urban hierarchies"
     },
     "answer": "A"
   },
@@ -3126,8 +3079,7 @@
       "A": "have access to more contemporary technological capabilities and utility infrastructure",
       "B": "live in an area characterized by single-family dwellings and mixed-use zoning",
       "C": "use more traditional styles of architecture such as elevated buildings on stilts and pointed roof lines",
-      "D": "live in an area with more evidence of sequent occupation where traditional and modern architectural styles share the same space",
-      "E": ""
+      "D": "live in an area with more evidence of sequent occupation where traditional and modern architectural styles share the same space"
     },
     "answer": "A",
     "has_figure": true
@@ -3187,8 +3139,7 @@
       "A": "The HDI does not account for primary sector activities, which dominate the economies of many less developed countries.",
       "B": "The HDI does not account for life expectancy at birth, which tends to increase as countries grow their economies.",
       "C": "The HDI does not measure inequality within countries, which could indicate a large income gap between rich and poor.",
-      "D": "The HDI does not include any measures of social development, focusing exclusively on economic indicators.",
-      "E": ""
+      "D": "The HDI does not include any measures of social development, focusing exclusively on economic indicators."
     },
     "answer": "C"
   },
@@ -3202,8 +3153,7 @@
       "A": "Ethnic groups may migrate from their cultural hearths and spread their native languages to other world regions.",
       "B": "Ethnic groups may adopt cultural traits from other world regions through the process of globalization.",
       "C": "Ethnic groups may share a common homeland but lack sovereignty due to political discrimination.",
-      "D": "Ethnic groups may be intolerant toward cultural differences if they adopt an ethnocentric perspective.",
-      "E": ""
+      "D": "Ethnic groups may be intolerant toward cultural differences if they adopt an ethnocentric perspective."
     },
     "answer": "C"
   },
