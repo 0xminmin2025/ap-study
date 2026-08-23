@@ -24,8 +24,7 @@
       "A": "zero",
       "B": "2kQ a -",
       "C": "kqQ a",
-      "D": "2kqQ a",
-      "E": ""
+      "D": "2kqQ a"
     },
     "answer": "A"
   },
@@ -100,8 +99,7 @@
       "A": "into the page",
       "B": "out of the page",
       "C": "to the left",
-      "D": "toward the top of the page",
-      "E": ""
+      "D": "toward the top of the page"
     },
     "answer": "A",
     "has_figure": true
@@ -161,8 +159,7 @@
       "A": "Zero",
       "B": "0.012 T\u0002m2",
       "C": "0.02 T\u0002m2",
-      "D": "0.024 T\u0002m2",
-      "E": ""
+      "D": "0.024 T\u0002m2"
     },
     "answer": "B",
     "has_figure": true
@@ -222,8 +219,7 @@
       "A": "Both R and R are greater than 10 W .",
       "B": "Both R and R are equal to 10 W .",
       "C": "Both R and R are less than 10 W .",
-      "D": "The sum of R and R is 10 W .",
-      "E": ""
+      "D": "The sum of R and R is 10 W ."
     },
     "answer": "A"
   },
@@ -253,8 +249,7 @@
       "A": "stay where it is",
       "B": "exhibit oscillatory motion",
       "C": "move in the direction of increasing y",
-      "D": "move in the direction of decreasing y and stop at the origin",
-      "E": ""
+      "D": "move in the direction of decreasing y and stop at the origin"
     },
     "answer": "B",
     "has_figure": true
@@ -299,8 +294,7 @@
       "A": "r F p",
       "B": "2 rF p",
       "C": "rF p",
-      "D": "2rF",
-      "E": ""
+      "D": "2rF"
     },
     "answer": "E"
   },
@@ -344,8 +338,7 @@
       "A": "A ring of positive charge",
       "B": "A large sheet of positive charge",
       "C": "Two negative point charges",
-      "D": "Two long lines of charge: one positive and one negative",
-      "E": ""
+      "D": "Two long lines of charge: one positive and one negative"
     },
     "answer": "D",
     "has_figure": true
@@ -391,8 +384,7 @@
       "A": "1 Q R p + \u0002",
       "B": "1 Q R p - \u0002",
       "C": "0 4 Q R p - \u0002",
-      "D": "zero",
-      "E": ""
+      "D": "zero"
     },
     "answer": "A"
   },
@@ -437,8 +429,7 @@
       "A": "1 4 t",
       "B": "1 2 t",
       "C": "t",
-      "D": "2t",
-      "E": ""
+      "D": "2t"
     },
     "answer": "E"
   },
@@ -468,8 +459,7 @@
       "A": "4C",
       "B": "2C",
       "C": "C",
-      "D": "C/2",
-      "E": ""
+      "D": "C/2"
     },
     "answer": "C",
     "has_figure": true
@@ -500,8 +490,7 @@
       "A": "2 I m q p",
       "B": "2 2 I a m q p",
       "C": "2 2 I R m q p",
-      "D": "2 I a m p",
-      "E": ""
+      "D": "2 I a m p"
     },
     "answer": "A"
   },
@@ -579,8 +568,7 @@
       "A": "Perpendicularly out of the plane of the page",
       "B": "Perpendicularly into the plane of the page",
       "C": "Positive x-direction",
-      "D": "Negative x-direction",
-      "E": ""
+      "D": "Negative x-direction"
     },
     "has_figure": true,
     "answer": "B"
@@ -771,8 +759,7 @@
       "A": "0.023 W",
       "B": "0.045 W",
       "C": "0.090 W",
-      "D": "0.36 W",
-      "E": ""
+      "D": "0.36 W"
     },
     "answer": "C"
   },
@@ -833,8 +820,7 @@
       "A": "The voltage across the capacitor",
       "B": "The charge on one of the capacitor plates",
       "C": "The distance between the capacitor plates",
-      "D": "The capacitance of the capacitor",
-      "E": ""
+      "D": "The capacitance of the capacitor"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -896,8 +882,7 @@
       "A": "toward the top of the page",
       "B": "toward the bottom of the page",
       "C": "out of the page",
-      "D": "into the page",
-      "E": ""
+      "D": "into the page"
     },
     "has_figure": true,
     "answer": "D"
@@ -1007,8 +992,7 @@
       "A": "15 A",
       "B": "5 A",
       "C": "2 A",
-      "D": "1 2 A",
-      "E": ""
+      "D": "1 2 A"
     },
     "answer": "C"
   },
@@ -1054,8 +1038,7 @@
       "A": "10 T m π − × i",
       "B": "2 T π − × i m",
       "C": "10 T m π − × i",
-      "D": "20 T m π − × i",
-      "E": ""
+      "D": "20 T m π − × i"
     },
     "answer": "D"
   },
@@ -1085,8 +1068,7 @@
       "A": "0 (4 E r π = )",
       "B": "0 (4 ) Q E r π = \u0002",
       "C": "0 (4 ) Q E R π = \u0002",
-      "D": "2 0 (4 ) Qr E r R π = \u0002",
-      "E": ""
+      "D": "2 0 (4 ) Qr E r R π = \u0002"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1148,8 +1130,7 @@
       "A": "It is zero.",
       "B": "It is less than t but greater than zero.",
       "C": "It is equal to t .",
-      "D": "It is greater than t but not infinite.",
-      "E": ""
+      "D": "It is greater than t but not infinite."
     },
     "answer": "D",
     "answer_source": "llm"
@@ -1228,8 +1209,7 @@
       "A": "20 10 p p - ¥ ¥",
       "B": "40 10 p p - ¥ ¥",
       "C": "80 10 p p - ¥ ¥",
-      "D": "100 10 p p - ¥ ¥",
-      "E": ""
+      "D": "100 10 p p - ¥ ¥"
     },
     "has_figure": true,
     "answer": "C"
@@ -1260,8 +1240,7 @@
       "A": "B F and T v are the same.",
       "B": "B F is larger and T v is smaller.",
       "C": "B F is smaller and T v is larger.",
-      "D": "B F and T v are both larger.",
-      "E": ""
+      "D": "B F and T v are both larger."
     },
     "has_figure": true,
     "answer": "B"
@@ -1323,8 +1302,7 @@
       "A": "Toward the left",
       "B": "Toward the right",
       "C": "Toward the top of the page",
-      "D": "Toward the bottom of the page",
-      "E": ""
+      "D": "Toward the bottom of the page"
     },
     "has_figure": true,
     "answer": "B"
@@ -1402,8 +1380,7 @@
       "A": "2 I a m p toward wire D",
       "B": "2 I a m p toward wire B",
       "C": "2 I a m p toward the bottom of the page",
-      "D": "2 I a m p toward wire D",
-      "E": ""
+      "D": "2 I a m p toward wire D"
     },
     "has_figure": true,
     "answer": "B"
@@ -1449,8 +1426,7 @@
       "A": "p d a = − G G a",
       "B": "p d a a = − G G",
       "C": "p a = − G G d a",
-      "D": "p d a a = G G",
-      "E": ""
+      "D": "p d a a = G G"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -1465,8 +1441,7 @@
       "A": "( ) 2 sin B b a q -",
       "B": "( ) 2 cos B b a q -",
       "C": "( )2 cos B b a q -",
-      "D": "2 sin Ba q",
-      "E": ""
+      "D": "2 sin Ba q"
     },
     "has_figure": true,
     "answer": "C"
@@ -1497,8 +1472,7 @@
       "A": "Counterclockwise Clockwise",
       "B": "Counterclockwise Counterclockwise",
       "C": "Clockwise Counterclockwise",
-      "D": "Clockwise Clockwise",
-      "E": ""
+      "D": "Clockwise Clockwise"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -1513,8 +1487,7 @@
       "A": "2 F L",
       "B": "F L",
       "C": "2F L",
-      "D": "4F L",
-      "E": ""
+      "D": "4F L"
     },
     "answer": "D"
   },
@@ -1607,8 +1580,7 @@
       "A": "E",
       "B": "E",
       "C": "E",
-      "D": "2E",
-      "E": ""
+      "D": "2E"
     },
     "answer": "D"
   },
@@ -1749,8 +1721,7 @@
       "A": "To the north",
       "B": "To the south",
       "C": "To the east",
-      "D": "To the west",
-      "E": ""
+      "D": "To the west"
     },
     "has_figure": true,
     "answer": "D"
@@ -1813,8 +1784,7 @@
       "A": "Nonzero and halved Nonzero and halved",
       "B": "Nonzero and doubled Nonzero and doubled",
       "C": "Nonzero and doubled Zero at both speeds",
-      "D": "Zero at both speeds Zero at both speeds",
-      "E": ""
+      "D": "Zero at both speeds Zero at both speeds"
     },
     "has_figure": true,
     "answer": "B"
@@ -1861,8 +1831,7 @@
       "A": "9 J",
       "B": "180 J",
       "C": "540 J",
-      "D": "900 J",
-      "E": ""
+      "D": "900 J"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -1941,8 +1910,7 @@
       "A": "0.010 T",
       "B": "0.020 T",
       "C": "0.040 T",
-      "D": "0.060 T",
-      "E": ""
+      "D": "0.060 T"
     },
     "answer": "B"
   },
@@ -1972,8 +1940,7 @@
       "A": "Increases Decreases",
       "B": "Increases Increases",
       "C": "Remains the same Remains the same",
-      "D": "Decreases Decreases",
-      "E": ""
+      "D": "Decreases Decreases"
     },
     "has_figure": true,
     "answer": "A"
@@ -2004,8 +1971,7 @@
       "A": "A",
       "B": "B",
       "C": "C",
-      "D": "D",
-      "E": ""
+      "D": "D"
     },
     "has_figure": true,
     "answer": "B"
@@ -2067,8 +2033,7 @@
       "A": "The loop is moving toward the right.",
       "B": "The loop is moving toward the top of the page.",
       "C": "The loop is moving out of the plane of the paper so that the loop’s plane remains perpendicular to the magnetic field.",
-      "D": "The loop is moving into the plane of the paper so that the loop’s plane remains perpendicular to the magnetic field.",
-      "E": ""
+      "D": "The loop is moving into the plane of the paper so that the loop’s plane remains perpendicular to the magnetic field."
     },
     "answer": "E"
   },
@@ -2082,8 +2047,7 @@
       "A": "Increases",
       "B": "Increases",
       "C": "Increases",
-      "D": "Decreases",
-      "E": ""
+      "D": "Decreases"
     },
     "has_figure": true,
     "answer": "C"
@@ -2114,8 +2078,7 @@
       "A": "Remains the same Increases",
       "B": "Remains the same Decreases",
       "C": "Increases Remains the same",
-      "D": "Decreases Increases",
-      "E": ""
+      "D": "Decreases Increases"
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2178,8 +2141,7 @@
       "A": "The reading of the voltmeter is the same.",
       "B": "The reading of the voltmeter is higher.",
       "C": "The reading of the voltmeter is lower.",
-      "D": "Cannot be determined without knowing the internal resistance of the batteries.",
-      "E": ""
+      "D": "Cannot be determined without knowing the internal resistance of the batteries."
     },
     "has_figure": true,
     "answer": "C"
@@ -2226,8 +2188,7 @@
       "A": "It is toward the top of the page.",
       "B": "It is toward the bottom of the page.",
       "C": "It is out of the page.",
-      "D": "It is into the page.",
-      "E": ""
+      "D": "It is into the page."
     },
     "answer": "D",
     "answer_source": "llm"
@@ -2258,8 +2219,7 @@
       "A": "The sign of charge qA must be the same as that of qB .",
       "B": "The sign of charge qA must be the same as that of qC .",
       "C": "The sign of charge qA must be the same as that of either qB or qC greater magnitude. , whichever has the",
-      "D": "The sign of charge qA must be the same as that of either q or q B C , whichever has the lesser magnitude.",
-      "E": ""
+      "D": "The sign of charge qA must be the same as that of either q or q B C , whichever has the lesser magnitude."
     },
     "answer": "C",
     "answer_source": "llm"
@@ -2305,8 +2265,7 @@
       "A": "Zero",
       "B": "1.0 A",
       "C": "1.5 A",
-      "D": "3.0 A",
-      "E": ""
+      "D": "3.0 A"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2321,8 +2280,7 @@
       "A": "+2Q",
       "B": "+2Q UC 2",
       "C": "+Q U C",
-      "D": "+Q 2 2UC",
-      "E": ""
+      "D": "+Q 2 2UC"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2369,8 +2327,7 @@
       "A": "A",
       "B": "B",
       "C": "C",
-      "D": "D",
-      "E": ""
+      "D": "D"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2417,8 +2374,7 @@
       "A": "3.8 mA Clockwise",
       "B": "3.8 mA Counterclockwise",
       "C": "0.42 mA Clockwise",
-      "D": "0.42 mA Counterclockwise",
-      "E": ""
+      "D": "0.42 mA Counterclockwise"
     },
     "has_figure": true,
     "answer": "C"
@@ -2449,8 +2405,7 @@
       "A": "Toward the bottom of the page Toward the top of the page",
       "B": "Toward the bottom of the page Toward the top of the page  ",
       "C": "Toward the bottom of the page Toward the top of the page",
-      "D": "Toward the top of the page Toward the bottom of the page  ",
-      "E": ""
+      "D": "Toward the top of the page Toward the bottom of the page  "
     },
     "has_figure": true,
     "answer": "B"
@@ -2481,8 +2436,7 @@
       "A": "q E d",
       "B": "the square root of 2, end root, times q E d",
       "C": "2 q E d",
-      "D": "2 times the square root of 2, end root, times q E d",
-      "E": ""
+      "D": "2 times the square root of 2, end root, times q E d"
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2513,8 +2467,7 @@
       "A": "1 only",
       "B": "2 only",
       "C": "3 only",
-      "D": "1 and 2 only",
-      "E": ""
+      "D": "1 and 2 only"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -2592,8 +2545,7 @@
       "A": "n egative 3 phi naught",
       "B": "n e g a t ive five halves phi naught",
       "C": "n e g a t ive three halves phi naught",
-      "D": "f i v e halves phi naught",
-      "E": ""
+      "D": "f i v e halves phi naught"
     },
     "has_figure": true,
     "answer": "C"
@@ -2624,8 +2576,7 @@
       "A": "It would increase.",
       "B": "It would decrease.",
       "C": "It would change sign.",
-      "D": "It would remain constant, with the flux through each side of the surface also remaining constant.",
-      "E": ""
+      "D": "It would remain constant, with the flux through each side of the surface also remaining constant."
     },
     "has_figure": true,
     "answer": "D"
@@ -2672,8 +2623,7 @@
       "A": "m u na ught I, over pi Into the page",
       "B": "m u nau ght I, over pi Out of the page",
       "C": "m u na ug ht I, over pi Into the page",
-      "D": "mu n a ught I, over pi Out of the page",
-      "E": ""
+      "D": "mu n a ught I, over pi Out of the page"
     },
     "has_figure": true,
     "answer": "B"
@@ -2704,8 +2654,7 @@
       "A": "F Unchanged",
       "B": "2 F Reversed",
       "C": "2 F Unchanged",
-      "D": "4 F Reversed",
-      "E": ""
+      "D": "4 F Reversed"
     },
     "has_figure": true,
     "answer": "B"
@@ -2768,8 +2717,7 @@
       "A": "t he f raction epsilon over L R, end fraction",
       "B": "e psilon R, over L",
       "C": "e p silon L, over R",
-      "D": "e psilon over R",
-      "E": ""
+      "D": "e psilon over R"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -2784,8 +2732,7 @@
       "A": "e psilon over R",
       "B": "e p si lon times the square root of, C over L, end root",
       "C": "e p si lon times the square root of, L over C, end root",
-      "D": "e psilon C, over L",
-      "E": ""
+      "D": "e psilon C, over L"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2832,8 +2779,7 @@
       "A": "They are equal in magnitude but opposite in sign.",
       "B": "They are equal in magnitude and have the same sign.",
       "C": "They are not necessarily equal in magnitude but have opposite signs.",
-      "D": "They are not necessarily equal in magnitude but have the same sign.",
-      "E": ""
+      "D": "They are not necessarily equal in magnitude but have the same sign."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -2848,8 +2794,7 @@
       "A": "t he f r a c t io n m u naught I over 2, end fraction, times open parenthesis, the fraction 1 over a, end fraction, minus the fraction 1 over b, end fraction, close parenthesis Out of the page",
       "B": "t he f r a c t io n m u naught I over 2, end fraction, times open parenthesis, the fraction 1 over a, end fraction, minus the fraction 1 over b, end fraction, close parenthesis Into the page",
       "C": "Zero Undefined since magnitude is zero",
-      "D": "t he f r a c t io n m u naught I over 2 pi, end fraction, times open parenthesis, the fraction 1 over a, end fraction, minus the fraction 1 over b, end fraction, close parenthesis Out of the page",
-      "E": ""
+      "D": "t he f r a c t io n m u naught I over 2 pi, end fraction, times open parenthesis, the fraction 1 over a, end fraction, minus the fraction 1 over b, end fraction, close parenthesis Out of the page"
     },
     "has_figure": true,
     "answer": "B"
@@ -2959,8 +2904,7 @@
       "A": "to the left",
       "B": "to the right",
       "C": "toward the bottom of the page",
-      "D": "toward the top of the page",
-      "E": ""
+      "D": "toward the top of the page"
     },
     "answer": "B",
     "answer_source": "llm"
@@ -2991,8 +2935,7 @@
       "A": "A clockwise current only",
       "B": "A counterclockwise current only",
       "C": "A current that is first clockwise and then counterclockwise",
-      "D": "A current that is first counterclockwise and then clockwise",
-      "E": ""
+      "D": "A current that is first counterclockwise and then clockwise"
     },
     "has_figure": true,
     "answer": "D"
@@ -4566,8 +4509,7 @@
       "A": "Zero",
       "B": "$\\frac{1}{2} \\frac{kQ}{R^2}$",
       "C": "$\\frac{kQ}{R^2}$",
-      "D": "$2\\frac{kQ}{R^2}$",
-      "E": ""
+      "D": "$2\\frac{kQ}{R^2}$"
     },
     "answer": "B"
   },
@@ -4613,8 +4555,7 @@
       "A": "1.25 × 10⁻⁴ m²",
       "B": "2.50 × 10⁻⁴ m²",
       "C": "5.00 × 10⁻⁴ m²",
-      "D": "1.00 × 10⁻³ m²",
-      "E": ""
+      "D": "1.00 × 10⁻³ m²"
     },
     "answer": "C"
   },
@@ -4644,8 +4585,7 @@
       "A": "The electric field at Point A is directed toward Point B.",
       "B": "The electric field at Point C is directed toward Point D.",
       "C": "The magnitude of the electric field is greater at Point B than at Point E.",
-      "D": "The magnitude of the average electric field is greater between points F and E than between points A and B.",
-      "E": ""
+      "D": "The magnitude of the average electric field is greater between points F and E than between points A and B."
     },
     "has_figure": true,
     "answer": "C"
@@ -4660,8 +4600,7 @@
       "A": "The acceleration of Sphere 2 is toward Sphere 1.",
       "B": "The momentum of Sphere 2 is increasing.",
       "C": "The net force exerted on Sphere 2 is zero.",
-      "D": "The kinetic energy of Sphere 2 is constant.",
-      "E": ""
+      "D": "The kinetic energy of Sphere 2 is constant."
     },
     "answer": "A",
     "answer_source": "llm"
@@ -4692,8 +4631,7 @@
       "A": "$P_2 = P_1$, because the resistance of the resistor is the same in each circuit.",
       "B": "$P_2 > P_1$, because the equivalent resistance of Circuit 1 is smaller than the equivalent resistance of Circuit 2.",
       "C": "$P_2 > P_1$, because the current in the resistor for Circuit 1 is smaller than the current in the resistor for Circuit 2.",
-      "D": "$P_2 < P_1$, because the equivalent resistance of Circuit 1 is larger than the equivalent resistance of Circuit 2.",
-      "E": ""
+      "D": "$P_2 < P_1$, because the equivalent resistance of Circuit 1 is larger than the equivalent resistance of Circuit 2."
     },
     "answer": "C"
   },
@@ -4739,8 +4677,7 @@
       "A": "Bdv/R",
       "B": "Bdv/R + μmgv",
       "C": "B²d²v²/R",
-      "D": "B²d²v²/R + μmgv",
-      "E": ""
+      "D": "B²d²v²/R + μmgv"
     },
     "has_figure": true,
     "answer": "D"
@@ -4755,8 +4692,7 @@
       "A": "A",
       "B": "B",
       "C": "C",
-      "D": "D",
-      "E": ""
+      "D": "D"
     },
     "has_figure": true,
     "answer": "D"
@@ -4787,8 +4723,7 @@
       "A": "1 Nμ₀πd² 4 ℓ",
       "B": "1 Nμ₀πd² 2 ℓ",
       "C": "1 N²μ₀πd² 4 ℓ",
-      "D": "1 N²μ₀πd² 2 ℓ",
-      "E": ""
+      "D": "1 N²μ₀πd² 2 ℓ"
     },
     "answer": "C"
   },
@@ -4897,8 +4832,7 @@
       "A": "-10 J",
       "B": "-5 J",
       "C": "0 J",
-      "D": "+5 J",
-      "E": ""
+      "D": "+5 J"
     },
     "answer": "D",
     "answer_source": "llm"
@@ -4961,8 +4895,7 @@
       "A": "$0.20 \\, \\mu\\text{F}$",
       "B": "$0.30 \\, \\mu\\text{F}$",
       "C": "$2.0 \\, \\mu\\text{F}$",
-      "D": "$6.0 \\, \\mu\\text{F}$",
-      "E": ""
+      "D": "$6.0 \\, \\mu\\text{F}$"
     },
     "answer": "D"
   },
@@ -4976,8 +4909,7 @@
       "A": "+y-direction, because B_z approaches zero as x approaches ±∞.",
       "B": "+y-direction, because B_z is negative for positive values of x.",
       "C": "-y-direction, because B_z approaches zero as x approaches ±∞.",
-      "D": "-y-direction, because B_z is negative for positive values of x.",
-      "E": ""
+      "D": "-y-direction, because B_z is negative for positive values of x."
     },
     "has_figure": true,
     "answer": "D"
@@ -4992,8 +4924,7 @@
       "A": "The electric field is zero at x = 1.0 m.",
       "B": "The electric field changes direction between x = 2.0 m and x = 4.0 m.",
       "C": "The magnitude of the electric field is a maximum at x = 4.0 m.",
-      "D": "The electric field is zero at x = 5.0 m.",
-      "E": ""
+      "D": "The electric field is zero at x = 5.0 m."
     },
     "has_figure": true,
     "answer": "B"
@@ -5088,8 +5019,7 @@
       "A": "$ \\frac{1}{4} B \\pi r^2 \\omega $",
       "B": "$ \\frac{1}{2} B \\pi r^2 \\omega $",
       "C": "$ B \\pi r^2 \\omega $",
-      "D": "$ 2 B \\pi r^2 \\omega $",
-      "E": ""
+      "D": "$ 2 B \\pi r^2 \\omega $"
     },
     "has_figure": true,
     "answer": "C"
