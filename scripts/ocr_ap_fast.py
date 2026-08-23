@@ -6,7 +6,7 @@ from pathlib import Path
 from multiprocessing import Pool
 from datetime import datetime
 
-SILICONFLOW_KEY = "sk-swqqhzfeibdgkclaudxkxpjuwguqfudqubqivfbfgmvpqvln"
+SILICONFLOW_KEY = os.environ.get("SILICONFLOW_KEY", "")
 SILICONFLOW_URL = "https://api.siliconflow.cn/v1/chat/completions"
 MODEL = "Qwen/Qwen3-VL-8B-Instruct"
 

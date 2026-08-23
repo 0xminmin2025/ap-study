@@ -173,6 +173,19 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .opt.correct .letter{color:var(--green)}
 .opt.wrong .letter{color:var(--red)}
 
+/* EXPLANATION */
+.explanation{margin-top:14px;padding:14px 16px;background:var(--bg2);border:1px solid var(--border);border-left:3px solid var(--green);border-radius:var(--radius)}
+.expl-label{font-size:12.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--text2);margin-bottom:7px}
+.expl-body{font-size:14px;line-height:1.75;color:var(--text)}
+.expl-warn{margin-top:10px;padding:9px 11px;background:rgba(200,130,0,.14);border:1px solid rgba(200,130,0,.45);border-radius:var(--radius);font-size:12.5px;line-height:1.6;color:var(--text)}
+.expl-warn b{font-weight:700}
+
+/* TIMER — 用 ID 选择器保证优先级压过下面的默认隐藏 */
+#quizTimer{display:none;align-items:center;justify-content:center;gap:10px;margin-bottom:12px;padding:8px 14px;background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius)}
+#quizTimer.on{display:flex}
+#timerText{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums;letter-spacing:.02em}
+#quizTimer.expired{background:var(--red-light);border-color:var(--red)}
+
 /* FRQ */
 .frq-parts{margin-top:12px}
 .frq-part{margin-bottom:12px;padding:10px 12px;background:var(--bg2);border-radius:var(--radius)}
@@ -282,17 +295,20 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <div id="statsDash"></div>
 <h3>Start Practice</h3>
 <div class="filter-row">
-<select id="qType"><option value="mcq">Multiple Choice</option><option value="frq">Free Response</option><option value="practice">Chapter Practice</option></select>
-<select id="qYear"><option value="all">All Years</option></select>
+<select id="qType" onchange="updatePoolInfo()"><option value="mcq">Multiple Choice</option><option value="frq">Free Response</option><option value="practice">Chapter Practice</option></select>
+<select id="qUnit" onchange="updatePoolInfo()"><option value="all">All Units</option></select>
+<select id="qYear" onchange="updatePoolInfo()"><option value="all">All Years</option></select>
 <select id="qCount"><option value="10">10 Questions</option><option value="20">20 Questions</option><option value="40">40 Questions</option><option value="all">All</option></select>
 </div>
 <div class="filter-row">
 <label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qShuffle" checked> Shuffle</label>
-<label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qErrorsOnly"> Errors Only</label>
+<label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qErrorsOnly" onchange="updatePoolInfo()"> Errors Only</label>
+<label style="font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="qTimed"> Timed <span style="color:var(--text3)">(1.5 min/q)</span></label>
 </div>
 <button class="start-btn" onclick="startQuiz()">Start</button>
 <div id="poolInfo" style="margin-top:10px;font-size:12px;color:var(--text3)"></div>
 </div>
+<div id="quizTimer"><span style="font-size:12px;color:var(--text3);letter-spacing:.05em">TIME LEFT</span><span id="timerText">--:--</span></div>
 <div id="quizArea" style="display:none"></div>
 <div id="quizResults" style="display:none"></div>
 </div>
@@ -351,7 +367,7 @@ mcq=m;frq=f;practice=p;notes=n;
 
 // Update UI
 document.getElementById('topLoc').textContent=info?info.name:slug;
-renderUnits();populateYears();
+renderUnits();populateYears();populateUnitFilter();updatePoolInfo();
 // Toggle learn tab visibility
 const learnTab=document.querySelector('[data-tab="learn"]');
 if(learnTab)learnTab.style.display=notes?'':'none';
@@ -363,10 +379,8 @@ document.querySelectorAll('.subj-btn').forEach(b=>b.classList.toggle('active',b.
 // Reset quiz
 resetQuiz();
 switchTab(notes?'learn':'quiz');
-// Pool info
-const withAns=mcq.filter(q=>q.answer).length;
-const pi=document.getElementById('poolInfo');
-if(pi)pi.textContent=`${mcq.length} MCQ (${withAns} with answers) · ${frq.length} FRQ`;
+// 题量信息由 updatePoolInfo() 统一维护（随筛选实时更新），不在这里覆盖
+updatePoolInfo();
 }
 
 function init(){
@@ -388,6 +402,8 @@ document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('active'
 document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
 document.getElementById(t+'Panel').classList.add('active');
 if(t==='review')renderReview();
+if(t!=='quiz')stopTimer();
+if(t==='quiz')updatePoolInfo();
 document.getElementById('searchPanel').style.display='none';
 }
 
@@ -395,17 +411,21 @@ document.getElementById('searchPanel').style.display='none';
 function renderUnits(){
 if(!notes)return;
 const el=document.getElementById('unitListView');
-el.innerHTML=notes.units.map((u,i)=>`
+el.innerHTML=notes.units.map((u,i)=>{
+const words=u.sections.reduce((a,s)=>a+s.wordCount,0);
+const mins=Math.max(1,Math.round(words/200)); // ~200 wpm
+const label=/^supplement/i.test(u.id||'')?'★':(i);
+return`
 <div class="unit-list">
 <div class="unit-item" onclick="showUnit(${i})">
-<div class="num">${i+1}</div>
+<div class="num">${label}</div>
 <div class="info">
 <h3>${esc(u.title)}</h3>
-<p>${u.sections.length} sections · ${u.sections.reduce((a,s)=>a+s.wordCount,0).toLocaleString()} words</p>
+<p>${u.sections.length} sections · ~${mins>=60?(mins/60).toFixed(1)+' hr':mins+' min'} read</p>
 </div>
 <span class="arrow">&#8250;</span>
 </div>
-</div>`).join('');
+</div>`}).join('');
 }
 
 function showUnit(idx){
@@ -531,13 +551,12 @@ sel.innerHTML+=`<option value="${y}">${y}</option>`;
 });
 }
 
-function startQuiz(){
+// 统一的筛选逻辑，startQuiz 和 updatePoolInfo 共用，保证显示数=实际数
+function getFilteredPool(){
 const type=document.getElementById('qType').value;
+const unit=document.getElementById('qUnit').value;
 const year=document.getElementById('qYear').value;
-const count=document.getElementById('qCount').value;
-const shuffle=document.getElementById('qShuffle').checked;
 const errorsOnly=document.getElementById('qErrorsOnly').checked;
-quizMode=type;
 
 let pool=type==='mcq'?[...mcq]:type==='frq'?[...frq]:[...practice];
 
@@ -545,12 +564,43 @@ let pool=type==='mcq'?[...mcq]:type==='frq'?[...frq]:[...practice];
 // (some OCR'd questions have all-empty option values -> would render blank)
 if(type==='mcq')pool=pool.filter(q=>q.options&&Object.values(q.options).filter(v=>v&&String(v).trim()).length>=2);
 
+if(unit!=='all')pool=pool.filter(q=>q.unit===unit);
 if(year!=='all')pool=pool.filter(q=>q.year==year);
 
 if(errorsOnly){
 const errs=JSON.parse(localStorage.getItem('ap_errors')||'{}');
 pool=pool.filter(q=>errs[q.id]);
 }
+return pool;
+}
+
+// 把当前筛选下的真实可用题数显示出来
+function updatePoolInfo(){
+const el=document.getElementById('poolInfo');
+if(!el)return;
+const pool=getFilteredPool();
+const withAns=pool.filter(q=>q.answer&&String(q.answer).trim()).length;
+const withExpl=pool.filter(q=>q.explanation&&String(q.explanation).trim()).length;
+if(!pool.length){el.innerHTML='<span style="color:var(--red)">No questions match these filters</span>';return}
+el.innerHTML=`<b>${pool.length}</b> questions match &nbsp;·&nbsp; ${withAns} with answer key &nbsp;·&nbsp; ${withExpl} with explanation`;
+}
+
+// 填充单元下拉（按当前科目实际有的 unit）
+function populateUnitFilter(){
+const sel=document.getElementById('qUnit');
+if(!sel)return;
+const units=[...new Set([...mcq,...frq].map(q=>q.unit).filter(Boolean))].sort();
+sel.innerHTML='<option value="all">All Units</option>'+units.map(u=>`<option value="${esc(u)}">${esc(u)}</option>`).join('');
+sel.style.display=units.length?'':'none';
+}
+
+function startQuiz(){
+const count=document.getElementById('qCount').value;
+const shuffle=document.getElementById('qShuffle').checked;
+const timed=document.getElementById('qTimed').checked;
+quizMode=document.getElementById('qType').value;
+
+let pool=getFilteredPool();
 
 if(shuffle){for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}}
 
@@ -564,7 +614,34 @@ quizAnswers={};
 document.getElementById('quizConfig').style.display='none';
 document.getElementById('quizResults').style.display='none';
 document.getElementById('quizArea').style.display='block';
+if(timed)startTimer(pool.length*90); else stopTimer();
 renderQuestion();
+}
+
+// ===== TIMER =====
+let timerId=null,timerLeft=0;
+function startTimer(secs){
+stopTimer();
+timerLeft=secs;
+const bar=document.getElementById('quizTimer');
+if(bar){bar.classList.add('on');bar.classList.remove('expired')}
+tickTimer();
+timerId=setInterval(tickTimer,1000);
+}
+function tickTimer(){
+const el=document.getElementById('timerText');
+if(el){
+const m=Math.floor(Math.abs(timerLeft)/60),s=Math.abs(timerLeft)%60;
+el.textContent=(timerLeft<0?'-':'')+m+':'+String(s).padStart(2,'0');
+el.style.color=(timerLeft<=60)?'var(--red)':'';
+}
+if(timerLeft===0){const b=document.getElementById('quizTimer');if(b)b.classList.add('expired')}
+timerLeft--;
+}
+function stopTimer(){
+if(timerId){clearInterval(timerId);timerId=null}
+const bar=document.getElementById('quizTimer');
+if(bar){bar.classList.remove('on','expired')}
 }
 
 function renderQuestion(){
@@ -588,6 +665,9 @@ return`<div class="${cls}" onclick="selectOpt('${q.id}','${k}',${answered})">
 <span class="letter">${k}</span><span>${formatQText(v)}</span></div>`;
 }).join('')}
 ${answered&&!q.answer?'<div style="margin-top:8px;padding:8px 12px;background:var(--bg2);border-radius:var(--radius);font-size:12px;color:var(--text3)">⚠ Answer key not available for this question</div>':''}
+${answered&&q.answer&&q.answer_key_suspect?`<div class="expl-warn" style="margin-top:8px"><b>⚠ Answer key under review.</b> Multiple questions from the ${esc(String(q.year||''))} exam disagree with independent AI review, so this batch's answer key may be unreliable. Treat the marked answer with caution.</div>`:''}
+${answered&&!q.explanation&&q.no_figure_available?'<div style="margin-top:8px;padding:8px 12px;background:var(--bg2);border-radius:var(--radius);font-size:12px;color:var(--text3)">🖼 This question refers to a figure that isn\'t in our scan, so no explanation could be generated.</div>':''}
+${answered&&q.explanation?`<div class="explanation"><div class="expl-label">Why${q.answer?' '+q.answer:''}?</div><div class="expl-body">${formatQText(q.explanation)}</div>${q.answer_disputed?`<div class="expl-warn"><b>⚠ Answer conflict.</b> Our AI reviewer independently chose <b>${esc(q.model_answer||'?')}</b>, but the answer key says <b>${esc(q.answer)}</b>. One of them is wrong — double-check this question.</div>`:''}</div>`:''}
 </div>`;
 }else{
 // FRQ
@@ -664,6 +744,7 @@ function prevQ(){if(quizIndex>0){quizIndex--;renderQuestion()}}
 function nextQ(){if(quizIndex<quizQuestions.length-1){quizIndex++;renderQuestion()}}
 
 function finishQuiz(){
+stopTimer();
 const total=quizQuestions.length;
 let correct=0,answered=0;
 quizQuestions.forEach(q=>{

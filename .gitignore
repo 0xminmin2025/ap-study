@@ -3,13 +3,23 @@
 # Regenerate docs/data via parse_stats.py + fix_data.py if needed.
 /data/
 
-# Contain hardcoded GitHub tokens — never commit.
+# Contain hardcoded tokens/keys — never commit.
 push_to_github.py
 scripts/push_ap_github.py
+run_gen.sh
+.env.local
 
 # Python
 __pycache__/
 *.pyc
+
+# LLM 生成缓存（本地重跑用，几千个小文件，不入库）
+.expl_cache/
+.probe_cache/
+.unit_cache/
+
+# 写盘中间态
+*.json.tmp
 
 node_modules/
 .DS_Store

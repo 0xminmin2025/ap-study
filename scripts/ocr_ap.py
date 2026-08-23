@@ -7,7 +7,7 @@
 import fitz, requests, json, base64, os, time, sys
 from pathlib import Path
 
-SILICONFLOW_KEY = "sk-swqqhzfeibdgkclaudxkxpjuwguqfudqubqivfbfgmvpqvln"
+SILICONFLOW_KEY = os.environ.get("SILICONFLOW_KEY", "")
 SILICONFLOW_URL = "https://api.siliconflow.cn/v1/chat/completions"
 MODEL = "Qwen/Qwen3-VL-8B-Instruct"
 
