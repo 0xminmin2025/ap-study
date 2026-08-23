@@ -1,0 +1,15 @@
+# Raw source material (479MB of PDFs/OCR text) — kept locally, not in repo.
+# Leading slash matters: must NOT match docs/data/ (the published question bank).
+# Regenerate docs/data via parse_stats.py + fix_data.py if needed.
+/data/
+
+# Contain hardcoded GitHub tokens — never commit.
+push_to_github.py
+scripts/push_ap_github.py
+
+# Python
+__pycache__/
+*.pyc
+
+node_modules/
+.DS_Store
