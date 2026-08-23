@@ -17,6 +17,7 @@ __pycache__/
 .expl_cache/
 .probe_cache/
 .unit_cache/
+.nofig_cache/
 
 # 写盘中间态
 *.json.tmp
