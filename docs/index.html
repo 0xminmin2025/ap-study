@@ -560,6 +560,9 @@ const errorsOnly=document.getElementById('qErrorsOnly').checked;
 
 let pool=type==='mcq'?[...mcq]:type==='frq'?[...frq]:[...practice];
 
+// Filter: hide archived questions (figure lost / bad OCR data — cannot be answered)
+pool=pool.filter(q=>!q.archived);
+
 // Filter: only questions with >=2 NON-EMPTY options for MCQ
 // (some OCR'd questions have all-empty option values -> would render blank)
 if(type==='mcq')pool=pool.filter(q=>q.options&&Object.values(q.options).filter(v=>v&&String(v).trim()).length>=2);
