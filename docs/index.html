@@ -541,8 +541,9 @@ quizMode=type;
 
 let pool=type==='mcq'?[...mcq]:type==='frq'?[...frq]:[...practice];
 
-// Filter: only questions with options for MCQ
-if(type==='mcq')pool=pool.filter(q=>q.options&&Object.keys(q.options).length>=4);
+// Filter: only questions with >=2 NON-EMPTY options for MCQ
+// (some OCR'd questions have all-empty option values -> would render blank)
+if(type==='mcq')pool=pool.filter(q=>q.options&&Object.values(q.options).filter(v=>v&&String(v).trim()).length>=2);
 
 if(year!=='all')pool=pool.filter(q=>q.year==year);
 
