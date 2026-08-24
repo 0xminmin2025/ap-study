@@ -1914,7 +1914,9 @@
   "has_figure": true,
   "image": "images/2004_q3.png",
   "unit": "Systems of Particles & Linear Momentum",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2004_4",
@@ -3706,7 +3708,9 @@
   "has_figure": true,
   "image": "images/2012_q4.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_5",
@@ -3725,7 +3729,9 @@
   "has_figure": true,
   "image": "images/2012_q5.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_6",
@@ -3801,7 +3807,9 @@
   "answer": "A",
   "image": "images/2012_q9.png",
   "unit": "Systems of Particles & Linear Momentum",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_10",
@@ -3894,7 +3902,9 @@
   "has_figure": true,
   "image": "images/2012_q14.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_15",
@@ -4095,7 +4105,9 @@
   "has_figure": true,
   "image": "images/2012_q25.png",
   "unit": "Newton's Laws",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_26",
@@ -4113,7 +4125,9 @@
   "has_figure": true,
   "image": "images/2012_q26.png",
   "unit": "Newton's Laws",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_27",
@@ -4185,7 +4199,9 @@
   "has_figure": true,
   "image": "images/2012_q30.png",
   "unit": "Oscillations",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_31",
@@ -4204,7 +4220,9 @@
   "has_figure": true,
   "image": "images/2012_q31.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2012_32",
@@ -5165,7 +5183,9 @@
   "answer": "B",
   "image": "images/2014_q17.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2014_18",
@@ -5260,7 +5280,9 @@
   "answer": "B",
   "image": "images/2014_q22.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2014_23",
@@ -5396,7 +5418,9 @@
   "answer": "B",
   "image": "images/2014_q29.png",
   "unit": "Newton's Laws",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2014_30",
@@ -6736,7 +6760,9 @@
   "answer": "C",
   "image": "images/2018_q4.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2018_5",
@@ -6755,7 +6781,9 @@
   "answer": "C",
   "image": "images/2018_q5.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2018_6",
@@ -8064,7 +8092,9 @@
   "answer": "D",
   "image": "images/2022_q4.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_5",
@@ -8142,7 +8172,9 @@
   "answer": "C",
   "image": "images/2022_q8.png",
   "unit": "Systems of Particles & Linear Momentum",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_9",
@@ -8161,7 +8193,9 @@
   "answer": "B",
   "image": "images/2022_q9.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_10",
@@ -8217,7 +8251,9 @@
   "answer": "D",
   "image": "images/2022_q12.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_13",
@@ -8388,7 +8424,9 @@
   "answer": "A",
   "image": "images/2022_q22.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_23",
@@ -8407,7 +8445,9 @@
   "answer": "D",
   "image": "images/2022_q23.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_24",
@@ -8426,7 +8466,9 @@
   "answer": "D",
   "image": "images/2022_q24.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_25",
@@ -8463,7 +8505,9 @@
   "answer": "C",
   "image": "images/2022_q26.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_27",
@@ -8482,7 +8526,9 @@
   "answer": "C",
   "image": "images/2022_q27.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_28",
@@ -8501,7 +8547,9 @@
   "answer": "C",
   "image": "images/2022_q28.png",
   "unit": "Newton's Laws",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_29",
@@ -8520,7 +8568,9 @@
   "answer": "C",
   "image": "images/2022_q29.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_30",
@@ -8557,7 +8607,9 @@
   "answer": "C",
   "image": "images/2022_q31.png",
   "unit": "Oscillations",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2022_32",
@@ -9318,7 +9370,9 @@
   "answer": "B",
   "image": "images/2024_q2.png",
   "unit": "Newton's Laws",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_3",
@@ -9375,7 +9429,9 @@
   "answer": "B",
   "image": "images/2024_q5.png",
   "unit": "Newton's Laws",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_6",
@@ -9394,7 +9450,9 @@
   "answer": "E",
   "image": "images/2024_q6.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_7",
@@ -9433,7 +9491,9 @@
   "answer": "E",
   "image": "images/2024_q8.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_10",
@@ -9452,7 +9512,9 @@
   "answer": "A",
   "image": "images/2024_q10.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_11",
@@ -9529,7 +9591,9 @@
   "answer": "E",
   "image": "images/2024_q15.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_16",
@@ -9605,7 +9669,9 @@
   "answer": "C",
   "image": "images/2024_q20.png",
   "unit": "Systems of Particles & Linear Momentum",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_21",
@@ -9645,7 +9711,9 @@
   "answer": "B",
   "image": "images/2024_q22.png",
   "unit": "Rotation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_23",
@@ -9684,7 +9752,9 @@
   "answer": "A",
   "image": "images/2024_q24.png",
   "unit": "Gravitation",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_26",
@@ -9721,7 +9791,9 @@
   "answer": "C",
   "image": "images/2024_q27.png",
   "unit": "Systems of Particles & Linear Momentum",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_28",
@@ -9760,7 +9832,9 @@
   "answer": "C",
   "image": "images/2024_q29.png",
   "unit": "Kinematics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-mech_2024_30",

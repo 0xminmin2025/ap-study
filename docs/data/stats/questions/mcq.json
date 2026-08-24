@@ -35,7 +35,9 @@
   "has_figure": true,
   "image": "images/2012_q1.png",
   "unit": "Exploring One-Variable Data",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2012_2",
@@ -3724,7 +3726,9 @@
   "answer": "D",
   "image": "images/2018_q5.png",
   "unit": "Sampling Distributions",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2018_6",
@@ -4375,7 +4379,9 @@
   "unit": "Exploring One-Variable Data",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2019_2",
@@ -4417,7 +4423,9 @@
   "unit": "Inference for Regression",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2019_4",
@@ -4583,7 +4591,9 @@
   "unit": "Collecting Data",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2019_13",
@@ -4866,7 +4876,9 @@
   "unit": "Probability & Random Variables",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2019_27",
@@ -5131,7 +5143,9 @@
   "unit": "Chi-Square",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2019_40",
@@ -7740,7 +7754,9 @@
   "answer": "C",
   "image": "images/2024_q18.png",
   "unit": "Chi-Square",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2024_19",
@@ -7759,7 +7775,9 @@
   "answer": "A",
   "image": "images/2024_q19.png",
   "unit": "Chi-Square",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2024_20",
@@ -7834,7 +7852,9 @@
   "answer": "D",
   "image": "images/2024_q23.png",
   "unit": "Exploring Two-Variable Data",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "stats_2024_24",

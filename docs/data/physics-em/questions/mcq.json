@@ -2373,7 +2373,8 @@
   "answer": "C",
   "image": "images/2016_q31.png",
   "unit": "Electromagnetism",
-  "expl_skipped": "NEEDS_FIGURE"
+  "explanation": "For the electron to travel undeflected, the electric and magnetic forces must be equal in magnitude and opposite in direction. The electric field between the plates points from the positive to the negative plate, so for an electron (negative charge), the electric force is upward. To counteract this, the magnetic force must be downward. Using the right-hand rule for the magnetic force (F = qv × B), and remembering the electron's negative charge reverses the direction, a magnetic field pointing out of the page (represented by dots) will produce a downward magnetic force on a left-to-right moving electron. Diagram (C) shows the electric field downward (top plate positive, bottom negative) and the magnetic field out of the page, resulting in an upward electric force and a downward magnetic force, which balance. Diagram (A) has the wrong magnetic field direction, (B) has the wrong electric field direction, (D) has the wrong electric field direction, and (E) has the wrong magnetic field direction.",
+  "expl_via": "vl"
  },
  {
   "id": "physics-em_2016_33",
@@ -2913,7 +2914,9 @@
   "answer": "D",
   "image": "images/2017_q32.png",
   "unit": "Electromagnetism",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "BAD_DATA",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2017_33",
@@ -4116,7 +4119,9 @@
   "answer": "A",
   "has_figure": true,
   "image": "images/2021_q30.png",
-  "unit": "Conductors & Capacitors"
+  "unit": "Conductors & Capacitors",
+  "explanation": "After a long time with the switch closed, the capacitor is fully charged and acts like an open circuit, so no current flows through R1. The voltage across the capacitor equals the voltage across R2, which is the same as the battery voltage ε because R1 has no voltage drop. The charge on the capacitor is Q = C * V, where V is the voltage across it. To increase Q, you must increase V. Since V = ε, and ε is fixed, the only way to change the voltage across the capacitor is to change the circuit's configuration. However, in this circuit, the voltage across the capacitor is always equal to the battery voltage because it is in parallel with R2, and R1 is in series with the battery and the parallel combination. Therefore, the voltage across the capacitor is always ε, regardless of R1 or R2. This suggests that the voltage across the capacitor is fixed by the battery. But wait, let's reconsider: when the switch is closed, the capacitor charges until it reaches the voltage of the battery, but the voltage across the capacitor is determined by the voltage drop across R2. The voltage across R2 is V_R2 = I * R2, and the current I is determined by the total resistance. The total resistance is R1 + R2, so I = ε / (R1 + R2). Therefore, V_R2 = ε * R2 / (R1 + R2). The charge on the capacitor is Q = C * V_R2 = C * ε * R2 / (R1 + R2). To increase Q, we need to increase this expression. Increasing R1 will decrease the denominator, thus increasing the fraction, so increasing R1 increases Q. Therefore, replacing R1 with a larger resistor increases the charge. Option A is correct. Option B would decrease the voltage across R2, decreasing Q. Options C and D decrease capacitance C, decreasing Q. Option E decreases ε, decreasing Q. So the only correct choice is A.",
+  "expl_via": "vl"
  },
  {
   "id": "physics-em_2021_31",
@@ -4485,7 +4490,9 @@
   "answer": "D",
   "image": "images/2022_q16.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2022_17",
@@ -5603,7 +5610,9 @@
   "answer": "D",
   "image": "images/2024_q3.png",
   "unit": "Electric Circuits",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_4",
@@ -5622,7 +5631,9 @@
   "answer": "D",
   "image": "images/2024_q4.png",
   "unit": "Conductors & Capacitors",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_5",
@@ -5658,7 +5669,9 @@
   "answer": "A",
   "image": "images/2024_q6.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_7",
@@ -5676,7 +5689,9 @@
   "answer": "C",
   "image": "images/2024_q7.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_8",
@@ -5788,7 +5803,9 @@
   "answer": "D",
   "image": "images/2024_q13.png",
   "unit": "Electromagnetism",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_14",
@@ -5806,7 +5823,9 @@
   "answer": "D",
   "image": "images/2024_q14.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_15",
@@ -5825,7 +5844,9 @@
   "answer": "C",
   "image": "images/2024_q15.png",
   "unit": "Conductors & Capacitors",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_16",
@@ -5881,7 +5902,9 @@
   "answer": "D",
   "image": "images/2024_q18.png",
   "unit": "Conductors & Capacitors",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_19",
@@ -5900,7 +5923,9 @@
   "answer": "C",
   "image": "images/2024_q19.png",
   "unit": "Electromagnetism",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_20",
@@ -5957,7 +5982,9 @@
   "answer": "C",
   "image": "images/2024_q22.png",
   "unit": "Electric Circuits",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_23",
@@ -5994,7 +6021,9 @@
   "answer": "C",
   "image": "images/2024_q24.png",
   "unit": "Electromagnetism",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_25",
@@ -6013,7 +6042,9 @@
   "answer": "B",
   "image": "images/2024_q25.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_26",
@@ -6032,7 +6063,9 @@
   "answer": "C",
   "image": "images/2024_q26.png",
   "unit": "Magnetic Fields",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_27",
@@ -6067,7 +6100,9 @@
   "answer": "D",
   "image": "images/2024_q28.png",
   "unit": "Magnetic Fields",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_29",
@@ -6085,7 +6120,9 @@
   "answer": "B",
   "image": "images/2024_q29.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_30",
@@ -6104,7 +6141,9 @@
   "answer": "C",
   "image": "images/2024_q30.png",
   "unit": "Electrostatics",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_31",
@@ -6183,7 +6222,9 @@
   "answer": "C",
   "image": "images/2024_q34.png",
   "unit": "Electric Circuits",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "physics-em_2024_35",

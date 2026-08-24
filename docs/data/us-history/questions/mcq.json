@@ -3365,7 +3365,9 @@
   "answer": "B",
   "image": "images/2016_q29.png",
   "unit": "Period 9: 1980-Present",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2016_30",
@@ -3383,7 +3385,9 @@
   "answer": "A",
   "image": "images/2016_q30.png",
   "unit": "Period 7: 1890-1945",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2016_31",
@@ -3401,7 +3405,9 @@
   "answer": "D",
   "image": "images/2016_q31.png",
   "unit": "Period 9: 1980-Present",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2016_32",
@@ -4145,7 +4151,9 @@
   "answer": "C",
   "image": "images/2018_q26.png",
   "unit": "Period 7: 1890-1945",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2018_27",
@@ -4179,7 +4187,9 @@
   "answer": "A",
   "image": "images/2018_q28.png",
   "unit": "Period 7: 1890-1945",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2018_29",
@@ -4197,7 +4207,9 @@
   "answer": "D",
   "image": "images/2018_q29.png",
   "unit": "Period 7: 1890-1945",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2018_30",
@@ -4687,7 +4699,9 @@
   "has_figure": true,
   "image": "images/2019_q1.png",
   "unit": "Period 1-2: 1491-1754",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2019_2",
@@ -5905,7 +5919,9 @@
   "unit": "Period 3: 1754-1800",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2024_14",
@@ -6411,7 +6427,9 @@
   "unit": "Period 7: 1890-1945",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2024_39",
@@ -6471,7 +6489,9 @@
   "unit": "Period 7: 1890-1945",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2024_42",
@@ -6612,7 +6632,9 @@
   "unit": "Period 7: 1890-1945",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "us-history_2024_49",

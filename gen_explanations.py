@@ -292,6 +292,10 @@ def run_subject(subj, limit=None, dry=False, workers=8):
         if q.get("no_figure_available"):
             _stats["nofig"] += 1
             continue
+        # 已归档（原图未抓取到/数据损坏，人工确认无法作答）-> 永久跳过
+        if q.get("archived"):
+            _stats["nofig"] += 1
+            continue
         todo.append(q)
 
     if limit:

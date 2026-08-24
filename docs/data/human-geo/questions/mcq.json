@@ -3097,7 +3097,9 @@
   "expl_skipped": "NEEDS_FIGURE",
   "unit": "Thinking Geographically",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "human-geo_2024_8",
@@ -3412,7 +3414,9 @@
   "expl_skipped": "NEEDS_FIGURE",
   "unit": "Cities & Urban Land-Use",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "human-geo_2024_23",
@@ -3495,7 +3499,9 @@
   "expl_skipped": "NEEDS_FIGURE",
   "unit": "Agriculture & Rural Land-Use",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "human-geo_2024_27",
@@ -3642,7 +3648,9 @@
   "expl_skipped": "NEEDS_FIGURE",
   "unit": "Population & Migration",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "human-geo_2024_34",
@@ -3892,7 +3900,9 @@
   "expl_skipped": "NEEDS_FIGURE",
   "unit": "Agriculture & Rural Land-Use",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "human-geo_2024_46",
@@ -3912,7 +3922,9 @@
   "expl_skipped": "NEEDS_FIGURE",
   "unit": "Agriculture & Rural Land-Use",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "human-geo_2024_47",

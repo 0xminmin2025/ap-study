@@ -792,7 +792,9 @@
   "answer": "A",
   "image": "images/2003_q9.png",
   "unit": "Global Contemporary",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2003_10",
@@ -1591,7 +1593,9 @@
   "answer": "B",
   "image": "images/2008_q7.png",
   "unit": "Indigenous Americas",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2008_8",
@@ -2139,7 +2143,9 @@
   "answer": "D",
   "image": "images/2011_q7.png",
   "unit": "Indigenous Americas",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2011_8",
@@ -2469,7 +2475,9 @@
   "answer": "A",
   "expl_skipped": "NEEDS_FIGURE",
   "image": "images/2014_q2.png",
-  "unit": "Global Contemporary"
+  "unit": "Global Contemporary",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2014_3",
@@ -2505,7 +2513,9 @@
   "has_figure": true,
   "image": "images/2014_q4.png",
   "unit": "Global Contemporary",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2014_5",
@@ -2522,7 +2532,9 @@
   "answer": "D",
   "image": "images/2014_q5.png",
   "unit": "Global Contemporary",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2014_6",
@@ -2575,7 +2587,9 @@
   "answer": "D",
   "image": "images/2014_q8.png",
   "unit": "Global Prehistory",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2014_10",
@@ -2592,7 +2606,9 @@
   "answer": "A",
   "expl_skipped": "NEEDS_FIGURE",
   "image": "images/2014_q10.png",
-  "unit": "Global Contemporary"
+  "unit": "Global Contemporary",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "art-history_2014_15",

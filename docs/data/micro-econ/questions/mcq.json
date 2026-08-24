@@ -5603,7 +5603,9 @@
   "answer": "B",
   "image": "images/2017_q3.png",
   "unit": "Basic Economic Concepts",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2017_4",
@@ -5966,7 +5968,9 @@
   "answer": "C",
   "image": "images/2017_q22.png",
   "unit": "Supply & Demand",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2017_23",
@@ -6232,7 +6236,9 @@
   "answer": "C",
   "image": "images/2017_q36.png",
   "unit": "Imperfect Competition",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2017_37",
@@ -6364,7 +6370,9 @@
   "answer": "D",
   "image": "images/2017_q43.png",
   "unit": "Production, Cost & Perfect Competition",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2017_44",
@@ -6498,7 +6506,9 @@
   "answer": "B",
   "image": "images/2017_q50.png",
   "unit": "Imperfect Competition",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2017_51",
@@ -6707,7 +6717,9 @@
   "answer": "B",
   "image": "images/2018_q2.png",
   "unit": "Market Failure & the Role of Government",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2018_3",
@@ -7827,7 +7839,9 @@
   "unit": "Basic Economic Concepts",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_3",
@@ -7980,7 +7994,9 @@
   "unit": "Production, Cost & Perfect Competition",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_10",
@@ -8147,7 +8163,9 @@
   "unit": "Market Failure & the Role of Government",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_18",
@@ -8228,7 +8246,9 @@
   "unit": "Imperfect Competition",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_22",
@@ -8351,7 +8371,9 @@
   "unit": "Factor Markets",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_28",
@@ -8372,7 +8394,9 @@
   "unit": "Market Failure & the Role of Government",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_29",
@@ -8434,7 +8458,9 @@
   "unit": "Basic Economic Concepts",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_32",
@@ -8521,7 +8547,9 @@
   "unit": "Basic Economic Concepts",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_36",
@@ -8819,7 +8847,9 @@
   "unit": "Supply & Demand",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2019_50",
@@ -8860,9 +8890,10 @@
   "has_figure": true,
   "image": "images/2019_q51.png",
   "unit": "Production, Cost & Perfect Competition",
-  "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "explanation": "A firm’s short-run supply curve is the portion of its marginal cost curve that lies at or above the minimum average variable cost, so the correct points are R, S, and T. A tempting wrong choice adds W or V because students sometimes treat the entire marginal cost curve or the average total cost curve as the supply curve, forgetting that the firm shuts down when price falls below minimum average variable cost.",
+  "expl_via": "txt"
  },
  {
   "id": "micro-econ_2019_52",
@@ -9376,7 +9407,9 @@
   "unit": "Basic Economic Concepts",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_16",
@@ -9679,7 +9712,9 @@
   "unit": "Supply & Demand",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_30",
@@ -9700,7 +9735,9 @@
   "unit": "Market Failure & the Role of Government",
   "answer_key_suspect": true,
   "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_31",
@@ -9898,7 +9935,9 @@
   "unit": "Basic Economic Concepts",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_40",
@@ -9960,7 +9999,9 @@
   "unit": "Supply & Demand",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_43",
@@ -10046,7 +10087,9 @@
   "unit": "Supply & Demand",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_47",
@@ -10067,7 +10110,9 @@
   "unit": "Production, Cost & Perfect Competition",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_48",
@@ -10088,7 +10133,9 @@
   "unit": "Production, Cost & Perfect Competition",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_49",
@@ -10131,7 +10178,9 @@
   "unit": "Imperfect Competition",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_51",
@@ -10217,7 +10266,9 @@
   "unit": "Production, Cost & Perfect Competition",
   "expl_skipped": "NEEDS_FIGURE",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2021_55",
@@ -12912,7 +12963,9 @@
   "has_figure": true,
   "image": "images/2024_q34.png",
   "unit": "Supply & Demand",
-  "expl_skipped": "NEEDS_FIGURE"
+  "expl_skipped": "NEEDS_FIGURE",
+  "archived": true,
+  "archived_reason": "slide_based_no_figure"
  },
  {
   "id": "micro-econ_2024_35",
