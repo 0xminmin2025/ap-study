@@ -113,7 +113,10 @@
   "answer": "C",
   "answer_source": "llm",
   "explanation": "The complex served the Roman imperial cult, which celebrated the emperor’s divine authority and his deification after death. Such monumental building projects were designed to present the ruler as a god, a purpose that differs from Greek victory monuments. Choice B might seem appealing because Roman architecture borrowed Greek forms, but the complex’s theme is Roman imperial divinity, not Athenian naval power.",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2000年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2000_5",
@@ -170,7 +173,10 @@
   "answer": "C",
   "answer_source": "llm",
   "explanation": "The frieze is the horizontal band of the entablature that sits above the architrave and columns in classical Greek and Roman architecture. It frequently carries painted or sculpted decoration and serves as a major visual field between the vertical supports and the roof. Peristyle is a tempting distractor because it also involves columns, but it refers to the surrounding colonnade rather than a horizontal band.",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2000年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2000_8",
@@ -187,7 +193,10 @@
   "answer": "C",
   "answer_source": "llm",
   "explanation": "A pediment is the triangular gable at the top of a classical building, formed where the pitched roof meets the horizontal cornice. A lintel is a tempting wrong choice because it is also a horizontal architectural member, but it spans across an opening and is not a triangular space.",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2000年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2000_9",
@@ -205,7 +214,10 @@
   "answer": "B",
   "explanation": "Caryatids are sculpted figures, traditionally female, that serve as architectural supports taking the place of ordinary columns, as famously seen on the Erechtheion in Athens. Jamb figures may tempt test-takers because they are architectural sculptures, but they adorn the vertical sides of doorways rather than replacing columns themselves. Flutes are merely the vertical grooves cut into column shafts, and triglyphs are decorative blocks from a Doric frieze.",
   "image": "images/2000_q9.png",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2000年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2000_10",
@@ -443,7 +455,10 @@
   "answer_source": "llm",
   "explanation": "Hagesandros, Polydoros, and Athanadoros of Rhodes are the sculptors attributed to the Laocoön and His Sons, one of the most famous works of Hellenistic art. Praxiteles is a tempting distractor because he was a celebrated Athenian sculptor, but he worked in the Late Classical period and created entirely different masterpieces. The combination of these three specific artists from Rhodes is a key art historical fact tied exclusively to this dramatic group sculpture.",
   "no_figure_available": true,
-  "unit": "Indigenous Americas"
+  "unit": "Indigenous Americas",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2002年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2002_2",
@@ -580,7 +595,10 @@
   "answer": "B",
   "answer_source": "llm",
   "explanation": "Both the Pantheon and San Vitale are centrally planned buildings crowned by domes, making a dome the feature they share. The Pantheon is famous for its massive unreinforced concrete dome, while San Vitale in Ravenna features a dome that rises above an octagonal nave. A tempting wrong choice is an oculus, since the Pantheon has a famous central opening, but San Vitale’s dome is not pierced by an oculus and is instead illuminated by windows at its base.",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2002年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2002_9",
@@ -617,7 +635,10 @@
   "answer": "D",
   "answer_source": "llm",
   "explanation": "San Vitale was consecrated in 547 CE, centuries before the Romanesque period began around 1000 CE, so Romanesque influence is chronologically impossible. The building instead reflects Roman engineering traditions and Early Christian church planning, and it is itself a defining masterpiece of Early Byzantine art. Some students mistakenly rule out Byzantine influence because the church is located in Italy, but Ravenna was a major western outpost of the Byzantine Empire.",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2002年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2003_1",
@@ -734,7 +755,10 @@
   "answer": "C",
   "answer_source": "llm",
   "explanation": "Gian Lorenzo Bernini created the work shown and also designed the massive colonnade that frames St. Peter’s Square in Vatican City. A tempting wrong choice is the entrance to the Laurentian Library, which is actually the work of Michelangelo, another major Italian sculptor-architect with whom Bernini is often confused.",
-  "unit": "Global Contemporary"
+  "unit": "Global Contemporary",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2003年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2003_7",
@@ -813,7 +837,10 @@
   "image": "images/2003_q10.png",
   "unit": "Indigenous Americas",
   "explanation": "The painting is Johann Zoffany's 'The Tribuna at the Uffizi,' which depicts a group of people examining and discussing artworks in a gallery. This activity of expertly judging and appreciating art is known as connoisseurship. While the people are viewing art (which might suggest iconography), the focus is on their role as knowledgeable observers, not on interpreting symbols. Restoration involves fixing art, and courtship is unrelated to the scene.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2003年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2004_7",
@@ -889,7 +916,10 @@
   "image": "images/2004_q10.png",
   "unit": "Global Contemporary",
   "explanation": "The work on the right is a lithograph, a planographic print medium that allows for the production of multiple copies from a flat stone or plate. A common wrong choice is aquatint, which is also a printmaking technique but is an intaglio process that uses acid to create tonal areas rather than the chemical repulsion of oil and water used in lithography. Daguerreotype is incorrect because it is a unique early photograph on a metal plate, not a reproducible print on paper.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "outdated_pre2005",
+  "archived_note": "2004年真题，考纲已变化（用户2026-08-24设定：隐藏2005年前）"
  },
  {
   "id": "art-history_2005_1",

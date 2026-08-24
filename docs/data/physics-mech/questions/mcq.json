@@ -16,7 +16,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "Acceleration is the rate of change of velocity, so a value of 9.8 m/s² means the speed increases by 9.8 m/s every second. Many students incorrectly choose C, but the distance fallen each second is not constant because the object is speeding up. It actually falls only 4.9 meters during the first second and increasingly greater distances each second after that.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_2",
@@ -34,7 +36,9 @@
   "answer": "D",
   "unit": "Kinematics",
   "explanation": "Because the acceleration is uniform, the car's average velocity during the interval is the average of its initial and final speeds, which is 15 m/s. Multiplying this average velocity by the total time of 6 seconds gives a distance of 90 meters. A tempting wrong choice is 180 m, which comes from incorrectly multiplying the final speed of 30 m/s by 6 seconds as if the car had been traveling at that speed the whole time.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_3",
@@ -52,7 +56,9 @@
   "answer": "D",
   "unit": "Kinematics",
   "explanation": "The package’s velocity relative to the ground has magnitude v1, and because the pilot sees it fall straight down at speed v2, that speed must be the vertical component of the ground observer’s velocity. The pilot’s horizontal speed is therefore the remaining horizontal component of the package’s ground velocity, found with the Pythagorean theorem: sqrt(v1^2 - v2^2). A tempting wrong choice is adding the speeds as scalars, but the velocities are perpendicular components of a vector, so they combine through the Pythagorean theorem rather than simple addition.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_5",
@@ -71,7 +77,9 @@
   "answer_source": "llm",
   "unit": "Gravitation",
   "explanation": "Newton's third law requires that the gravitational force the Earth exerts on the satellite and the force the satellite exerts on the Earth form an action-reaction pair, so their magnitudes are exactly equal. Students often incorrectly think the larger mass of the Earth means it exerts a larger force, but the two forces are always equal regardless of the objects' masses.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_6",
@@ -90,7 +98,9 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "At 10 m the ball has 50 J of potential energy and 50 J of kinetic energy, giving a total conserved mechanical energy of 100 J. At maximum height the kinetic energy is zero, so all 100 J is potential energy; because gravitational potential energy is proportional to height, doubling the energy from 50 J to 100 J doubles the height from 10 m to 20 m. A tempting wrong choice is 50 m, which comes from incorrectly matching the 50 J of kinetic energy to a height in meters rather than using the correct energy–height proportionality.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_7",
@@ -109,7 +119,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "At x = A, the amplitude, the block is at its maximum distance from the equilibrium position, so its displacement is greatest there. A tempting wrong choice is D, because students often think the block is moving fastest at the endpoint, but it actually momentarily stops at x = A to turn around, so its velocity is zero there.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_8",
@@ -147,7 +159,9 @@
   "unit": "Work, Energy & Power",
   "explanation": "Average power equals force multiplied by average speed when the force points along the motion, so the force is power divided by speed: 4 W ÷ 2 m/s = 2 N. A tempting wrong choice is 8 N, which comes from multiplying 4 and 2 instead of dividing; that mistakes the relationship between power, force, and velocity.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 D"
+  "options_repaired": "移除OCR丢失的空选项 D",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_12",
@@ -188,7 +202,9 @@
   "unit": "Rotation",
   "explanation": "At point III, the adhesion force must pull the ant toward the center of the flywheel to provide the centripetal force mω²r, while also counteracting gravity pulling it away from the center. Therefore, the adhesion force must equal the sum of the centripetal force and the ant’s weight, giving mω²r + mg. Choice D is wrong because it subtracts mg, which would only be valid if gravity pointed toward the center and assisted the adhesion force rather than opposing it.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 A"
+  "options_repaired": "移除OCR丢失的空选项 A",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_14",
@@ -206,7 +222,9 @@
   "unit": "Work, Energy & Power",
   "explanation": "The work done by the weight lifter equals the force he applies multiplied by the vertical displacement. Because the mass moves at constant speed, the lifter's upward force must balance gravity and equal mg, and lifting through height h gives work W = mgh. The time t does not affect the work done, so choosing mgh/t would actually give the power instead.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 A,B"
+  "options_repaired": "移除OCR丢失的空选项 A,B",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_15",
@@ -226,7 +244,9 @@
   "image": "images/1993_q15.png",
   "unit": "Work, Energy & Power",
   "explanation": "The total mechanical energy is the sum of kinetic and potential energy. At x1, the kinetic energy is 1.0 J. From the graph, the potential energy at x1 is 0 J, so the total energy is 1.0 J. The particle can only move where its potential energy is less than or equal to its total energy. The potential energy is 1.0 J at x0 and x2, so the particle can reach these points where its kinetic energy is zero. The particle will oscillate between x0 and x2. Option (E) is incorrect because the particle can reach x0 and x2, and option (D) is incorrect because it only comes to rest at the turning points, not at both simultaneously. Option (A) correctly identifies the turning points as the maximum and minimum positions of the oscillation.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_16",
@@ -267,7 +287,9 @@
   "answer_source": "llm",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "The impulse-momentum theorem states that a constant resultant force multiplied by the time it acts equals the object's change in momentum, so those two quantities alone give Δp directly. You cannot find the change in velocity or acceleration without knowing the mass, since both depend on dividing by mass, and you cannot find the change in kinetic energy without knowing either the mass or the displacement.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_18",
@@ -286,7 +308,9 @@
   "answer_source": "llm",
   "unit": "Gravitation",
   "explanation": "Gravitational force is conservative, so the work it does depends only on an object's mass and its initial and final positions, not on the particular route taken. This means the net work done by the field is determined solely by where points A and B are located. You might think the path matters, but because gravity is conservative, longer or different paths do not change the work done by the field.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_19",
@@ -305,7 +329,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "At the peak of its flight, the object momentarily comes to rest, so its velocity is zero. However, gravity still acts downward on the object, giving it a constant negative acceleration. Choice B is tempting because students often assume zero velocity means zero acceleration, but acceleration remains nonzero since gravity never turns off.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_20",
@@ -323,7 +349,9 @@
   "unit": "Rotation",
   "explanation": "For motion with constant angular acceleration, the kinematic equation ω_f² = ω_i² + 2αΔθ applies. Since the turntable starts from rest and turns through one revolution (Δθ = 2π rad), substituting gives ω_f² = 4πα, so ω_f = √(4πα). Choice C matches this result, whereas 2πα is a tempting distractor that forgets to take the square root.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 A,D"
+  "options_repaired": "移除OCR丢失的空选项 A,D",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_21",
@@ -343,7 +371,9 @@
   "image": "images/1993_q21.png",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "The explosion is an internal force, so momentum is conserved. The initial momentum is m*v0 to the right. After the explosion, the 2/5 m piece has momentum (2/5 m)(-v0/2) = -1/5 m*v0 (to the left). The other piece has mass 3/5 m and unknown velocity v. Conservation of momentum gives m*v0 = (3/5 m)*v - (1/5 m)*v0. Solving for v gives v = (6/5 m*v0) / (3/5 m) = 2*v0. The correct answer is D. A common mistake is to forget the negative sign for the leftward velocity, which would lead to an incorrect answer like C.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_22",
@@ -400,7 +430,9 @@
    "E": "I, II, and III"
   },
   "answer": "C",
-  "unit": "Oscillations"
+  "unit": "Oscillations",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_25",
@@ -419,7 +451,9 @@
   "unit": "Work, Energy & Power",
   "explanation": "The spring gives the projectile the same total speed each time, but only the vertical component of the velocity determines how high it rises. At 45° from vertical that component is v/√2, so the vertical kinetic energy is half what it is when the gun is fired straight up, which halves the maximum height to h/2. A tempting wrong choice is h, because the total kinetic energy is unchanged, but the horizontal motion carries away energy that cannot be converted into gravitational potential energy.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 D"
+  "options_repaired": "移除OCR丢失的空选项 D",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_26",
@@ -439,7 +473,9 @@
   "image": "images/1993_q26.png",
   "unit": "Rotation",
   "explanation": "The angular momentum of a rotating object is given by L = Iω, where I is the moment of inertia. For point masses, I = mr². The two upper spheres each have mass m and are at a distance L from the axis, so their total moment of inertia is 2m(L)². The two lower spheres each have mass 2m and are at a distance 2L from the axis, so their total moment of inertia is 2(2m)(2L)² = 16mL². The ratio of the upper to lower angular momentum is (2mL²) / (16mL²) = 1/8. However, the question asks for the ratio of the angular momentum of the two upper spheres to that of the two lower spheres, which is (2mL²ω) / (16mL²ω) = 1/8. The correct answer is (E) 1/8. The official answer key says C, which is incorrect. The correct answer should be (E) 1/8.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_29",
@@ -499,7 +535,9 @@
   "unit": "Gravitation",
   "explanation": "The gravitational potential energy U is negative and becomes more negative as the small mass falls toward the larger mass, so the graph must start at zero and curve downward. Since the mass starts from rest at a great distance, the initial potential energy is zero (by convention at infinity), and it decreases as the distance decreases. The graph in (C) correctly shows U starting at zero and decreasing in a curve that becomes steeper, which matches the inverse relationship U ∝ -1/r and the increasing speed of the falling mass. Option (A) is incorrect because it shows U increasing linearly, which would imply a constant force, but gravity is not constant. Option (B) shows U starting negative and becoming more negative, but the initial potential energy should be zero. Option (D) shows U starting at zero and decreasing but with a concave-down shape, which would imply a decreasing rate of change of U, but the force increases as the mass gets closer, so the rate of change of U should increase. Option (E) shows U starting negative and becoming more negative, which is incorrect because U should start at zero.",
   "expl_via": "vl",
-  "options_repaired": "移除OCR丢失的空选项 E"
+  "options_repaired": "移除OCR丢失的空选项 E",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_32",
@@ -519,7 +557,9 @@
   "image": "images/1993_q32.png",
   "unit": "Gravitation",
   "explanation": "The correct answer is A because angular momentum is conserved for a satellite in orbit. At the closest point (r1), the angular momentum is m*v1*r1. At the farthest point (r2), it is m*v2*r2. Setting these equal gives v2 = (r1/r2)*v1. Option B is incorrect because it reverses the ratio, and the other options do not follow from conservation of angular momentum.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_33",
@@ -538,7 +578,9 @@
   "answer_source": "llm",
   "unit": "Oscillations",
   "explanation": "The period of a simple pendulum is proportional to the square root of its length, so to cut the period in half you must reduce the length to one-fourth, which is about 0.25 meter. A shorter string makes the bob travel a smaller arc and complete each swing faster. Many students think changing the mass or amplitude would help, but the period of a simple pendulum does not depend on either mass or amplitude.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_34",
@@ -558,7 +600,9 @@
   "image": "images/1993_q34.png",
   "unit": "Newton's Laws",
   "explanation": "The block is moving at constant speed, so the net force parallel to the incline is zero. The force F must balance the component of gravity down the incline and the force of kinetic friction. The incline has a 3-4-5 triangle, so sin(θ) = 3/5 and cos(θ) = 4/5. The normal force is mg cos(θ) = 5*9.8*(4/5) = 39.2 N. The friction force is μN = 0.3*39.2 = 11.76 N. The gravitational component down the incline is mg sin(θ) = 5*9.8*(3/5) = 29.4 N. The total force F is the sum of these two opposing forces: 29.4 + 11.76 = 41.16 N, which is approximately 42 N. Choice (A) is too low because it only accounts for the gravitational component. Choice (C) is the weight of the block, which is not the force needed. Choice (D) is the weight of a 5 kg object on a horizontal surface, which is irrelevant. Choice (E) is too high and likely results from miscalculating the normal force or friction.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_35",
@@ -578,7 +622,9 @@
   "image": "images/1993_q35.png",
   "unit": "Rotation",
   "explanation": "The rod is in rotational equilibrium in both cases, so the torque from mass m must balance the torque from the known mass. In the first case, m * l1 = M1 * l2. In the second case, M2 * l1 = m * l2. Solving these two equations simultaneously, we can eliminate the lengths l1 and l2 by multiplying the equations together, which gives m * M2 * l1 * l2 = M1 * m * l1 * l2. Canceling the common terms leaves m = M1 * M2. The other options are incorrect because they do not represent the correct relationship derived from the torque balance equations.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1993_61",
@@ -597,7 +643,9 @@
   "image": "images/1993_q61.png",
   "unit": "Oscillations",
   "explanation": "When the switch is opened at t=0, the inductor resists the change in current and acts as a source, maintaining the current that was flowing through it. This current flows through the resistor in the loop, creating a decaying exponential current. The graph that shows a current starting at a maximum value and decreasing exponentially to zero is the correct representation, which is graph (B).",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_1",
@@ -615,7 +663,9 @@
   "has_figure": true,
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Work, Energy & Power"
+  "unit": "Work, Energy & Power",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_2",
@@ -633,7 +683,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "At the highest point, the vertical velocity is zero because the projectile momentarily stops going up before coming down, while the horizontal velocity stays vh since there is no air resistance to slow it down. The vertical acceleration remains g throughout the entire flight because gravity is still pulling downward. Choice D is tempting if you incorrectly think the projectile stops moving horizontally at the top, but the horizontal component never changes.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_3",
@@ -671,7 +723,9 @@
   "answer": "B",
   "unit": "Kinematics",
   "explanation": "Net force is zero when acceleration is zero, because F equals ma. Taking the second derivative of the position function gives acceleration a = 6t - 12, which equals zero at t = 2 s. A tempting wrong choice is 3 s, since the velocity is zero there, but zero velocity does not mean zero acceleration or net force.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_5",
@@ -689,7 +743,9 @@
   "answer": "C",
   "no_figure_available": true,
   "unit": "Rotation",
-  "options_repaired": "移除OCR丢失的空选项 B"
+  "options_repaired": "移除OCR丢失的空选项 B",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_6",
@@ -707,7 +763,9 @@
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "Linear momentum is simply the total mass multiplied by the velocity of the center of mass. For any object rolling without slipping, that center-of-mass speed equals ωR, giving a linear momentum of MωR. A common mistake is choosing option C, since MωR² looks like angular momentum formulas, but the question asks for linear momentum.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_7",
@@ -726,7 +784,9 @@
   "answer_source": "llm",
   "unit": "Newton's Laws",
   "explanation": "After the ball is launched upward, the only force acting on it is gravity, which near Earth’s surface is effectively constant and directed downward. Choice D is tempting because students often think upward motion requires an upward force, but velocity and force are independent—the ball slows down precisely because the constant downward gravitational force opposes its motion. No other forces, including a decreasing upward push, act on the ball once it is in free flight.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_8",
@@ -745,7 +805,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "The ball is in free fall under the asteroid’s gravity throughout its motion, so its acceleration is determined by the local gravitational field. Near the surface, this field is effectively uniform, which means the acceleration remains the same at every point along the path, including the very top. A common mistake is choosing zero because the velocity is momentarily zero at the peak, but acceleration is the rate of change of velocity, not the velocity itself.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_9",
@@ -763,7 +825,9 @@
   "answer": "D",
   "unit": "Oscillations",
   "explanation": "The given equation fits the standard simple harmonic motion form where acceleration equals negative omega squared times displacement, so omega squared is 9 and omega is 3 radians per second. The period is 2 pi divided by omega, giving 2 pi over 3. A tempting wrong choice is 2 pi over 9, but that mistakenly uses 9 as omega instead of taking the square root to find omega.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_10",
@@ -781,7 +845,9 @@
   "answer": "A",
   "unit": "Oscillations",
   "explanation": "The period of a simple pendulum is proportional to the inverse square root of gravitational acceleration, so doubling the period means gravity must become one-fourth as large. Using T = 2π√(L/g), the new gravity is g_new = g*(T_earth/T_new)^2 = g*(1/2)^2 = g/4. A tempting wrong choice is g/2, which mistakenly assumes period is inversely proportional to g instead of the square root of g.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_11",
@@ -821,7 +887,9 @@
   "has_figure": true,
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_13",
@@ -839,7 +907,9 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_14",
@@ -877,7 +947,9 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "The spring force is conservative, so the net work it does over any closed path is zero. Because the disc returns to its exact starting point after one full circle, the spring’s potential energy is unchanged and the work done is zero. A value like 314 J might tempt students who multiply force by the circular distance, but that ignores the fact that a conservative force does no net work around a closed path.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_16",
@@ -914,7 +986,9 @@
   "answer": "A",
   "unit": "Work, Energy & Power",
   "explanation": "The force is the negative derivative of the potential energy with respect to position, so F = –dU/dr. Differentiating U(r) = b r^(–3/2) + c gives dU/dr = –(3b/2) r^(–5/2), and the extra negative sign from the force relation flips it to (3b/2) r^(–5/2). Choice B is wrong because it uses the wrong exponent, likely from a sign error in the power rule.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_18",
@@ -933,7 +1007,9 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "Because there is no friction, the pendulum’s total mechanical energy is conserved. At maximum displacement the kinetic energy is zero, so the total energy is 10 J. Therefore, when the potential energy is 5 J, the kinetic energy must be 10 J minus 5 J, which is 5 J. A tempting wrong choice is 10 J, which comes from mistakenly thinking all the energy is kinetic at that instant.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_19",
@@ -951,7 +1027,9 @@
   "answer": "A",
   "unit": "Newton's Laws",
   "explanation": "The net upward force on the elevator is the cable tension minus its weight, giving a small upward acceleration of about 1 m/s². Using v_f² = v_i² + 2 a d with v_f = 0 and d = 8 m yields an initial speed of roughly 4 m/s. A common mistake is to ignore gravity and treat the 11,000 N tension as the net force, which incorrectly gives an answer near 13 m/s.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_20",
@@ -969,7 +1047,9 @@
   "has_figure": true,
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_21",
@@ -988,7 +1068,9 @@
   "answer_source": "llm",
   "unit": "Newton's Laws",
   "explanation": "The net force on the block comes from the horizontal part of the applied force, which is F cos φ, minus the opposing friction f. Newton’s second law then gives an acceleration of (F cos φ - f) divided by m. Choice B is tempting because it correctly uses the horizontal component of the force, but it forgets to subtract friction.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_22",
@@ -1007,7 +1089,9 @@
   "answer_source": "llm",
   "unit": "Newton's Laws",
   "explanation": "The coefficient of friction equals the friction force divided by the normal force. When a force is applied at an angle above the horizontal, its vertical component F sin φ reduces the normal force to mg - F sin φ, so μ = f / (mg - F sin φ). Choosing f/mg is wrong because it ignores the upward lift from the applied force, and using cosine in the denominator confuses the vertical component with the horizontal one.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_24",
@@ -1025,7 +1109,9 @@
   "answer": "A",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "Since the two people begin at rest on frictionless ice, no external horizontal force acts on the system, so total momentum is conserved at zero. The velocity of the center of mass equals total momentum divided by total mass, which gives zero. Students who add the speeds without considering opposite directions might incorrectly calculate 2.4 m/s, but the vector sum of the momenta cancels perfectly.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_25",
@@ -1043,7 +1129,9 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_26",
@@ -1061,7 +1149,9 @@
   "has_figure": true,
   "answer": "D",
   "no_figure_available": true,
-  "unit": "Kinematics"
+  "unit": "Kinematics",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_27",
@@ -1079,7 +1169,9 @@
   "answer": "D",
   "unit": "Work, Energy & Power",
   "explanation": "The change in potential energy equals the work done to stretch the spring, which is found by integrating the force from zero to two meters. Integrating 40x - 6x² gives 20x² - 2x³, and evaluating from 0 to 2 yields 80 - 16 = 64 J. A tempting wrong choice is 80 J, which comes from using the linear spring formula ½kx² with k = 40 and ignoring the nonlinear -6x² term.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_28",
@@ -1098,7 +1190,9 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "Gravity does positive work when an object moves downward and negative work when it moves upward by the same vertical amount. Because the block travels the same distance along the same incline, the vertical rise going up equals the vertical drop going down, so the work done by gravity has the same magnitude but opposite sign, -300 J. A tempting wrong choice is 300 J, because students often forget that work depends on the direction of displacement relative to the force, which reverses when the block slides upward.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_29",
@@ -1116,7 +1210,9 @@
   "answer": "E",
   "unit": "Kinematics",
   "explanation": "The position equations describe uniform circular motion with radius A, so the acceleration is purely centripetal and has magnitude Aω². Plugging in A = 1.5 m and ω = 2.0 rad/s gives 1.5 × (2.0)² = 6.0 m/s². A tempting wrong choice is C, because using Aω by mistake gives 3.0 m/s², but that is the speed, not the acceleration.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_30",
@@ -1134,7 +1230,9 @@
   "answer": "B",
   "answer_source": "llm",
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_31",
@@ -1152,7 +1250,9 @@
   "answer_source": "llm",
   "no_figure_available": true,
   "unit": "Systems of Particles & Linear Momentum",
-  "options_repaired": "移除OCR丢失的空选项 D"
+  "options_repaired": "移除OCR丢失的空选项 D",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_32",
@@ -1171,7 +1271,9 @@
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "Average net torque equals the change in angular momentum divided by the time interval, so it is I times the change in angular velocity over T. If the wheel starts from rest, that gives Iωf/T, which matches choice E. Choice D is tempting because T² appears in linear kinematics, but torque has units of Iω/T, not Iω/T².",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_33",
@@ -1190,7 +1292,9 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "Average power equals the total work done divided by the time interval. The work done on the wheel is the change in rotational kinetic energy, which is ½ I ωf² if it starts from rest. Dividing that by T gives I ωf² / (2T). Choice A is missing a factor of ωf and has incorrect units, while choices C, D, and E incorrectly introduce extra powers of T or I.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_34",
@@ -1209,7 +1313,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "Separating variables in dv/dt = g − bv and integrating with v(0)=0 yields v = (g/b)(1 − e^{−bt}), which is option A. For small t this reduces to v ≈ gt, matching free-fall just after release, while for large t it approaches the terminal speed g/b. Option C might look appealing because it also starts at zero, but it would eventually become negative and incorrectly assumes acceleration stays constant.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_35",
@@ -1227,7 +1333,9 @@
   "has_figure": true,
   "answer": "D",
   "no_figure_available": true,
-  "unit": "Work, Energy & Power"
+  "unit": "Work, Energy & Power",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_36",
@@ -1265,7 +1373,9 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_38",
@@ -1282,7 +1392,9 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Oscillations"
+  "unit": "Oscillations",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_39",
@@ -1300,7 +1412,9 @@
   "answer": "D",
   "no_figure_available": true,
   "unit": "Gravitation",
-  "options_repaired": "移除OCR丢失的空选项 C"
+  "options_repaired": "移除OCR丢失的空选项 C",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_40",
@@ -1378,7 +1492,9 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "Protons in an accelerator beam are high-energy particles that reach speeds on the order of millions of meters per second, so 10^7 m/s is physically reasonable. Extremely small values like 10^-15 m/s or 10^-12 m/s would imply the particles are essentially frozen in place, which is incompatible with a beam. Some students mistakenly think 10^12 m/s is possible because accelerators produce very fast particles, but that value exceeds the speed of light and is impossible.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_44",
@@ -1496,7 +1612,9 @@
   "has_figure": true,
   "answer": "A",
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_50",
@@ -1514,7 +1632,9 @@
   "has_figure": true,
   "answer": "D",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_51",
@@ -1571,7 +1691,9 @@
   "has_figure": true,
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_54",
@@ -1589,7 +1711,9 @@
   "has_figure": true,
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Oscillations"
+  "unit": "Oscillations",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_55",
@@ -1607,7 +1731,9 @@
   "answer": "B",
   "unit": "Gravitation",
   "explanation": "The electrostatic attraction provides the centripetal force, so (1/(4π ε0))(e^2/R^2) = mv^2/R. Multiplying both sides by R gives mv^2 = (1/(4π ε0))(e^2/R), and the electron’s kinetic energy is half of that, or (1/(8π ε0))(e^2/R). Some students might pick choice A by forgetting the factor of one-half in K = ½mv^2, or choice C by confusing kinetic energy with the negative potential energy.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_56",
@@ -1625,7 +1751,9 @@
   "has_figure": true,
   "answer": "D",
   "no_figure_available": true,
-  "unit": "Oscillations"
+  "unit": "Oscillations",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_57",
@@ -1643,7 +1771,9 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_58",
@@ -1737,7 +1867,9 @@
   },
   "answer": "A",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_64",
@@ -1794,7 +1926,9 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_67",
@@ -1812,7 +1946,9 @@
   "has_figure": true,
   "answer": "A",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_68",
@@ -1830,7 +1966,9 @@
   "has_figure": true,
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Oscillations"
+  "unit": "Oscillations",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_1998_69",
@@ -1909,7 +2047,9 @@
   "answer": "D",
   "unit": "Kinematics",
   "explanation": "Because the object starts from rest and falls with constant acceleration, the distance fallen is given by d = ½ g t². Using g ≈ 10 m/s² and t = 6 s yields d ≈ 180 m. A tempting wrong choice is 360 m, which comes from forgetting the one-half factor and using g t² instead.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_3",
@@ -2009,7 +2149,9 @@
   "answer": "A",
   "unit": "Rotation",
   "explanation": "Because the incline is frictionless, the sphere slides without rotating, so every bit of lost gravitational potential energy becomes translational kinetic energy. Setting Mgh equal to ½Mv_cm² and solving gives v_cm equal to the square root of 2gh. The other choices incorrectly bring in moment of inertia, which would only matter if friction caused the sphere to roll.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_8",
@@ -2027,7 +2169,9 @@
   "answer": "E",
   "unit": "Rotation",
   "explanation": "Because the sphere rolls without slipping, static friction does no work and mechanical energy is conserved. The loss in gravitational potential energy Mgh becomes both translational kinetic energy ½Mv² and rotational kinetic energy ½Iω², with ω equal to v/r. Solving Mgh = ½Mv² + ½I(v/r)² for v gives the expression in choice E. Choice A is tempting because it gives the speed for a frictionless slide, but it is wrong here because it ignores the energy that must go into rotation.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_9",
@@ -2045,7 +2189,9 @@
   "answer": "D",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_10",
@@ -2063,7 +2209,9 @@
   "answer": "E",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_11",
@@ -2081,7 +2229,9 @@
   "answer": "C",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_12",
@@ -2099,7 +2249,9 @@
   "answer": "C",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_13",
@@ -2117,7 +2269,9 @@
   "answer": "A",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "Newton's second law states that force equals the time derivative of momentum, so differentiating p = kt³ gives F = dp/dt = 3kt². A tempting wrong choice is kt⁴, which comes from accidentally integrating the momentum instead of taking its derivative.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_14",
@@ -2135,7 +2289,9 @@
   "answer": "D",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_15",
@@ -2153,7 +2309,9 @@
   "answer": "A",
   "unit": "Work, Energy & Power",
   "explanation": "The tension in the string always pulls the ball toward the center of the circle, while the ball’s instantaneous displacement is tangent to the circle, so the force and displacement are perpendicular at every moment. Because work equals force times displacement times the cosine of the angle between them, and the cosine of 90 degrees is zero, the string does no work on the ball. A student might mistakenly multiply tension by the distance traveled and pick a nonzero value, but that calculation ignores the fact that the force never has a component in the direction of motion.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_16",
@@ -2171,7 +2329,9 @@
   "answer": "C",
   "unit": "Rotation",
   "explanation": "The axle’s speed is 20 m divided by 5 s, which equals 4 m/s. For a wheel rolling without slipping, the angular speed about any axis—whether through the center or the contact point—is the linear speed of the center divided by the radius, so ω = 4 / 0.5 = 8 rad/s. A tempting wrong choice is 4 rad/s, which might come from mistakenly using the diameter instead of the radius.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_17",
@@ -2189,7 +2349,9 @@
   "answer": "E",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_18",
@@ -2245,7 +2407,9 @@
   "unit": "Newton's Laws",
   "explanation": "The net force accelerating the entire two-block system is the difference in weights, (M – m)g, and because both masses move as one unit, the total inertia is M + m, giving an acceleration of (M – m)/(M + m)g. Choice B is tempting because it correctly finds the net force but incorrectly divides by only M instead of the combined mass. Choice A is wrong because tension in the string prevents free fall.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 A"
+  "options_repaired": "移除OCR丢失的空选项 A",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_21",
@@ -2263,7 +2427,9 @@
   "answer": "E",
   "unit": "Work, Energy & Power",
   "explanation": "Work is the integral of force with respect to displacement, so integrating kx² from 0 to x₀ gives (1/3)kx₀³. A common error is applying the linear spring formula and expecting a one-half coefficient, or treating the force as constant and multiplying the final force by the distance, but the nonlinear relationship requires integration which yields the one-third factor.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_22",
@@ -2319,7 +2485,9 @@
   "answer": "B",
   "unit": "Kinematics",
   "explanation": "Acceleration is the second derivative of position with respect to time. Differentiating the given equation twice yields a constant acceleration of 6.0 m/s², which does not depend on time, so the value at t = 3.0 s is 6.0 m/s². A tempting wrong choice is 3.0 m/s² because that is the coefficient of the t² term, but in the standard kinematic equation that coefficient equals half the acceleration.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_25",
@@ -2337,7 +2505,9 @@
   "answer": "C",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_26",
@@ -2355,7 +2525,9 @@
   "answer": "D",
   "unit": "Rotation",
   "explanation": "The pulley rotates because the two tensions pull in opposite directions, so the net torque is the difference between the two tension forces times the radius: (T₂ - T₁)R = Iα. Adding the tensions as in choice B would only be correct if both forces helped spin the pulley the same way, which they do not. Choices A, C, and E mistakenly ignore one tension or substitute weight for tension, forgetting that the string exerts torque on the pulley, not the hanging masses directly.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_27",
@@ -2373,7 +2545,9 @@
   "answer": "E",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_28",
@@ -2391,7 +2565,9 @@
   "unit": "Newton's Laws",
   "explanation": "The wall pushes back with a normal force equal to F, so the maximum static friction force is μF acting upward. To keep the block from slipping, that friction must balance the weight mg, which means μF = mg. Solving for F gives mg/μ. Choice B is wrong because it incorrectly uses the weight mg as the normal force instead of the applied force F.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 A"
+  "options_repaired": "移除OCR丢失的空选项 A",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_29",
@@ -2430,7 +2606,9 @@
   "answer": "C",
   "unit": "Work, Energy & Power",
   "explanation": "Because the safe moves at constant velocity, the motor’s upward force equals the safe’s weight of about 1000 N. Power equals force times velocity, so the safe rises at about 1 m/s, giving a distance of roughly 10 m in 10 s. Choosing 100 m would come from dividing the energy by mass instead of weight, which leaves out the factor of g.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_31",
@@ -2448,7 +2626,9 @@
   "answer": "A",
   "unit": "Oscillations",
   "explanation": "At equilibrium all the spring’s potential energy has become kinetic energy, so ½kA² = ½mv². Solving gives v = A√(k/m) = (0.10 m)√(400/1) = 2 m/s. A tempting distractor is 20 m/s, which is the angular frequency ω = √(k/m), but linear speed requires multiplying ω by the amplitude. Using 10 cm without converting to meters would give 200 m/s, another wrong choice.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_32",
@@ -2466,7 +2646,9 @@
   "answer": "D",
   "unit": "Kinematics",
   "explanation": "The kinematic equations used for the prediction assume the acceleration is constant, but a lightweight plastic ball falling through air experiences a velocity-dependent drag force that makes its acceleration decrease as it speeds up, so the acceleration is not uniform. Because the actual acceleration is smaller than g on average, the fall takes longer than the calculated time. A tempting wrong choice is (C), but air resistance opposes the motion and reduces the downward acceleration rather than increasing it. Local gravity does not vary by 70%, so (B) is also unreasonable.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_33",
@@ -2484,7 +2666,9 @@
   "answer": "C",
   "unit": "Kinematics",
   "explanation": "Because the projectile is launched from a height above the landing surface, the optimal angle is less than 45°; a shallower angle preserves a larger horizontal velocity while still allowing enough time of flight to increase range. Launching horizontally would make the flight time too short, while launching at 45° or steeper wastes motion on vertical ascent and descent. Thus the maximum horizontal distance occurs at an angle between zero and 45° above the horizontal.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_34",
@@ -2502,7 +2686,9 @@
   "answer": "A",
   "unit": "Rotation",
   "explanation": "The stone is carried in a circular path around the tire’s center, so its acceleration is centripetal and always points toward that center. At the instant it leaves the road, the stone is at the bottom of the circle, so the center is directly above it and the acceleration is straight upward. It is tempting to pick horizontally forward because that is the car’s velocity direction, but for constant-speed circular motion the acceleration is perpendicular to the velocity, not parallel to it.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_35",
@@ -2520,7 +2706,9 @@
   "unit": "Gravitation",
   "explanation": "Escape speed depends on the square root of the planet’s mass divided by its radius, so when the radius stays the same and the mass doubles, the escape speed increases by a factor of √2. This means the new escape speed is √2 vₑ. A common mistake is choosing 2vₑ because it seems logical that doubling the mass would double the speed, but the square root relationship makes the increase smaller.",
   "expl_via": "txt",
-  "options_repaired": "移除OCR丢失的空选项 C"
+  "options_repaired": "移除OCR丢失的空选项 C",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_36",
@@ -2538,7 +2726,9 @@
   "answer": "E",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_37",
@@ -2575,7 +2765,9 @@
   "answer": "A",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_39",
@@ -2743,7 +2935,9 @@
   "answer": "B",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_48",
@@ -2818,7 +3012,9 @@
   "answer": "C",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Work, Energy & Power"
+  "unit": "Work, Energy & Power",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_53",
@@ -2855,7 +3051,9 @@
   "answer": "A",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_55",
@@ -2873,7 +3071,9 @@
   "answer": "A",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_56",
@@ -2891,7 +3091,9 @@
   "answer": "D",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_57",
@@ -3044,7 +3246,9 @@
   },
   "answer": "E",
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2004_65",
@@ -3118,7 +3322,9 @@
   "answer": "A",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": false,
+  "year_exempt": "物理力学/电磁学核心考点(牛顿定律/动量/能量守恒)长期稳定，豁免2005年份线"
  },
  {
   "id": "physics-mech_2009_1",
