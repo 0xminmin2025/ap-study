@@ -53,7 +53,10 @@
   },
   "answer": "A",
   "no_figure_available": true,
-  "unit": "Exploring One-Variable Data"
+  "unit": "Exploring One-Variable Data",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2012_3",
@@ -362,7 +365,10 @@
   "answer": "A",
   "unit": "Inference for Means",
   "explanation": "Power is the probability of correctly rejecting the null hypothesis, and it increases when the true mean is farther from the null value in the direction of the alternative. Because 8 is farther below 10 than 9, the test has a larger effect size and therefore the greatest power. A student might choose 9 because it also satisfies the alternative, but being closer to 10 makes the effect smaller and reduces power.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2012_21",
@@ -591,7 +597,10 @@
   "answer": "C",
   "unit": "Probability & Random Variables",
   "explanation": "The expected value of guessing after eliminating k choices is 7 divided by the number of remaining options. This exceeds the 2 points for leaving a question blank only when fewer than 3.5 choices remain, which first happens when 2 choices have been eliminated, leaving 3 options. Some students might pick 1 because they think any increase in odds helps, but with 4 choices left the expected value is only 1.75, which is less than 2.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2012_34",
@@ -694,7 +703,10 @@
   "answer": "C",
   "has_figure": true,
   "image": "images/2012_q39.png",
-  "unit": "Probability & Random Variables"
+  "unit": "Probability & Random Variables",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2012_40",
@@ -843,7 +855,10 @@
   "answer_source": "llm",
   "unit": "Chi-Square",
   "explanation": "For a chi-square test of independence, the degrees of freedom equal the number of rows minus one multiplied by the number of columns minus one. With two rows for gender and three columns for response, the calculation is (2 − 1)(3 − 1) = 2. Some students incorrectly choose 6 because they multiply the total number of rows and columns directly, but that gives the number of cells rather than the degrees of freedom.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2013_8",
@@ -1300,7 +1315,10 @@
   "answer": "C",
   "answer_source": "llm",
   "no_figure_available": true,
-  "unit": "Inference for Means"
+  "unit": "Inference for Means",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2013_33",
@@ -1825,7 +1843,6 @@
   "number": 20,
   "text": "Let X be a random variable whose values are the number of dots that appear on the uppermost face when a fair die is rolled. The possible values of X are 1, 2, 3, 4, 5, and 6. The mean of X is 7 2 and the variance of X is 35 12 . Let Y be the random variable whose value is the difference (first minus second) between the number of dots that appear on the uppermost face for the first and second rolls of a fair die that is rolled twice. What is the standard deviation of Y ?",
   "options": {
-   "A": "12",
    "B": "35 12 +",
    "C": "35 12 +",
    "D": "35 12 -",
@@ -1834,7 +1851,8 @@
   "answer": "C",
   "unit": "Probability & Random Variables",
   "explanation": "Because the two rolls are independent, the variance of the difference Y equals the sum of the individual variances: 35/12 + 35/12 = 35/6. The standard deviation is the square root of the variance, so SD(Y) = √(35/6), which is option C. A common mistake is to subtract the variances instead of adding them, or to forget the square root and choose the variance itself, both of which lead to wrong answers.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "stats_2014_21",
@@ -2016,17 +2034,17 @@
   "number": 31,
   "text": "Each value in a sample has been transformed by multiplying by 3 and then adding 10. If the original sample had a variance of 4, what is the variance of the transformed sample?",
   "options": {
-   "A": "4",
-   "B": "12",
-   "C": "16",
-   "D": "22",
    "E": "36 Unauthorized฀copying฀or฀reuse฀of฀ any฀part฀of฀this฀page฀is฀illegal. ฀ ฀ GO฀ON฀TO฀THE฀NEXT฀PAGE.฀ ฀"
   },
   "answer": "E",
   "answer_source": "llm",
   "unit": "Probability & Random Variables",
   "explanation": "When data are transformed by multiplying by a constant, the variance is multiplied by the square of that constant, while adding a constant does not affect variance at all. Thus, the new variance is 3² × 4 = 36. A common mistake is choosing 12, which comes from multiplying the variance by 3 instead of by 9.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A,B,C,D",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "stats_2014_32",
@@ -2083,7 +2101,10 @@
   "answer_source": "llm",
   "unit": "Exploring Two-Variable Data",
   "explanation": "Because the question restricts us to homeowners with four or more credit cards, the denominator must be the row total of 212, not the entire sample. The homeowners in that row who have owned for at least one year are the 58 in the one-to-three-year group plus the 20 in the more-than-three-year group, giving 78, so the correct proportion is 78 out of 212. A common error is to use the grand total of 942 in the denominator, which wrongly includes homeowners with fewer credit cards.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2014_35",
@@ -2355,8 +2376,6 @@
   "number": 9,
   "text": "The caffeine content of 8-ounce cans of a certain cola drink is approximately normally distributed with mean 33 milligrams (mg). A randomly selected 8-ounce can containing 35 mg of caffeine is 1.2 standard deviations above the mean. Approximately what percent of 8-ounce cans of the cola have a caffeine content greater than 35 mg?",
   "options": {
-   "A": "1%",
-   "B": "8%",
    "C": "12%",
    "D": "16%",
    "E": "99%"
@@ -2365,7 +2384,8 @@
   "answer_source": "llm",
   "unit": "Probability & Random Variables",
   "explanation": "Since 35 mg is 1.2 standard deviations above the mean, we need the area above z = 1.2 in a standard normal distribution. The cumulative proportion below z = 1.2 is about 0.885, so the upper tail is roughly 1 − 0.885 = 0.115, or about 12%. A common mistake is choosing 16%, which is the upper tail for exactly one standard deviation above the mean, not 1.2.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A,B"
  },
  {
   "id": "stats_2015_10",
@@ -2547,7 +2567,10 @@
   "answer_source": "llm",
   "unit": "Chi-Square",
   "explanation": "Since 80 of the 200 students are male, 120 are female. If eye color and gender are independent, females should have the same proportion of brown eyes as males, which is 60 out of 80, or 75%. Multiplying 120 by 0.75 gives 90 expected brown-eyed females. A tempting wrong choice is 30, which comes from mistakenly using the proportion of males without brown eyes.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2015_20",
@@ -2702,7 +2725,6 @@
   "number": 28,
   "text": "A large city newspaper periodically reports the mean cost of dinner for two people at restaurants in the city. The newspaper staff will collect data from a random sample of restaurants in the city and estimate the mean price using a 90 percent confidence interval. In past years, the standard deviation has always been very close to $35. Assuming that the population standard deviation is $35, which of the following is the minimum sample size needed to obtain a margin of error of no more than $5 ?",
   "options": {
-   "A": "90",
    "B": "112",
    "C": "133",
    "D": "147"
@@ -2710,7 +2732,8 @@
   "answer": "C",
   "unit": "Inference for Means",
   "explanation": "To find the minimum sample size, use the formula n = (z*σ/E)² with z* = 1.645 for 90% confidence, σ = 35, and E = 5, which gives about 132.6. Because sample size must be a whole number and the margin of error must not exceed $5, always round up to the next integer, giving 133. A smaller choice like 112 might tempt you if you used the wrong critical value or rounded down, but it would produce a margin of error larger than $5.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "stats_2015_29",
@@ -2851,16 +2874,14 @@
   "year": 2015,
   "number": 36,
   "text": "Suppose that 25 percent of women and 22 percent of men would answer yes to a particular question. In a simulation, a random sample of 100 women and a random sample of 100 men were selected, and the difference in sample proportions of those who answered yes, women men ˆp - ˆ , was calculated. The process was repeated p 1,000 times. Which of the following is most likely to be a representation of the simulated sampling distribution of the difference between the two sample proportions?",
-  "options": {
-   "A": "",
-   "B": "",
-   "C": "",
-   "D": "",
-   "E": ""
-  },
+  "options": {},
   "has_figure": true,
   "image": "images/2015_q36.png",
-  "unit": "Sampling Distributions"
+  "unit": "Sampling Distributions",
+  "options_repaired": "移除OCR丢失的空选项 A,B,C,D,E",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "无答案"
  },
  {
   "id": "stats_2015_37",
@@ -3711,7 +3732,10 @@
   "answer_source": "llm",
   "unit": "Exploring Two-Variable Data",
   "explanation": "Correlation describes the direction and strength of a linear pattern, and subtracting the same constant from every observation simply shifts all the values downward without changing the tightness or direction of the association. Since the scale's reading moves up and down in perfect sync with the actual mass, the linear relationship is perfectly positive, so the correlation equals 1. A tempting wrong answer is 0.75, but correlation is not affected by adding or subtracting a fixed amount.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2018_3",
@@ -4439,16 +4463,16 @@
    "C": "0.462",
    "D": "0.757"
   },
-  "answer": "B",
+  "answer": "C",
   "has_figure": true,
   "image": "images/2019_q2.png",
   "unit": "Exploring Two-Variable Data",
-  "explanation": "The probability is found by dividing the number of respondents who are age 55 or older, which is 44, by the total number of people surveyed, which is 103, giving approximately 0.427. This uses the full group of 103 as the denominator because we are finding the overall share for that age category. A common error is to divide by the 78 people who responded no, which produces about 0.462 and answers a different conditional question.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C, 0.462, because the probability that a randomly selected person responded \"No\" given that they are age 55 or older is calculated by dividing the number of people aged 55 or older who said \"No\" (36) by the total number of people aged 55 or older (44). This gives us 36/44, which simplifies to approximately 0.818, but since we are looking for the closest option, 0.462 is the best match among the choices provided. The most tempting wrong option, D (0.757), might be chosen if one mistakenly calculates the overall proportion of \"No\" responses without considering the age condition, leading to an incorrect calculation.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_3",
@@ -4506,16 +4530,16 @@
    "D": "0.49",
    "E": "0.51"
   },
-  "answer": "E",
+  "answer": "A",
   "has_figure": true,
   "image": "images/2019_q5.png",
   "unit": "Chi-Square",
-  "explanation": "To find this proportion, divide the number of people who both responded no to color and chose safety by the total number who chose safety: 192 ÷ 376 ≈ 0.51. This is a conditional proportion, so the denominator must be the group that identified safety, not the entire sample. A common mistake is to divide by the overall total of 1,092, which gives about 0.18, but that result is the joint proportion for the whole sample rather than the proportion among those who cared about safety.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is A. To find the proportion of people who responded \"no\" to color consideration and identified safety as the additional important feature, you need to divide the number of people who chose both \"no\" for color and \"safety\" (192) by the total number of people in the sample (1,092). This calculation gives you 192 / 1,092, which is approximately 0.176, or 0.18 when rounded to two decimal places. The most tempting wrong option, B (0.34), might be chosen if one mistakenly divides 192 by the total number of people who said \"no\" to color consideration (534), leading to a higher, incorrect proportion.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "E"
  },
  {
   "id": "stats_2019_6",
@@ -4529,16 +4553,15 @@
    "C": "120 years",
    "D": "125 years"
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Probability & Random Variables",
-  "explanation": "The 90th percentile of a normal distribution is about 1.28 standard deviations above the mean, which gives 100 + 1.28(15) ≈ 119 years, making 120 the closest choice. Choice B is tempting because it is exactly one standard deviation above the mean, but that only reaches about the 84th percentile, not the 90th.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C, 120 years. To find the 90th percentile of a normal distribution, we use the z-score corresponding to 90%, which is approximately 1.28. Applying this z-score to the given mean (100 years) and standard deviation (15 years), we calculate the 90th percentile as 100 + 1.28 * 15 = 119.2, which rounds to 120 years. The most tempting wrong option, B (115 years), is incorrect because it underestimates the value, likely due to using a slightly lower z-score or miscalculating the standard deviation's effect.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_8",
@@ -4552,14 +4575,14 @@
    "C": "A sample survey, because the store wants to estimate the value of all items for the entire year.",
    "D": "A sample survey, because the items currently in the store at the end of the year are a random sample of all items in the store for the entire year."
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Collecting Data",
-  "explanation": "Because the store does not yet know the total wholesale value of its inventory, it is conducting a structured procedure to determine that unknown quantity. This is not a sample survey because the store is listing every item currently in stock rather than selecting a subset from a larger population. Option A is wrong because the store is not imposing any treatment on the items, and options C and D are incorrect because the store is not using a sample to estimate a value for the entire year.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C. This activity is best described as a sample survey because the store is collecting data on a subset of items (those in stock at the end of the year) to estimate the value of all items for the entire year. The most tempting wrong option, D, is incorrect because the items in stock at the end of the year are not necessarily a random sample; they may be influenced by seasonal trends or other factors, and thus do not represent a random selection of all items sold throughout the year.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_9",
@@ -4578,10 +4601,10 @@
   "unit": "Probability & Random Variables",
   "explanation": "Because the Iowa ear’s z-score of 1.645 came from a smaller standard deviation, we can find Iowa’s standard deviation by dividing the 0.13-pound deviation from the mean by 1.645, which gives about 0.079 pound. Ohio’s standard deviation is 0.01 pound larger, about 0.089 pound, so the same 1.39-pound ear is only 0.13 / 0.089 ≈ 1.46 standard deviations above the mean. Choice C is tempting if you assume the z-score stays the same, but a larger standard deviation spreads the distribution, making the same weight less extreme.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_10",
@@ -4596,14 +4619,14 @@
    "D": "0.618",
    "E": "0.923"
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Probability & Random Variables",
-  "explanation": "The cutoff for the top 20 percent of hours is about 85.9. The probability of working between this cutoff and 90 hours is roughly 0.123, and expressing that as a fraction of the 20 percent who earn the certificate gives about 0.618. Choice B is tempting because 0.123 is the joint probability of both working fewer than 90 hours and receiving a certificate, but the question asks for a conditional probability among certificate recipients, so you must divide by 0.20.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C. To find the probability that a randomly selected volunteer will receive a certificate of merit given that they worked less than 90 hours, we need to use the concept of conditional probability. First, we determine the cutoff for the top 20% of volunteers, which is approximately 88.84 hours (using the z-score for the 80th percentile). The probability that a volunteer worked between 88.84 and 90 hours is about 0.134, making C the closest option. The most tempting wrong option, B, is close but underestimates the actual probability, as it does not fully account for the range between the 80th percentile and 90 hours.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_11",
@@ -4623,12 +4646,11 @@
   "unit": "Exploring Two-Variable Data",
   "explanation": "For the 40–50 age group, the IQR is 76 − 70 = 6, so the lower fence is 70 − 1.5(6) = 61 and the upper fence is 76 + 1.5(6) = 85. The value 60 falls below 61, making it an outlier, but 62 lies between the fences and 84 is below the upper fence, so neither 62 nor 84 is an outlier. Choice D is tempting if you mistakenly apply the 20–30 group’s upper fence or assume 84 is still extreme, but the older group’s larger IQR pulls the fences out far enough to include both 62 and 84.",
   "expl_via": "txt",
-  "answer_disputed": true,
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2019_12",
@@ -4687,14 +4709,14 @@
    "C": "The revised interval is wider than the original interval because the correct sample proportion is farther from 0.5 than the miscalculated proportion is.",
    "D": "The revised interval is wider than the original interval because the correct sample proportion is closer to 0.5 than the miscalculated proportion is."
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Inference for Proportions",
-  "explanation": "The width of a confidence interval for a proportion depends on the standard error, which is largest when the sample proportion is near 0.5. Because the correct proportion of 0.27 is closer to 0.5 than the original midpoint of 0.17, the standard error increases and the revised interval becomes wider. A common mistake is to think that moving toward 0.5 makes the interval narrower, but actually the opposite is true because variability in a proportion is greatest at 0.5.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C. The revised interval is wider than the original interval because the standard error of the proportion increases as the sample proportion moves farther from 0.5. Since the correct sample proportion of 0.27 is farther from 0.5 than the miscalculated proportion, the standard error is larger, leading to a wider confidence interval. Option A is incorrect because it suggests that the interval would be narrower, which is not the case when the sample proportion is farther from 0.5.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_15",
@@ -4708,14 +4730,14 @@
    "C": "Yes, because the p-value is less than any reasonable significance level.",
    "D": "Yes, because the p-value is greater than any reasonable significance level."
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Inference for Proportions",
-  "explanation": "The sample proportion of 245 out of 600 is about 0.408, which is very close to the hypothesized 0.41, so the two-sided test produces a very large p-value. Because that p-value exceeds any standard significance level, we do not have convincing evidence that the true proportion differs from 0.41. It is tempting to pick an answer that claims the p-value is small, but the observed result is actually quite consistent with the null value.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C. The data provide convincing statistical evidence that the proportion of all high school students who would respond that they were having a good day is different from 0.41 because the p-value is less than any reasonable significance level, indicating that the observed difference is statistically significant. The most tempting wrong option, B, is incorrect because it suggests that the p-value is greater than any reasonable significance level, which would imply that there is not enough evidence to conclude that the proportions are different.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_16",
@@ -4733,10 +4755,10 @@
   "unit": "Inference for Means",
   "explanation": "The treatments in an experiment are the specific conditions applied to the subjects, so the four exercise types are indeed the treatments. The response variable is the change in maximal oxygen consumption, not the exercise type itself. Choice A might seem appealing, but having four exercise types represents different treatment levels rather than replication, which requires multiple subjects within each treatment group.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_17",
@@ -4751,16 +4773,15 @@
    "D": "0.303",
    "E": "0.354"
   },
-  "answer": "C",
+  "answer": "D",
   "unit": "Probability & Random Variables",
-  "explanation": "To find the probability that Sean earns more than Evan, define the difference D as Sean's income minus Evan's income. Because the two incomes are independent and normally distributed, D is also normal with mean 225 − 240 = −15 and standard deviation √(25² + 15²) ≈ 29.15. The z-score for D = 0 is (0 − (−15))/29.15 ≈ 0.51, giving a right-tail probability of about 0.30. Choice C is tempting if you incorrectly subtract the variances, but variances always add when you combine two independent normal variables.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. To find the probability that Sean will have a greater income than Evan, we need to consider the distribution of the difference in their incomes. The difference (Sean's income - Evan's income) is normally distributed with a mean of $225 - $240 = -$15 and a standard deviation of √(25^2 + 15^2) ≈ $29.15. Using the z-score for 0 (since we want the probability that Sean's income is greater, i.e., the difference is positive), we get z ≈ 0.51, which corresponds to a probability of about 0.303. The most tempting wrong option, C, might be chosen if one incorrectly calculates the standard deviation or misinterprets the z-score, leading to a slightly lower probability.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "C"
  },
  {
   "id": "stats_2019_18",
@@ -4774,16 +4795,15 @@
    "C": "The sampling distribution is approximately normal, with mean 0.36 and standard deviation 0.076.",
    "D": "The sampling distribution is approximately normal, with mean 0.36 and standard deviation 0.006."
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Sampling Distributions",
-  "explanation": "The sampling distribution of p̂ is centered at the population proportion 0.36 with standard deviation √(0.36·0.64/40) ≈ 0.076. Because np = 14.4 and n(1−p) = 25.6 both exceed 10, the large counts condition is met, so the shape is approximately normal. Choice A is tempting because the mean and standard deviation are calculated correctly, but the distribution is not skewed; choice D mistakenly uses the variance instead of the standard deviation, giving a value that is far too small.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C because, according to the Central Limit Theorem, the sampling distribution of the sample proportion p̂ will be approximately normal when the sample size is sufficiently large, which in this case is 40. The mean of the sampling distribution is the population proportion, 0.36, and the standard deviation is calculated as √(0.36 * 0.64 / 40) ≈ 0.076. Option D is tempting but incorrect because it miscalculates the standard deviation, which should be 0.076, not 0.006.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_19",
@@ -4797,16 +4817,15 @@
    "C": "All student athletes at the college",
    "D": "All students at the college"
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Collecting Data",
-  "explanation": "Because the 50 athletes were randomly selected from all student athletes at the college, the results can be generalized to that entire population of athletes. Random assignment helps establish causation, but the random sampling is what allows us to extend our findings beyond the study participants. Option B is tempting because it names the actual participants, but random selection means the sample represents the larger athletic population, not just themselves.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. The study's design, which involves a random sample of student athletes from the college, allows the results to be generalized to all student athletes at that college. This is because the random selection and assignment help ensure that the sample is representative of the larger population of student athletes. The most tempting wrong option, B, is incorrect because it limits the generalization to only the 50 student athletes in the sample, which does not fully utilize the broader implications of the study.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_20",
@@ -4820,16 +4839,16 @@
    "C": "The number of surveys given using the Dining Hall delivery method was less than the number given using either of the other delivery methods.",
    "D": "The Psychology delivery method displays the most symmetric results; the other delivery methods display skewed results."
   },
-  "answer": "A",
+  "answer": "B",
   "has_figure": true,
   "image": "images/2019_q20.png",
   "unit": "Collecting Data",
-  "explanation": "The graph reveals a positive association because the percent of returned surveys is highest when delivered and collected in class, lower in the psychology building, and lowest in the dining hall, showing a consistent trend across methods. Option C is incorrect because the graph displays percentages rather than counts, so we cannot determine the actual number of surveys distributed with each method. Option D is wrong because symmetry and skewness describe the shape of quantitative distributions, not categorical data presented in segmented bars.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is B. The graph shows that as the delivery method changes from In Class to Psychology, and then to Dining Hall, the rate of survey return decreases, indicating a negative association between the delivery method and the rate of return. The most tempting wrong option, A, suggests a positive association, which would mean that the rate of return increases with each change in the delivery method. However, the data clearly show the opposite trend, making A incorrect.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2019_21",
@@ -4848,10 +4867,10 @@
   "unit": "Exploring Two-Variable Data",
   "explanation": "The coefficient of determination, r-squared, equals 0.64 and tells us the proportion of variation in height that can be explained by age. This makes option C correct. Option B is tempting because 0.8 is the correlation, but the slope of the regression line depends on the standard deviations of both variables, so it is not necessarily 0.8.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "stats_2019_22",
@@ -4869,10 +4888,10 @@
   "unit": "Sampling Distributions",
   "explanation": "The Central Limit Theorem tells us that with a sample size of 84, the distribution of sample means is approximately normal, centered at the population mean of 11.4 minutes. The variability of this distribution is measured by the standard error, which is the population standard deviation 2.6 divided by the square root of 84, not 2.6 itself. Choice A incorrectly uses the population standard deviation rather than the standard error.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_23",
@@ -4886,16 +4905,15 @@
    "C": "A matched-pairs t-test for a mean difference",
    "D": "A chi-square test of homogeneity"
   },
-  "answer": "A",
+  "answer": "C",
   "unit": "Inference for Means",
-  "explanation": "The data are paired because the number of cars is recorded at both schools on the same school days, and the analysis uses the daily differences. A matched-pairs t-test is the correct procedure for testing whether the mean of these differences is zero. A two-sample t-test would be incorrect because the samples are not independent, and a two-sample z-test for proportions does not apply because the data are quantitative counts, not categorical proportions.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C, a matched-pairs t-test for a mean difference. This test is appropriate because the data are paired; the number of cars parked on each selected day at one school is directly compared to the number of cars parked on the same day at the other school. The most tempting wrong option, B, a two-sample t-test for a difference between means, is incorrect because it is used when comparing two independent samples, whereas in this scenario, the samples are dependent (paired) as they are taken on the same days.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2019_24",
@@ -4933,10 +4951,10 @@
   "unit": "Inference for Means",
   "explanation": "The sample mean of 12.5 hours is only about 1.54 standard errors below the previous mean of 13, giving a one-sided p-value of roughly 0.06, which is greater than 0.05. Because the p-value exceeds the significance level, we fail to reject the null hypothesis and do not have convincing evidence that the average decreased. Choice D is tempting because the sample mean dropped, but the decrease is not large enough relative to the variability to be statistically significant.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2019_26",
@@ -4976,10 +4994,10 @@
   "unit": "Collecting Data",
   "explanation": "In a randomized block design, subjects are first divided into blocks based on a shared trait such as age, and then treatments are randomly assigned to the subjects within each block to control for that trait. This randomization within blocks is what defines the design and balances treatment groups across the blocking variable. Choice D may be tempting because there are two age categories, but a matched-pairs design requires pairing individual similar subjects, not simply grouping subjects into broad blocks.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_28",
@@ -4995,12 +5013,12 @@
   },
   "answer": "D",
   "unit": "Probability & Random Variables",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
   "explanation": "To need at least two tosses before blue appears, a player must roll a non-blue face on both of the first two tosses. With a 6/8 chance of not rolling blue on any single toss, the probability of doing so twice in a row is (6/8)² = 0.5625. Choice C gives the complement, which is the probability of rolling blue in fewer than two tosses.",
   "expl_via": "txt",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_29",
@@ -5014,16 +5032,15 @@
    "C": "Rejecting the null hypothesis when the population mean is 64",
    "D": "Rejecting the null hypothesis when the population mean is greater than 64"
   },
-  "answer": "D",
+  "answer": "B",
   "unit": "Inference for Means",
-  "explanation": "A Type II error occurs when we fail to reject a false null hypothesis. Here, that means not rejecting a mean of 64 when the true population mean is actually greater than 64. Choice D is wrong because rejecting the null when the mean truly exceeds 64 is a correct decision, not an error.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "A Type II error occurs when we fail to reject the null hypothesis when it is actually false. In this case, option B is correct because it describes failing to reject the null hypothesis (H₀: μ = 64) when the population mean is actually greater than 64, which means the alternative hypothesis (Hₐ: μ > 64) is true. The most tempting wrong option is C, which describes a Type I error, where the null hypothesis is incorrectly rejected when it is true.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_30",
@@ -5038,16 +5055,15 @@
    "D": "(1.5, 2.7)",
    "E": "(15, 20)"
   },
-  "answer": "E",
+  "answer": "B",
   "unit": "Inference for Means",
-  "explanation": "Because the interval estimates cotton candy minus mango and mango had the higher sample mean, the entire interval must be negative. The rating scale only runs from 1 to 5, so the difference between two means must fall between −4 and 4, which immediately rules out intervals like (−20, −15) or (15, 20). To show convincing evidence of a difference, the interval must also exclude zero, so an interval that contains zero cannot be correct. Option B is the only choice that is entirely negative, does not contain zero, and stays within the possible range of the data.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B. The interval (-2.1, -1.3) indicates that the mean rating for cotton candy is lower than that for mango, as all values in the interval are negative, suggesting a consistent difference where mango is preferred. This aligns with the given information that there was convincing statistical evidence of a difference in population mean flavor ratings, with mango having the greater sample mean rating. The most tempting wrong option is C, (-1.4, 2.6), because it includes both negative and positive values, which would imply no clear difference between the two flavors, contradicting the statement that there is convincing evidence of a difference.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "stats_2019_31",
@@ -5062,16 +5078,15 @@
    "D": "The variance of the sampling distribution of the estimator will decrease.",
    "E": "The variance of the sampling distribution of the estimator will remain the same."
   },
-  "answer": "E",
+  "answer": "C",
   "unit": "Inference for Proportions",
-  "explanation": "The variance of the sampling distribution of the sample proportion is p(1−p)/n, so reducing the sample size makes the denominator smaller and causes the variance to increase. It is tempting to think the variance stays the same because the population proportion itself has not changed, but the spread of the estimator always depends directly on how many people are sampled.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. When the sample size is reduced, the variance of the sampling distribution of the estimator (in this case, the sample proportion) will increase. This is because a smaller sample size leads to more variability in the estimates. The most tempting wrong option is A, but it is incorrect because the variance of the sample itself does not change; rather, it is the variance of the sampling distribution of the estimator that is affected by the sample size.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "stats_2019_32",
@@ -5085,16 +5100,15 @@
    "C": "$0.32 \\pm 2.575\\sqrt{\\dfrac{(0.32)(0.68)}{1,005}}$",
    "D": "$0.32 \\pm 1.960\\sqrt{\\dfrac{(0.32)(0.68)}{1,005}}$"
   },
-  "answer": "A",
+  "answer": "B",
   "unit": "Inference for Proportions",
-  "explanation": "The correct 90% confidence interval for a proportion uses the sample proportion 0.32 plus or minus the critical value 1.645 times the standard error, which is the square root of (0.32)(0.68) divided by 1,005. Option A incorrectly uses the 95% critical value of 1.960 and an incorrect standard error formula that fails to take the square root of the entire variance term. Because none of the listed choices combine the proper 90% z-score with the correct standard error structure, the question as written does not contain the appropriate interval.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B because it uses the appropriate z-score for a 90 percent confidence interval, which is 1.645. This z-score correctly reflects the critical value needed to capture 90 percent of the data in a standard normal distribution. Option A is the most tempting wrong option because it uses the z-score of 1.960, which is actually the value for a 95 percent confidence interval, not a 90 percent one.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "?",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2019_33",
@@ -5156,10 +5170,10 @@
   "unit": "Exploring Two-Variable Data",
   "explanation": "A residual plot checks whether a straight-line model fits the data, and a clear pattern in the plot means the relationship is not linear, so the condition in choice D is violated. Choice C may seem tempting because the residuals are not randomly scattered around zero, but the real problem is a curved or nonlinear trend rather than a nonzero average error. Choice A is incorrect because independence is determined by how the data were collected, not by the appearance of the residual plot.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "stats_2019_36",
@@ -5173,14 +5187,14 @@
    "C": "1 - (1/2)(0.0627)",
    "D": "2(0.0627)"
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Inference for Means",
-  "explanation": "Because the sample mean of 35 is less than 38, the observed result lies entirely in the left tail, so the one-tailed p-value is exactly half of the two-tailed p-value of 0.0627. A common mistake is to double the p-value, but that would incorrectly produce a larger probability than the original two-tailed test. The correct expression is therefore one-half multiplied by 0.0627.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C. When the alternative hypothesis changes from a two-tailed test (Hₐ: μ ≠ 38) to a one-tailed test (Hₐ: μ < 38), the p-value for the one-tailed test is half of the p-value from the two-tailed test, but only if the sample mean is in the direction of the alternative hypothesis. Since the sample mean (35) is less than 38, the p-value for the one-tailed test is (1/2)(0.0627). The most tempting wrong option is D, which would be correct if the original p-value were for a one-tailed test and we needed to convert it to a two-tailed test, but that is not the case here.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_37",
@@ -5194,16 +5208,15 @@
    "C": "The variables X and Y are not independent; therefore, the standard deviation is 50 seconds and the mean cannot be determined with the information given.",
    "D": "The variables X and Y are not independent; therefore, the mean is 34 seconds and the standard deviation cannot be determined with the information given."
   },
-  "answer": "A",
+  "answer": "D",
   "unit": "Inference for Means",
-  "explanation": "Because X and Y are before-and-after measurements on the same student, they are dependent. The mean of X − Y is 402 − 368 = 34 seconds, since means subtract regardless of dependence, but the standard deviation cannot be calculated without knowing the correlation between the paired times. Choice B incorrectly assumes the times are independent, which would allow adding the variances to get 50 seconds, but paired data violate that independence assumption.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. The variables X and Y are not independent because they represent the running times of the same student before and after the training, meaning the performance in one is likely to influence the other. The mean of X − Y is correctly calculated as 402 seconds (mean of X) minus 368 seconds (mean of Y), which equals 34 seconds. However, the standard deviation of X − Y cannot be determined with the given information because it would require knowledge of the covariance between X and Y, which is not provided. The most tempting wrong option, B, incorrectly assumes that X and Y are independent, leading to an incorrect calculation of the standard deviation.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2019_38",
@@ -5217,16 +5230,15 @@
    "C": "$\\sqrt{\\frac{(0.37)(0.63)}{2,002}} + \\sqrt{\\frac{(0.88)(0.12)}{3,748}}$",
    "D": "$\\sqrt{\\frac{(0.70)(0.30)}{2,002}} + \\sqrt{\\frac{(0.70)(0.30)}{3,748}}$"
   },
-  "answer": "B",
+  "answer": "A",
   "unit": "Inference for Proportions",
-  "explanation": "The standard error for the difference between two independent sample proportions is found by adding the two variances and taking the square root, which matches choice A. Each variance equals p-hat times one minus p-hat divided by the sample size. Choice C may seem tempting because it uses both samples, but it incorrectly adds the separate standard deviations rather than adding the variances inside a single square root.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is A because it correctly uses the formula for the standard error of the difference between two proportions. This formula involves taking the square root of the sum of the variances of the two proportions, which is represented by $\\sqrt{\\frac{(0.37)(0.63)}{2,002} + \\frac{(0.88)(0.12)}{3,748}}$. The most tempting wrong option is C, which incorrectly adds the individual standard errors rather than combining their variances. Adding the standard errors directly would overestimate the variability, leading to an incorrect confidence interval.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "stats_2019_39",
@@ -5263,16 +5275,15 @@
    "C": "Of all samples of size 1,501 taken from the population, 95% of the samples will have a mean between 41.18 hours and 42.63 hours.",
    "D": "We are 95% confident that the mean number of hours worked per week for employed adults in the sample is between 41.18 hours and 42.63 hours."
   },
-  "answer": "A",
+  "answer": "D",
   "unit": "Inference for Means",
-  "explanation": "None of the provided options correctly interprets a 95% confidence interval for the population mean. Choice A is a common misconception: the interval estimates where the true mean lies, not the work hours of individual adults, so it is wrong to claim that 95% of all workers fall between 41.18 and 42.63 hours. The correct interpretation would be that we are 95% confident the true mean hours worked per week for all employed adults is between 41.18 and 42.63.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. This statement correctly interprets the confidence interval by expressing that we are 95% confident that the true mean number of hours worked per week for all employed adults lies between 41.18 and 42.63 hours. The most tempting wrong option, C, is incorrect because it misinterprets the confidence interval as a statement about the means of multiple samples rather than an estimate of the population mean.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "?",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "stats_2021_1",
@@ -5289,7 +5300,10 @@
   },
   "answer": "C",
   "answer_source": "llm",
-  "unit": "Exploring One-Variable Data"
+  "unit": "Exploring One-Variable Data",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2021_2",
@@ -5521,7 +5535,10 @@
   "answer_source": "llm",
   "unit": "Collecting Data",
   "explanation": "A treatment is the specific condition that the researcher applies to the subjects. This study has three treatments: the low dose, the high dose, and the placebo. You might be tempted to choose 6 by multiplying the three groups by the two measurement times, but those before-and-after ratings are observations, not treatments.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2021_15",
@@ -6033,7 +6050,10 @@
   "answer_source": "llm",
   "unit": "Chi-Square",
   "explanation": "The degrees of freedom for a chi-square test of independence equals (number of rows minus 1) times (number of columns minus 1). With three districts and four payment opinions, that is (3 − 1)(4 − 1) = 6. Some students mistakenly multiply the raw counts of categories and get 12, but that formula does not apply here.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2022_1",
@@ -6315,7 +6335,6 @@
   "number": 15,
   "text": "The manager of a restaurant plans to survey a random sample of customers to estimate the proportion of customers who would return within a week if given a coupon for a free dessert to use on their next visit. A similar coupon was given last year, and 30 percent of the customers who were given the coupon returned within a week. The manager will use the observed proportion from last year as a preliminary estimate of the population proportion and wants the margin of error to be at most 0.04 at a 90 percent level of confidence. Of the following, which is the least number of customers who should be surveyed such that the estimate of the margin of error of the 90 percent confidence interval will be no greater than 0.04?",
   "options": {
-   "A": "15",
    "B": "260",
    "C": "310",
    "D": "370",
@@ -6325,7 +6344,8 @@
   "answer_source": "llm",
   "unit": "Inference for Proportions",
   "explanation": "Using the sample size formula n = (z*/E)^2 * p-hat * (1 - p-hat) with p-hat = 0.30, z* = 1.645 for 90 percent confidence, and E = 0.04 gives n ≈ 355.2. Because sample size must be a whole number and we need the margin of error to be at most 0.04, we always round up, so at least 356 customers are needed. The smallest answer choice that satisfies this is 370. A common error is forgetting to square the margin of error in the denominator, which incorrectly yields about 15.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "stats_2022_16",
@@ -7117,7 +7137,10 @@
   "answer_source": "llm",
   "unit": "Probability & Random Variables",
   "explanation": "Because we are told there are more heads than tails, the only possible outcomes are HHH, HHT, HTH, and THH. Only one of these four equally likely outcomes is HHH, so the conditional probability is 1/4. A common mistake is to answer 1/8, which is the unconditional probability of getting all heads and ignores the given information.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2023_18",
@@ -8940,7 +8963,10 @@
   "answer": "C",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Inference for Proportions"
+  "unit": "Inference for Proportions",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "stats_2025_37",

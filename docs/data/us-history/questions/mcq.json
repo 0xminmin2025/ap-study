@@ -116,12 +116,12 @@
   "options": {
    "A": "Encourage United Statcs workers to uiiilt: against foreign competition @) Assure the public that strikes and walkouts were not part of union policy",
    "C": "Link union membership with patriotic and religious images",
-   "D": "Point out the dangers of working as a longshoreman",
-   "E": ""
+   "D": "Point out the dangers of working as a longshoreman"
   },
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Period 7: 1890-1945"
+  "unit": "Period 7: 1890-1945",
+  "options_repaired": "移除OCR丢失的空选项 E"
  },
  {
   "id": "us-history_2006_9",
@@ -2944,13 +2944,13 @@
   "options": {
    "A": "passage of the Alien and Sedition Acts, which were designed to suppress criticism of the government",
    "B": "Great Britain’s efforts to deny colonists their political rights in the years before the American Revolution",
-   "C": "the use of government force to put down popular uprisings like Shays’ Rebellion and the Whiskey Rebellion",
-   "D": ""
+   "C": "the use of government force to put down popular uprisings like Shays’ Rebellion and the Whiskey Rebellion"
   },
   "answer": "A",
   "unit": "Period 3: 1754-1800",
   "explanation": "Jefferson wrote this in his 1801 inaugural address to reject the Federalist-era Alien and Sedition Acts, which had prosecuted critics of the government and restricted free speech. He argued that a republic is strong enough to allow even wrong ideas to be expressed safely because open debate lets truth prevail. Option C may tempt students because it involves government force, but the quote concerns protecting dissenting opinions, not armed uprisings.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_4",
@@ -2979,13 +2979,13 @@
   "options": {
    "A": "They frequently led to the formation of a common interest between the United States government and American Indians in controlling the activities of White settlers.",
    "B": "They generally led to the formation of strong, independent American Indian nations.",
-   "C": "They usually lasted a short time before being broken by settlers’ incursions onto American Indian reservations.",
-   "D": ""
+   "C": "They usually lasted a short time before being broken by settlers’ incursions onto American Indian reservations."
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "Treaties like Fort Laramie promised American Indians defined reservation lands, but they were quickly undermined when white settlers illegally moved onto those lands seeking gold or farmland, and the federal government often failed to enforce the agreements. This pattern of broken promises and settler encroachment was typical of post-Civil War Indian policy. Option A is tempting because the treaties were formal agreements, but the United States and settlers were primarily driven by westward expansion, not by a shared interest in protecting reservation boundaries.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_6",
@@ -3014,13 +3014,13 @@
   "options": {
    "A": "The rerouting of several major railroads to avoid tribal lands",
    "B": "A decrease in the number of White settlers traveling near reservations",
-   "C": "The implementation of government conservation policies that protected large areas of public land",
-   "D": ""
+   "C": "The implementation of government conservation policies that protected large areas of public land"
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "Government conservation policies set aside vast tracts of public land, keeping white settlers and commercial interests out of areas where tribes hunted or lived, which reduced the encroachment-related conflicts that treaty provisions like Article 11 were designed to address. It might seem plausible that railroads were rerouted to avoid tribal lands, but they were typically built through those territories, which actually increased tensions rather than lowering them.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_8",
@@ -3110,13 +3110,13 @@
   "options": {
    "A": "The Spanish introduced new crops into the Americas, altering the native diet.",
    "B": "The Spanish imported Africans as a new source of labor.",
-   "C": "Laborers on Hispaniola launched a large-scale rebellion against their Spanish oppressors.",
-   "D": ""
+   "C": "Laborers on Hispaniola launched a large-scale rebellion against their Spanish oppressors."
   },
   "answer": "B",
   "unit": "Period 1-2: 1491-1754",
   "explanation": "Las Casas wrote about the massive death toll among Native Americans caused by Spanish conquest and enslavement, which left the colonists without enough workers to sustain their operations. This labor crisis directly led the Spanish to begin importing enslaved Africans to fill the void. Choice A is wrong because the introduction of new crops was part of the broader Columbian Exchange, not a direct result of the native population collapse Las Casas described.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_14",
@@ -3146,13 +3146,13 @@
   "options": {
    "A": "growth of corporate power in agriculture and economic instability in farming",
    "B": "emergence of concerns about abuses of the environment",
-   "C": "development of reform movements inspired by the Second Great Awakening",
-   "D": ""
+   "C": "development of reform movements inspired by the Second Great Awakening"
   },
   "answer": "A",
   "unit": "Period 6: 1865-1898",
   "explanation": "The Populist Party grew directly out of farmers' anger over falling crop prices, crushing debt, and the market power of railroads and banks that threatened small agricultural producers. Activists sought government action to stabilize the economy and curb corporate influence over farming. Students might be drawn to concerns about the environment, but conservation issues were not the central focus of the Populist movement.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_17",
@@ -3218,13 +3218,13 @@
   "options": {
    "A": "The emergence of new forms of transportation",
    "B": "The increased number of women in the paid workforce",
-   "C": "The emergence of southern opposition to tariffs",
-   "D": ""
+   "C": "The emergence of southern opposition to tariffs"
   },
   "answer": "A",
   "unit": "Period 4: 1800-1848",
   "explanation": "New forms of transportation such as canals, steamboats, and early railroads slashed the cost of moving goods and linked previously isolated regions to national and international markets, which was the essential foundation for the shift to a commercial market economy. The increased number of women in the paid workforce might seem relevant because industrialization created factory jobs, but this was a consequence of the expanding market economy rather than a primary cause of it.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_21",
@@ -3271,13 +3271,13 @@
   "options": {
    "A": "In the 1970s, following antiwar protests against United States involvement in Vietnam",
    "B": "In the 1980s, following the renewed United States concerns over the Soviet threat",
-   "C": "In the 1990s, following United States military interventions in Somalia",
-   "D": ""
+   "C": "In the 1990s, following United States military interventions in Somalia"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "In the 1970s, the Nixon administration and federal agencies broadly asserted new surveillance and prosecutorial powers to target antiwar protesters and other domestic dissenters, claiming that such opposition posed a clear and present danger to national security. The 1980s might seem tempting because Cold War fears were strong, but the government’s focus then was mainly on military buildup and covert actions abroad rather than on expanding domestic legal authority to suppress threats. By contrast, the 1990s interventions in Somalia did not produce a comparable broadening of federal power to address perceived internal dangers.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_25",
@@ -3288,13 +3288,13 @@
   "options": {
    "A": "Successful colonial attempts to convert enslaved Africans to Christianity",
    "B": "European demand for agricultural products grown in the colonies",
-   "C": "The spread of European Enlightenment ideas in the colonies",
-   "D": ""
+   "C": "The spread of European Enlightenment ideas in the colonies"
   },
   "answer": "B",
   "unit": "Period 1-2: 1491-1754",
   "explanation": "European demand for cash crops such as tobacco and rice fueled the plantation economy and created an insatiable need for cheap, permanent labor, which colonists increasingly met through African slavery as indentured servitude became less available. This economic reality was the primary engine driving the expansion of the transatlantic slave trade during these centuries. While some point to cultural factors like the spread of Christianity, religious conversion did not cause the growth of slavery and was often viewed by slaveholders as a threat to their authority rather than a reason to import more enslaved people.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_26",
@@ -3324,15 +3324,15 @@
   "options": {
    "A": "A rise in secular reform inspired by the Second Great Awakening",
    "B": "A fear of too much popular influence in government",
-   "C": "An expansion of political democracy for White men",
-   "D": ""
+   "C": "An expansion of political democracy for White men"
   },
   "has_figure": true,
   "answer": "C",
   "image": "images/2016_q27.png",
   "unit": "Period 7: 1890-1945",
   "explanation": "The graph shows a significant increase in the percentage of legislators in both northern and southern states who owned property worth less than £2,000 between 1765-1775 and 1783-1790. This shift indicates that people with lower property values were gaining political power, which directly supports the idea of an expansion of political democracy for White men. Option A is incorrect because the Second Great Awakening was a religious movement, not a direct cause of changes in property qualifications. Option B is incorrect because the trend shown in the graph reflects a broadening of political participation, not a fear of popular influence.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_28",
@@ -3343,15 +3343,15 @@
   "options": {
    "A": "Women became involved in politics through their participation in the grassroots independence movement.",
    "B": "The concept of republican self-government encouraged individual talent.",
-   "C": "Factory jobs provided workers with increased free time that some used to participate in politics.",
-   "D": ""
+   "C": "Factory jobs provided workers with increased free time that some used to participate in politics."
   },
   "has_figure": true,
   "answer": "B",
   "image": "images/2016_q28.png",
   "unit": "Period 9: 1980-Present",
   "explanation": "The revolutionary emphasis on republican self-government valued personal talent and virtue over inherited wealth or elite status, allowing a wider range of men to win election to state legislatures. Choice A is wrong because women could not vote or hold public office during this period. Choice C is wrong because the factory system had not yet developed enough to create the kind of worker political participation suggested.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_29",
@@ -3422,13 +3422,13 @@
   "options": {
    "A": "The chances of a direct military clash between the United States and the Soviet Union was greater in the Vietnam War.",
    "B": "United States leaders could more easily argue that communist aggression led to the Vietnam War.",
-   "C": "Public opposition was more significant for the Vietnam War than for the Korean War.",
-   "D": ""
+   "C": "Public opposition was more significant for the Vietnam War than for the Korean War."
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "The Vietnam War triggered a far larger and more sustained wave of domestic protest, including massive demonstrations and widespread draft resistance, than the Korean War ever did. While the Korean conflict grew unpopular due to its costly stalemate, it never generated the same level of organized anti-war activism or deep cultural division. Option B is incorrect because the Korean War began with a clear-cut invasion across the 38th parallel, which actually made the communist aggression argument much easier than in Vietnam, where the conflict resembled a civil war.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_33",
@@ -3457,13 +3457,13 @@
   "options": {
    "A": "confrontation would be an effective means of achieving change",
    "B": "the most desirable outcome of Civil Rights activism would be equal rights and racial integration",
-   "C": "Civil Rights activism has its roots in earlier historical patterns",
-   "D": ""
+   "C": "Civil Rights activism has its roots in earlier historical patterns"
   },
   "answer": "B",
   "unit": "Period 9: 1980-Present",
   "explanation": "Martin Luther King Jr. envisioned a fully integrated society where African Americans enjoyed equal rights alongside white Americans, which directly opposed Malcolm X’s contemporary argument for Black separatism and self-determination outside white institutions. This commitment to integration and nonviolence defined King’s philosophy during the mid-1960s. Option A is wrong because King explicitly rejected confrontation and violence as tools for social change, viewing them as counterproductive to achieving justice.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_35",
@@ -3527,12 +3527,12 @@
   "options": {
    "A": "Abolitionism",
    "B": "Manifest Destiny",
-   "C": "Popular sovereignty",
-   "D": ""
+   "C": "Popular sovereignty"
   },
   "answer": "B",
   "no_figure_available": true,
-  "unit": "Period 7: 1890-1945"
+  "unit": "Period 7: 1890-1945",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_39",
@@ -3543,13 +3543,13 @@
   "options": {
    "A": "granting free land in the new territories",
    "B": "rights to mineral wealth and resources in the new territories",
-   "C": "extending citizenship to people already in the territories",
-   "D": ""
+   "C": "extending citizenship to people already in the territories"
   },
   "answer": "C",
   "unit": "Period 5: 1844-1877",
   "explanation": "The territory acquired from Mexico at the end of the Mexican-American War contained a large population of Mexican nationals, and the Treaty of Guadalupe Hidalgo required the United States to offer them citizenship. This provision ignited sharp debate in Congress and among the public over whether these residents should be granted full political and civil rights. While the discovery of gold made mineral wealth an attractive distractor, the most divisive immediate issue was the status and citizenship of the people already living on the land.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_41",
@@ -3560,13 +3560,13 @@
   "options": {
    "A": "The rise of big business in the Gilded Age",
    "B": "The expansion of participatory democracy in the Progressive Era",
-   "C": "The rise of Social Darwinism in the late nineteenth century",
-   "D": ""
+   "C": "The rise of Social Darwinism in the late nineteenth century"
   },
   "answer": "C",
   "unit": "Period 3: 1754-1800",
   "explanation": "The excerpt’s emphasis on natural selection and the survival of the fittest logically extends to Social Darwinism, the late-nineteenth-century belief that evolutionary concepts should govern human society and justify economic inequality. While the rise of big business might seem related because industrialists benefited from such ideas, that option reflects an economic outcome rather than the direct ideological extension of applying Darwinian theory to social relations.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_43",
@@ -3577,13 +3577,13 @@
   "options": {
    "A": "The erosion of soil on the Great Plains",
    "B": "passage of new laws to reduce pollution",
-   "C": "The increase in government regulation of natural resources",
-   "D": ""
+   "C": "The increase in government regulation of natural resources"
   },
   "answer": "B",
   "unit": "Period 7: 1890-1945",
   "explanation": "Rachel Carson’s *Silent Spring* warned Americans about the dangers of chemical pesticides and pollution, sparking the modern environmental movement and leading to new anti-pollution legislation like the eventual ban on DDT. Choice A is incorrect because soil erosion on the Great Plains describes the 1930s Dust Bowl, which occurred decades before Carson’s 1962 book. Choice C might sound relevant, but Carson specifically inspired laws targeting pollution rather than the broader natural-resource regulation associated with earlier conservation efforts.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_44",
@@ -3630,13 +3630,13 @@
   "options": {
    "A": "ongoing popularity of many social welfare programs",
    "B": "reform of federal tax policies",
-   "C": "Persian Gulf War in the early 1990s",
-   "D": ""
+   "C": "Persian Gulf War in the early 1990s"
   },
   "answer": "A",
   "unit": "Period 9: 1980-Present",
   "explanation": "The new conservative movement sought to shrink the federal government and roll back social welfare spending, but programs like Social Security and Medicare remained enormously popular with the American public, making deep cuts politically impossible. This widespread support for the existing welfare state created a major roadblock to achieving the movement's core domestic goals. The Persian Gulf War might seem like a tempting choice because it was a major early 1990s event, but it actually aligned with conservative foreign policy priorities and did not undermine their domestic agenda.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2016_47",
@@ -3685,15 +3685,15 @@
   "options": {
    "A": "Loyalists",
    "B": "Whigs",
-   "C": "Federalists",
-   "D": ""
+   "C": "Federalists"
   },
   "has_figure": true,
   "answer": "B",
   "image": "images/2016_q49.png",
   "unit": "Period 7: 1890-1945",
   "explanation": "The image is a political cartoon from 1788, titled 'The Federal Edifice,' which depicts the ratification of the U.S. Constitution by the states. The cartoon shows the states as pillars supporting a new federal government, with the text 'Rise it will' and 'The foundation good—it may yet be Saved,' suggesting optimism about the new government. The question asks about opposition to the national government in the decade following this image, which would be the 1790s. During this period, the Whigs (a term used for the Democratic-Republicans) were the primary opposition to the Federalists, who supported a strong central government. The Loyalists were active during the Revolutionary War and had largely disappeared by 1788. The Federalists were the supporters of the national government, not its opponents. Therefore, the Whigs were the group that expressed the most opposition to the exercise of power by the national government in the decade following the publication of the image.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_1",
@@ -3722,13 +3722,13 @@
   "options": {
    "A": "Curiosity about American Indian ways of life",
    "B": "Assumptions about the superiority of European culture",
-   "C": "Inability to find uses for North American crops",
-   "D": ""
+   "C": "Inability to find uses for North American crops"
   },
   "answer": "B",
   "unit": "Period 1-2: 1491-1754",
   "explanation": "Gerard’s description of maize reflects a European tendency to judge New World crops against Old World standards and to view Native American practices as primitive, revealing an assumption of European cultural superiority. This makes B the best choice. While the passage offers observations about an unfamiliar plant, its dismissive or comparative tone goes beyond simple curiosity, so A is incorrect. The issue is not that Europeans could find no use for the crop, but rather how they culturally framed it, which rules out C.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_3",
@@ -3775,13 +3775,13 @@
   "options": {
    "A": "respect for political alliances",
    "B": "cultural blending",
-   "C": "separation between the groups",
-   "D": ""
+   "C": "separation between the groups"
   },
   "answer": "C",
   "unit": "Period 1-2: 1491-1754",
   "explanation": "English colonists mainly wanted land for farming and settlement, so they tended to push Native Americans westward and create strict boundaries between the two groups. The French and Spanish, by contrast, often relied on intermarriage, trade partnerships, and mission systems that brought Europeans and Indians into closer contact. Although English settlers sometimes made treaties, these agreements were usually temporary steps toward acquiring territory rather than lasting partnerships. Choice B is incorrect because cultural blending occurred much more frequently in French and Spanish colonies through the fur trade and religious conversion.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_6",
@@ -3864,13 +3864,13 @@
   "options": {
    "A": "American colonists’ declaration of independence from Britain",
    "B": "British promises of land for service in the American Revolution",
-   "C": "The passage of the Stamp Act, a tax imposed on the American colonies by the British Parliament",
-   "D": ""
+   "C": "The passage of the Stamp Act, a tax imposed on the American colonies by the British Parliament"
   },
   "answer": "B",
   "unit": "Period 7: 1890-1945",
   "explanation": "British officials such as Lord Dunmore promised freedom and land to enslaved African Americans who joined the British cause during the Revolutionary War, prompting African Americans to petition American authorities for their own liberty and rights. Many students might be tempted to choose the Declaration of Independence because it expressed ideals of freedom and equality, but the petition was a more direct response to specific British military offers than to the colonists' declaration. The Stamp Act is incorrect because it was a prewar tax law that had no connection to promises of land for military service.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_11",
@@ -3918,13 +3918,13 @@
   "options": {
    "A": "The entry into the Mexican-American War",
    "B": "The passage of the Kansas-Nebraska Act",
-   "C": "The secession of most Southern states",
-   "D": ""
+   "C": "The secession of most Southern states"
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "The compact theory holding that the Constitution is a voluntary agreement among sovereign states and that a state may withdraw when its rights are threatened, articulated in the Virginia and Kentucky Resolutions, was later central to Southern justifications for secession in 1860–1861. The Kansas-Nebraska Act is a tempting wrong choice because it concerned slavery expansion, but it rested on popular sovereignty rather than on the doctrine of state sovereignty and disunion.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_14",
@@ -3972,13 +3972,13 @@
   "options": {
    "A": "achieving the right to vote",
    "B": "receiving equal pay for equal work",
-   "C": "ending domestic violence",
-   "D": ""
+   "C": "ending domestic violence"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "After the Civil War, women’s rights leaders grew frustrated that the Fifteenth Amendment granted voting rights to Black men but excluded women, so they channeled their efforts into winning suffrage. Organizations like the National Woman Suffrage Association made the vote their central goal, believing it was the key to achieving other reforms. While issues such as equal pay were important to some activists, they did not command the movement’s primary energy during these decades.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_17",
@@ -4025,13 +4025,13 @@
   "options": {
    "A": "The period from after the Seven Years’ War through the seventeen sixties",
    "B": "The period from after the War of 1812 through the eighteen twenties",
-   "C": "The period from after the First World War through the nineteen twenties",
-   "D": ""
+   "C": "The period from after the First World War through the nineteen twenties"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "The period after the Seven Years’ War was defined by fierce conflict between the colonies and Britain over taxation, self-government, and western expansion, mirroring the local-versus-imperial struggle described in the excerpt. During the 1760s, colonists organized protests and asserted their rights against parliamentary authority, paralleling the resistance shown in the passage. Option B might seem appealing because the early nineteenth century also had political disputes, but those centered on nationalism and economic policy rather than resistance to an external empire. Option C is incorrect because the 1920s were dominated by cultural and ideological clashes, not struggles over colonial legislative autonomy.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_20",
@@ -4133,13 +4133,13 @@
   "options": {
    "A": "Anarchism and similar radical ideologies attracted many workers.",
    "B": "Settlement houses assisted immigrants with adapting to life in the United States.",
-   "C": "Workers and employers consistently maintained amicable relationships.",
-   "D": ""
+   "C": "Workers and employers consistently maintained amicable relationships."
   },
   "answer": "B",
   "unit": "Period 5: 1844-1877",
   "explanation": "Settlement houses like Jane Addams's Hull House provided classes, childcare, and social services that helped immigrants adapt to American cities, reflecting the ongoing challenge of integrating newcomers throughout the 1800s. Option A might tempt students because labor unrest existed, but anarchism remained a fringe ideology that never attracted broad support among workers. Option C is incorrect because industrial growth actually fueled frequent strikes and growing tension between workers and employers rather than friendly relations.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_26",
@@ -4266,15 +4266,15 @@
   "options": {
    "A": "competition with Russia in opening trade with Japan",
    "B": "the suppression of an independence movement in the Philippines",
-   "C": "acquisition of territory from Mexico through the Treaty of Guadalupe Hidalgo",
-   "D": ""
+   "C": "acquisition of territory from Mexico through the Treaty of Guadalupe Hidalgo"
   },
   "has_figure": true,
   "answer": "B",
   "image": "images/2018_q32.png",
   "unit": "Period 7: 1890-1945",
   "explanation": "The Spanish-American War and the subsequent U.S. annexation of the Philippines placed American forces in direct conflict with Filipino nationalists who sought independence after centuries of Spanish rule. Determined to maintain control of the islands as a Pacific naval base and market, the United States waged a brutal war to crush the Filipino independence movement. Choices A and C are wrong because they describe mid-nineteenth-century events—Perry’s mission to Japan and the Mexican-American War—that occurred decades before American imperial expansion in Asia.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_33",
@@ -4374,13 +4374,13 @@
   "options": {
    "A": "The drafting of young men to fight in Vietnam",
    "B": "Racial discrimination in the United States armed forces during the Second World War",
-   "C": "Anticommunist measures during the Cold War",
-   "D": ""
+   "C": "Anticommunist measures during the Cold War"
   },
   "answer": "C",
   "unit": "Period 6: 1865-1898",
   "explanation": "Anticommunist campaigns during the Cold War, including loyalty tests and congressional investigations, created intense pressure that caused many leftist organizations to lose members and influence, leading to a decline in political radicalism. The Vietnam draft is often associated with political turmoil, but it actually inspired greater protest and radicalism among young Americans rather than reducing it. Similarly, racial discrimination during World War II fueled the Double V campaign and early civil rights activism, so it did not contribute to a decline in radical politics.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_39",
@@ -4427,13 +4427,13 @@
   "options": {
    "A": "The passage of a federal law providing veterans with financial aid in housing and education",
    "B": "The successful detonation of an atomic bomb as part of the Manhattan Project",
-   "C": "The growing number of women working in defense manufacturing",
-   "D": ""
+   "C": "The growing number of women working in defense manufacturing"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "The GI Bill gave millions of returning World War II veterans direct government support for college and housing, turning wartime talk about freedom and democracy into real economic security that ordinary families could see and feel. That concrete progress made Americans more enthusiastic about upholding those ideals at home. The atomic bomb might seem like a dramatic victory, yet it was a military weapon that did not expand personal freedoms for citizens, and women working in defense plants was a temporary wartime labor shift rather than a lasting policy that inspired broad national support for freedom.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_42",
@@ -4480,13 +4480,13 @@
   "options": {
    "A": "The spread of international communism",
    "B": "Decolonization in Africa and Asia",
-   "C": "The emergence of détente",
-   "D": ""
+   "C": "The emergence of détente"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "After World War II, the United States feared Soviet efforts to spread communism across Europe and Asia, which led to the policy of containment and the reorganization of American military and intelligence agencies. Détente is incorrect because it describes the easing of tensions in the 1970s, long after the immediate postwar period. Decolonization occurred during these years, but American anxiety centered on communist influence filling power vacuums left by retreating European empires, not on independence itself.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_45",
@@ -4554,15 +4554,15 @@
   "options": {
    "A": "income inequality",
    "B": "immigration from abroad",
-   "C": "concern about the environment",
-   "D": ""
+   "C": "concern about the environment"
   },
   "has_figure": true,
   "answer": "C",
   "image": "images/2018_q48.png",
   "unit": "Period 9: 1980-Present",
   "explanation": "The graph shows a significant decline in manufacturing employment from 1980 to 2010. This shift away from industrial production reduced the number of well-paying factory jobs, which were often unionized and provided stable incomes for working-class families. The decline in these jobs contributed to a rise in income inequality, not a decline, making (A) incorrect. Immigration and environmental concerns are not directly caused by changes in manufacturing employment. The decline in manufacturing, particularly the closure of polluting factories, led to a decrease in air and water pollution, which directly contributed to a decline in public concern about the environment, making (C) the most accurate answer.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_49",
@@ -4592,13 +4592,13 @@
   "options": {
    "A": "greater global economic integration under United States leadership",
    "B": "expanded attempts to repress communists in the United States",
-   "C": "a decrease in United States intervention in Asia",
-   "D": ""
+   "C": "a decrease in United States intervention in Asia"
   },
   "answer": "C",
   "unit": "Period 9: 1980-Present",
   "explanation": "Students for a Democratic Society was a leading New Left organization that condemned Cold War militarism and United States intervention in Vietnam, so it would support scaling back American involvement in Asia. The group rejected the anti-communist consensus that fueled such foreign wars. Choice A is wrong because SDS criticized American economic and military dominance rather than seeking to expand it.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2018_51",
@@ -4683,13 +4683,13 @@
   "options": {
    "A": "The implementation of protective tariffs by trading nations",
    "B": "The spread of computer technology and Internet use",
-   "C": "The growth of labor unions’ economic influence",
-   "D": ""
+   "C": "The growth of labor unions’ economic influence"
   },
   "answer": "B",
   "unit": "Period 3: 1754-1800",
   "explanation": "The spread of computers and the Internet in the late twentieth century revolutionized communication and commerce, allowing businesses and consumers to connect across borders instantly and driving global economic integration. This technological change is the direct engine behind modern globalization trends. Protective tariffs might appear related to trade, but they actually restrict international exchange and would hinder rather than help such a trend.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_1",
@@ -4720,13 +4720,13 @@
   "options": {
    "A": "The establishment of permanent settlements by English colonists",
    "B": "The impact of epidemic diseases introduced by Europeans",
-   "C": "The decline of the fur and beaver trades",
-   "D": ""
+   "C": "The decline of the fur and beaver trades"
   },
   "answer": "B",
   "unit": "Period 1-2: 1491-1754",
   "explanation": "Epidemic diseases like smallpox spread rapidly through Native populations long before large numbers of English colonists arrived, devastating communities such as Secotan and fundamentally altering their social and political circumstances by the early 1600s. While English colonization seems like an obvious choice, permanent settlements were still limited in number and scale during this period, making their immediate impact smaller than the earlier biological catastrophe. The fur trade was actually expanding rather than declining at this time, so it does not fit the historical timeline.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_3",
@@ -4810,13 +4810,13 @@
   "options": {
    "A": "Members of the English nobility",
    "B": "Sailors and soldiers",
-   "C": "Male church members",
-   "D": ""
+   "C": "Male church members"
   },
   "answer": "C",
   "unit": "Period 3: 1754-1800",
   "explanation": "The phrase \"civil body politic\" comes from the Mayflower Compact, which established a self-governing Puritan colony where political rights were granted to male church members known as freemen. Because the colony's government was built around the congregation, participation was most available to men who belonged to the church. Sailors and soldiers might have been present during the voyage, but they were not granted voting power or political authority in the settlement's government.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_8",
@@ -4882,13 +4882,13 @@
   "options": {
    "A": "The publication of the pamphlet Common Sense",
    "B": "The drafting of the United States Constitution",
-   "C": "The issuing of George Washington's Farewell Address",
-   "D": ""
+   "C": "The issuing of George Washington's Farewell Address"
   },
   "answer": "B",
   "unit": "Period 3: 1754-1800",
   "explanation": "The drafting of the Constitution directly acted on widespread calls to create a stronger, more effective national government that could remedy the weaknesses of the Articles of Confederation. Common Sense is a tempting distractor because it also discusses republican ideals, but it focused on persuading colonists to break from Britain rather than on designing a new federal governmental structure. Washington’s Farewell Address is incorrect because it came a decade later and warned against political parties and foreign entanglements, not the basic framework of the government itself.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_12",
@@ -4935,13 +4935,13 @@
   "options": {
    "A": "The domestic slave trade",
    "B": "The establishment of a national bank",
-   "C": "The strengthening of central government powers",
-   "D": ""
+   "C": "The strengthening of central government powers"
   },
   "answer": "C",
   "unit": "Period 3: 1754-1800",
   "explanation": "The framers drafted the Constitution mainly to correct the weak central government under the Articles of Confederation, creating a federal system with the power to tax, regulate commerce, and enforce laws. They did not establish a national bank in the document; that came later through Alexander Hamilton's financial plan and sparked debate over strict versus loose construction. Strengthening the central government was therefore the issue they addressed most directly.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_15",
@@ -5041,13 +5041,13 @@
   "options": {
    "A": "Outrage over the Federalist Party's disloyalty in proposing New England's secession",
    "B": "Widespread opposition to the demands of the women's rights advocates at Seneca Falls",
-   "C": "The emergence of sectional tensions over the admission of the state of Missouri",
-   "D": ""
+   "C": "The emergence of sectional tensions over the admission of the state of Missouri"
   },
   "answer": "C",
   "unit": "Period 4: 1800-1848",
   "explanation": "The spread of settlement into new territories forced Congress to confront whether slavery would be permitted in newly admitted states, and the attempt to admit Missouri as a slave state in 1820 sparked a severe sectional crisis over the balance of power. Choice A refers to the Hartford Convention of 1814, which involved New England opposition to the War of 1812 rather than territorial settlement, and choice B is wrong because the Seneca Falls convention took place in 1848, nearly three decades after the crisis in question.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_21",
@@ -5076,13 +5076,13 @@
   "options": {
    "A": "The belief that it was the Manifest Destiny of the United States to control territory across the continent",
    "B": "The question of the role of government in funding internal improvements",
-   "C": "The claim that the United States should limit European colonialism in the Western Hemisphere",
-   "D": ""
+   "C": "The claim that the United States should limit European colonialism in the Western Hemisphere"
   },
   "answer": "A",
   "unit": "Period 5: 1844-1877",
   "explanation": "The westward movement and rapid growth of the U.S. population during the 1800s reflected the widespread belief in Manifest Destiny, which encouraged Americans to settle territory across the continent. Debates over government funding for internal improvements concerned transportation policy and do not directly explain the population shift itself. The Monroe Doctrine focused on limiting European influence in the Western Hemisphere and is unrelated to domestic migration patterns.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_23",
@@ -5165,13 +5165,13 @@
   "options": {
    "A": "The Fourteenth Amendment",
    "B": "Plessy v. Ferguson",
-   "C": "Brown v. Board of Education of Topeka",
-   "D": ""
+   "C": "Brown v. Board of Education of Topeka"
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "Brown v. Board of Education ruled that racial segregation in public schools was inherently unconstitutional, overturning the \"separate but equal\" doctrine established in the excerpt. The Fourteenth Amendment is a tempting wrong choice because it guarantees equal protection, but the earlier decision had actually used that amendment to justify segregation rather than to end it.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_28",
@@ -5218,13 +5218,13 @@
   "options": {
    "A": "discouraged by the federal government through legislation",
    "B": "motivated largely by the desire to expand Protestant Christianity",
-   "C": "accompanied by conflict with American Indians over landownership",
-   "D": ""
+   "C": "accompanied by conflict with American Indians over landownership"
   },
   "answer": "C",
   "unit": "Period 6: 1865-1898",
   "explanation": "Westward expansion throughout U.S. history consistently involved settlers moving onto lands claimed or inhabited by American Indians, which led to recurring conflicts over land ownership and sovereignty. Whether during the colonial period, the antebellum era, or the late nineteenth century, this pattern of displacement and violence accompanied white settlement. Option A is incorrect because the federal government typically encouraged settlement through laws like the Homestead Act rather than discouraging it. Option B is wrong because, although some groups migrated for religious reasons, most settlers were driven by economic opportunity rather than a mission to spread Protestant Christianity.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_31",
@@ -5271,13 +5271,13 @@
   "options": {
    "A": "war with Great Britain during the James Madison administration",
    "B": "efforts to gain concessions from Mexico through conflict",
-   "C": "debates in the aftermath of war with Spain",
-   "D": ""
+   "C": "debates in the aftermath of war with Spain"
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "Albert Beveridge was a leading imperialist senator whose famous 1898 address \"The March of the Flag\" argued for annexing the Philippines and embracing an American empire, placing him squarely in the post-Spanish-American War debates over territorial expansion. His rhetoric specifically addressed whether the United States should keep territories won from Spain, which aligns with option C. Option A is incorrect because Beveridge was not active during the War of 1812, and option B is wrong because his advocacy focused on overseas expansion rather than conflict with Mexico.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_34",
@@ -5343,13 +5343,13 @@
   "options": {
    "A": "Social injustice and rising economic inequality",
    "B": "The expansion of government regulation of corporations",
-   "C": "The transformation of rural society by mechanized agriculture",
-   "D": ""
+   "C": "The transformation of rural society by mechanized agriculture"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "Jane Addams founded Hull House to serve Chicago's poor and immigrant communities, and her work centered on the moral and practical problems created by industrial capitalism and the severe gap between rich and poor. Her concerns were thus a direct response to social injustice and rising economic inequality. Option B might seem appealing because Addams was a Progressive, but she was reacting to harsh social conditions rather than to the expansion of government regulation itself.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_38",
@@ -5396,13 +5396,13 @@
   "options": {
    "A": "Anti-imperialists in the 1890s",
    "B": "New Dealers in the 1930s",
-   "C": "Great Society supporters in the 1960s",
-   "D": ""
+   "C": "Great Society supporters in the 1960s"
   },
   "answer": "A",
   "unit": "Period 9: 1980-Present",
   "explanation": "Coolidge’s political philosophy stressed limited federal power, individual liberty, and avoiding foreign entanglements, which aligned with anti-imperialists’ arguments that overseas expansion would create an overgrown central government and betray republican ideals. New Dealers and Great Society supporters are wrong because they championed expansive federal intervention in the economy and social welfare, a direct rejection of Coolidge’s small-government conservatism.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_41",
@@ -5574,13 +5574,13 @@
   "options": {
    "A": "Violence is the best means for African Americans to change their status.",
    "B": "Integration should be rejected as the primary goal of the African American rights movement.",
-   "C": "Separatism would not help African Americans achieve a more powerful political voice.",
-   "D": ""
+   "C": "Separatism would not help African Americans achieve a more powerful political voice."
   },
   "answer": "B",
   "unit": "Period 3: 1754-1800",
   "explanation": "The excerpt most likely presents a Black Nationalist or Black Power argument that African Americans should build independent political and economic strength rather than pursue integration into white society. This perspective directly challenges the mainstream civil rights movement's emphasis on integration, which makes B the correct choice. Option A is incorrect because the passage does not necessarily present violence as the best or only strategy, and C is wrong because this viewpoint generally sees separatism as a way to gain power rather than as a barrier.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_51",
@@ -5628,13 +5628,13 @@
   "options": {
    "A": "An increase in union membership for jobs in the service sector",
    "B": "The curtailment of civil liberties in order to combat terrorist threats",
-   "C": "Significant tax cuts and the deregulation of many industries",
-   "D": ""
+   "C": "Significant tax cuts and the deregulation of many industries"
   },
   "answer": "C",
   "unit": "Period 9: 1980-Present",
   "explanation": "Powell’s 1971 memorandum called on the business community to protect free enterprise by advocating for reduced taxes and less government regulation, ideas that directly foreshadowed the Reagan-era policies of the 1980s. Consequently, he would have supported significant tax cuts and widespread deregulation. While concerns about terrorism might make curtailing civil liberties seem plausible, Powell’s focus was on economic rather than security issues. Likewise, increasing service-sector union membership would conflict with his pro-business, anti-labor stance.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2019_54",
@@ -5663,13 +5663,13 @@
   "options": {
    "A": "significant arms reductions made by the Soviet Union and the United States",
    "B": "Cold War rhetoric used by Republicans",
-   "C": "resurgent isolationist policies advocated by Democrats",
-   "D": ""
+   "C": "resurgent isolationist policies advocated by Democrats"
   },
   "answer": "B",
   "unit": "Period 9: 1980-Present",
   "explanation": "The Moral Majority was a staunchly anti-communist organization that supported Ronald Reagan’s military buildup and confrontational stance toward the Soviet Union, so its members naturally embraced the tough Cold War rhetoric coming from Republicans in the 1980s. Because they saw communism as a godless threat to American values, they favored strength and engagement over isolation or disarmament. Choice A might seem appealing because arms reductions appear peaceful, but these groups actually advocated higher defense spending and opposed cutting American military power.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_1",
@@ -5687,10 +5687,10 @@
   "unit": "Period 5: 1844-1877",
   "explanation": "Spanish colonial rule sparked fierce debates among political and religious leaders over the humanity and proper treatment of indigenous peoples, most notably in discussions like the Valladolid debate. Option A is a common distractor because students might assume colonists lived separately from Native Americans, but Spanish America actually involved close, exploitative interaction through systems like the encomienda and widespread mestizaje. Option C is incorrect because Spanish authorities enforced Catholicism and suppressed religious diversity, while Option D describes French and Dutch colonial patterns rather than Spanish ones.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "us-history_2024_2",
@@ -5701,17 +5701,17 @@
   "options": {
    "A": "The development of an export economy based on cereal crops",
    "B": "The creation of the encomienda system",
-   "C": "The establishment of settlements with relatively few Europeans",
-   "D": ""
+   "C": "The establishment of settlements with relatively few Europeans"
   },
-  "answer": "A",
+  "answer": "C",
   "unit": "Period 1-2: 1491-1754",
-  "explanation": "This answer reflects the English model of colonization, which focused on creating permanent, populous settlements that farmed staple crops like wheat and grain for export to Europe. Unlike the Spanish encomienda system, which relied on the forced labor of Indigenous peoples to extract wealth, this approach centered on European agriculture and trade. The establishment of settlements with few Europeans describes the French fur-trading model, making it an unlikely match for a group advocating widespread agricultural production.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C. The establishment of settlements with relatively few Europeans best reflects the approach to colonization advocated by the first group, as they likely emphasized a more decentralized and less densely populated settlement pattern, allowing for greater flexibility and adaptation to local conditions. Option B, the creation of the encomienda system, is a tempting wrong choice because it was a significant feature of Spanish colonization, but it primarily focused on the exploitation of indigenous labor rather than the nature of European settlement.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "A",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_3",
@@ -5729,10 +5729,10 @@
   "unit": "Period 7: 1890-1945",
   "explanation": "The Spanish colonial caste system grew directly out of the idea that Europeans were inherently superior to Native Americans, an attitude that shaped early colonization. By legally ranking people by race and ancestry, it locked Native Americans into a lower social status for generations. Choice B might seem appealing because Spain did force Native Americans to work in mines, but that describes economic extraction rather than the enduring racial hierarchy that the caste system created.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_4",
@@ -5743,19 +5743,18 @@
   "options": {
    "A": "The British were not as interested in incorporating Native Americans into British colonial society.",
    "B": "The British did not form alliances with Native American nations.",
-   "C": "The British were less concerned with dispossessing Native Americans of their land.",
-   "D": ""
+   "C": "The British were less concerned with dispossessing Native Americans of their land."
   },
-  "answer": "C",
+  "answer": "A",
   "unit": "Period 1-2: 1491-1754",
-  "explanation": "The Spanish actively incorporated Native Americans into colonial society through religious conversion, forced labor systems like the encomienda, and intermarriage, whereas the British generally excluded Native peoples and focused on pushing them aside to create settler communities. Option C might seem tempting because both empires expanded into Native territory, but the British were actually more aggressively focused on dispossessing Native Americans of their land than the Spanish, who primarily sought to extract labor and tribute. Option B is incorrect because the British frequently formed alliances with Native nations for trade and military purposes, especially during imperial conflicts like the French and Indian War.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is A. The British generally did not seek to incorporate Native Americans into their colonial society, preferring instead to push them to the periphery and often treating them as separate entities. In contrast, the Spanish, particularly in their missions, aimed to integrate Native Americans into Spanish colonial life, often through religious conversion and cultural assimilation. Option B is incorrect because the British did indeed form alliances with Native American nations, especially for trade and military support, even if these alliances were often pragmatic and temporary.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_5",
@@ -5769,16 +5768,15 @@
    "C": "request that Pennsylvania establish reservations to protect hunting grounds",
    "D": "cede his people's sovereignty and pledge to follow the governor of Pennsylvania"
   },
-  "answer": "A",
+  "answer": "B",
   "unit": "Period 1-2: 1491-1754",
-  "explanation": "Canassatego sought to pressure Pennsylvania colonists into paying a fair price for western land and to halt fraudulent encroachment, reflecting broader Iroquois efforts to protect Native territory from colonial expansion. Option A might distract students who notice a reference to trade goods, but apologizing for a shortage of deer skins would be a minor diplomatic courtesy rather than the main purpose of a major territorial address. Option D is incorrect because Canassatego consistently defended Native sovereignty and urged unity among tribes rather than submitting to British authority.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B. Canassatego's speech aimed to pressure Pennsylvania colonists to pay more for the purchase of western land, emphasizing the need for fair compensation and highlighting the Iroquois Confederacy's leverage in negotiations. The most tempting wrong option, C, is incorrect because while it mentions protecting hunting grounds, the primary focus of the speech was on the economic aspect of land transactions rather than requesting specific reservations.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "us-history_2024_6",
@@ -5849,8 +5847,7 @@
   "options": {
    "A": "Encouraging the end of mercantilist restrictions on trade with Europe",
    "B": "Limiting colonists’ expectations for achieving social mobility",
-   "C": "Increasing opposition to hereditary privilege",
-   "D": ""
+   "C": "Increasing opposition to hereditary privilege"
   },
   "answer": "C",
   "has_figure": true,
@@ -5858,10 +5855,11 @@
   "unit": "Period 3: 1754-1800",
   "explanation": "Enlightenment philosophers like Locke and Rousseau challenged the idea that power and status should be determined by birth rather than merit or popular consent, which inspired colonial leaders to reject British hereditary rule. This opposition to hereditary privilege became central to Revolutionary ideology in the 1770s. Option A is tempting because colonists resented British economic controls, but Enlightenment thinkers focused primarily on political rights and legitimacy, not trade policy. Option B is wrong because these ideas actually encouraged colonists to expect greater social mobility, not less.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_10",
@@ -5875,14 +5873,14 @@
    "C": "The growth of Protestant evangelicalism in North American colonies",
    "D": "Debates among Europeans about how to treat non-European peoples"
   },
-  "answer": "C",
+  "answer": "D",
   "unit": "Period 7: 1890-1945",
-  "explanation": "The panel’s efforts represented a direct outgrowth of the earlier Protestant evangelical movement that had spread through the colonies, generating religious enthusiasm and reform impulses. That makes it a continuation of colonial evangelicalism rather than a product of European debates over how to treat non-European peoples, which might seem relevant but centered on different legal and cultural concerns. The other options are not supported because the expansion of indentured servitude and the political criticisms of slavery by Republican politicians lack the direct religious lineage seen here.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is D because the panel's work reflects ongoing discussions and debates among Europeans regarding the treatment of non-European peoples, which were prevalent during the era of exploration and colonization. These debates often centered around the ethics of colonialism, the rights of indigenous populations, and how to integrate or govern these groups. Option B might be tempting because it also involves discussions about slavery, but it is incorrect because it specifically refers to criticisms by Republican politicians, which is a much later development and does not encompass the broader, earlier European debates about the treatment of non-Europeans.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_11",
@@ -5896,16 +5894,15 @@
    "C": "ratification of the Fourteenth Amendment",
    "D": "dropping of property ownership requirements for voting"
   },
-  "answer": "D",
+  "answer": "B",
   "unit": "Period 3: 1754-1800",
-  "explanation": "Gradual emancipation laws passed by Northern states such as Pennsylvania and New York directly weakened slavery during this period by beginning the process of freeing enslaved people and eventually eliminating the institution in the North. Dropping property ownership requirements might seem tempting because it happened in the early 1800s, but it only expanded voting rights for white men and did not advance the anti-slavery cause. The Kansas-Nebraska Act and the Fourteenth Amendment belong to the 1850s and 1860s, placing them well outside the stated time frame.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B. The passage of gradual emancipation laws in the North during the late 1700s and early 1800s was a significant step in advancing the movement to oppose slavery. These laws, which typically provided for the eventual freedom of enslaved individuals, often through the aging out of children born to enslaved mothers, were a crucial early effort to erode the institution of slavery. Option A, the adoption of the Kansas-Nebraska Act, is incorrect because it occurred much later, in 1854, and actually exacerbated tensions over slavery by allowing new territories to decide the issue through popular sovereignty, rather than advancing the abolitionist cause.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "us-history_2024_12",
@@ -5981,16 +5978,17 @@
    "C": "enforced restrictions to limit the westward migration of White settlers",
    "D": ""
   },
-  "answer": "A",
+  "answer": "D",
   "unit": "Period 3: 1754-1800",
-  "explanation": "Washington's administration set an important precedent by promoting federal involvement in economic development, including support for manufacturing and transportation infrastructure that later inspired policies such as the American System. Students often mistakenly choose A because Washington negotiated treaties, but his Farewell Address actually warned against permanent foreign alliances, which became a lasting principle of American foreign policy. Option C reflects British colonial policy rather than the actions of the early federal government.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "D. established a precedent for a strong, centralized federal government. The Washington administration, through actions like the suppression of the Whiskey Rebellion and support for Hamilton's financial policies, set important precedents that strengthened the federal government's authority. The most tempting wrong option, B, is incorrect because while internal improvements were an issue in later administrations, they were not a significant focus or long-term influence of Washington’s presidency; instead, his administration was more concerned with establishing the credibility and power of the new national government.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
   "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A",
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "us-history_2024_16",
@@ -6024,18 +6022,17 @@
    "C": "The promotion of the Social Gospel by critics of United States society",
    "D": "The growth of nativist sentiment against the Catholic faith of some immigrants"
   },
-  "answer": "C",
+  "answer": "B",
   "has_figure": true,
   "image": "images/2024_q17.png",
   "unit": "Period 6: 1865-1898",
-  "explanation": "The belief that individuals and society could be improved reflects the reform-minded spirit of the Second Great Awakening, the religious context in which Jarena Lee preached and families responded to her message. This idea helps explain both the openness and the resistance she encountered as people debated moral and social change. The Social Gospel is a later nineteenth-century movement, so it would be anachronistic for understanding Lee's early nineteenth-century ministry. Westward expansion and anti-Catholic nativism are unrelated to the religious reform setting of her interactions.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B, as the belief that individuals and society could be improved is a key theme in the context of Jarena Lee's interactions with families. This idea reflects the broader 19th-century reform movements, which emphasized personal and social betterment, aligning with Lee’s efforts to inspire and uplift others through her preaching. The most tempting wrong option, A, is incorrect because the concept of Manifest Destiny, while significant in the 19th century, is more about territorial expansion and does not directly relate to the personal and spiritual improvement that Lee was focused on.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_18",
@@ -6126,17 +6123,17 @@
   "options": {
    "A": "attempting to protect their cultural and tribal identities",
    "B": "rejecting their tribal sovereignty in favor of United States citizenship",
-   "C": "joining the Civil Rights movement to seek redress of past injustices",
-   "D": ""
+   "C": "joining the Civil Rights movement to seek redress of past injustices"
   },
   "answer": "A",
   "unit": "Period 7: 1890-1945",
   "explanation": "Native Americans in the late 1800s generally resisted forced assimilation and relocation by working to preserve their languages, spiritual practices, and tribal communities despite government pressure. Option B is incorrect because policies like the Dawes Act imposed citizenship and land allotment on Native people, who generally did not willingly abandon tribal sovereignty for it. Option C is also wrong because the Civil Rights movement took place in the mid-twentieth century, long after the period in question.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_23",
@@ -6154,10 +6151,10 @@
   "unit": "Period 5: 1844-1877",
   "explanation": "The American System was the major pre-Civil War policy that promoted national infrastructure such as roads and canals to bind the country together economically, making it the most relevant development among the choices. Choice B is tempting because transportation subsidies were used to fund such projects, but they were only one mechanism within the larger American System rather than the development itself. Options A and C reflect social changes that are not connected to the era's federal infrastructure debates.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "D"
  },
  {
   "id": "us-history_2024_24",
@@ -6171,16 +6168,15 @@
    "C": "The slowing of desegregation efforts led to debates over the effectiveness of nonviolent protest tactics.",
    "D": "Formerly enslaved people sought land ownership but faced determined Southern resistance."
   },
-  "answer": "C",
+  "answer": "D",
   "unit": "Period 6: 1865-1898",
-  "explanation": "Formerly enslaved people pursuing land ownership demonstrates their active drive to gain economic independence and self-determination free from white Southern control, which directly illustrates a quest for autonomy from racial oppression. Southern resistance to these efforts highlights the racial tyranny they confronted. Option C might seem appealing because it mentions active resistance, but it describes developments from the Civil Rights era rather than Reconstruction, making it anachronistic for this question.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D because it directly addresses the pursuit of autonomy by formerly enslaved people, who sought to own land as a means of gaining economic independence and control over their lives, despite facing significant opposition from Southern whites. This resistance underscores the struggle against racial tyranny. Option A, while related to racial issues, is incorrect in this context because the Supreme Court's upholding of Jim Crow laws in Plessy v. Ferguson occurred decades after Reconstruction and represents a setback rather than an effort toward autonomy.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_25",
@@ -6234,16 +6230,15 @@
    "C": "The formation of anti-Catholic political parties",
    "D": "The construction of the transcontinental railroad"
   },
-  "answer": "B",
+  "answer": "A",
   "unit": "Period 6: 1865-1898",
-  "explanation": "Manifest Destiny was the widespread belief that the United States was destined to stretch across the continent, and it served as a powerful ideological justification for acquiring territory from Mexico through events such as the annexation of Texas and the Mexican-American War. Option D, the transcontinental railroad, might seem tempting because it encouraged western settlement, but it was built largely after the major territorial acquisitions from Mexico had already occurred. Option B is incorrect because American leaders generally upheld, rather than rejected, the Monroe Doctrine as a principle to limit European influence in the Americas.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is A. The belief in the idea of Manifest Destiny was a significant cause of westward expansion, as it fueled the conviction that Americans were destined to expand their territory across the continent. This ideology justified the annexation of territories, including those that were part of Mexico, and encouraged settlers to move westward. Option D, the construction of the transcontinental railroad, is a tempting wrong choice because while it did facilitate westward movement, it came later and was more of a result of the expansion rather than a cause of the interaction with Mexico described in the excerpt.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "us-history_2024_28",
@@ -6257,16 +6252,15 @@
    "C": "The creation of more trade ties with Asia",
    "D": "The expansion of the fur trade with Native Americans"
   },
-  "answer": "D",
+  "answer": "A",
   "unit": "Period 3: 1754-1800",
-  "explanation": "The cotton boom, driven by Eli Whitney’s gin and soaring global demand, transformed the Lower South into an economic powerhouse and directly increased the political clout of slave states through massive wealth and the three-fifths clause. This agricultural expansion is the central reason slave states gained so much influence in the antebellum period. The fur trade with Native Americans, by contrast, was centered in the North and West and had no meaningful connection to the plantation economy or the rising power of slave states.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is A, as the growth in cotton production during the early 19th century significantly bolstered the economic and political power of slave states. The demand for cotton, driven by the Industrial Revolution in Europe, led to an expansion of slavery and the need for more land, which in turn increased the influence of these states. Option B, advances in marketing by businesses, might seem plausible because it also relates to economic growth, but it does not directly address the specific context of the growing power of slave states, which was fundamentally tied to the cotton industry and its reliance on slave labor.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "us-history_2024_29",
@@ -6280,16 +6274,15 @@
    "C": "The passage of a fugitive slave law that required the return of escaped enslaved people to enslavers",
    "D": "The efforts by activists to help enslaved people travel to the North through the Underground Railroad"
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Period 5: 1844-1877",
-  "explanation": "The Fugitive Slave Act required Northern citizens and governments to participate in returning escaped enslaved people, which many Northerners viewed as a direct violation of free-state liberties and state sovereignty. This law clearly illustrates how slave states used federal power to impose their interests on the North. Students often mistakenly choose the Underground Railroad, but that was a Northern effort to resist slavery rather than an example of Southern encroachment.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. The passage of a fugitive slave law, such as the Fugitive Slave Act of 1850, required the return of escaped enslaved people to their enslavers, even if they had reached free states. This law effectively extended the reach of slavery into the North, infringing on the liberties of free states by compelling their citizens and officials to participate in the enforcement of slavery. Option B, while highlighting the economic ties between the North and South, does not directly show how slave states encroached on the liberties of free states, as it focuses more on the economic dependency rather than legal or political intrusion.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "us-history_2024_30",
@@ -6323,16 +6316,15 @@
    "C": "To encourage settlers to move into western territories",
    "D": "To amend the Constitution to ensure greater rights for African Americans"
   },
-  "answer": "D",
+  "answer": "A",
   "unit": "Period 6: 1865-1898",
-  "explanation": "The Crittenden Compromise was proposed in late 1860 specifically to prevent Southern secession and avoid a civil war by offering constitutional protections for slavery and extending the Missouri Compromise line to the Pacific. Option D is wrong because the proposal aimed to safeguard slavery, not secure greater rights for African Americans, and it is often confused with later Reconstruction-era amendments.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is A. Crittenden's proposal, put forth in 1860, aimed to prevent the secession of Southern states and thus avoid a civil war by offering a series of constitutional amendments that would protect slavery where it already existed. The most tempting wrong option, B, is incorrect because Crittenden’s plan did not seek to end slavery; rather, it sought to preserve it in the Southern states as a compromise to maintain the Union.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "us-history_2024_32",
@@ -6343,19 +6335,18 @@
   "options": {
    "A": "Debates during the Constitutional Convention over whether to regulate slavery",
    "B": "Controversies over foreign policy related to the French Revolution",
-   "C": "Disagreements over the relationship between the federal government and Native American tribes",
-   "D": ""
+   "C": "Disagreements over the relationship between the federal government and Native American tribes"
   },
-  "answer": "B",
+  "answer": "A",
   "unit": "Period 7: 1890-1945",
-  "explanation": "The Constitutional Convention debates over slavery produced sectional compromises like the Three-Fifths Compromise to preserve the Union, just as Crittenden's proposal offered similar sectional bargains over slavery to prevent secession. Both involved direct North-South negotiations on the institution of slavery to maintain national unity. Controversies over the French Revolution, by contrast, centered on foreign policy alignment and partisan divisions rather than domestic sectional compromise over slavery.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "A is the correct answer because, like Crittenden's proposal, the debates during the Constitutional Convention over whether to regulate slavery were an attempt to address the contentious issue of slavery through a series of compromises. Both situations involved trying to find a middle ground that would appease both the pro-slavery and anti-slavery factions to maintain national unity. The most tempting wrong option, C, involves disagreements over the relationship between the federal government and Native American tribes, which, while also a significant issue, did not directly involve the same level of compromise and negotiation over the institution of slavery as Crittenden's proposal did.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_33",
@@ -6369,16 +6360,15 @@
    "C": "The growth of political opportunities and leadership roles for African Americans",
    "D": "The rise of a sharecropping system among formerly enslaved people"
   },
-  "answer": "A",
+  "answer": "D",
   "unit": "Period 6: 1865-1898",
-  "explanation": "The rise of sharecropping trapped formerly enslaved people in a cycle of debt and economic dependence that closely resembled slavery, which strongly supports Highgate's claim that ending slavery had not completed the society's work. This system limited true freedom and kept African Americans in poverty throughout the South. Option B might seem tempting because the Fourteenth Amendment was a major legal milestone, but its passage represented progress rather than proof that the struggle for full equality remained largely unfinished.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. The rise of the sharecropping system among formerly enslaved people best supports Highgate’s claim that the work of the Massachusetts Anti-Slavery Society was “not yet half done” because it illustrates the continued economic exploitation and lack of genuine freedom for African Americans, despite the end of slavery. This system often trapped Black farmers in cycles of debt and dependency, highlighting the ongoing struggle for true equality and justice. Option C, which mentions the growth of political opportunities and leadership roles for African Americans, might be tempting but is incorrect because it actually represents progress and empowerment, rather than the persistent challenges and injustices that Highgate was emphasizing.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "us-history_2024_34",
@@ -6396,10 +6386,10 @@
   "unit": "Period 6: 1865-1898",
   "explanation": "Edmonia Highgate’s excerpt describes the racial violence and systemic oppression that African Americans endured in the post-Civil War South. The Supreme Court’s Plessy v. Ferguson decision upheld racial segregation, continuing the legal and social subordination of Black Americans well beyond Reconstruction. Some students might consider the industrialization of the New South, but that economic transformation did not continue the specific racial injustice Highgate condemned.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "us-history_2024_35",
@@ -6413,16 +6403,15 @@
    "C": "could vote in elections",
    "D": "joined the Union Army"
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Period 7: 1890-1945",
-  "explanation": "The Fifteenth Amendment, ratified in 1870, prohibited denying the right to vote based on race or previous condition of servitude, which enabled African American men to participate in elections. It is easy to confuse Reconstruction amendments with Civil War events, but African Americans had joined the Union Army during the earlier war, not as a result of this amendment.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C: could vote in elections. The Fifteenth Amendment, ratified in 1870, prohibited the federal and state governments from denying a citizen the right to vote based on that citizen's race, color, or previous condition of servitude, which meant that African American men were granted the right to vote. The most tempting wrong option, B, is incorrect because emancipation had already been achieved with the passage of the Thirteenth Amendment in 1865, which abolished slavery, several years before the Fifteenth Amendment was ratified.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "us-history_2024_36",
@@ -6442,10 +6431,10 @@
   "unit": "Period 1-2: 1491-1754",
   "explanation": "Jee Gam contended that requiring Chinese immigrants to carry residency certificates violated fundamental American principles of liberty and equal rights. He portrayed such laws as unjust restrictions that contradicted the nation’s commitment to freedom. Students might be drawn to choice A because some immigrant groups emphasized cultural preservation, but Gam sought equitable treatment and integration rather than separation from mainstream society.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_37",
@@ -6498,17 +6487,17 @@
   "options": {
    "A": "Suppression of a Filipino nationalist movement",
    "B": "Creation of quota systems based on country of origin",
-   "C": "Wartime internment of Japanese Americans",
-   "D": ""
+   "C": "Wartime internment of Japanese Americans"
   },
   "answer": "B",
   "unit": "Period 7: 1890-1945",
   "explanation": "The government policy described in the excerpt restricted immigration based on race or nationality, which parallels the 1920s quota laws that imposed strict numerical limits on newcomers from specific countries. Option C might seem appealing because it also involved the federal government targeting a specific ethnic group, but the internment of Japanese Americans occurred during World War II, not the 1920s.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_40",
@@ -6528,10 +6517,10 @@
   "unit": "Period 7: 1890-1945",
   "explanation": "The cartoon shows a large figure labeled 'STRIKE-BREAKING' and 'UNION-BUSTING' overpowering a smaller figure, while a government inspector labeled 'FACT-FINDING' looks on. This imagery directly reflects the ongoing struggle between labor unions and employers, a key development from the Gilded Age where labor organizations fought for better conditions. Option A is incorrect because the cartoon does not address population shifts. Option C is wrong as it focuses on immigration, which is not depicted. Option D is incorrect because women's rights are not a theme in the image.",
   "expl_via": "vl",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "us-history_2024_41",
@@ -6591,10 +6580,10 @@
   "unit": "Period 7: 1890-1945",
   "explanation": "The debate over U.S. citizenship for inhabitants of Puerto Rico arose directly from the acquisition of Caribbean and Pacific territories after the Spanish-American War in 1898. Once the United States gained these lands, the federal government had to determine whether their residents automatically became American citizens under the Constitution. A tempting wrong choice might mention settlement house Americanization efforts, but those were later social reforms rather than the original cause of the citizenship question.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "us-history_2024_44",
@@ -6605,17 +6594,17 @@
   "options": {
    "A": "Creation of international defense organizations",
    "B": "Demands for resources for postwar industrialization",
-   "C": "Challenges to the power of the executive branch to wage war",
-   "D": ""
+   "C": "Challenges to the power of the executive branch to wage war"
   },
   "answer": "C",
   "unit": "Period 7: 1890-1945",
   "explanation": "This development reflects broader congressional efforts to limit the president’s ability to commit troops without legislative approval, especially during the Vietnam War era, representing a direct challenge to executive war powers. Option A is incorrect because the creation of international defense organizations like NATO involved foreign alliances rather than domestic constitutional struggles over authority. Option B is also incorrect because the issue centers on the separation of powers in waging war, not on securing resources for postwar industrialization.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_45",
@@ -6669,18 +6658,17 @@
    "C": "United States involvement in the war on terrorism",
    "D": "The influence of liberal ideas on federal legislation"
   },
-  "answer": "C",
+  "answer": "D",
   "has_figure": true,
   "image": "images/2024_q47.png",
   "unit": "Period 8: 1945-1980",
-  "explanation": "The trend reflects the expansion of the federal social safety net during the 1960s and early 1970s, when liberal reformers enacted Medicare, Medicaid, and stronger Social Security benefits that dramatically improved conditions for elderly Americans. This period of activist government, rooted in Great Society ideals, is the only context that aligns with the given dates. Option C is incorrect because the war on terrorism began in 2001, making it impossible to explain any pattern from 1966 to 1974.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. The trend depicted in the graph from 1966 to 1974, which likely shows an increase in benefits or support for Americans 65 and older, can be best understood within the context of the influence of liberal ideas on federal legislation. During this period, significant social welfare programs, such as Medicare and Medicaid, were expanded or introduced, reflecting a broader push for social security and healthcare reform. Option C, United States involvement in the war on terrorism, is incorrect because the war on terrorism primarily refers to events and policies post-2001, well after the 1966-1974 timeframe.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_48",
@@ -6713,17 +6701,17 @@
   "options": {
    "A": "Reconstruction era of the 1860s and 1870s",
    "B": "Gilded Age of the 1880s and 1890s",
-   "C": "Great Depression of the 1930s",
-   "D": ""
+   "C": "Great Depression of the 1930s"
   },
-  "answer": "A",
+  "answer": "C",
   "unit": "Period 8: 1945-1980",
-  "explanation": "Both Reconstruction and the 1960s featured direct federal campaigns against structural poverty through specialized agencies like the Freedmen’s Bureau and the Office of Economic Opportunity, which provided education, healthcare, and economic assistance to marginalized Americans—often working around resistant local governments in the South. The New Deal, while expanding federal power, focused chiefly on temporary work relief and national economic recovery from the Depression rather than a sustained assault on root causes of poverty. The Gilded Age saw virtually no federal role in alleviating poverty, making it the easiest option to eliminate.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C, the Great Depression of the 1930s, because both the 1960s and the 1930s saw the federal government take an active role in addressing poverty through expansive social welfare programs. During the 1960s, President Lyndon B. Johnson's War on Poverty introduced a range of initiatives aimed at providing economic and social support to the poor, much like the New Deal programs under Franklin D. Roosevelt during the 1930s. The most tempting wrong option, A, the Reconstruction era, is incorrect because while it did involve significant federal intervention, its primary focus was on rebuilding the South and securing civil rights for freed slaves, rather than specifically targeting poverty.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_50",
@@ -6737,14 +6725,14 @@
    "C": "Efforts to create a national energy policy in response to several oil crises in the Middle East",
    "D": "The mobilization of women and minorities to support industry during wartime"
   },
-  "answer": "C",
+  "answer": "A",
   "unit": "Period 8: 1945-1980",
-  "explanation": "Efforts to create a national energy policy during the 1970s oil crises accompanied the conservative resurgence, as government attempts to manage energy shortages and regulate prices fueled public frustration with federal overreach and liberal incompetence. This economic turmoil helped mobilize conservatives who advocated for deregulation and limited government. Many students incorrectly choose the growth of evangelical churches, which was indeed part of the conservative coalition but was an internal social force rather than an external policy development that drove the political shift.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is A. The rapid and substantial growth of evangelical Christian churches and organizations during this period closely paralleled the rise in conservative activism, as these groups often aligned with conservative political and social causes, such as opposition to abortion and support for traditional family values. Option B is a tempting wrong choice because it addresses a significant demographic shift, but the decrease in immigration following the passage of quotas did not have a direct connection to the specific growth in conservative activism described in the excerpt.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_51",
@@ -6758,14 +6746,14 @@
    "C": "The implementation of the New Deal",
    "D": "The creation of Great Society antipoverty programs"
   },
-  "answer": "C",
+  "answer": "D",
   "unit": "Period 9: 1980-Present",
-  "explanation": "The New Deal fundamentally expanded the federal government’s role in promoting social welfare and economic security, establishing the modern model of liberal reform through active government intervention. Progressive antitrust efforts sought to regulate corporate power but did not create the broad social safety net that defines New Deal liberalism, so they are not the best example of this kind of sweeping social change.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is D, the creation of Great Society antipoverty programs. These programs, initiated by President Lyndon B. Johnson in the 1960s, aimed to eliminate poverty and racial injustice through a wide range of social welfare initiatives, embodying the liberal social change that sought to use government action to improve the lives of all Americans. The most tempting wrong option, C, the implementation of the New Deal, while also an example of significant social reform, occurred earlier in the 1930s under Franklin D. Roosevelt and focused more on economic recovery and relief during the Great Depression, rather than the broader social and civil rights goals of the Great Society.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "C"
  },
  {
   "id": "us-history_2024_52",
@@ -6783,10 +6771,10 @@
   "unit": "Period 9: 1980-Present",
   "explanation": "Lisa McGirr's work on the New Right highlights how conservative activists organized to combat what they viewed as dangerous moral and cultural decay in American society. Evidence showing these activists challenging perceived signs of decline would directly support her argument. Choice A is tempting for students who confuse populism with conservatism, but attacking business owners for exploitation was a progressive and labor cause, not a conservative one.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "us-history_2024_53",
@@ -6797,17 +6785,17 @@
   "options": {
    "A": "The policies of President Lyndon Johnson",
    "B": "The reinstatement of immigration quotas",
-   "C": "The expansion of suffrage rights to women",
-   "D": ""
+   "C": "The expansion of suffrage rights to women"
   },
-  "answer": "C",
+  "answer": "B",
   "unit": "Period 9: 1980-Present",
-  "explanation": "The expansion of suffrage to women fundamentally broadened the American electorate and became intertwined with the political realignments of the early twentieth century, including the conservative ascendancy that followed the Progressive Era. Lyndon Johnson’s Great Society programs are a tempting distractor because they provoked a conservative backlash, but they represent liberal governance rather than the rightward shift itself.",
-  "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is B. The reinstatement of immigration quotas, particularly with the Immigration Act of 1924, was a long-term development that reflected a conservative and nationalist sentiment, aligning with the \"rightward shift in American politics.\" This act aimed to limit the number of immigrants from certain countries, which was a move toward more restrictive and exclusionary policies. The most tempting wrong option, A, refers to the policies of President Lyndon Johnson, who is known for his liberal Great Society programs, which expanded social welfare and civil rights, thus representing a leftward, not rightward, shift in American politics.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "C",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "us-history_2024_54",
@@ -6838,16 +6826,16 @@
   "options": {
    "A": "desirability of free-trade agreements, such as NAFTA",
    "B": "protection of civil liberties, such as the right to free speech",
-   "C": "growth of radicalism, such as communist and anarchist activism",
-   "D": ""
+   "C": "growth of radicalism, such as communist and anarchist activism"
   },
   "answer": "B",
   "unit": "Period 9: 1980-Present",
   "explanation": "In the months following the September 11 attacks, the Bush administration pushed for expanded surveillance and investigative powers for federal agencies to combat terrorism. These efforts, including the USA PATRIOT Act, sparked intense national debate over whether the government was adequately protecting civil liberties or dangerously overreaching into areas like privacy and free speech. Option C might seem relevant because it involves law enforcement responding to radical threats, but the specific focus on communist and anarchist activism characterizes earlier eras such as the Red Scares rather than the post-2001 War on Terror.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B",
+  "options_repaired": "移除OCR丢失的空选项 D"
  }
 ]

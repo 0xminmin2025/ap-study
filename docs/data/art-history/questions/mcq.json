@@ -3314,12 +3314,12 @@
   "options": {
    "A": "2500 B.C.E.",
    "B": "2000 B.C.E.",
-   "C": "1500 B.C.E.",
-   "D": ""
+   "C": "1500 B.C.E."
   },
   "answer": "A",
   "explanation": "The Pyramids of Giza were constructed during Egypt's Old Kingdom, Fourth Dynasty, around 2500 B.C.E., which marks the height of pyramid-building in ancient Egypt. The date 2000 B.C.E. is too late because it falls in the Middle Kingdom, long after Giza was built, while 1500 B.C.E. belongs to the much later New Kingdom era.",
-  "unit": "Ancient Mediterranean"
+  "unit": "Ancient Mediterranean",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "art-history_2014_80",
@@ -3398,12 +3398,12 @@
   "options": {
    "A": "invent a new system of vaulting",
    "B": "develop central-plan mosques",
-   "C": "build the Great Mosque at Córdoba",
-   "D": ""
+   "C": "build the Great Mosque at Córdoba"
   },
   "answer": "A",
   "explanation": "Sinan revolutionized Ottoman architecture by inventing new vaulting and dome-support systems that allowed for unprecedentedly large, open interior spaces beneath soaring domes. Option B might seem appealing because Sinan designed famous mosques with central plans, but he did not invent the central-plan mosque, which had earlier precedents in Byzantine and Islamic architecture.",
-  "unit": "West & Central Asia"
+  "unit": "West & Central Asia",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "art-history_2014_85",
@@ -3462,12 +3462,12 @@
   "options": {
    "A": "Reformation",
    "B": "French Revolution",
-   "C": "Franco-Prussian War",
-   "D": ""
+   "C": "Franco-Prussian War"
   },
   "answer": "B",
   "explanation": "Jacques-Louis David was the leading Neoclassical painter of the late 18th century and effectively served as the official artist of the French Revolution, creating iconic works that promoted republican ideals and immortalized revolutionary leaders. His paintings, such as The Death of Marat, directly engaged with the political turmoil and ideals of that era. The Reformation might sound appealing if one thinks broadly of reform, but it was a 16th-century religious movement that has no connection to David's career.",
-  "unit": "Later Europe & Americas"
+  "unit": "Later Europe & Americas",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "art-history_2014_89",

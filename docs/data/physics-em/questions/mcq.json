@@ -281,7 +281,6 @@
   "number": 18,
   "text": "Two particles each with a charge -Q are fixed a distance L apart as shown above. Each particle experiences a net electric force F. A particle with a charge +q is now fixed midway between the original two particles. As a result, the net electric force experienced by each negatively charged particle is reduced to F . The value of q is",
   "options": {
-   "A": "Q",
    "B": "2 Q",
    "C": "4 Q",
    "D": "8 Q",
@@ -292,7 +291,8 @@
   "image": "images/2012_q18.png",
   "unit": "Electrostatics",
   "explanation": "Initially, the force on each -Q charge is due to the other -Q charge, given by Coulomb's law as F = kQ²/L². When a +q charge is placed midway, it exerts an attractive force on each -Q charge. The distance from +q to each -Q is L/2, so the force from +q is kQq/(L/2)² = 4kQq/L². This force opposes the repulsive force from the other -Q charge. The net force becomes F - 4kQq/L², and we are told this equals F/2. Setting up the equation F - 4kQq/L² = F/2, we find 4kQq/L² = F/2. Substituting F = kQ²/L² gives 4kQq/L² = (1/2)kQ²/L², which simplifies to 4q = Q/2, so q = Q/8. The correct answer is D. A common mistake is to forget that the force from the middle charge is attractive and to misapply the distance in Coulomb's law, leading to incorrect choices like C or E.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2012_19",
@@ -347,7 +347,10 @@
   "answer": "E",
   "unit": "Electric Circuits",
   "explanation": "Because the battery voltage is unchanged, the total power depends only on the equivalent resistance. For two identical resistors, series gives 2R, so P equals V squared over 2R, while parallel gives R over 2, making the new power V squared over R over 2, which is four times larger. A tempting wrong choice is 2P, since you might see that the resistance is halved and think the power merely doubles, forgetting that the series baseline was twice a single resistor, so the net change is actually a factor of four.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2012_22",
@@ -441,7 +444,10 @@
   "answer": "B",
   "unit": "Electromagnetism",
   "explanation": "Faraday’s law says the induced emf equals the negative rate of change of magnetic flux. Since the flux is the magnetic field times the constant loop area, an emf that grows linearly with time means dB/dt is proportional to t. Integrating gives B proportional to t squared, so the field must vary as t^2. Choice C is tempting because one might expect B and emf to share the same time dependence, but emf depends on the derivative of B, not B itself.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2012_27",
@@ -487,7 +493,6 @@
   "number": 29,
   "text": "If the current in the circuit is I at time t, what energy is stored in the circuit in addition to that stored in the battery?",
   "options": {
-   "A": "LI",
    "B": "I2R",
    "C": "1 2 LI",
    "D": "LI + I2R",
@@ -496,7 +501,8 @@
   "answer": "C",
   "unit": "Electric Circuits",
   "explanation": "The only energy stored in the circuit components besides the battery is the magnetic energy in the inductor, which equals one-half L I squared. Resistors dissipate energy as heat rather than storing it, so any expression containing R is incorrect. Therefore, the additional stored energy is simply one-half L I squared.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2012_30",
@@ -534,7 +540,10 @@
   "answer": "E",
   "unit": "Electromagnetism",
   "explanation": "The inductive time constant equals L divided by R. Doubling L and halving R each multiply the time constant by two, so together they make it four times larger. Choosing 2t is a common mistake because it only accounts for one of those two changes.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2012_32",
@@ -573,7 +582,10 @@
   "image": "images/2012_q33.png",
   "unit": "Conductors & Capacitors",
   "explanation": "When a thin metal sheet is placed halfway between the plates of a capacitor, it acts as an equipotential surface, effectively creating two capacitors in series. Each of these capacitors has half the original plate separation, so each has a capacitance of 2C. The equivalent capacitance of two capacitors in series, each with capacitance 2C, is C. A common mistake is to think the capacitance doubles, but this ignores the series configuration of the resulting capacitors.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2012_34",
@@ -593,7 +605,10 @@
   "image": "images/2012_q34.png",
   "unit": "Magnetic Fields",
   "explanation": "The magnetic force on a moving charged particle is given by the right-hand rule. With the magnetic field directed out of the page, a positively charged particle will experience a force that causes it to curve in a counterclockwise direction. Particle B curves in this direction, indicating it has a positive charge. Particles A, C, D, and E curve clockwise, which would be the path of a negatively charged particle.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2012_35",
@@ -771,7 +786,10 @@
   "image": "images/2013_q10.png",
   "unit": "Electrostatics",
   "explanation": "The charge +Q is inside a hollow region of a solid metal conductor. In electrostatic equilibrium, the electric field inside the conducting material (at points Y and Z) is zero, and the entire conductor is an equipotential region. Therefore, the potential at Y and Z must be the same. Point X is inside the hollow region, where the electric field is not zero, so the potential at X is different. Since the conductor is neutral and the field lines from +Q terminate on the inner surface, the potential at X is lower than at Y and Z. Thus, V_Z < V_Y < V_X.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_11",
@@ -791,7 +809,10 @@
   "image": "images/2013_q11.png",
   "unit": "Electrostatics",
   "explanation": "The electric force on a test charge is zero where the electric fields from the two charges cancel. The -Q charge creates a field pointing toward it, and the +4Q charge creates a field pointing away. Since +4Q has a larger magnitude, the point of zero field must be closer to the smaller charge (-Q). Point C is the only location between the charges where the fields are in opposite directions and can cancel, as the field from +4Q weakens with distance. Points A and B are too close to -Q, where its field dominates. Points D and E are too far from -Q, where the stronger +4Q field dominates.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_12",
@@ -886,7 +907,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q17.png",
-  "unit": "Magnetic Fields"
+  "unit": "Magnetic Fields",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_19",
@@ -962,7 +986,10 @@
   "answer": "E",
   "unit": "Electrostatics",
   "explanation": "Gauss’s law tells us the total electric flux through the closed cube equals the enclosed charge divided by ε₀, and symmetry means each face would get exactly one-sixth of that total. Because the problem does not give the magnitude of the charge, you cannot compute a numerical value for the flux through one face, so choice E is correct. Choice A is wrong because a nonzero charge at the center creates a net outward flux through every face; it does not cancel to zero.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-em_2013_23",
@@ -982,7 +1009,10 @@
   "image": "images/2013_q23.png",
   "unit": "Electrostatics",
   "explanation": "The electric potential is a scalar quantity that adds algebraically. For a negative charge and a positive charge, the potential is zero at points where the positive potential from the positive charge exactly cancels the negative potential from the negative charge. Along the line connecting the charges, this can only happen at one point between them, where the distances are such that kQ/r1 = k|q|/r2. To the left of the negative charge or to the right of the positive charge, the potential from the closer charge dominates, so the potential cannot be zero. Therefore, there is only one such position.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_24",
@@ -1115,7 +1145,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q31.png",
-  "unit": "Electromagnetism"
+  "unit": "Electromagnetism",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_32",
@@ -1133,7 +1166,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q32.png",
-  "unit": "Electromagnetism"
+  "unit": "Electromagnetism",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_33",
@@ -1151,7 +1187,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q33.png",
-  "unit": "Electrostatics"
+  "unit": "Electrostatics",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2013_34",
@@ -1189,7 +1228,10 @@
   "has_figure": true,
   "answer": "D",
   "image": "images/2013_q35.png",
-  "unit": "Electrostatics"
+  "unit": "Electrostatics",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2015_3",
@@ -1243,7 +1285,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2015_q5.png",
-  "unit": "Magnetic Fields"
+  "unit": "Magnetic Fields",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2015_6",
@@ -1378,7 +1423,10 @@
   "answer_source": "llm",
   "unit": "Electromagnetism",
   "explanation": "The current through an inductor cannot change instantaneously, so right after the switch moves to position b the inductor still carries the same steady-state current it had before, which is e/R. That current must flow through the resistor in the new loop, so by Ohm’s law the voltage across the resistor is I·R = e, and because the inductor is in series with that resistor its voltage must also be e. A common mistake is choosing zero because the inductor had zero voltage in steady state, but the sudden switch forces it to generate a back emf to maintain the current.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2015_13",
@@ -1894,7 +1942,10 @@
   "answer": "E",
   "unit": "Conductors & Capacitors",
   "explanation": "The energy stored in a capacitor is proportional to the square of the charge, as given by U = Q²/(2C). When the charge increases by a factor of 16, the stored energy increases by a factor of 16², which equals 256. A tempting wrong choice is 16, which comes from mistakenly treating energy as directly proportional to charge rather than to charge squared.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-em_2016_7",
@@ -1950,7 +2001,10 @@
   "answer": "D",
   "unit": "Electrostatics",
   "explanation": "The electric field at the surface of a uniformly charged insulating sphere is proportional to the radius, since E = ρR/(3ε₀). Doubling the radius while keeping the charge density constant therefore doubles the field strength. A tempting wrong choice is E, because one might assume the same density produces the same surface field, forgetting that the enclosed charge grows faster than the surface area.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2016_10",
@@ -2285,7 +2339,10 @@
   "image": "images/2016_q26.png",
   "unit": "Electrostatics",
   "explanation": "The electric flux through a closed surface is given by Gauss's Law, which states that the flux is equal to the enclosed charge divided by epsilon-zero. In this case, the cylindrical shell is closed but does not contain the charge Q; the charge is outside the shell. Therefore, the net enclosed charge is zero, and the electric flux through the shell is zero. Option (B) is a common mistake, as it represents the flux for a charge enclosed by a surface, but here the charge is not enclosed.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2016_27",
@@ -2423,7 +2480,10 @@
   "image": "images/2016_q34.png",
   "unit": "Electrostatics",
   "explanation": "The kinetic energy gained by the particle comes from the decrease in its electric potential energy. Since the sphere has uniform charge distribution, the electric field inside is proportional to the distance from the center (E ∝ r). The potential difference between B and A is proportional to the integral of the field, which for a uniform sphere is proportional to (r²). The potential difference between C and A is larger than between B and A. The work done by the field from C to A is greater than from B to A, resulting in a kinetic energy at A that is 2K. The potential difference from C to A is 3 times the potential difference from B to A, but the potential difference from B to A is not zero, so the kinetic energy is not 3K. The correct answer is C because the potential difference from C to A is 2 times the potential difference from B to A, so the kinetic energy is 2K.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2016_35",
@@ -2442,7 +2502,10 @@
   "image": "images/2016_q35.png",
   "unit": "Electrostatics",
   "explanation": "The charge at the upper left corner is negative. The charge at the upper right corner is positive, so it attracts the negative charge, creating a force to the right (vector B). The charge at the lower left corner is positive, so it attracts the negative charge, creating a force downward (vector D). The charge at the lower right corner is negative, so it repels the negative charge, creating a force to the left and upward (vector A). The horizontal components from the upper right and lower right charges cancel, leaving only the downward force from the lower left charge. However, the force from the upper right charge (to the right) is stronger than the force from the lower right charge (to the left) because the upper right charge is closer. Therefore, the net force has a rightward component. The vertical components from the upper right and lower left charges are in opposite directions. The force from the lower left charge (downward) is stronger than the force from the upper right charge (upward) because the lower left charge is closer. Therefore, the net force has a downward component. The net force is the vector sum of these components, which is a vector pointing to the right and downward. Vector B is the only vector that points to the right and downward. Vector A points to the left and upward, which is incorrect. Vector C points to the right and upward, which is incorrect. Vector D points straight down, which is incorrect. Therefore, the correct answer is B.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2017_4",
@@ -2774,7 +2837,10 @@
   "image": "images/2017_q23.png",
   "unit": "Electric Circuits",
   "explanation": "The circuit has two parallel branches. The top branch has a 2R resistor with current I. The bottom branch has a resistor R in series with an unknown resistor X, with a total current of 2I. Since the voltage across parallel branches is equal, the voltage across the 2R resistor (V = I * 2R) must equal the voltage across the series combination (V = 2I * (R + X)). Setting these equal gives I * 2R = 2I * (R + X). Solving for X yields X = R/2. The common mistake is to assume the current through R is I, but it is actually 2I, the total current in that branch.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-em_2017_24",
@@ -3045,7 +3111,10 @@
   "image": "images/2018_q3.png",
   "unit": "Conductors & Capacitors",
   "explanation": "The capacitors C1 and C2 are in parallel, so their initial equivalent capacitance is C_EQ = C + C/3 = 4C/3. After inserting a dielectric with constant k into C2, its capacitance becomes k(C/3). The new equivalent capacitance is C + k(C/3) = 2C_EQ = 2(4C/3) = 8C/3. Solving C + k(C/3) = 8C/3 gives k/3 = 5/3, so k = 5. Choice (A) is wrong because it assumes the capacitance doubles without considering the parallel combination, and (B) and (C) are too low.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2018_4",
@@ -3072,7 +3141,6 @@
   "number": 5,
   "text": "A square coil with sides of length 1.0 centimeters is moved through a region of uniform magnetic field at a constant speed, as shown in the figure above. Which of the following graphs best shows the current I in the coil as a function of the position x of the right edge as the coil moves through the magnetic field, where counterclockwise current is positive?",
   "options": {
-   "A": "0",
    "B": "0.60 ampere",
    "C": "1.0 ampere",
    "D": "3.6 amperes",
@@ -3083,7 +3151,8 @@
   "image": "images/2018_q5.png",
   "unit": "Electromagnetism",
   "explanation": "The current is induced only when the magnetic flux through the coil is changing. As the coil enters the field (x from 0 to 1 cm), the flux increases, inducing a counterclockwise (positive) current. This current is constant because the rate of flux change is constant. When the coil is fully inside (x from 1 to 2 cm), the flux is constant, so the current is zero. As the coil exits (x from 2 to 3 cm), the flux decreases, inducing a clockwise (negative) current, which is also constant. The graph shows a positive pulse, then zero, then a negative pulse of equal magnitude, which matches option D. Option A is incorrect because the current is not zero at x=0 and the exit current is not positive. Option B is incorrect because the current is not constant throughout. Option C is incorrect because the current is not negative during entry. Option E is incorrect because the current is not positive during exit.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2018_6",
@@ -3092,7 +3161,6 @@
   "number": 6,
   "text": "The y-component of the magnetic field Bis given as a function of time t by the equation B s u b y equals, negative alpha plus beta t , where a l pha equals, 4.0 tesla and b e t a eq uals, 3.0 tesla per second. A coil of wire with an area of .0 meters squared and a resistance of .0 ohms is placed in this field, parallel to thex z plane at y equals, 2.0 centimeters . The current in the coil at time t equals, 1.2 seconds is most nearly",
   "options": {
-   "A": "0",
    "B": "0.60 ampere",
    "C": "1.0 ampere",
    "D": "3.6 amperes",
@@ -3101,7 +3169,8 @@
   "answer": "B",
   "unit": "Magnetic Fields",
   "explanation": "Because the magnetic field changes at a constant rate β, the induced emf equals the coil area multiplied by β, giving a steady current of area × β ÷ resistance. Using the given values produces approximately 0.60 A. The constant α and the specific time do not matter, since the slope dB/dt is unchanged. A tempting wrong choice is D, which comes from incorrectly multiplying β by t instead of using the constant rate of change.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2018_7",
@@ -3352,7 +3421,6 @@
   "number": 19,
   "text": "The magnetic field at a perpendicular distance r from a long, straight current-carrying wire is directly proportional to",
   "options": {
-   "A": "r",
    "B": "r squared",
    "C": "over r",
    "D": "t h e fraction 1 over r squared, end fraction",
@@ -3362,7 +3430,8 @@
   "answer_source": "llm",
   "unit": "Magnetic Fields",
   "explanation": "Ampere’s law gives the magnetic field around a long straight wire as μ₀I over 2πr, so the field is proportional to 1/r. A common error is choosing 1/r² because that is how a point charge’s electric field behaves, but a line current produces a magnetic field that decreases only inversely with distance.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2018_20",
@@ -3508,7 +3577,6 @@
   "options": {
    "A": "C over 3",
    "B": "t he fraction 2 C over",
-   "C": "C",
    "D": "t he fraction 3 C over",
    "E": "CThe figure presents 2 circuit diagrams. The first circuit diagram has a battery and 2 resistors. The top side of the circuit has an unlabeled battery and a resistor labeled lowercase r. There is a box made of dashed lines drawn around the battery and resistor lowercase r. The bottom side of the circuit has a resistor labeled uppercase R. The current is labeled I and is directed up the right side of the circuit. The second circuit has a battery and 2 resistors. The top side of the circuit has an unlabeled battery and a resistor labeled lowercase r. There is a box made of dashed lines drawn around the battery and resistor lowercase r. The bottom side of the circuit has a resistor labeled 3 times uppercase R. The current is labeled I over 2, and is directed up the right side of the circuit."
   },
@@ -3517,7 +3585,8 @@
   "image": "images/2018_q28.png",
   "unit": "Conductors & Capacitors",
   "explanation": "The circuit shows two capacitors in series connected in parallel with a third capacitor. The equivalent capacitance of the two series capacitors is C/2. This combination is in parallel with the third capacitor, so the total equivalent capacitance is C/2 + C = 3C/2. However, the correct answer is B (2C/3), which suggests the diagram might be misinterpreted. Re-evaluating, if the two capacitors are in parallel and that combination is in series with the third, the equivalent capacitance would be (2C * C) / (2C + C) = 2C/3. This matches the official answer, indicating the diagram likely shows two capacitors in parallel connected in series with the third capacitor. The common mistake is to assume the series combination is in parallel, leading to the incorrect answer D.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 C"
  },
  {
   "id": "physics-em_2018_29",
@@ -3537,7 +3606,10 @@
   "image": "images/2018_q29.png",
   "unit": "Electric Circuits",
   "explanation": "Using Ohm's law for a complete circuit, the current is I = EMF / (R + r). For the first case, I = EMF / (R + r). For the second case, I/2 = EMF / (3R + r). Setting up the ratio of the two equations gives 2 = (3R + r) / (R + r). Solving this equation yields r = R. A common mistake is to assume the EMF changes, but it is constant, so the ratio of currents must equal the inverse ratio of total resistances.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2018_30",
@@ -3709,7 +3781,10 @@
   "answer": "C",
   "has_figure": true,
   "image": "images/2021_q3.png",
-  "unit": "Conductors & Capacitors"
+  "unit": "Conductors & Capacitors",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2021_5",
@@ -3795,7 +3870,6 @@
   "number": 9,
   "text": "In the circuit shown above, switch S is left open for a very long period of time and is then closed. What is the initial current that passes through S immediately after it is closed?",
   "options": {
-   "A": "0",
    "B": "ε 2R",
    "C": "ε R",
    "D": "2ε R",
@@ -3806,7 +3880,8 @@
   "image": "images/2021_q9.png",
   "unit": "Electric Circuits",
   "explanation": "When the switch is closed, the capacitor acts like a short circuit initially because it is uncharged and cannot have an instantaneous voltage across it. This means the full voltage ε appears across the two resistors in series, which have a total resistance of 2R. The current through the switch is the same as the current through the series combination, so it is ε / (2R). However, the current splits at the junction. The current through the switch is the current through the right resistor, which is half of the total current. The total current is ε / (2R), so the current through the switch is (ε / (2R)) * (R / R) = ε / R. The initial current through the switch is ε / R. The other options are incorrect because they either misapply the rules for capacitors in DC circuits or miscalculate the current division.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2021_12",
@@ -3966,7 +4041,10 @@
   "image": "images/2021_q21.png",
   "unit": "Electrostatics",
   "explanation": "The force on the positive charge at the center is the vector sum of the forces from the eight corner charges. The top four corners have negative charges (-q), which attract the positive charge, pulling it upward in the +y direction. The bottom four corners have positive charges (+q), which repel the positive charge, pushing it upward in the +y direction. Due to the symmetry of the cube, the forces in the x and z directions cancel out, leaving a net force in the +y direction. The common mistake might be to think the forces cancel completely, but the symmetry of the charge distribution results in a net upward force.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2021_22",
@@ -3975,7 +4053,6 @@
   "number": 22,
   "text": "Which of the following is a correct expression for the magnitude of the net force per length on the top right wire due to the other three wires?",
   "options": {
-   "A": "0",
    "B": "√ 2I2µ0 4πa",
    "C": "I2µ0 2πa",
    "D": "√ 2I2µ0 2πa",
@@ -3984,7 +4061,8 @@
   "answer": "B",
   "unit": "Electromagnetism",
   "explanation": "The two closer wires each exert a repulsive force of magnitude μ0 I^2/(2πa) on the top right wire in perpendicular directions, while the third wire exerts an attractive force whose components each reduce those contributions by half. The resulting net force per length has magnitude μ0 I^2/(4πa) in each direction, giving a total of √2 I^2 μ0/(4πa). A common mistake is to select D by combining only the two closer forces and overlooking the partial cancellation from the third.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-em_2021_23",
@@ -4179,7 +4257,10 @@
   "answer": "B",
   "unit": "Electric Circuits",
   "explanation": "Since both devices are in parallel, they share the same 120 V voltage. Using P = V^2/R, resistance is inversely proportional to power, so the 1000 W heater has one-tenth the resistance of the 100 W lamp and the ratio is 1/10. It is tempting to pick 10 by assuming higher power means higher resistance, but that inverts the correct relationship.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2021_33",
@@ -4229,9 +4310,7 @@
   "text": "Three particles of equal charge +Q are arranged at 3 corners of a square, as shown above. Point A is located at the center of the square. What charge could be placed at the empty corner to make the electric potential at point A zero?",
   "options": {
    "A": "+3Q",
-   "B": "+Q",
    "C": "Zero",
-   "D": "−Q",
    "E": "−3Q STOP END OF ELECTRICITY AND MAGNETISM SECTION I"
   },
   "answer": "E",
@@ -4239,7 +4318,8 @@
   "image": "images/2021_q35.png",
   "unit": "Electrostatics",
   "explanation": "The electric potential at point A is a scalar sum of the potentials from each charge. The three +Q charges are at equal distances from the center, so their combined potential is positive. To cancel this and make the total potential zero, the charge at the empty corner must be negative. Since the three +Q charges contribute a total potential proportional to +3Q, the missing charge must be -3Q to balance it. A charge of -Q would not be strong enough to cancel the positive potential, making (D) incorrect.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 B,D"
  },
  {
   "id": "physics-em_2022_1",
@@ -4249,7 +4329,6 @@
   "text": "A uniformly charged, nonconducting sphere is held at a fixed position. When a proton is outside the sphere at a distance D from the center of the sphere, the magnitude of the acceleration of the proton is a. If an electron is at a distance 2D from the center of the same sphere, what is the magnitude of the acceleration of the electron in terms of a?",
   "options": {
    "A": "1833 a",
-   "B": "a",
    "C": "458a",
    "D": "917a",
    "E": "1833a"
@@ -4257,7 +4336,8 @@
   "answer": "C",
   "unit": "Electrostatics",
   "explanation": "Outside a uniformly charged sphere the electric field follows an inverse-square law, so moving from D to 2D reduces the force by a factor of four. The electron therefore experiences one-quarter the force of the proton, but because the electron is roughly 1833 times lighter, its acceleration is about 1833/4 ≈ 458 times a. Option D is tempting if you mistakenly treat the field as falling off as 1/r instead of 1/r².",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 B"
  },
  {
   "id": "physics-em_2022_3",
@@ -4335,7 +4415,10 @@
   "answer_source": "llm",
   "unit": "Conductors & Capacitors",
   "explanation": "Capacitance is directly proportional to the dielectric constant, so tripling the dielectric constant triples the capacitance. Because the capacitor remains connected to the same battery, the voltage is fixed, and the charge on the plates becomes Q_new = C_new V = 3CV = 3Q. A tempting wrong choice is one-third Q, which mistakenly assumes the charge stays constant like an isolated capacitor instead of the voltage staying constant.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2022_7",
@@ -4453,7 +4536,10 @@
   "image": "images/2022_q13.png",
   "unit": "Magnetic Fields",
   "explanation": "The magnetic field inside a solenoid is given by B = μ₀nI, where n is the number of turns per unit length. The graph shows a linear relationship between B and I, so the slope is μ₀n. The slope is approximately (16.0 × 10⁻³ T) / (4.0 A) = 4.0 × 10⁻³ T/A. Solving for n gives n = slope / μ₀ = (4.0 × 10⁻³) / (4π × 10⁻⁷) ≈ 3183 turns/m. The solenoid is 15 cm (0.15 m) long, so the total number of loops is n × length = 3183 × 0.15 ≈ 477, which is closest to 480. However, the correct answer is D (60), which suggests a different interpretation. Re-evaluating, the slope is (16.0 × 10⁻³) / 4.0 = 4.0 × 10⁻³ T/A. Using B = μ₀NI/L, the slope is μ₀N/L. So N = (slope × L) / μ₀ = (4.0 × 10⁻³ × 0.15) / (4π × 10⁻⁷) ≈ (6.0 × 10⁻⁴) / (1.256 × 10⁻⁶) ≈ 478. This is not 60. The official answer is D, so perhaps the graph is misread. If the slope is 16.0 × 10⁻³ T / 4.0 A = 4.0 × 10⁻³ T/A, and μ₀ = 4π × 10⁻⁷, then N/L = slope / μ₀ = 4.0 × 10⁻³ / (4π × 10⁻⁷) ≈ 3183 turns/m. N = 3183 × 0.15 = 477. This is not 60. The correct answer should be B (480), not D. The official answer key says D, but based on the graph, the calculation leads to approximately 480. Therefore, the correct answer should be B, not D. However, since the official answer is D, there might be an error in the problem or the answer key. The number of loops cannot be determined without knowing the radius of the solenoid is incorrect because the formula for the magnetic field inside a solenoid does not depend on the radius. The correct answer should be B (480).",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2022_14",
@@ -4713,7 +4799,10 @@
   "image": "images/2022_q26.png",
   "unit": "Electromagnetism",
   "explanation": "The induced emf in a moving conductor in a magnetic field is given by emf = B * L * v, where L is the length of the conductor. In this square loop, the emf is induced by the motion of the top and right wires. When the side length is s, the emf is ε. When the side length doubles to 2s, the length of the moving wires doubles. Since the magnetic field B and speed v are constant, the emf is directly proportional to the length L. Therefore, the emf doubles to 2ε. The other options are incorrect because they do not correctly account for the linear relationship between emf and length.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2022_27",
@@ -4847,7 +4936,10 @@
   "answer": "C",
   "unit": "Conductors & Capacitors",
   "explanation": "Because the capacitor is isolated, its charge remains constant. Doubling the plate separation halves the capacitance, but inserting a dielectric with κ = 2 doubles it, so the overall capacitance does not change. Since V = Q/C, an unchanged charge and capacitance mean the potential difference stays V. A common error is to consider only one of the two changes and incorrectly conclude the voltage halves or doubles.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2022_34",
@@ -4879,9 +4971,7 @@
   "text": "Two identical parallel-plate capacitors are connected in parallel, as shown in Figure 1. Both capacitors have plates that are a distance d apart and each has a capacitance C. The distance between the plates of the upper capacitor is increased to 2d and the distance between the plates of the lower capacitor is decreased to d 2, as shown in Figure 2. The equivalent capacitance of the two capacitors in Figure 2 is",
   "options": {
    "A": "5 2C",
-   "B": "2C",
    "C": "3 2C",
-   "D": "C",
    "E": "1 2C STOP END OF ELECTRICITY AND MAGNETISM SECTION I"
   },
   "has_figure": true,
@@ -4889,7 +4979,8 @@
   "image": "images/2022_q35.png",
   "unit": "Conductors & Capacitors",
   "explanation": "The capacitance of a parallel-plate capacitor is inversely proportional to the distance between the plates. When the plate separation is doubled to 2d, the capacitance of the upper capacitor becomes C/2. When the separation is halved to d/2, the capacitance of the lower capacitor becomes 2C. Since the capacitors are in parallel, their equivalent capacitance is the sum: C/2 + 2C = 5C/2. However, the correct answer is C, which suggests a possible error in the problem statement or answer key, as the calculation clearly shows 5C/2. Given the provided answer key, the intended calculation might have been different, but based on standard physics, the equivalent capacitance should be 5C/2.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 B,D"
  },
  {
   "id": "physics-em_2023_1",
@@ -5170,7 +5261,10 @@
   "answer_source": "llm",
   "unit": "Electrostatics",
   "explanation": "Coulomb's law states that electric force is proportional to the product of the charges and inversely proportional to the square of the distance between them. Doubling one charge doubles the force, and halving the distance quadruples it, giving a total factor of eight. Students often pick 4F by overlooking that the distance term is squared, so reducing the distance by half actually increases the force by a factor of four, not two.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-em_2023_15",
@@ -5266,7 +5360,10 @@
   "answer": "A",
   "unit": "Conductors & Capacitors",
   "explanation": "Opening the switch traps charge on the capacitor, so the charge remains constant when the dielectric is inserted. Because capacitance increases by a factor of κ = 5 while Q is fixed, the potential difference must drop by the same factor to satisfy Q = CΔV. Thus the new potential difference is the original ΔV divided by 5. Many students incorrectly think the voltage stays at ΔV, but that only occurs when the capacitor remains connected to the battery.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2023_20",
@@ -5413,15 +5510,15 @@
    "A": "1 2Q",
    "B": "2 3Q",
    "C": "3 4Q",
-   "D": "4 5Q",
-   "E": "Q"
+   "D": "4 5Q"
   },
   "has_figure": true,
   "answer": "B",
   "image": "images/2023_q27.png",
   "unit": "Conductors & Capacitors",
   "explanation": "When two conducting spheres are connected by a wire, they reach the same electric potential. The potential of a charged sphere is proportional to its charge divided by its radius (V = kQ/r). Since the spheres are far apart, we can treat them as isolated. Let the final charge on Sphere 1 be Q1 and on Sphere 2 be Q2. Conservation of charge gives Q1 + Q2 = Q. Setting the potentials equal gives Q1/(2R) = Q2/R. Solving these equations yields Q1 = (2/3)Q. A common mistake is to assume charge is shared equally, but charge distributes in proportion to radius, not equally.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 E"
  },
  {
   "id": "physics-em_2023_28",
@@ -5439,7 +5536,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2023_q28.png",
-  "unit": "Electric Circuits"
+  "unit": "Electric Circuits",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2023_29",
@@ -5909,7 +6009,10 @@
   "image": "images/2024_q17.png",
   "unit": "Electric Circuits",
   "explanation": "To double the equivalent resistance by adding one identical resistor, the fifth resistor must be placed in series with the entire network, because adding a resistor in parallel would always decrease the total resistance. Since the original four-resistor arrangement has an equivalent resistance equal to one resistor, adding another resistor in series yields a total of two resistors. Choices that place the new resistor in parallel or in series with only a single branch alter the equivalent resistance but do not double it.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-em_2024_18",

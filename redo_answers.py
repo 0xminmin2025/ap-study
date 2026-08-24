@@ -24,7 +24,7 @@ DOCS = os.path.join(HOME, "docs", "data")
 # 硅基流动 2026-08 余额耗尽(HTTP 402)，改用阿里百炼
 API = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
 
-TARGETS = [("human-geo", 2024), ("micro-econ", 2025)]
+TARGETS = [("stats", 2019), ("micro-econ", 2019), ("micro-econ", 2021), ("us-history", 2024)]
 
 MODELS = [
     "qwen3.6-plus",
@@ -35,6 +35,11 @@ MODELS = [
 SUBJ_NAME = {
     "human-geo": "AP Human Geography",
     "micro-econ": "AP Microeconomics",
+    "stats": "AP Statistics",
+    "us-history": "AP US History",
+    "art-history": "AP Art History",
+    "physics-mech": "AP Physics C: Mechanics",
+    "physics-em": "AP Physics C: E&M",
 }
 
 

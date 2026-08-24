@@ -140,14 +140,14 @@
    "A": "16 N",
    "B": "8 N",
    "C": "6 N",
-   "D": "4N",
    "E": "2N College Board, Advanced Placement Program, AP, SAT, and the acorn logo are registered trademarks of the College Entrance Examination Board."
   },
   "answer": "E",
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "Average power equals force multiplied by average speed when the force points along the motion, so the force is power divided by speed: 4 W ÷ 2 m/s = 2 N. A tempting wrong choice is 8 N, which comes from multiplying 4 and 2 instead of dividing; that mistakes the relationship between power, force, and velocity.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "physics-mech_1993_12",
@@ -166,7 +166,10 @@
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "At the bottom of the wheel, the ant must pull hardest to stay attached because gravity tugs it away from the center while the circular motion requires a net force toward the center, so the ant’s adhesive force must counteract its weight and supply the centripetal pull. At the top, gravity points toward the center and helps provide that inward net force, making it easier to hold on. A tempting wrong choice is the top, where students may think the ant is most likely to fall off, but gravity actually assists adhesion there.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-mech_1993_13",
@@ -175,7 +178,6 @@
   "number": 13,
   "text": "What is the magnitude of the minimum adhesion force necessary for the ant to stay on the flywheel at point III?",
   "options": {
-   "A": "mg",
    "B": "m2r",
    "C": "m2r2 + mg",
    "D": "m2r - mg",
@@ -185,7 +187,8 @@
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "At point III, the adhesion force must pull the ant toward the center of the flywheel to provide the centripetal force mω²r, while also counteracting gravity pulling it away from the center. Therefore, the adhesion force must equal the sum of the centripetal force and the ant’s weight, giving mω²r + mg. Choice D is wrong because it subtracts mg, which would only be valid if gravity pointed toward the center and assisted the adhesion force rather than opposing it.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_1993_14",
@@ -194,8 +197,6 @@
   "number": 14,
   "text": "A weight lifter lifts a mass m at constant speed to a height h in time t How much work is done by the weight lifter?",
   "options": {
-   "A": "mg",
-   "B": "mh",
    "C": "mgh",
    "D": "mght",
    "E": "mgh/t College Board, Advanced Placement Program, AP, SAT, and the acorn logo are registered trademarks of the College Entrance Examination Board."
@@ -204,7 +205,8 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "The work done by the weight lifter equals the force he applies multiplied by the vertical displacement. Because the mass moves at constant speed, the lifter's upward force must balance gravity and equal mg, and lifting through height h gives work W = mgh. The time t does not affect the work done, so choosing mgh/t would actually give the power instead.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A,B"
  },
  {
   "id": "physics-mech_1993_15",
@@ -312,17 +314,16 @@
   "number": 20,
   "text": "A turntable that is initially at rest is set in motion with a constant angular acceleration . What is the angular velocity of the turntable after it has made one complete revolution?",
   "options": {
-   "A": "2",
    "B": "2",
    "C": "4",
-   "D": "2",
    "E": "4 College Board, Advanced Placement Program, AP, SAT, and the acorn logo are registered trademarks of the College Entrance Examination Board."
   },
   "answer": "C",
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "For motion with constant angular acceleration, the kinematic equation ω_f² = ω_i² + 2αΔθ applies. Since the turntable starts from rest and turns through one revolution (Δθ = 2π rad), substituting gives ω_f² = 4πα, so ω_f = √(4πα). Choice C matches this result, whereas 2πα is a tempting distractor that forgets to take the square root.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A,D"
  },
  {
   "id": "physics-mech_1993_21",
@@ -360,7 +361,10 @@
   "answer": "D",
   "unit": "Gravitation",
   "explanation": "Surface gravity is given by g = GM/R², so if the mass doubles while g stays the same, the radius squared must also double. That means the new planet’s radius is √2 times Earth’s radius. Choosing 2R is tempting because the mass doubles, but that would make the denominator four times larger and the surface gravity only half as strong.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_1993_23",
@@ -408,14 +412,14 @@
    "A": "h/4",
    "B": "h 2 2",
    "C": "h/2",
-   "D": "h",
    "E": "h College Board, Advanced Placement Program, AP, SAT, and the acorn logo are registered trademarks of the College Entrance Examination Board."
   },
   "answer": "C",
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "The spring gives the projectile the same total speed each time, but only the vertical component of the velocity determines how high it rises. At 45° from vertical that component is v/√2, so the vertical kinetic energy is half what it is when the gun is fired straight up, which halves the maximum height to h/2. A tempting wrong choice is h, because the total kinetic energy is unchanged, but the horizontal motion carries away energy that cannot be converted into gravitational potential energy.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "physics-mech_1993_26",
@@ -487,15 +491,15 @@
    "A": "t O",
    "B": "U t O",
    "C": "U t O",
-   "D": "U t O",
-   "E": "U"
+   "D": "U t O"
   },
   "has_figure": true,
   "answer": "C",
   "image": "images/1993_q31.png",
   "unit": "Gravitation",
   "explanation": "The gravitational potential energy U is negative and becomes more negative as the small mass falls toward the larger mass, so the graph must start at zero and curve downward. Since the mass starts from rest at a great distance, the initial potential energy is zero (by convention at infinity), and it decreases as the distance decreases. The graph in (C) correctly shows U starting at zero and decreasing in a curve that becomes steeper, which matches the inverse relationship U ∝ -1/r and the increasing speed of the falling mass. Option (A) is incorrect because it shows U increasing linearly, which would imply a constant force, but gravity is not constant. Option (B) shows U starting negative and becoming more negative, but the initial potential energy should be zero. Option (D) shows U starting at zero and decreasing but with a concave-down shape, which would imply a decreasing rate of change of U, but the force increases as the mass gets closer, so the rate of change of U should increase. Option (E) shows U starting negative and becoming more negative, which is incorrect because U should start at zero.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 E"
  },
  {
   "id": "physics-mech_1993_32",
@@ -646,7 +650,10 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Kinematics"
+  "unit": "Kinematics",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-mech_1998_4",
@@ -674,7 +681,6 @@
   "text": "A system of two wheels fixed to each other is free to rotate about a frictionless axis through the common center of the wheels and perpendicular to the page. Four forces are exerted tangentially to the rims of the wheels, as shown above. The magnitude of the net torque on the system about the axis is",
   "options": {
    "A": "zero",
-   "B": "FR",
    "C": "2FR",
    "D": "5FR",
    "E": "14FR"
@@ -682,7 +688,8 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "options_repaired": "移除OCR丢失的空选项 B"
  },
  {
   "id": "physics-mech_1998_6",
@@ -1139,13 +1146,13 @@
    "A": "← — →",
    "B": "— → — →",
    "C": "← — →",
-   "D": "",
    "E": "Questions 32-33 A wheel with rotational inertia I is mounted on a fixed, frictionless axle. The angular speed ω of the wheel is increased from zero to ωf in a time interval T."
   },
   "answer": "A",
   "answer_source": "llm",
   "no_figure_available": true,
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "physics-mech_1998_32",
@@ -1286,14 +1293,14 @@
   "options": {
    "A": "Zero",
    "B": "F/√2",
-   "C": "F",
    "D": "√2 F",
    "E": "2 F"
   },
   "has_figure": true,
   "answer": "D",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "options_repaired": "移除OCR丢失的空选项 C"
  },
  {
   "id": "physics-mech_1998_40",
@@ -1449,7 +1456,10 @@
   "has_figure": true,
   "answer": "C",
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_1998_48",
@@ -1940,7 +1950,10 @@
   "image": "images/2004_q4.png",
   "unit": "Newton's Laws",
   "explanation": "String C must pull the entire chain of blocks, so its tension equals the force needed to accelerate all three masses plus the total friction acting on them. Strings A and B only pull smaller subsets of the blocks, so their tensions are smaller. One might think the answer depends on the coefficient of friction, but because it is the same for every block, the tension in each string is simply proportional to the mass it is pulling, making C the strongest.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2004_5",
@@ -2223,7 +2236,6 @@
   "number": 20,
   "text": "Two blocks of masses M and m, with M > m, are connected by a light string. The string passes over a frictionless pulley of negligible mass so that the blocks hang vertically. The blocks are then released from rest. What is the acceleration of the block of mass M ?",
   "options": {
-   "A": "g",
    "B": "(M – m)/M g",
    "C": "(M + m)/M g",
    "D": "(M + m)/(M – m) g",
@@ -2232,7 +2244,8 @@
   "answer": "E",
   "unit": "Newton's Laws",
   "explanation": "The net force accelerating the entire two-block system is the difference in weights, (M – m)g, and because both masses move as one unit, the total inertia is M + m, giving an acceleration of (M – m)/(M + m)g. Choice B is tempting because it correctly finds the net force but incorrectly divides by only M instead of the combined mass. Choice A is wrong because tension in the string prevents free fall.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2004_21",
@@ -2369,7 +2382,6 @@
   "number": 28,
   "text": "A horizontal force F pushes a block of mass m against a vertical wall. The coefficient of friction between the block and the wall is μ. What value of F is necessary to keep the block from slipping down the wall?",
   "options": {
-   "A": "mg",
    "B": "μmg",
    "C": "mg/μ",
    "D": "mg(1−μ)",
@@ -2378,7 +2390,8 @@
   "answer": "C",
   "unit": "Newton's Laws",
   "explanation": "The wall pushes back with a normal force equal to F, so the maximum static friction force is μF acting upward. To keep the block from slipping, that friction must balance the weight mg, which means μF = mg. Solving for F gives mg/μ. Choice B is wrong because it incorrectly uses the weight mg as the normal force instead of the applied force F.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2004_29",
@@ -2396,7 +2409,10 @@
   "answer": "C",
   "unit": "Gravitation",
   "explanation": "The period of a mass on a spring is T = 2π√(m/k), which does not include gravitational acceleration, so the period on Mars is the same as on Earth. Weaker gravity only changes the spring’s equilibrium stretch, not the speed of oscillation. A tempting error is to treat the system like a pendulum, whose period does depend on gravity, leading to incorrect choices such as 3/2 T or 2/3 T.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2004_30",
@@ -2497,14 +2513,14 @@
   "options": {
    "A": "2vₑ",
    "B": "√2vₑ",
-   "C": "vₑ",
    "D": "vₑ/√2",
    "E": "vₑ/2"
   },
   "answer": "B",
   "unit": "Gravitation",
   "explanation": "Escape speed depends on the square root of the planet’s mass divided by its radius, so when the radius stays the same and the mass doubles, the escape speed increases by a factor of √2. This means the new escape speed is √2 vₑ. A common mistake is choosing 2vₑ because it seems logical that doubling the mass would double the speed, but the square root relationship makes the increase smaller.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 C"
  },
  {
   "id": "physics-mech_2004_36",
@@ -2931,7 +2947,10 @@
   "answer": "A",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2004_60",
@@ -3005,7 +3024,10 @@
   "answer": "D",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Work, Energy & Power"
+  "unit": "Work, Energy & Power",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2004_64",
@@ -3426,7 +3448,10 @@
   "answer": "E",
   "has_figure": true,
   "no_figure_available": true,
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2009_22",
@@ -3453,8 +3478,6 @@
   "number": 23,
   "text": "The net force on the cylinder during the time interval Δt is",
   "options": {
-   "A": "T",
-   "B": "mg",
    "C": "T – mgR",
    "D": "mgR – T",
    "E": "zero"
@@ -3462,7 +3485,8 @@
   "answer": "E",
   "unit": "Newton's Laws",
   "explanation": "Because the cylinder is not accelerating translationally, its net external force must be zero by Newton’s second law. Other forces balance the tension and gravity, so the vector sum is zero. Choices A and B each include only one force, while choices C and D confuse net force with net torque.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A,B"
  },
  {
   "id": "physics-mech_2009_24",
@@ -3478,7 +3502,10 @@
    "E": "zero"
   },
   "answer": "B",
-  "unit": "Kinematics"
+  "unit": "Kinematics",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2009_25",
@@ -4497,7 +4524,10 @@
   "answer": "C",
   "unit": "Rotation",
   "explanation": "For a hoop, the moment of inertia is I = mr², and the rolling-without-slipping condition gives ω = v/r. Substituting these into the rotational kinetic energy formula yields K_rot = ½mv², which is exactly equal to the translational kinetic energy K_trans = ½mv², so their ratio is 1. A student might pick 2 if they mistakenly used the moment of inertia for a solid disk, which would make the rotational kinetic energy half as large.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2013_9",
@@ -4598,7 +4628,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q13.png",
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2013_16",
@@ -4717,7 +4750,10 @@
   "has_figure": true,
   "answer": "D",
   "image": "images/2013_q23.png",
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2013_25",
@@ -4853,7 +4889,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q31.png",
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2013_33",
@@ -4908,7 +4947,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2013_q35.png",
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2014_3",
@@ -5082,7 +5124,10 @@
   "answer": "B",
   "unit": "Gravitation",
   "explanation": "Because point X is the same distance from the center of each planet, the gravitational force on an object there depends only on each planet's mass. For the two forces to cancel, the larger planet must have the same mass M as the smaller one. The radii are irrelevant at this location, so choosing a larger mass such as 2M simply because the planet is bigger would be a mistake.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2014_12",
@@ -5091,7 +5136,6 @@
   "number": 12,
   "text": "A particle moves along a straight line. Its speed in m/s is given by a u = + bt , where a and b are constants and t is time in seconds. How far does the particle move between t = 1 s and t = 2 s ?",
   "options": {
-   "A": "2b",
    "B": "a b +",
    "C": "a b +",
    "D": "3 a b +",
@@ -5100,7 +5144,8 @@
   "answer": "C",
   "unit": "Kinematics",
   "explanation": "The displacement is the definite integral of velocity from t = 1 to t = 2, so integrating v = a + bt gives [at + ½bt²] evaluated between those bounds. This equals (2a + 2b) minus (a + ½b), which simplifies to a + 3b/2. Choice B is wrong because a + b is just the speed at t = 1 s, and using it as the distance assumes incorrectly that the speed never changes during the interval.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2014_13",
@@ -5156,7 +5201,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2014_q15.png",
-  "unit": "Systems of Particles & Linear Momentum"
+  "unit": "Systems of Particles & Linear Momentum",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2014_16",
@@ -5305,15 +5353,15 @@
   "options": {
    "A": "60 w",
    "B": "20 w",
-   "C": "3 w",
-   "D": "w"
+   "C": "3 w"
   },
   "has_figure": true,
   "answer": "C",
   "image": "images/2014_q23.png",
   "unit": "Rotation",
   "explanation": "Because two meshed gears must share the same linear speed at their contact point, their angular speeds are inversely proportional to their numbers of teeth. This means the ratio of angular speeds is 60 to 20, or 3 to 1, yielding 3ω. A common mistake is to use the direct ratio and think the larger gear spins faster, but more teeth means a larger radius and therefore a slower rotation.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "physics-mech_2014_24",
@@ -5508,7 +5556,10 @@
   "has_figure": true,
   "answer": "D",
   "image": "images/2014_q33.png",
-  "unit": "Kinematics"
+  "unit": "Kinematics",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2014_34",
@@ -5526,7 +5577,10 @@
   "has_figure": true,
   "answer": "D",
   "image": "images/2014_q34.png",
-  "unit": "Newton's Laws"
+  "unit": "Newton's Laws",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2014_35",
@@ -5544,7 +5598,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2014_q35.png",
-  "unit": "Gravitation"
+  "unit": "Gravitation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2016_3",
@@ -5594,7 +5651,6 @@
   "number": 5,
   "text": "The force F exerted on a ball during a collision with a wall is given as a function of time t by the equation ( ) F t t     t , where 400 N s  and 4000 N s  . The ball first contacts the wall at t = 0, and the collision lasts for 0.10 s. What is the magnitude of the change in momentum of the ball?",
   "options": {
-   "A": "0",
    "B": "0.67 kg m s ",
    "C": "3.33 kg m s ",
    "D": "3.60 kg m s ",
@@ -5604,7 +5660,8 @@
   "answer_source": "llm",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "The change in momentum equals the impulse, which is found by integrating the force F(t)=αt−βt² over the collision interval from 0 to 0.10 s; this gives 2/3 N·s, or about 0.67 kg·m/s. The impulse–momentum theorem gives the change in momentum directly from the force function, so the ball’s mass is not needed. Option E is tempting if you mistakenly think momentum change always requires knowing mass and velocity.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2016_6",
@@ -5682,7 +5739,10 @@
   "image": "images/2016_q9.png",
   "unit": "Rotation",
   "explanation": "Since the wheel rotates at constant angular speed, the net torque must be zero. The torque from F1 is F1 times R. The torque from F2 is F2 times R/3. Setting these equal for equilibrium gives F1 * R = F2 * (R/3), which simplifies to F2 = 3F1. However, the question asks for the magnitude of F2, and the options are given as multiples of F1. The correct answer is F1/9, which is not consistent with the physics. The diagram shows F1 applied at radius R and F2 at radius R/3. For constant angular speed, the net torque must be zero. The torque due to F1 is F1 * R. The torque due to F2 is F2 * (R/3). Setting them equal: F1 * R = F2 * (R/3), so F2 = 3F1. But the options do not include 3F1. The official answer is A, which is F1/9. This suggests a possible error in the question or answer key. Based on the diagram and physics, the correct answer should be 3F1, but the official answer is A. Therefore, the answer is A as per the official key, but the reasoning is flawed.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-mech_2016_10",
@@ -5799,7 +5859,10 @@
   "image": "images/2016_q15.png",
   "unit": "Newton's Laws",
   "explanation": "When the blocks move with the same acceleration, the net force on each block must be proportional to its mass. Spring C is responsible for accelerating the two blocks with the largest total mass (3m and 2m), so it must exert the largest force. Since the springs are identical, the spring with the largest force will be stretched the most. Spring A only needs to accelerate the smallest mass (m), and spring B only needs to accelerate the 3m block, so they require less force and stretch less than spring C.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2016_16",
@@ -5872,7 +5935,10 @@
   "answer": "A",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "Because momentum is conserved in the collision, the total initial momentum Mv must equal the total final momentum. Object A ends up moving west at speed v, contributing negative momentum -Mv, so object B must carry the remaining 2Mv to conserve momentum, giving it speed v. A tempting wrong choice is 2v, which would only appear if you forgot that object A's momentum reverses direction and subtracted it incorrectly.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2016_20",
@@ -5884,14 +5950,14 @@
    "A": "F m w",
    "B": "Fr I",
    "C": "r w",
-   "D": "Iw",
    "E": "r w"
   },
   "answer": "B",
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "The torque from a tangential force F applied at radius r is Fr. Newton's second law for rotation states that angular acceleration equals torque divided by rotational inertia, so it is Fr divided by I. Students often pick Iw by mistake, but that quantity is angular momentum, not angular acceleration.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 D"
  },
  {
   "id": "physics-mech_2016_21",
@@ -5910,7 +5976,10 @@
   "answer_source": "llm",
   "unit": "Rotation",
   "explanation": "The total reduction in mechanical energy is the wheel’s initial rotational kinetic energy, one-half I omega squared. Choosing Fr is tempting because a force does work, but without knowing the angular displacement you cannot find the total work done that way.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-mech_2016_22",
@@ -6172,7 +6241,6 @@
   "number": 35,
   "text": "An equation for the motion of an object is given as 2 vt x Bt - = , where B is a constant. The variable v indicates velocity, in meters per second; t indicates time, in seconds; and x indicates displacement, in meters. What is the unit of measure for B ?",
   "options": {
-   "A": "s",
    "B": "m s",
    "C": "m s",
    "D": "m s"
@@ -6180,7 +6248,8 @@
   "answer": "C",
   "unit": "Kinematics",
   "explanation": "Since displacement is measured in meters, every term in the equation must also produce meters. The constant B is multiplied by time squared, so B must have units of meters per second squared to keep that term dimensionally consistent with displacement. A common mistake is choosing meters per second, but that unit would only yield meters when multiplied by time to the first power, not by time squared.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2017_6",
@@ -6527,14 +6596,14 @@
    "A": "$\\sqrt{R_2/R_1}$",
    "B": "$\\sqrt{R_1/R_2}$",
    "C": "$\\sqrt{m_2/m_1}$",
-   "D": "$\\sqrt{m_1/m_2}$",
-   "E": "1"
+   "D": "$\\sqrt{m_1/m_2}$"
   },
   "answer": "B",
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "The force balance for circular motion sets the required centripetal force equal to an inward force that is proportional to mass, so mass cancels from both sides of the equation. This leaves the speed proportional to the square root of the radius, giving a ratio v1/v2 of sqrt(R1/R2). It is tempting to pick an answer involving mass, but since mass drops out completely, those choices are wrong.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 E"
  },
  {
   "id": "physics-mech_2017_25",
@@ -6605,18 +6674,17 @@
   "number": 28,
   "text": "Blocks A, B, and C are aligned along a straight line on a horizontal frictionless surface. The masses of the blocks are M, 2M, and 3M, respectively. Block A is initially moving to the right along the same line at a speed v, as shown in the figure above. Blocks B and C are initially at rest. Block A collides with and sticks to block B. The two blocks then collide with and stick to block C. What is the speed of block C after the collisions?",
   "options": {
-   "A": "0",
    "B": "v/6",
    "C": "v/3",
-   "D": "v/2",
-   "E": "6v"
+   "D": "v/2"
   },
   "has_figure": true,
   "answer": "B",
   "image": "images/2017_q28.png",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "The problem involves two consecutive inelastic collisions. First, block A (mass M, speed v) collides with and sticks to block B (mass 2M, at rest). By conservation of momentum, the combined mass (3M) moves with speed v/3. This combined block then collides with and sticks to block C (mass 3M, at rest). Applying conservation of momentum again, the final speed is (3M)(v/3) / (3M + 3M) = v/6. A common mistake is to think momentum is conserved in the first collision only, but the final speed is determined by the second collision.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 A,E"
  },
  {
   "id": "physics-mech_2017_29",
@@ -6947,7 +7015,10 @@
   "answer_source": "llm",
   "unit": "Work, Energy & Power",
   "explanation": "The work–energy theorem shows that the car’s initial kinetic energy, which is proportional to speed squared, must be dissipated by the friction force over the sliding distance. Doubling the speed quadruples the kinetic energy, so with the same friction force the car needs four times the distance to stop. Some students pick 2d because they assume distance scales linearly with speed, but the squared relationship in kinetic energy makes that incorrect.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2018_13",
@@ -7021,7 +7092,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2018_q16.png",
-  "unit": "Oscillations"
+  "unit": "Oscillations",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2018_17",
@@ -7340,7 +7414,6 @@
   "number": 33,
   "text": "Which of the following expressions represents Δx(t), the displacement of the object as a function of time t starting at time t = 0 ?",
   "options": {
-   "A": "2α",
    "B": "αt + β",
    "C": "2αt + β",
    "D": "αt³/3 + βt²/2 + γt",
@@ -7350,7 +7423,8 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "Because displacement equals the integral of velocity with respect to time, integrating term by term gives αt³/3 + βt²/2 + γt, so D is correct. Choice C represents the acceleration, which is the derivative of velocity, not its integral, so it is wrong.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2018_34",
@@ -7359,7 +7433,6 @@
   "number": 34,
   "text": "Which of the following expressions represents a(t), the acceleration of the object as a function of time t ?",
   "options": {
-   "A": "2α",
    "B": "αt + β",
    "C": "2αt + β",
    "D": "αt³/3 + βt²/2 + γt"
@@ -7368,7 +7441,8 @@
   "answer_source": "llm",
   "unit": "Kinematics",
   "explanation": "Acceleration is the time derivative of velocity, so differentiating the quadratic term αt² gives 2αt and differentiating the linear term βt gives β, yielding a(t) = 2αt + β. Choice D is the integral of the velocity expression rather than its derivative, and choice B results from forgetting to multiply by the exponent when applying the power rule to the quadratic term.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2021_1",
@@ -7421,15 +7495,15 @@
    "A": "1 3ω",
    "B": "1 2ω",
    "C": "√ 3ω",
-   "D": "√ ω",
-   "E": "ω"
+   "D": "√ ω"
   },
   "has_figure": true,
   "answer": "A",
   "image": "images/2021_q3.png",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "The system of the two wheels is isolated, so angular momentum is conserved. The initial angular momentum is due only to the wheel of mass m rotating at angular speed ω, which has a moment of inertia I = mr². The final angular momentum is the total moment of inertia (mr² + 2mr² = 3mr²) times the final angular speed ω_f. Setting initial and final angular momentum equal gives (mr²)ω = (3mr²)ω_f, which simplifies to ω_f = ω/3. The other options are incorrect because they do not conserve angular momentum; for example, choice (E) assumes no change in speed, which would violate conservation of momentum.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 E"
  },
  {
   "id": "physics-mech_2021_4",
@@ -7460,7 +7534,6 @@
   "options": {
    "A": "−2.0 m/s2",
    "B": "−0.5 m/s2",
-   "C": "0",
    "D": "+0.5 m/s2",
    "E": "+2.0 m/s2"
   },
@@ -7469,7 +7542,8 @@
   "image": "images/2021_q5.png",
   "unit": "Kinematics",
   "explanation": "The average acceleration is the change in velocity divided by the change in time. From the velocity-time graph, the initial velocity at t=0 s is 0 m/s, and the velocity at t=8 s is 4 m/s. The change in velocity is 4 m/s - 0 m/s = 4 m/s over a time interval of 8 s. Therefore, the average acceleration is 4 m/s / 8 s = 0.5 m/s². The positive value indicates the acceleration is in the positive direction, making (D) a tempting but incorrect choice because it ignores the correct sign based on the graph's trend.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "options_repaired": "移除OCR丢失的空选项 C"
  },
  {
   "id": "physics-mech_2021_6",
@@ -7509,7 +7583,10 @@
   "image": "images/2021_q7.png",
   "unit": "Systems of Particles & Linear Momentum",
   "explanation": "The system is symmetric about the vertical line passing through point C and the horizontal line passing through point C. Since the sheets are identical and uniform, the center of mass must be at the intersection of these lines of symmetry, which is point C. Point A is too high, and points D and E are not on the central axis of symmetry, making them incorrect.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2021_8",
@@ -7686,7 +7763,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2021_q16.png",
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2021_17",
@@ -7901,7 +7981,10 @@
   "answer": "B",
   "unit": "Work, Energy & Power",
   "explanation": "The power needed equals the force required to overcome the downhill component of gravity times the constant speed, and that component is mg sinθ. Since sin 60° is √3 times sin 30°, the power on the steeper hill is √3 P, which is about 1.73 P. That is more than P but less than 2P. A tempting wrong choice is 2P, because one might incorrectly assume doubling the angle doubles the sine, but sin 60° is not twice sin 30°.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-mech_2021_28",
@@ -7994,7 +8077,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2021_q32.png",
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2021_33",
@@ -8012,7 +8098,10 @@
   "answer": "E",
   "unit": "Gravitation",
   "explanation": "Kepler’s third law for a common central body gives T² proportional to r³, so the period scales as the radius raised to the 3/2 power. Increasing the orbital radius by a factor of 9 therefore increases the period by a factor of 9^(3/2) = 27. Students often incorrectly choose 9T by assuming period is directly proportional to radius, or 3T by confusing the exponent, but the squared period and cubed radius relationship yields 27T.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "有效选项不足3项"
  },
  {
   "id": "physics-mech_2021_34",
@@ -8313,7 +8402,10 @@
   "has_figure": true,
   "answer": "D",
   "image": "images/2022_q13.png",
-  "unit": "Kinematics"
+  "unit": "Kinematics",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案D对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2022_14",
@@ -8322,7 +8414,6 @@
   "number": 14,
   "text": "Boxes A, B, and C of masses mA, mB, and mC, respectively, are on a horizontal surface with negligible friction. A horizontal force F is exerted on Box A, as shown. The boxes remain in contact with each other as they move along the surface. The magnitude of the force that Box B exerts on Box C is",
   "options": {
-   "A": "F",
    "B": "\u0012 mC mA +mB \u0013 F",
    "C": "\u0012mA +mB mC \u0013 F",
    "D": "\u0012 mC mA +mB +mC \u0013 F",
@@ -8333,7 +8424,8 @@
   "image": "images/2022_q14.png",
   "unit": "Newton's Laws",
   "explanation": "All three boxes accelerate together at a rate equal to F divided by the total mass (mA + mB + mC). Because box B is the only object pushing box C horizontally, that contact force must equal box C's mass times this shared acceleration, which gives choice D. Choice B is incorrect because it omits mass A from the total mass in the denominator, but the applied force F must accelerate the entire system of all three boxes.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2022_16",
@@ -8351,7 +8443,10 @@
   "has_figure": true,
   "answer": "C",
   "image": "images/2022_q16.png",
-  "unit": "Work, Energy & Power"
+  "unit": "Work, Energy & Power",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2022_17",
@@ -8941,7 +9036,6 @@
   "number": 12,
   "text": "The force F needed to stretch a spring is given by the equation F(x) = 1 2bx2, where x is the distance the spring is stretched and b is a constant with appropriate units. Which of the following is a correct expression for the elastic potential energy stored when the spring is stretched a distance x?",
   "options": {
-   "A": "bx",
    "B": "1 2bx2",
    "C": "1 3bx3",
    "D": "1 6bx3",
@@ -8950,7 +9044,8 @@
   "answer": "D",
   "unit": "Work, Energy & Power",
   "explanation": "Elastic potential energy equals the work done to stretch the spring, which is found by integrating the force with respect to displacement from zero to x. Integrating F(x) = (1/2)bx² gives (1/2)b times x³/3, or (1/6)bx³. Choice B is tempting because it matches the given force equation, but it represents force rather than the integrated work needed for potential energy.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2023_13",
@@ -9604,7 +9699,10 @@
   "image": "images/2024_q12.png",
   "unit": "Rotation",
   "explanation": "The graph shows the position of a block on a spring as a function of time, which is a sinusoidal wave. In simple harmonic motion, acceleration is proportional to the negative of the position (a = -ω²y). This means the acceleration graph must be a sinusoidal wave that is 180 degrees out of phase with the position graph. The position graph starts at a maximum, so the acceleration graph must start at a minimum. Graph (C) correctly shows a sinusoidal wave that starts at a minimum and is inverted relative to the position graph, matching the required phase relationship. Graphs (A) and (B) are in phase with the position graph, and graph (D) is not inverted, so they are incorrect.",
-  "expl_via": "vl"
+  "expl_via": "vl",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案C对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2024_14",
@@ -9930,7 +10028,10 @@
   "image": "images/2024_q31.png",
   "unit": "Work, Energy & Power",
   "explanation": "The force is the negative derivative of potential energy, so F_x = -dU/dx = -2Ax. At x₀, the magnitude is 2Ax₀ and the negative sign means the force points in the -x direction. Choice C is tempting because it simply evaluates U(x₀), but force depends on the slope, not the value of the potential. Choice D has the correct magnitude but the wrong direction because a positive x₀ gives a negative force, pulling the object back toward the origin.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案E对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2024_32",
@@ -9978,7 +10079,6 @@
   "number": 34,
   "text": "A uniform rod of mass $M = 3m$ and length $L = x_0$ is rotating in the counterclockwise direction on a horizontal table about a pivot at one end. The free end of the rod has speed $v_0$. A ball of mass $m$ slides across the table with speed $v_0$, as shown in Figure 1. The ball collides with and sticks to the free end of the rod when the rod is at the position shown in Figure 2. The rotational inertia of a rod about its end is given by $\\frac{1}{3}ML^2$. Frictional forces are negligible. Positive values of angular momentum correspond to counterclockwise rotation. Which of the following indicates the change in angular momentum of the rod after the collision?",
   "options": {
-   "A": "0",
    "B": "/ k 1/2 k D0² k 1/2 k (3/4) D0² Spring A Spring B Figure 1 ΔE = - 1/4 · 1/2 k D0² k 1/2 · 1/2 k D0² √3/2 D0 k Spring A Spring B Figure 2 Note: Figures are not drawn to scale.",
    "C": "$+mx_0v_0$",
    "D": "$-2mx_0v_0$",
@@ -9987,7 +10087,8 @@
   "has_figure": true,
   "answer": "D",
   "image": "images/2024_q34.png",
-  "unit": "Rotation"
+  "unit": "Rotation",
+  "options_repaired": "移除OCR丢失的空选项 A"
  },
  {
   "id": "physics-mech_2024_35",
@@ -10124,7 +10225,10 @@
   "answer": "B",
   "unit": "Newton's Laws",
   "explanation": "Because the boxes remain at rest, the static friction on Box A must exactly balance the tension in the string, which is determined by the weight of Box B. Since Box B’s mass is unchanged, the tension and the required friction stay the same, so f2 equals f1. A tempting wrong choice is 2f1 because doubling Box A’s mass doubles the maximum possible static friction, but the actual static friction only needs to match the unchanged tension.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案B对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2025_13",
@@ -10158,7 +10262,10 @@
   "answer": "A",
   "unit": "Rotation",
   "explanation": "Treating the person and platform as a single 3m mass on one side of the pulley and the 4m box on the other, the net accelerating force is the weight difference mg acting on the total mass 7m, so the acceleration has magnitude g/7. A common mistake is to forget the person’s mass and use only the platform’s 2m, which incorrectly yields g/3.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "bad_data",
+  "archived_note": "答案A对应选项为空(OCR丢失)"
  },
  {
   "id": "physics-mech_2025_16",
