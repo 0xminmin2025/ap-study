@@ -13557,16 +13557,15 @@
    "D": "The marginal utility of the last dollar spent on apples is equal to the marginal utility of the last dollar spent on oranges.",
    "E": "The marginal utility received from consuming the last apple and that received from consuming the last orange are both maximized"
   },
-  "answer": "C",
+  "answer": "D",
   "unit": "Basic Economic Concepts",
-  "explanation": "A consumer maximizes total utility when the marginal utility per dollar spent is equal across all goods, meaning the satisfaction gained from the last dollar spent on apples equals that from the last dollar spent on oranges. This condition ensures Aurora cannot increase her total utility by shifting spending from one fruit to the other. Option C is tempting because it mentions marginal utility, but it is incorrect because it ignores prices; if apples and oranges have different prices, their marginal utilities will not be equal when utility is maximized.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D because when a consumer maximizes their total utility, they allocate their budget so that the marginal utility per dollar spent on each good is equal. This means that Aurora will be indifferent between spending an additional dollar on apples or oranges, as both provide the same additional satisfaction per dollar. The most tempting wrong option is C, which states that the marginal utility of the last apple is equal to the marginal utility of the last orange. This is incorrect because it does not account for the prices of the goods; the equality must be in terms of marginal utility per dollar, not just marginal utility.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_2",
@@ -13581,16 +13580,15 @@
    "D": "Decrease. Decrease",
    "E": "No change. Increase"
   },
-  "answer": "D",
+  "answer": "A",
   "unit": "Imperfect Competition",
-  "explanation": "A per-unit tax on shrimp raises the cost of using shrimp, so frozen-meal producers will substitute toward chicken, increasing the demand for chicken. Because shrimp is now more expensive, the marginal cost of producing frozen meals rises, shifting the supply curve for frozen meals to the left and raising the equilibrium price. Choice D is tempting if you confuse substitute inputs with complementary inputs or mistakenly believe that higher input costs will lower the final product’s price, but substitute inputs lead firms toward the relatively cheaper input and higher output prices in the short run.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is A. When a per-unit tax is imposed on shrimp, the cost of using shrimp as an input in the production of frozen meals increases. As a result, producers will substitute chicken for shrimp to minimize costs, increasing the demand for chicken. This shift in production inputs will also lead to an increase in the overall cost of producing frozen meals, which will be reflected in a higher equilibrium price for these meals. The most tempting wrong option, B, suggests that the equilibrium price of frozen meals would decrease, which is incorrect because the increased cost of production due to the tax on shrimp would push prices up, not down.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_3",
@@ -13609,10 +13607,10 @@
   "unit": "Imperfect Competition",
   "explanation": "Under perfect price discrimination, a firm charges each buyer their exact willingness to pay, which completely eliminates consumer surplus by capturing it all as producer surplus. The firm also expands output to the allocatively efficient quantity where demand equals marginal cost, eliminating the deadweight loss that existed under a single monopoly price, so deadweight loss decreases rather than increases. A common mistake is choosing an option that keeps consumer surplus positive or suggests deadweight loss rises, but perfect price discrimination transfers all surplus to the firm and restores efficiency.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_4",
@@ -13627,16 +13625,15 @@
    "D": "The price of guacamole, a complement in consumption for tacos, decreases.",
    "E": "The price of burritos, a substitute in consumption for tacos decreases"
   },
-  "answer": "A",
+  "answer": "C",
   "unit": "Supply & Demand",
-  "explanation": "When the price of beef falls, taco producers face lower production costs, so they are willing and able to offer more tacos at every price, which shifts the entire supply curve to the right. Many students mistakenly pick a change in the price of tacos itself, but that only causes a movement along the supply curve rather than an actual increase in supply. Only changes in the costs of production, technology, or the number of sellers will shift the supply curve.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. When the price of beef, an input in the production of tacos, decreases, it lowers the cost of producing tacos. This reduction in production costs allows taco producers to supply more tacos at each price level, leading to an increase in the supply of tacos. The most tempting wrong option is B, because an increase in the demand for tacos would lead to a higher quantity demanded at each price, but it does not directly affect the supply; instead, it shifts the demand curve to the right.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_5",
@@ -13672,16 +13669,15 @@
    "D": "$5 new firms will enter the market",
    "E": "$500 new firms will enter the market"
   },
-  "answer": "C",
+  "answer": "E",
   "unit": "Imperfect Competition",
-  "explanation": "Economic profit is (price minus average total cost) times quantity, so ($50 − $45) × 100 = $500. In a monopolistically competitive market, positive short-run profit signals new firms to enter, which will erode demand for existing firms until profit falls to zero. Option C is tempting if you assume the firm is already in long-run equilibrium, but because price exceeds average total cost the firm is clearly earning positive profit right now.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is E. Brass With Class's total economic profit in the short run is $500, calculated by multiplying the difference between the price ($50) and the average total cost ($45) by the quantity produced (100 trumpets). In the long run, this positive economic profit will attract new firms to enter the market, increasing competition and driving down profits until they reach zero. The most tempting wrong option is D, which correctly identifies that new firms will enter the market but incorrectly states the economic profit as $5, likely due to a miscalculation of the profit per trumpet.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_7",
@@ -13696,16 +13692,15 @@
    "D": "Economies of scale",
    "E": "diseconomies of scale"
   },
-  "answer": "B",
+  "answer": "D",
   "unit": "Production, Cost & Perfect Competition",
-  "explanation": "Markus was operating under economies of scale, meaning its long-run average total cost fell as the firm produced more output, so a single large producer was more efficient than two smaller ones. This is why splitting the monopoly caused each new firm's ATC to rise. A tempting wrong choice is diseconomies of scale, but that would mean the large firm was inefficient and breaking it up would lower costs, not raise them.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D, economies of scale. Before the breakup, Markus Corporation was likely operating under conditions of economies of scale, meaning that as a single, larger firm, it could produce aluminum at a lower average total cost (ATC) than two smaller firms. The most tempting wrong option is C, decreasing returns to scale, but this is incorrect because decreasing returns to scale would imply that as the firm grows, its ATC increases, which contradicts the information given that the long-run ATC for each of the two new firms is higher than when Markus operated alone.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_8",
@@ -13741,16 +13736,15 @@
    "D": "The firm will exit the market.",
    "E": "New firms will enter the market."
   },
-  "answer": "C",
+  "answer": "E",
   "unit": "Production, Cost & Perfect Competition",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "explanation": "Because average total cost—the sum of average fixed and average variable cost—is less than marginal revenue, which equals price in perfect competition, Firm Z is earning positive economic profit. In a constant-cost industry, this profit attracts new firms to enter the market in the long run, increasing supply and pushing economic profit down to zero. It is tempting to think the firm itself can raise its price, but perfectly competitive firms are price takers and have no control over the market price.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "E is correct because in a perfectly competitive, constant cost industry, if the sum of average fixed cost and average variable cost (which equals average total cost) is below marginal revenue at the profit-maximizing quantity, it indicates that the firm is earning economic profits. These profits will attract new firms to enter the market in the long run, increasing supply and driving down prices until economic profits are eliminated. The most tempting wrong option, A, is incorrect because in the long run, the entry of new firms will increase overall market supply, which will drive down the market price, not allowing Firm Z to increase its output further while maintaining those profits.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_10",
@@ -13765,16 +13759,15 @@
    "D": "(Marginal cost)x(marginal product of labor)",
    "E": "(Marginal revenue)x(Marginal product of labor)"
   },
-  "answer": "A",
+  "answer": "E",
   "unit": "Factor Markets",
-  "explanation": "A firm keeps hiring as long as the extra revenue from another worker exceeds the wage, and it stops when the wage equals the marginal revenue product of labor. That marginal revenue product is marginal revenue multiplied by marginal product. Option D might tempt students who recall that marginal cost equals wage divided by marginal product, but the hiring rule directly compares the wage to the additional revenue a worker brings in, not to a rearranged cost expression.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is E because a profit-maximizing firm will continue to hire workers as long as the additional revenue generated by the last worker (marginal revenue times marginal product of labor) is at least equal to the wage rate. This ensures that the firm is maximizing its profit by equating the value of the marginal product of labor to the cost of hiring that labor. The most tempting wrong option, D, is incorrect because it involves multiplying marginal cost by the marginal product of labor, which does not directly relate to the firm's revenue and thus does not help in determining the optimal number of workers to hire.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_11",
@@ -13814,10 +13807,10 @@
   "unit": "Supply & Demand",
   "explanation": "Consumer surplus is the difference between a buyer’s maximum willingness to pay and the actual market price. Since Kareem is willing to pay $25 but only has to pay the market price of $10, his consumer surplus is $15. A tempting wrong choice is $25, which simply equals his willingness to pay and ignores the fact that surplus is measured relative to the price actually paid.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_13",
@@ -13857,10 +13850,10 @@
   "unit": "Factor Markets",
   "explanation": "Higher license fees raise the cost of entering the plumbing profession, which discourages workers from joining and shifts the labor supply curve to the left. With fewer plumbers available, employers must compete more intensely for workers, driving the equilibrium market wage upward. A tempting wrong choice is increasing the quality of working conditions, but that makes the job more attractive and increases labor supply, which would actually lower the equilibrium wage.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_15",
@@ -13879,10 +13872,10 @@
   "unit": "Market Failure & the Role of Government",
   "explanation": "Tornado sirens are a public good that is non-excludable and non-rival, meaning people can benefit from them without paying, which creates a free-rider problem and removes the private incentive to provide them. Consequently, local governments fund sirens through taxes so the entire community is protected. A tempting wrong answer is A, but individuals do value the sirens; the problem is that each person prefers to let someone else pay for them.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_16",
@@ -13901,10 +13894,10 @@
   "unit": "Production, Cost & Perfect Competition",
   "explanation": "The price of land is a fixed cost, so it does not affect marginal cost or the short-run profit-maximizing quantity where marginal revenue equals marginal cost. While higher land rent reduces total profit, the firm’s output decision depends only on variable costs and revenues, leaving quantity unchanged. This differs from the wage rate, which is a variable cost that directly shifts marginal cost and alters the optimal level of production.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_17",
@@ -13919,16 +13912,15 @@
    "D": "Unskilled labor working in the factory",
    "E": "Electricity used to power the factory"
   },
-  "answer": "D",
+  "answer": "A",
   "unit": "Production, Cost & Perfect Competition",
-  "explanation": "Industrial sewing machines are capital equipment that a firm cannot quickly buy or sell, making them a fixed input in the short run. Leather, thread, electricity, and unskilled labor can all be adjusted fairly easily when the firm changes its output level, so they are variable inputs. Some students might pick labor because workers seem essential, but unskilled labor can typically be hired or laid off on short notice, so it is not fixed.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "A is the correct answer because industrial sewing machines are a type of capital that cannot be easily increased or decreased in the short run. They represent a fixed input, as the firm cannot quickly buy or sell these machines to adjust production levels. The most tempting wrong option is D, unskilled labor, because while it can seem like a fixed input, in reality, unskilled labor is more flexible and can be adjusted relatively quickly by hiring or laying off workers, making it a variable input.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_18",
@@ -13943,16 +13935,15 @@
    "D": "Consumer surplus and total economic surplus will both increase.",
    "E": "Consumer surplus and total economic surplus will both decrease."
   },
-  "answer": "A",
+  "answer": "E",
   "unit": "Imperfect Competition",
-  "explanation": "When two firms collude to restrict output below the socially optimal quantity and raise prices, consumers are harmed by paying more for fewer goods, so consumer surplus decreases. Because the market now produces units where marginal benefit exceeds marginal cost, deadweight loss arises and total economic surplus falls as well. Answer A is tempting if you view the price increase as only a transfer from consumers to producers, but that ignores the lost surplus on the units that are no longer produced at all.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "E is correct because when the two firms collude to charge a higher price and produce a lower quantity, consumers pay more for less, which reduces consumer surplus. Additionally, the reduction in quantity means that the market is not producing at the socially optimal level, leading to a deadweight loss and a decrease in total economic surplus. The most tempting wrong option, A, is incorrect because it suggests that total economic surplus remains unchanged, which is not true since the collusion creates a deadweight loss, reducing overall economic efficiency.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_19",
@@ -13967,16 +13958,15 @@
    "D": "Equilibrium wages will decrease, and the level of employment will increase.",
    "E": "Equilibrium wages will decrease, and the level of employment will remain the same"
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Factor Markets",
-  "explanation": "Merging into a single monopsony means the sole employer must raise wages for all workers to hire an additional miner, so its marginal factor cost exceeds the wage. It therefore hires fewer workers and pays a lower wage than the competitive equilibrium, causing both employment and wages to decrease. Choice B describes a union’s effect, not a monopsony’s, because a sole employer uses its market power to push wages down, not up.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. When the four firms merge into one, this new single firm becomes a monopsony in the labor market for coal miners, meaning it is the sole buyer of labor. As a monopsony, the firm has more power to set wages and can reduce equilibrium wages because there are no other employers competing for the same workers. Additionally, the firm may choose to hire fewer workers at these lower wages, leading to a decrease in the level of employment. The most tempting wrong option, B, suggests that equilibrium wages will increase while employment decreases. This is incorrect because, in a monopsony, the lack of competition allows the firm to lower wages, not raise them.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_20",
@@ -13991,16 +13981,15 @@
    "D": "Prices of available resources are lower than consumers' willingness to pay",
    "E": "Prices of available resources are higher than consumers willingness to pay"
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Basic Economic Concepts",
-  "explanation": "Scarcity exists because human wants are unlimited while the resources available to fulfill those wants are finite. Option C correctly identifies this imbalance as the root cause. Option D is tempting because it involves prices and value, but it merely describes a market condition where consumer surplus exists rather than explaining the underlying shortage of resources.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C: Society's wants exceed its available resources. Scarcity exists because human desires and needs are virtually unlimited, but the resources to satisfy those wants, such as time, money, and natural resources, are limited. The most tempting wrong option is A, which suggests that there are more resources available than are being used. This is incorrect because even if some resources are not fully utilized, the fundamental issue of scarcity arises from the mismatch between the infinite nature of human wants and the finite nature of resources.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_21",
@@ -14015,16 +14004,15 @@
    "D": "A tariff will generate revenue for the government, whereas a quota will not",
    "E": "A tariff will eliminate deadweight loss, whereas a quota will not"
   },
-  "answer": "B",
+  "answer": "D",
   "unit": "Market Failure & the Role of Government",
-  "explanation": "A tariff is a tax on imports, so the government collects revenue on every unit brought into the country, but a quota is just a legal restriction on quantity and does not generate government revenue. It is tempting to think that only a tariff affects domestic production, yet both policies raise the domestic price and therefore cause domestic firms to produce more. The fundamental difference is that tariffs create government revenue while quotas do not.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. A tariff will generate revenue for the government, whereas a quota will not. When a tariff is imposed, the government collects money from the importers based on the value or quantity of the imported goods, thus generating revenue. In contrast, a quota limits the amount of a good that can be imported but does not directly generate revenue for the government. The most tempting wrong option, E, is incorrect because neither a tariff nor a quota eliminates deadweight loss; in fact, both create deadweight loss by distorting the market and reducing overall economic efficiency.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_22",
@@ -14060,16 +14048,15 @@
    "D": "An increase in fixed costs and an increase in demand for the monopoly's output",
    "E": "An increase in fixed costs and the ability to perfectly price discriminate"
   },
-  "answer": "A",
+  "answer": "C",
   "unit": "Imperfect Competition",
-  "explanation": "A monopoly maximizes profit where marginal revenue equals marginal cost. An increase in variable costs raises marginal cost, while a decrease in demand lowers marginal revenue, so both changes push the profit-maximizing quantity downward. Choice A is wrong because lower variable costs and perfect price discrimination both encourage the firm to expand output rather than reduce it.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. An increase in variable costs raises the marginal cost of production, and a decrease in demand shifts the demand curve to the left, reducing the marginal revenue at each quantity. Both of these changes will lead the monopoly to reduce its profit-maximizing quantity of output. The most tempting wrong option is B, which includes a decrease in variable costs. While a decrease in demand would indeed lower the profit-maximizing quantity, the reduction in variable costs would lower the marginal cost, potentially leading to an increase or no change in the profit-maximizing quantity, depending on the magnitude of the changes.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_24",
@@ -14084,16 +14071,15 @@
    "D": "more than double marginal cost",
    "E": "more than double the quantity of output"
   },
-  "answer": "C",
+  "answer": "E",
   "unit": "Production, Cost & Perfect Competition",
-  "explanation": "Increasing returns to scale means that doubling all inputs causes output to increase by more than double, so the quantity of output necessarily more than doubles. Option C is incorrect because average total cost actually falls when a firm experiences increasing returns to scale: while total cost doubles, output grows by an even larger proportion, pulling per-unit cost downward.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "E is correct because, with increasing returns to scale, doubling all inputs will more than double the quantity of output. This means that the firm becomes more efficient as it grows, and each additional unit of input contributes to a more significant increase in output. The most tempting wrong option, C, suggests that more than doubling inputs would more than double average total cost, but this is incorrect because increasing returns to scale typically lead to lower average total costs as the firm benefits from greater efficiency.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_25",
@@ -14108,16 +14094,15 @@
    "D": "Unskilled labor working in the factory",
    "E": "Electricity used to power the factory"
   },
-  "answer": "C",
+  "answer": "A",
   "unit": "Production, Cost & Perfect Competition",
-  "explanation": "In the short run, a fixed input is a resource whose quantity cannot be quickly adjusted when the firm changes its output level, and industrial sewing machines fit this definition because the firm cannot easily acquire or dispose of them as production fluctuates day to day. Thread might seem like a necessary material, but it is actually a variable input because the total amount used rises directly with each additional boot produced, just as leather, labor, and electricity do.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "A is correct because industrial sewing machines are a type of capital that cannot be easily increased or decreased in the short run. They represent a significant investment and are typically not adjusted quickly to meet changes in production. The most tempting wrong option, D (unskilled labor working in the factory), is incorrect because unskilled labor is generally considered a variable input; firms can hire or lay off unskilled workers relatively easily to adjust to changes in demand.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_26",
@@ -14132,16 +14117,15 @@
    "D": "Collects all consumer surplus from the consumers Transfers all consumer surplus to the government",
    "E": "Produces where marginal revenue equals marginal cost Produces where price equals average total cost"
   },
-  "answer": "B",
+  "answer": "E",
   "unit": "Imperfect Competition",
-  "explanation": "An unregulated monopoly maximizes profit by producing where marginal revenue equals marginal cost, while a monopoly regulated to break even must produce where price equals average total cost so that it earns zero economic profit. Many students mistakenly think that zero economic profit means the outcome is socially efficient and eliminates deadweight loss, but because price still exceeds marginal cost at the break-even quantity, some deadweight loss remains.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is E. The unregulated monopoly produces where marginal revenue equals marginal cost, which is the profit-maximizing condition for any firm. In contrast, the regulated monopoly is required to produce at the break-even point, where price equals average total cost, ensuring zero economic profit. The most tempting wrong option is B, as it might seem logical that regulation would eliminate deadweight loss. However, while regulation can reduce deadweight loss, it does not necessarily eliminate it entirely, and the primary focus of the regulation in this case is on breaking even rather than addressing market inefficiencies.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_27",
@@ -14177,16 +14161,15 @@
    "D": "There are high barriers to entry.",
    "E": "There are relatively few competitors."
   },
-  "answer": "C",
+  "answer": "A",
   "unit": "Production, Cost & Perfect Competition",
-  "explanation": "Firms in perfect competition are price takers, which means they have no market power and cannot influence the market price. This is a fundamental defining feature of the market structure. A common misconception is that these firms always earn positive economic profit, but free entry and exit actually drive long-run economic profit to zero, and firms can even earn losses in the short run.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "A is correct because in a perfectly competitive market, firms are price takers and cannot influence the market price, meaning they have no market power. The most tempting wrong option is likely C, as some might think that firms in perfect competition always earn positive economic profits; however, in the long run, firms in a perfectly competitive market only earn normal profits, as new entrants will drive down profits until they reach a level where there is no incentive for additional firms to enter.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_29",
@@ -14205,10 +14188,10 @@
   "unit": "Production, Cost & Perfect Competition",
   "explanation": "The price of land is a fixed cost, so it does not affect marginal cost and therefore does not change the short-run profit-maximizing quantity where marginal revenue equals marginal cost. By contrast, the wage rate and the marginal products of variable inputs directly influence marginal cost, while the price of the good affects marginal revenue. Students often mistakenly think any increase in costs lowers output, but only changes in variable costs shift the marginal cost curve and alter the optimal quantity.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_30",
@@ -14227,10 +14210,10 @@
   "unit": "Imperfect Competition",
   "explanation": "A dominant strategy is one that gives a firm the best payoff no matter what its rival chooses. Since Ally earns higher profits by raising prices whether Bob raises or lowers his, raising price is a dominant strategy for Ally. Students often confuse this with Nash equilibrium, but Nash equilibrium describes a stable outcome where neither firm wants to change, not a single strategy that is optimal regardless of the rival's action.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_31",
@@ -14291,10 +14274,10 @@
   "unit": "Basic Economic Concepts",
   "explanation": "Comparative advantage means having a lower opportunity cost in a particular task. Because Ming has the comparative advantage in taking orders, Andreas must have the comparative advantage in cleaning tables, meaning Andreas sacrifices fewer orders to clean tables. A tempting wrong choice is B because having a comparative advantage does not mean Ming is necessarily faster or better at taking orders in absolute terms.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "micro-econ_2025_35",
@@ -14334,10 +14317,10 @@
   "unit": "Market Failure & the Role of Government",
   "explanation": "In a pure command economy, a central authority makes all production and allocation decisions through planning, whereas a pure market economy relies on the decentralized forces of supply and demand and individual self-interest. This makes option C the only choice that correctly identifies the defining mechanism of each system. Option A is a tempting distractor because it simply reverses these two mechanisms, which is easy to do if you read too quickly.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_43",
@@ -14373,16 +14356,15 @@
    "D": "The supply curve will shift to the night, the equilibrium price will decrease. and the equilibrium quantity will increase.",
    "E": "The supply curve will shift to the left, the equilibrium price will increase, and the equilibrium quantity will decrease."
   },
-  "answer": "A",
+  "answer": "B",
   "unit": "Basic Economic Concepts",
-  "explanation": "A negative income elasticity means Good X is an inferior good, so when consumers earn more they buy less of it and the demand curve shifts to the left. With supply unchanged, that lower demand causes both the equilibrium price and the equilibrium quantity to decrease. Option A might seem tempting because it correctly identifies the leftward demand shift, but it incorrectly claims the equilibrium price rises instead of falls.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B. When the income elasticity of demand for Good X is negative, it indicates that Good X is an inferior good. As consumers' income increases, they will buy less of this good, causing the demand curve to shift to the left. This shift results in a lower equilibrium price and a lower equilibrium quantity. The most tempting wrong option is A, which correctly identifies the leftward shift of the demand curve but incorrectly suggests that the equilibrium price will increase; in reality, with a decrease in demand, both the equilibrium price and quantity will decrease.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_46",
@@ -14397,16 +14379,15 @@
    "D": "Lindser landscaping's economic profit will increase.",
    "E": "The market price of landscaping services will increase."
   },
-  "answer": "A",
+  "answer": "B",
   "unit": "Imperfect Competition",
-  "explanation": "When a competitor enters the market, Lindser Landscaping loses some of its market power and will likely sell fewer services at a lower price, causing its total revenue to decrease. Some students might think demand becomes more inelastic, but the presence of a close substitute actually makes Lindser's demand more elastic, not less. Economic profit will fall rather than rise, and the market price will tend to decrease with added competition.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "B is correct because with the entry of Horticultural Experts, Lindser Landscaping will face competition, leading to a decrease in its market share and, consequently, a reduction in total revenues. The most tempting wrong option, C, is incorrect because increased competition typically erodes economic profits as the new firm attracts some of the existing customers, thereby reducing Lindser Landscaping's revenue and profit margins.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_47",
@@ -14442,16 +14423,15 @@
    "D": "240$",
    "E": "300$"
   },
-  "answer": "A",
+  "answer": "B",
   "unit": "Production, Cost & Perfect Competition",
-  "explanation": "Economic profit is total revenue minus total cost, so the firm earns $12 times 60, or $720, in revenue and pays an average total cost of $8 plus $2, or $10, times 60, or $600, in costs. Subtracting cost from revenue gives a profit of $120. A common wrong step is to subtract only total variable cost from revenue and get $240, but fixed costs must be included to calculate economic profit.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B, 120$. The firm's economic profit is calculated by subtracting the total cost (both fixed and variable) from the total revenue. Here, the total revenue is 60 units * $12 = $720, and the total cost is (average variable cost + average fixed cost) * quantity, which is (8 + 2) * 60 = $600. Thus, the economic profit is $720 - $600 = $120. The most tempting wrong option, C, 180$, might be chosen if one mistakenly uses the marginal cost instead of the average variable cost in the calculation, leading to an incorrect total cost.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "A"
  },
  {
   "id": "micro-econ_2025_49",
@@ -14466,16 +14446,15 @@
    "D": "An increase in the minimum wage",
    "E": "An increase in the productivity of labor"
   },
-  "answer": "D",
+  "answer": "C",
   "unit": "Factor Markets",
-  "explanation": "If the price of capital falls and capital is a substitute for labor, firms will replace workers with machines, decreasing the demand for labor. A leftward shift in labor demand reduces both the market wage and the equilibrium quantity of workers hired. An increase in the minimum wage is tempting because it does reduce employment, but it raises the wage rather than lowering it.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. A decrease in the price of capital, a substitute for labor, would make it more attractive for firms to use capital instead of labor, leading to a lower demand for labor. This shift in demand to the left results in both a lower market wage and a lower equilibrium quantity of labor. The most tempting wrong option is A, a decrease in the supply of labor, which would actually lead to an increase in the market wage due to the reduced availability of workers, even though the equilibrium quantity of labor would decrease.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_50",
@@ -14490,16 +14469,15 @@
    "D": "Firms will not provide the socially optimal quantity of Good X because people are able to consume it without having to pay for it.",
    "E": "Firms will not provide the socially optimal quantity of Good X because the marginal social cost is greater than the marginal private cost at the equilibrium market quantity."
   },
-  "answer": "C",
+  "answer": "D",
   "unit": "Market Failure & the Role of Government",
-  "explanation": "Because Good X is non-excludable, consumers can benefit from it without paying, which creates a free-rider problem that makes it unprofitable for private firms to supply. Without government intervention, firms will underprovide the good relative to the socially optimal quantity since they cannot force people to pay for something they can use for free. A tempting wrong choice is E, which correctly identifies underprovision but incorrectly blames a situation where marginal social cost exceeds marginal private cost—a problem that describes negative externalities rather than public goods.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is D. Firms will not provide the socially optimal quantity of Good X because people are able to consume it without having to pay for it. Since Good X is non-rival and non-excludable, it is a public good, and in the absence of government intervention, the free-rider problem arises. This means that individuals have an incentive to let others pay for the good while they benefit from it without contributing, leading to underproduction by firms. The most tempting wrong option, E, is incorrect because it confuses the issue with the concept of externalities, which is not the primary concern here; the core issue is the free-rider problem.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_51",
@@ -14514,16 +14492,15 @@
    "D": "A pine tree in a public park provides pleasant shade for residents.",
    "E": "A photographer accepts e price for work below marginal cost."
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Market Failure & the Role of Government",
-  "explanation": "A negative externality in production occurs when a firm’s manufacturing process imposes costs on third parties who are not involved in the market transaction. The paper mill’s odor forces nearby residents to bear unwanted costs from production, which matches this definition perfectly. Option B may seem appealing because it involves higher costs for a risky population, but it is merely an insurance company pricing policies according to private risk rather than shifting costs onto outside bystanders.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C because a local paper mill emitting an odor that imposes costs on nearby residents is a classic example of a negative externality. The mill's production process generates an unpleasant smell, which affects the well-being of people living in the area without compensating them, leading to a social cost that is not reflected in the market price. The most tempting wrong option is E, as it might seem like a negative impact, but it actually describes a situation where the photographer is underpricing their work, which is more related to pricing strategies and does not impose an external cost on others.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_52",
@@ -14559,16 +14536,15 @@
    "D": "All individuals in the gasoline market will be better off",
    "E": "All individuals in the gasoline market will be worse off"
   },
-  "answer": "E",
+  "answer": "C",
   "unit": "Supply & Demand",
-  "explanation": "A binding price ceiling set below equilibrium lowers the price consumers pay, causing a movement along the demand curve that increases the quantity demanded while decreasing the quantity supplied and creating a shortage. Because this is a change in price rather than a shift in consumer preferences, the demand for gasoline itself does not increase or decrease. It is also incorrect to say that everyone is worse off, since the consumers who are able to purchase gasoline at the lower price are better off.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C. When the government imposes a binding price ceiling in the gasoline market, the price of gasoline is set below the equilibrium price, making it more affordable for consumers. As a result, the quantity demanded of gasoline will increase because more people are willing and able to purchase it at the lower price. The most tempting wrong option, A, is incorrect because a price ceiling does not change the overall demand for gasoline; it only affects the quantity demanded at the new, lower price.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "micro-econ_2025_54",
@@ -14604,16 +14580,15 @@
    "D": "The demand for bottled purified water, a substitute in consumption",
    "E": "The total revenue of firms selling bottled mineral water"
   },
-  "answer": "D",
+  "answer": "B",
   "unit": "Supply & Demand",
-  "explanation": "The substitution effect means that when mineral water becomes cheaper, consumers replace relatively more expensive alternatives like purified water with mineral water. This leads to a movement along the demand curve for mineral water, increasing the quantity demanded rather than shifting the entire demand curve. Option D is tempting, but because purified water is a substitute, its demand actually decreases as buyers switch to the lower-priced mineral water.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B. The substitution effect of a price decrease in bottled mineral water means that consumers will find it more attractive to buy more of this good, leading to an increase in the quantity demanded of bottled mineral water. Option C, which suggests an increase in the demand for bottled mineral water, is incorrect because the demand curve itself does not shift; rather, there is a movement along the existing demand curve due to the change in price.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_56",
@@ -14632,10 +14607,10 @@
   "unit": "Production, Cost & Perfect Competition",
   "explanation": "Economic profit subtracts both explicit and implicit opportunity costs from total revenue. Nikita’s implicit costs include the $80,000 salary and the $15,000 rental income she gave up, totaling $95,000. Since her accounting profit was $90,000, her economic profit is $90,000 minus $95,000, which equals negative $5,000. A common mistake is choosing $10,000 by only subtracting the foregone salary, but you must also account for the lost rent on the building she now uses herself.",
   "expl_via": "txt",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "micro-econ_2025_57",
@@ -14650,16 +14625,15 @@
    "D": "Formation of monopolies",
    "E": "Scarcity of resources"
   },
-  "answer": "D",
+  "answer": "A",
   "unit": "Market Failure & the Role of Government",
-  "explanation": "Workplace discrimination causes certain workers to receive lower wages or be blocked from better jobs, which directly leads to income and wealth inequality. It does not create monopolies, since labor-market bias does not give a firm exclusive control over a product market. It also does not create productive efficiency, because ignoring qualified workers wastes resources and lowers output.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "A is the correct answer because discrimination in the workplace can lead to unequal opportunities and wages, which contribute to income and wealth inequality. When certain groups are systematically paid less or denied promotions, their ability to accumulate wealth over time is diminished, exacerbating economic disparities. The most tempting wrong option, B (productive efficiency), is incorrect because discrimination actually hinders productive efficiency by preventing the most qualified individuals from being hired or promoted, leading to a misallocation of talent and resources.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "micro-econ_2025_58",
@@ -14695,16 +14669,15 @@
    "D": "It lies above the market demand curve at quantities less than the market equilibrium quantity",
    "E": "It lies below the market demand curve at quantities greater than the market equilibrium quantity"
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Supply & Demand",
-  "explanation": "The market supply curve is created by horizontally summing the quantity that each individual firm is willing to supply at every possible price. This simply means adding up all firms’ output decisions at each price level to find total market supply. Option B might confuse you because firms use labor to produce goods, but summing the marginal product of labor across firms does not give the market supply curve; marginal product measures how much output an additional worker produces, not how much output firms plan to sell at various prices.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "explanation": "The correct answer is C because the market supply curve represents the total quantity of a good that all producers are willing and able to sell at each price level, which is obtained by summing up the individual supply curves of all firms in the market. The most tempting wrong option, A, is incorrect because the marginal revenue product of labor is related to the value of additional output produced by hiring one more unit of labor, not to the overall supply of the good in the market.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "micro-econ_2025_60",

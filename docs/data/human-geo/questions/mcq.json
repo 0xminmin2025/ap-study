@@ -3116,14 +3116,14 @@
    "D": "Fertility rates continue to decline as the country develops economically.",
    "E": "Fertility rates continue to increase as rising incomes lift families economically."
   },
-  "answer": "C",
-  "explanation": "China’s fertility rate has stayed low and continued to decline even after the one-child policy ended, and because deaths now outnumber births, the total population has begun to shrink. This is a major demographic shift because lifting an antinatalist policy normally aims to boost births, yet cultural and economic factors kept fertility from rebounding. Choice D is tempting since development usually lowers fertility, but it misses the key point that China is already experiencing an actual population decline due to these sustained low rates.",
-  "expl_via": "txt",
+  "answer": "D",
+  "explanation": "The correct answer is D. Fertility rates continue to decline as the country develops economically. This trend is consistent with the demographic transition model, which predicts that as a country becomes more economically developed, fertility rates tend to fall due to factors such as urbanization, increased access to education, and changes in social norms. The most tempting wrong option, E, suggests that fertility rates increase with rising incomes, but this is incorrect because higher economic development typically leads to lower fertility rates as families choose to have fewer children and invest more in their education and well-being.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Population & Migration",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_2",
@@ -3138,16 +3138,15 @@
    "D": "Irrigation",
    "E": "Plantation agriculture"
   },
-  "answer": "E",
-  "explanation": "Overgrazing is the principal cause of desertification in the Sahel because large herds of livestock consume scarce vegetation and trample the fragile soil, which prevents plant regrowth and accelerates erosion in the dry climate. Plantation agriculture is uncommon in this semi-arid region and is not a major driver of land degradation there. While deforestation also damages the environment, pastoral pressure on marginal lands is the dominant human activity turning Sahel grasslands into desert.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "A",
+  "explanation": "A is the correct answer because overgrazing by livestock in the Sahel region leads to the depletion of vegetation, which in turn accelerates soil erosion and reduces the land's ability to retain water, contributing significantly to desertification. The most tempting wrong option, B (Deforestation), while a significant cause of environmental degradation in many parts of the world, is less prevalent in the Sahel compared to overgrazing, as the region naturally has sparse tree cover and the primary land use is pastoralism.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "human-geo_2024_3",
@@ -3182,16 +3181,15 @@
    "D": "Borchert’s epochs",
    "E": "Weber’s least cost theory"
   },
-  "answer": "B",
-  "explanation": "The galactic city model shows a postindustrial urban landscape where specialized activities like health care and retailing concentrate at suburban transportation nodes rather than in a single downtown. This decentralized pattern of multiple service centers spread across the metropolis fits the description perfectly. The concentric zone model is a common distractor because it is a foundational urban model, yet it describes older industrial cities organized in rings around one central business district, not scattered suburban nodes.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "A",
+  "explanation": "The correct answer is A, the galactic city model. This model accurately reflects the modern urban landscape where specialized service centers are dispersed throughout the metropolitan area, often clustering around key transportation hubs. These centers focus on specific economic activities, such as healthcare or high technology, which aligns with the postindustrial shift towards a more decentralized and specialized urban form. The most tempting wrong option, B, the concentric zone model, is incorrect because it describes a traditional, hierarchical structure of urban areas with a central business district surrounded by residential zones, which does not account for the specialized and dispersed nature of modern service centers.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
   "unit": "Industrial & Economic Development",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_5",
@@ -3206,16 +3204,15 @@
    "D": "Transhumance",
    "E": "Physiological density"
   },
-  "answer": "D",
-  "explanation": "Physiological density is the number of people divided by the amount of arable land, showing how intensively farmable soil must support the population. A common mix-up is arithmetic density, which spreads the total population across all land rather than just the farmable portion. Agricultural density is also different because it measures farmers per unit of arable land, not the entire population.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "E",
+  "explanation": "The correct answer is E, physiological density, because it specifically refers to the number of people per unit of arable land, which is the land suitable for growing crops. This measure helps in understanding the pressure on agricultural resources. The most tempting wrong option is C, agricultural density, which might seem correct due to its name but actually refers to the number of farmers per unit of arable land, not the total population.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_6",
@@ -3229,16 +3226,15 @@
    "C": "Former colonies have become high-tech service centers that still require investment and migration of labor from the core.",
    "D": "Former colonies are often dependent on core states for markets given the importance of natural resources to local economies."
   },
-  "answer": "B",
-  "explanation": "Former colonies typically remain dependent on core states because their economies are still structured around extracting and exporting natural resources to wealthy nations, which perpetuates an unequal trade relationship long after political independence. This neocolonial dynamic means former colonies rely on core countries as markets for raw materials rather than building self-sufficient, diversified economies. Choice B may seem relevant because migration affects development, but restricting remittances does not explain the deep structural economic dependence that defines persistent core-periphery relationships.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D because many former colonies in Africa continue to rely heavily on exporting natural resources, which are primarily sold to core states. This dependency on core markets for the sale of raw materials often perpetuates a cycle where former colonies remain economically subordinate. Option A is incorrect and less tempting because it suggests that colonial powers still have direct control, which is not the case; instead, the relationship has shifted to one of economic interdependence rather than political control.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Industrial & Economic Development",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_7",
@@ -3275,18 +3271,17 @@
    "C": "Gentrification and infilling are most common along major transportation routes.",
    "D": "Most new development is reserved for commercial and recreational land use."
   },
-  "answer": "A",
+  "answer": "B",
   "has_figure": true,
   "image": "images/2024_q8.png",
-  "explanation": "The provided image is a text-only document listing exam rules and resources. It does not contain any figures, maps, or diagrams for Question #8, which is required to answer the question. Without the visual data from Image 1 and Image 2, it is impossible to determine the correct answer based on the information available.",
-  "expl_via": "vl",
-  "answer_disputed": true,
+  "explanation": "The correct answer is B because the images show that urban sprawl in Las Vegas is expanding outward, particularly along major highways and transportation routes, which is a common pattern as cities grow and people seek more space and easier access to the city center. The most tempting wrong option, C, is incorrect because gentrification and infilling typically occur in older, established areas of a city, rather than at the edges where new development is taking place.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_9",
@@ -3301,18 +3296,17 @@
    "D": "To a significant degree, because the region has depleted its energy resources and exceeded its carrying capacity",
    "E": "To a significant degree, because suburbanization contributes to regional pollution and habitat loss"
   },
-  "answer": "C",
+  "answer": "E",
   "has_figure": true,
   "image": "images/2024_q9.png",
-  "explanation": "The question asks about the impact of localized urban processes on the natural environment. The correct answer is E because suburbanization, which is a form of urban expansion, typically leads to increased pollution from vehicles and the destruction of natural habitats as land is converted for development. This impact is significant on a regional scale. Option C is incorrect because while a central business district (CBD) is a focal point of urban activity, its localized impact is generally less significant than the broader effects of suburban sprawl, which affects a much larger area and has more widespread environmental consequences.",
-  "expl_via": "vl",
-  "answer_disputed": true,
+  "explanation": "E is correct because suburbanization often leads to the expansion of urban areas into previously undeveloped or less developed regions, which can result in significant environmental impacts such as increased pollution and the destruction of natural habitats. The most tempting wrong option, D, is incorrect because it focuses on the depletion of energy resources and exceeding carrying capacity, which are broader issues not specifically tied to the localized urban processes like suburbanization that are depicted in the images.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_10",
@@ -3327,16 +3321,15 @@
    "D": "environmental determinism",
    "E": "von Thünen’s model Source: Pixabay"
   },
-  "answer": "E",
-  "explanation": "Bt cotton was developed in the United States and then introduced to India through seed companies, trade, and agricultural experts, so its jump across an ocean is best described as relocation diffusion. Von Thünen’s model is not correct because it explains how different farming activities are arranged in zones around a central market based on transportation costs, not how a technology spreads between countries. Contagious diffusion is also wrong here, since that term refers to an idea spreading rapidly from person to person through direct, nearby contact rather than moving long distances with migrants or businesses.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "C",
+  "explanation": "The correct answer is C, relocation diffusion. This term describes the spread of an idea or innovation through the physical movement of people from one place to another. In this case, Bt cotton, developed in the United States, was introduced to southern India by farmers and agricultural companies, leading to its adoption and cultivation there. The most tempting wrong option is B, contagious diffusion, which refers to the rapid, widespread adoption of an idea or innovation by neighboring areas. However, contagious diffusion does not involve the physical movement of people, making it incorrect in this context.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "human-geo_2024_11",
@@ -3350,16 +3343,16 @@
    "C": "effect of agricultural chemicals on water quality",
    "D": "role that map scale plays in agriculture"
   },
-  "answer": "C",
+  "answer": "A",
   "has_figure": true,
   "image": "images/2024_q11.png",
-  "explanation": "The image shows aerial spraying, which is a form of technology used in agriculture. The question asks why this image is limited in showing how technology leads to economies of scale. The image does not show any information about the environmental impact of the chemicals, such as how they affect water quality. While the size of the operation or the type of crop might be relevant, the image doesn't provide that information either, but the question specifically asks about the role of technology in economies of scale, and the effect on water quality is a separate environmental concern not directly related to the scale of production. The role of map scale is not depicted in the image at all, but the question is about the image's ability to illustrate the role of technology in economies of scale, and the effect on water quality is a consequence of the technology, not a measure of scale. Therefore, the correct answer is C because the image provides no information about the effect of agricultural chemicals on water quality, which is a key environmental impact of such technology.",
-  "expl_via": "vl",
+  "explanation": "The correct answer is A. The image of aerial spraying does not provide any information about the size of the agricultural operation, which is crucial for understanding economies of scale. Without knowing the size, it's impossible to determine how the use of technology, such as aerial spraying, contributes to cost savings and increased efficiency. The most tempting wrong option, B, is incorrect because while the type of crop being cultivated can influence the choice of agricultural practices, it does not directly address the concept of economies of scale, which is primarily concerned with the relationship between the scale of production and the costs involved.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_12",
@@ -3374,16 +3367,15 @@
    "D": "high degree, because these boundaries do not align with the political boundaries of sovereign independent states",
    "E": "high degree, because these boundaries were superimposed prior to the era of colonization"
   },
-  "answer": "A",
-  "explanation": "Stateless nations like the Kurds and Rohingya have ethnic boundaries that stretch across multiple sovereign states, so their territorial claims are highly contested because they do not match existing political borders. These groups lack independent states, which means their boundaries are constantly challenged by the governments of the countries where they reside. Option E might seem tempting because it also identifies a high degree of contestation, but it is incorrect because superimposed boundaries were established during the era of colonization, not before it.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D. The boundaries of stateless nations like the Kurds and the Rohingya are highly contested because these groups do not have a sovereign state that aligns with their ethnic or cultural boundaries, leading to disputes with the existing political boundaries of the countries they inhabit. The most tempting wrong option is C, which suggests a moderate degree of contestation due to shared culture and language within the nation-states where these groups reside; however, this overlooks the significant political and territorial conflicts that arise from the lack of formal recognition and autonomy for these stateless nations.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Political Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_13",
@@ -3398,16 +3390,15 @@
    "D": "Family farms can compete with agribusinesses because of government subsidies and the political influence of individual farmers.",
    "E": "Agribusinesses using large-scale farming techniques and bioengineering have increased crop diversity in the United States."
   },
-  "answer": "E",
-  "explanation": "Corporate agribusiness relies on extensive mechanization and advanced technology to maximize production efficiency, which directly reduces the need for manual labor and shrinks the agricultural workforce. This makes option C the most accurate statement. Option E is tempting because bioengineering suggests scientific variety, but large-scale commercial agriculture typically practices monoculture and has actually decreased overall crop diversity in the United States.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "C",
+  "explanation": "The correct answer is C. Corporate conglomerates are indeed contributing to agricultural mechanization, which leads to a reduction in the agricultural labor force. This is because large-scale commercial agriculture relies on advanced technology and machinery to increase efficiency and productivity, thereby requiring fewer workers. The most tempting wrong option is E, as it might seem plausible that agribusinesses could increase crop diversity. However, in reality, agribusinesses often focus on monoculture farming, which can actually reduce crop diversity by prioritizing high-yield, genetically uniform crops.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "human-geo_2024_14",
@@ -3422,16 +3413,15 @@
    "D": "It results in an increased flow of money to Latin American communities as migrants send money back to their families.",
    "E": "It raises the rate of natural increase of the United States population because migrants tend to be young adults."
   },
-  "answer": "E",
-  "explanation": "Remittances from migrants working in the United States represent a direct economic effect, as billions of dollars flow annually to Latin American communities to support families and stimulate local economies. This cross-border transfer of earned income is a defining economic consequence of international labor migration. While option E might seem relevant, it actually describes a demographic effect rather than an economic one, because natural increase measures only the difference between births and deaths and does not include migration itself.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D because it accurately describes the significant economic effect of remittances, where Latin American migrants send a portion of their earnings back to their families in their home countries, thus supporting local economies and improving living standards. This flow of money is a crucial source of foreign income for many Latin American countries. The most tempting wrong option, A, focuses on the cultural and spatial impact of migration, which, while true, does not directly address an economic effect.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Population & Migration",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "human-geo_2024_15",
@@ -3445,14 +3435,14 @@
    "C": "Salmon farming in the coastal waters of Chile, which increases sustainable fish stocks",
    "D": "Small family farms in Brazil, which produce crops such as maize, manioc, and beans"
   },
-  "answer": "D",
-  "explanation": "Small family farms in Brazil are an example of intensive agriculture because farmers apply large amounts of labor to small plots of land to grow staple crops such as maize, manioc, and beans. This differs from banana groves in Costa Rica, which represent extensive commercial plantation agriculture focused on exporting cash crops. The high labor input per unit of land makes small family farming the best example of an intensive practice among the choices.",
-  "expl_via": "txt",
+  "answer": "B",
+  "explanation": "The correct answer is B. Banana groves in Costa Rica, managed by a multinational corporation and exporting to global consumers, exemplify intensive farming in plantation agriculture because they involve large-scale, highly mechanized, and chemically intensive cultivation aimed at maximizing yield and profit for the global market. Option A, community gardens in Venezuela, is the most tempting wrong option because it also involves growing food, but it is not intensive or large-scale; instead, it focuses on local, small-scale, and often organic production to support urban self-sufficiency.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_16",
@@ -3467,16 +3457,15 @@
    "D": "A chemical manufacturing plant locating next to a low-income neighborhood because the cost of commercial land is low",
    "E": "Higher-income residents living in a gentrified neighborhood from which former residents have been displaced by rising housing costs THE PORT OF ILO, PERU"
   },
-  "answer": "A",
-  "explanation": "Environmental injustice occurs when hazardous facilities or pollution disproportionately burden low-income or marginalized communities. Option D is the clearest example because a chemical plant poses serious health risks and has deliberately located beside a low-income neighborhood due to cheaper land costs, forcing that vulnerable population to bear the environmental hazard. Option A might seem tempting because it shows serious pollution, but it only describes ecological damage without any mention of a specific human community facing unequal or disproportionate harm, so it reflects environmental degradation rather than injustice.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D. This option exemplifies environmental injustice because it involves a chemical manufacturing plant, which likely emits harmful pollutants, being sited next to a low-income neighborhood. The decision is often driven by the lower cost of land in such areas, disproportionately exposing already vulnerable communities to health risks and environmental hazards. Option A, while also concerning, does not specifically highlight the social and economic disparities that are central to the concept of environmental injustice, making it less directly relevant to the question.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_17",
@@ -3494,10 +3483,10 @@
   "explanation": "This arrangement created a special economic zone because Bolivia gained tariff-free use of a port without owning the territory, giving the landlocked country direct access to global maritime trade. While Bolivia received long-term control of the facilities, the land remains under Peruvian sovereignty, so option B is incorrect because leasing is not annexation.",
   "expl_via": "txt",
   "unit": "Political Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_18",
@@ -3574,16 +3563,15 @@
    "D": "Transferability",
    "E": "Carrying capacity SOVEREIGN STATES IN CENTRAL AND NORTH AMERICA BY TYPE | Country | Area (square miles) | Population (2019) | Type of Government | |--------------------|---------------------|-------------------|--------------------| | Belize | 7,188 | 383,059 | Unitary | | Canada | 4,671,980 | 37,074,008 | Federal | | Costa Rica | 17,200 | 4,999,362 | Unitary | | Guatemala | 35,532 | 17,247,302 | Unitary | | Honduras | 36,829 | 9,587,262 | Unitary | | Mexico | 664,182 | 126,188,509 | Federal | | Nicaragua | 41,686 | 6,465,369 | Unitary | | Panama | 23,978 | 4,176,755 | Unitary | | El Salvador | 6,740 | 6,420,692 | Unitary | | United States of America | 3,733,280 | 327,093,017 | Federal | Source: Esri, United Nations Population Division"
   },
-  "answer": "D",
-  "explanation": "Sustainability is founded on three interdependent pillars—ecological conservation, social equity, and economic growth—so it is the only concept that deliberately integrates all three goals. It seeks to meet present needs without compromising the ability of future generations to meet their own. Carrying capacity often tempts students because it involves environmental limits, but it only measures the maximum population an environment can support and does not address social or economic objectives.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "C",
+  "explanation": "The correct answer is C, Sustainability, because it is the concept that aims to balance social equity, ecological conservation, and economic growth to meet the needs of the present without compromising the ability of future generations to meet their own needs. The most tempting wrong option, A, Globalization, primarily focuses on the interconnectedness of economies and cultures across the world, but it does not inherently address the balance between social, environmental, and economic goals.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
   "unit": "Industrial & Economic Development",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_22",
@@ -3621,14 +3609,14 @@
    "D": "By implementing natural resource conservation policies to increase energy efficiency",
    "E": "By developing suburban and exurban areas to provide housing for rural to urban migrants"
   },
-  "answer": "E",
-  "explanation": "Developing suburban and exurban areas increases the total land and resources available to a densely populated region, which raises the number of people the area can support. This spatial expansion directly grows the urban system's carrying capacity by extending housing, infrastructure, and services beyond the original dense core. Some students might find natural resource conservation policies appealing because they improve efficiency, but conservation alone does not expand the physical space and infrastructure needed to accommodate a larger population.",
-  "expl_via": "txt",
+  "answer": "D",
+  "explanation": "The correct answer is D. Implementing natural resource conservation policies to increase energy efficiency directly enhances the carrying capacity by ensuring that resources are used more sustainably, which supports a larger population over a longer period. This approach helps in managing and preserving the environment, making it possible for the area to support more people without depleting its resources. The most tempting wrong option, B, focuses on expanding transportation infrastructure, which, while beneficial for mobility and economic activity, does not directly address the sustainable use of resources needed to support a growing population.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "E"
  },
  {
   "id": "human-geo_2024_24",
@@ -3649,10 +3637,10 @@
   "explanation": "The correct answer is E because the graph shows a significant increase in total livestock populations, which is consistent with changes in diet, such as increased consumption of meat, driven by consumer trends in many parts of the world. Option D is tempting because higher income can lead to more meat consumption, but the graph shows a clear increase, not a decrease, so D is incorrect. The other options are also incorrect as they describe trends that do not match the data shown in the graph.",
   "expl_via": "vl",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "E"
  },
  {
   "id": "human-geo_2024_25",
@@ -3710,16 +3698,15 @@
    "D": "Establish tariffs to raise government tax revenues.",
    "E": "Subsidize the cost of air travel between Europe and North America."
   },
-  "answer": "D",
-  "explanation": "The Schengen Agreement removed internal border controls so that goods, workers, and travelers could move between member states without delays, which significantly lowered transportation costs and travel times for businesses and commuters. This frictionless movement boosted trade and economic efficiency across the region. A tempting wrong choice is (C), because students often confuse the Schengen Area with the eurozone, but the euro was created later by a separate treaty and is unrelated to the open-border policy.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "B",
+  "explanation": "The correct answer is B. The main economic reasoning behind the Schengen Agreement was to reduce travel times and transport costs while crossing borders, thereby facilitating the free movement of people, goods, and services. This streamlined process aimed to boost economic efficiency and integration among member states. Option A is incorrect because increasing customs enforcement would actually hinder the free movement of goods and people, which is contrary to the goals of the Schengen Agreement.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
   "unit": "Political Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_28",
@@ -3733,16 +3720,15 @@
    "C": "The Second Agricultural Revolution technologies of crop rotation and machinery uniformly improved farming globally, while the Green Revolution had more significant effects on farm outputs in Europe and North America.",
    "D": "Both the Second Agricultural Revolution and the Green Revolution increased output per acre, contributing to the expansion of large-scale commercial agriculture and declines in subsistence farming."
   },
-  "answer": "C",
-  "explanation": "Both revolutions dramatically increased agricultural output per acre and pushed farming away from small-scale subsistence toward large-scale commercial operations. The Second Agricultural Revolution used mechanization and scientific crop rotation to boost production in Europe and North America, while the Green Revolution used high-yield seeds, irrigation, and chemicals to raise yields in developing regions during the twentieth century. Option C is wrong because it reverses their geographic impacts; the Green Revolution’s greatest effects were in Asia and Latin America, not in Europe and North America.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D because both the Second Agricultural Revolution and the Green Revolution significantly increased agricultural output per acre, leading to the growth of large-scale commercial farming and a decline in subsistence farming. The most tempting wrong option, C, is incorrect because it inaccurately suggests that the Second Agricultural Revolution's technologies, such as crop rotation and machinery, had uniform global benefits, when in reality, these changes were more pronounced in Europe and North America. Additionally, the Green Revolution had more significant effects on farm outputs in developing countries, not in Europe and North America.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_29",
@@ -3757,14 +3743,14 @@
    "D": "increasing efforts at placemaking",
    "E": "food preferences spreading from the cultural hearth"
   },
-  "answer": "D",
-  "explanation": "These menu variations show McDonald's trying to make its restaurants feel rooted in each local community instead of being identical everywhere. By using regional ingredients and flavors, the company is practicing placemaking, which turns a generic global space into a distinctive place with local character. While it may look like local cultures are simply influencing a corporation, that choice misses the active corporate strategy of deliberately building a sense of place.",
-  "expl_via": "txt",
+  "answer": "B",
+  "explanation": "The correct answer is B, the influence of local cultures on a global multinational corporation. McDonald's adapts its menu to include items that appeal to local tastes and dietary preferences, such as the McRice burger in Singapore, the McAloo Tikki in India, and the McShrimp burger in Japan, which demonstrates how the company integrates local flavors and ingredients into its offerings. The most tempting wrong option might be D, increasing efforts at placemaking, but this is incorrect because placemaking typically refers to the design and management of public spaces to foster a sense of community, rather than the adaptation of a global brand’s products to local tastes.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_30",
@@ -3779,16 +3765,15 @@
    "D": "The low rate of growth will lead to a decrease in total population over time.",
    "E": "The low rate of growth will cause an increase in the old-age dependency ratio."
   },
-  "answer": "D",
-  "explanation": "A rate of natural increase of 4 percent is very high, meaning births far outpace deaths and the population will double in less than 18 years according to the rule of 70. Choices C, D, and E are incorrect because they mischaracterize 4 percent as a low rate of growth, when in fact it produces rapid natural increase. Choice B is tempting but wrong because high growth does not cause higher life expectancy; instead, a falling death rate may reflect improved life expectancy, but rapid growth itself can strain health systems and resources.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "A",
+  "explanation": "A is correct because a 4% rate of natural increase is quite high, which means the population will double in a relatively short period, specifically about 17 years, according to the Rule of 70. The most tempting wrong option, B, is incorrect because while a high rate of natural increase often indicates a young and growing population, it does not directly lead to an increase in life expectancy; factors like healthcare, nutrition, and living conditions are more influential in determining life expectancy.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
   "unit": "Population & Migration",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_31",
@@ -3803,14 +3788,14 @@
    "D": "The presence of Nagorno-Karabakh as an exclave of Azerbaijan within Armenia has contributed to regional political tensions.",
    "E": "The United Kingdom withdrew itself from membership in the European Union."
   },
-  "answer": "B",
-  "explanation": "The European Union is a supranational organization, not a sovereign state, so its institutions operate in Brussels only because Belgium, as an independent state, exercises supreme authority over its own territory. A tempting wrong choice is E, because Brexit shows a state reclaiming sovereignty it had previously pooled, not a direct, ongoing expression of independent territorial control.",
-  "expl_via": "txt",
+  "answer": "E",
+  "explanation": "E is correct because the United Kingdom's decision to withdraw from the European Union, often referred to as Brexit, exemplifies an independent state exercising its sovereignty by choosing to leave a supranational organization. This action demonstrates the UK’s authority to make decisions that affect its own governance and international relationships. The most tempting wrong option, A, is incorrect because while it describes a form of autonomy, it does not represent an independent state; rather, it refers to a region within Canada that has been granted semiautonomous status, which is a different level of self-governance.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Political Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_32",
@@ -3825,16 +3810,15 @@
    "D": "the geographic specialization of food production to increase supply",
    "E": "the reduction of urban agriculture because of its environmental costs COUNTRIES WITH THE HIGHEST TOTAL FERTILITY RATES, 2015 Country Total Fertility Rate Niger 7.6 South Sudan 6.9 Democratic Republic of the Congo 6.6 Somalia 6.6 Chad 6.5 Burundi 6.2 Central African Republic 6.2 Source: Population Reference Bureau"
   },
-  "answer": "A",
-  "explanation": "Alternative food movements such as the local food and slow food movements emphasize buying and eating food that is grown or raised close to where it is consumed. This approach reduces food miles, supports regional farmers, and challenges the industrial global food system. Choices like expanding dominant wheat and livestock regimes or increasing geographic specialization represent the conventional industrial agriculture that these movements actively critique.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "B",
+  "explanation": "The correct answer is B because contemporary alternative food movements emphasize the importance of consuming locally produced food, which helps to reduce the environmental impact of long-distance transportation and supports local economies. This option aligns with the goals of sustainability and community resilience. The most tempting wrong option, C, is incorrect because it suggests an expansion of fast and convenient foods, which often involve high levels of processing and long supply chains, contrary to the principles of alternative food movements that prioritize health, sustainability, and local sourcing.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "B",
   "unit": "Agriculture & Rural Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_33",
@@ -3871,14 +3855,14 @@
    "D": "Consumption of goods based upon folk culture",
    "E": "Difficulties in regional production of similar goods"
   },
-  "answer": "B",
+  "answer": "C",
   "unit": "Industrial & Economic Development",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "explanation": "The global distribution of manufacturing for one U.S. corporation shows how transnational businesses concentrate corporate profits and control in a wealthy core country while spreading production across other regions, a pattern that tends to increase income disparity between and within countries. This reflects uneven development under globalization, where economic gains are often distributed unequally. Many students incorrectly choose increased uniformity of consumer preferences, but manufacturing locations reveal production decisions rather than proving that consumers worldwide share the same tastes.",
-  "expl_via": "txt",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "explanation": "The correct answer is C, Increased uniformity of consumer preferences. The map shows doughnut manufacturing locations spread across different parts of the world, indicating that there is a global demand for this specific product, which reflects a trend toward more uniform tastes and preferences among consumers in various countries. The most tempting wrong option, B (Increased income disparity), might seem plausible because globalization can sometimes lead to economic inequalities, but the map specifically highlights the distribution of a single product rather than the economic conditions or income levels of the regions where the factories are located.",
+  "expl_via": "regen_after_answer_fix",
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_35",
@@ -3893,16 +3877,15 @@
    "D": "these data do not provide information about variations in development at the local scale",
    "E": "the UN targets improvement within individual cities rather than throughout member states"
   },
-  "answer": "A",
-  "explanation": "National-level indicators average conditions across an entire country, so they hide important differences between regions, cities, and rural communities. This makes it difficult to identify local areas that are falling behind on the Sustainable Development Goals. A tempting wrong choice is A, but using both qualitative and quantitative methods is generally a strength, not a drawback, and it does not solve the problem of missing local detail.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D. These data do not provide information about variations in development at the local scale, which means that while national-level data can show overall trends, they may miss important disparities and nuances within a country. The most tempting wrong option is A, as it might seem plausible that a mix of qualitative and quantitative methods could be a disadvantage, but in reality, combining both types of data often provides a more comprehensive understanding of development indicators.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Industrial & Economic Development",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_36",
@@ -3917,16 +3900,15 @@
    "D": "Postmodern architecture is most commonly found in immigrant neighborhoods and business districts.",
    "E": "Immigrant-owned businesses use signage and advertising in the languages of their countries of origin."
   },
-  "answer": "D",
-  "explanation": "Immigrant-owned businesses often use signage and advertising in their native languages, which visibly changes the streetscape and creates distinct ethnic landscapes in American cities. This is a direct and observable imprint of immigration on the cultural landscape. A tempting wrong choice is the remittances option, but that builds institutions in home countries rather than altering the physical landscape of the United States.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "E",
+  "explanation": "E is correct because it directly addresses the influence of immigrants on the cultural landscape through the visible use of their native languages in signage and advertising, which reflects and reinforces the presence of diverse cultures within the United States. This practice not only helps to preserve the cultural identity of immigrant communities but also contributes to the multicultural fabric of American society. The most tempting wrong option, A, is incorrect because while popular culture and media do feature a multicultural selection, this option does not specifically highlight the direct impact of immigrants on the physical and visual aspects of the cultural landscape.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_37",
@@ -3941,14 +3923,14 @@
    "D": "Many migrants from the northern United States have moved to locations with warmer climates as retirement destinations.",
    "E": "Many migrants from large cities in North America have moved to more rural areas with a lower cost of living."
   },
-  "answer": "B",
-  "explanation": "The gravity model suggests that places with larger populations exert a stronger pull on migrants because they offer greater economic opportunities and diversity. Europe’s large total population generates significant job markets that attract workers from nearby regions such as North Africa. Option C may seem correct because proximity matters in the gravity model, but it stresses distance rather than the population size that creates the economic magnetism.",
-  "expl_via": "txt",
+  "answer": "C",
+  "explanation": "The correct answer is C. A gravity model based on total population suggests that the flow of migrants between two places is directly proportional to the size of their populations and inversely proportional to the distance between them. In this case, many migrants from Central America have settled in southern United States cities because these cities are closer to their countries of origin, making the distance factor a key component of the gravity model. The most tempting wrong option, B, is incorrect because it focuses on economic factors (higher-paying employment opportunities) rather than the distance and population sizes that the gravity model emphasizes.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_38",
@@ -3985,12 +3967,12 @@
   },
   "answer": "B",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
   "explanation": "Brasília was built as a planned capital deep in Brazil’s interior specifically to shift political and economic focus away from the crowded coast and spur growth in the underdeveloped heartland. This makes it a classic example of a forward capital designed to promote national integration and interior development. Option D is tempting because break-of-bulk points are important trade locations, but Brasília is inland and was not placed there to handle cargo transfer; Rio de Janeiro remains the major coastal port.",
   "expl_via": "txt",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_40",
@@ -4009,10 +3991,10 @@
   "explanation": "Southeastern Brazil is home to major coastal cities such as São Paulo and Rio de Janeiro, while northwestern Brazil lies deep within the Amazon interior, so the broad geographic principle that populations cluster along coastlines explains the difference. People historically settle near coasts for trade, ports, and economic opportunities, leaving inland tropical regions sparsely populated. Option C may seem tempting because the Amazon basin is relatively flat, but flat terrain generally encourages rather than discourages dense settlement, and the area is covered by dense rainforest rather than open land.",
   "expl_via": "txt",
   "unit": "Population & Migration",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_41",
@@ -4051,16 +4033,15 @@
    "D": "cultural pluralism",
    "E": "ethnocentrism"
   },
-  "answer": "D",
-  "explanation": "Cash incentives for intermarriage encourage the blending of Han and ethnic minority populations, which promotes assimilation by breaking down cultural barriers and integrating groups into the dominant society. Marriage represents a deep social bond that typically leads to shared language, customs, and identity over time. A tempting wrong choice is cultural pluralism, but pluralism aims to preserve distinct cultures side by side, whereas this policy actively mixes them.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "A",
+  "explanation": "The correct answer is A, assimilation. This policy aims to blend the majority Han Chinese with ethnic minority groups, encouraging a more homogeneous society where the cultural traits of the minorities may be absorbed into the dominant Han culture. The most tempting wrong option might be B, acculturation, which involves the process of adopting some aspects of another culture. However, acculturation does not necessarily imply a one-sided absorption or the goal of creating a single, unified culture, which is the intent behind the policy.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "A",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_43",
@@ -4075,16 +4056,15 @@
    "D": "Ethnographic",
    "E": "Natural"
   },
-  "answer": "B",
-  "explanation": "Natural boundaries are based on recognizable physical features such as mountain ranges, rivers, or deserts, and the Pyrenees Mountains serve as a clear physical separation between Spain and France. This differs from a geometric boundary, which is drawn as a straight line or arc without regard to the physical landscape. Students often confuse natural borders with geometric ones because both appear as lines on a map, but the Pyrenees follow the actual terrain.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "E",
+  "explanation": "The correct answer is E, Natural. The Pyrenees mountain range serves as a natural boundary between Spain and France because it uses a physical feature of the landscape to define the border. This type of boundary is common in many parts of the world where mountains, rivers, or other geographical features are used to demarcate territories. The most tempting wrong option might be D, Ethnographic, because it could be assumed that the cultural differences between the two countries play a role, but in this case, the physical geography is the primary factor defining the boundary.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
   "unit": "Political Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_44",
@@ -4098,14 +4078,14 @@
    "C": "Fewer people are experiencing acculturation, resulting in adoption of practices associated with different ethnicities.",
    "D": "Fewer employees work remotely, resulting in increased salaries that provide a higher standard of living."
   },
-  "answer": "A",
-  "explanation": "Widespread air travel turns more locations into tourist destinations, which is a cultural outcome because tourism shapes local economies, landscapes, and cultural exchange. As tourism expands into previously remote areas, it creates new development that can lead to more dispersed settlement patterns across the landscape. A tempting wrong choice is B, since air travel does reduce the friction of distance, but time-space compression is a broader spatial concept rather than a specific cultural outcome like tourism.",
-  "expl_via": "txt",
+  "answer": "B",
+  "explanation": "The correct answer is B. Widespread access to air travel has made it possible for more people to travel long distances at lower costs, which leads to time-space compression. This means that the world feels smaller and more connected as people can traverse great distances in a short amount of time, making faraway places seem closer and more accessible. The most tempting wrong option is A, because while it's true that more places are becoming tourist destinations, this does not necessarily result in dispersed settlement patterns; rather, it often leads to concentrated development in popular tourist areas.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_45",
@@ -4164,16 +4144,15 @@
    "C": "Consumers in the eat-local movement tend to purchase value-added agricultural products regardless of the farm location as long as the food is of high quality.",
    "D": "Large-scale globalization forces, such as corporate marketing and free trade, have spread once-regional foods to many different locations around the world."
   },
-  "answer": "B",
-  "explanation": "Large-scale globalization, including free trade agreements and corporate marketing, has transformed these European regional meats into specialty products sold in markets across the world. This illustrates how economic and cultural diffusion spreads local food traditions to distant consumers. Option B might seem plausible because of historical colonial connections, but decolonization typically leads former colonies to revive their own indigenous food practices rather than drive demand for European regional goods.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D. Large-scale globalization forces, such as corporate marketing and free trade, have indeed spread once-regional foods like Black Forest ham, prosciutto di Parma, and jamón Ibérico to many different locations around the world, making them accessible to a global consumer market. The most tempting wrong option, C, is incorrect because the eat-local movement specifically emphasizes purchasing locally produced foods, which contrasts with the global distribution of these regional products.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_48",
@@ -4192,10 +4171,10 @@
   "explanation": "In federal states, internal boundaries represent subnational governments—such as states or provinces—that hold independent, constitutionally protected powers, while unitary states may have similar boundaries but local governments there only exercise powers granted by the central government. This means both systems can appear divided on a map, but the key difference lies in where sovereignty over those regions resides. Choice E is a common misconception because unitary states do have subnational boundaries and local administrations; those local bodies simply lack independent authority and can be altered or abolished by the central government.",
   "expl_via": "txt",
   "unit": "Political Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_49",
@@ -4212,12 +4191,12 @@
   },
   "answer": "D",
   "unit": "Thinking Geographically",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
   "explanation": "Map projections inherently distort spatial relationships such as shape, area, distance, or direction because transferring the curved surface of the Earth onto a flat map is mathematically impossible to do perfectly. While cartographers can select projections that preserve one or two properties for specific purposes, every projection involves trade-offs and sacrifices accuracy somewhere. Choice A is tempting because people often assume maps are precise, but no projection can accurately represent distance and direction simultaneously across the entire map.",
   "expl_via": "txt",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_50",
@@ -4231,16 +4210,15 @@
    "C": "an ethnocentric approach to cultural differences",
    "D": "an ethnonationalist approach to territoriality"
   },
-  "answer": "B",
-  "explanation": "Ethnocentrism is defined as interpreting and judging other cultures through the lens of one's own cultural standards, which matches the description perfectly. Option B might seem plausible because it involves cultural perspective, but cultural relativism is actually the opposite approach, requiring you to understand a culture from within its own context. Options A and D are incorrect because syncretism refers to cultural blending and ethnonationalism involves tying ethnicity to territorial control.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "C",
+  "explanation": "C is the correct answer because viewing the world exclusively from the perspective of one's own culture, and often judging other cultures by the standards of one's own, is the definition of ethnocentrism. This approach assumes that one’s own culture is superior and uses it as a benchmark to evaluate other cultures. The most tempting wrong option, B, refers to cultural relativism, which is actually the opposite of ethnocentrism, as it involves understanding and evaluating a culture based on its own values and norms rather than those of another culture.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_51",
@@ -4255,16 +4233,16 @@
    "D": "Gender inequality is greatest in Albania based on the data related to reproductive health and female literacy.",
    "E": "Gender inequality is greatest in Zambia based on the data related to early marriage and female literacy."
   },
-  "answer": "C",
+  "answer": "E",
   "has_figure": true,
   "image": "images/2024_q51.png",
-  "explanation": "The correct answer is C because the data shows that in both Albania and Zambia, a high percentage of young women were married by age 15, while in Nigeria, the percentage was much lower. This directly supports the statement in C. Option A is incorrect because the data shows that in Zambia, only about 30% of young women make informed decisions about family planning, not nearly half. Option B is incorrect because the percentages for young women making family planning decisions are very different between Zambia and Nigeria. Option D is incorrect because Albania has a very high literacy rate and a low rate of early marriage, indicating lower gender inequality compared to Zambia. Option E is incorrect because while Zambia has high early marriage and low literacy, Albania has the highest early marriage rate, making it the most unequal based on the data.",
-  "expl_via": "vl",
+  "explanation": "E is correct because the data shows that Zambia has a high rate of early marriage for young women and a low literacy rate, both of which are strong indicators of gender inequality. The most tempting wrong option, D, is incorrect because while Albania may have some issues, the data on early marriage and female literacy in Zambia is more severe, making it the country with the greatest gender inequality among the options provided.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 2,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_52",
@@ -4278,16 +4256,16 @@
    "C": "Nigeria is more economically developed than Zambia because it has a higher percentage of women making their own decisions about family planning, indicating participation in the workforce.",
    "D": "Zambia is more economically developed than Albania because it has a higher percentage of women making their own decisions about family planning, indicating participation in the workforce."
   },
-  "answer": "B",
+  "answer": "A",
   "has_figure": true,
   "image": "images/2024_q52.png",
-  "explanation": "The correct answer is B because it correctly identifies a key relationship in human geography: higher female literacy rates are associated with greater economic development, which often leads to women being employed in sectors like agriculture that contribute to the economy. The other choices are incorrect because they misinterpret the data; for example, A incorrectly links low literacy to early marriage without evidence from the table, and C and D make false comparisons between countries based on incomplete or misapplied data.",
-  "expl_via": "vl",
+  "explanation": "Option A is correct because it accurately reflects the relationship often observed in less economically developed countries, where limited educational opportunities for young women correlate with higher rates of early marriage. This pattern suggests that when girls have fewer chances to pursue education, they are more likely to be married at a younger age, which can limit their future economic and social opportunities. The most tempting wrong option, B, is incorrect because higher female literacy rates typically correlate with a shift away from agricultural employment and towards more diverse and often higher-skilled jobs, which contributes to economic development rather than being directly tied to agricultural work.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "B"
  },
  {
   "id": "human-geo_2024_53",
@@ -4308,10 +4286,10 @@
   "explanation": "The question asks why a table of data provides limited insight into women's employment in less developed countries. The key factor is the structure of the economy. In less developed countries, a large portion of the workforce is often in the primary sector (like agriculture), which typically has different employment patterns and opportunities for women compared to the secondary (manufacturing) or tertiary (services) sectors. Without data on this economic structure, it's impossible to understand the context of women's employment. While age structure or birth rates might be relevant, the economic structure is the most direct and fundamental influence on the types of jobs available.",
   "expl_via": "vl",
   "unit": "Population & Migration",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_54",
@@ -4325,16 +4303,15 @@
    "C": "A low degree, because smaller settlements help facilitate connections among places, while world cities function at the top of both regional and global urban hierarchies",
    "D": "A high degree, because world cities facilitate connections between places and function at the top of both regional and global urban hierarchies"
   },
-  "answer": "A",
-  "explanation": "World cities foster globalization to a high degree because they serve as major command centers that link their surrounding regions to the global economy through intense flows of capital, information, and people. They sit at the top of both regional and global urban hierarchies, which allows them to drive integration across multiple scales simultaneously. Option A is tempting because it correctly notes the global dominance of these cities, but it mistakenly underestimates their role by suggesting that regional connections are driven only by historically significant cities rather than by the world cities themselves.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D. World cities, also known as global cities, play a significant role in fostering globalization at both regional and global scales by serving as key nodes in the global economic, cultural, and political networks. These cities, such as New York, London, and Tokyo, are centers of finance, trade, and communication, which enhance their ability to connect and influence other places. The most tempting wrong option, B, is incorrect because it underestimates the importance of world cities in facilitating connections on a regional scale, instead attributing this role to smaller settlements.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_55",
@@ -4372,16 +4349,15 @@
    "D": "Crops from the Americas were introduced to Europe through the Columbian Exchange, resulting in dietary changes.",
    "E": "Residents of the Netherlands were able to overcome the issue of limited land resources by reclaiming wetlands."
   },
-  "answer": "D",
-  "explanation": "Possibilism is the idea that people can overcome environmental limits through technology and choice. The Dutch reclaimed wetlands to create more farmland, showing how humans modified their environment to solve a resource shortage. Some students might pick the Columbian Exchange, but that example highlights cultural diffusion rather than a society actively overcoming a local physical constraint. Choices about weather reliance or water shortages reflect environmental limits or determinism, not possibilism.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "E",
+  "explanation": "E is correct because it exemplifies possibilism, which posits that while the environment sets certain constraints, human ingenuity and technology can overcome these limitations to create new possibilities. In this case, the Dutch used advanced engineering techniques to reclaim land from the sea, thereby expanding their usable territory despite the natural constraints of their environment. The most tempting wrong option, C, describes a situation where human activities are heavily dependent on and adapted to the natural environment (the monsoon), rather than humans altering or overcoming environmental constraints, which is more in line with environmental determinism.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "E",
   "unit": "Thinking Geographically",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_57",
@@ -4396,16 +4372,15 @@
    "D": "In the 2010s armed conflicts in the Middle East led to the migration of refugees to western Europe.",
    "E": "Frostbelt to Sunbelt migrants moved for job opportunities and improved climate conditions."
   },
-  "answer": "D",
-  "explanation": "An intervening opportunity occurs when migrants stop at a place between their origin and intended destination because they find what they need there. During the Great Migration, St. Louis served as an intervening opportunity when migrants from the South found jobs there instead of continuing to Chicago. Option D is tempting because it describes a major migration flow, but it actually illustrates forced migration driven by push factors rather than an intervening opportunity.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "C",
+  "explanation": "C is correct because it exemplifies an intervening opportunity, where migrants en route to their intended destination (Chicago) were drawn to a closer location (St. Louis) due to available jobs, thus altering their original migration plan. The most tempting wrong option, A, describes a situation where economic growth in border cities attracted workers, but this does not illustrate an intervening opportunity; rather, it shows a direct pull factor influencing the initial decision to migrate.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "C",
   "unit": "Population & Migration",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "D"
  },
  {
   "id": "human-geo_2024_58",
@@ -4420,16 +4395,15 @@
    "D": "A resort in Raja Ampat, Indonesia, offers lodging and snorkeling tours of coral reefs, with local residents employed as tour guides.",
    "E": "A farm in New Jersey sells fruits and vegetables at farmers’ markets in New York City, providing locally sourced produce to city residents."
   },
-  "answer": "A",
-  "explanation": "Ecotourism is travel to natural areas that supports conservation and benefits local people. The Indonesian resort fits this because it offers snorkeling in a natural coral reef ecosystem and hires local residents as guides, tying tourism directly to environmental and community sustainability. A trip on an electric bus or a hotel on a man-made island might seem environmentally conscious, but they do not center on experiencing and preserving a natural environment.",
-  "expl_via": "txt",
-  "answer_disputed": true,
+  "answer": "D",
+  "explanation": "The correct answer is D because it best exemplifies the core principles of ecotourism, which include supporting local communities and promoting conservation through responsible travel to natural areas. The resort in Raja Ampat not only offers an experience that highlights the natural beauty of the coral reefs but also involves local residents as tour guides, thereby providing economic benefits to the community and fostering a sense of stewardship for the environment. Option C, while environmentally conscious, focuses more on showcasing renewable energy rather than engaging with and supporting a specific natural area and its local community, making it less aligned with the concept of ecotourism.",
+  "expl_via": "regen_after_answer_fix",
   "model_answer": "D",
   "unit": "Cities & Urban Land-Use",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "A"
  },
  {
   "id": "human-geo_2024_59",
@@ -4447,10 +4421,10 @@
   "explanation": "The HDI averages life expectancy, education, and income for an entire country, which means it can hide severe inequality between rich and poor residents. Therefore, it is a limited tool for showing uneven development. Option D might tempt students who think development indexes only measure economics, but the HDI deliberately includes social factors like health and schooling. Option B is also incorrect because life expectancy is already one of the index's three main ingredients.",
   "expl_via": "txt",
   "unit": "Industrial & Economic Development",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_2024_60",
@@ -4464,14 +4438,14 @@
    "C": "Ethnic groups may share a common homeland but lack sovereignty due to political discrimination.",
    "D": "Ethnic groups may be intolerant toward cultural differences if they adopt an ethnocentric perspective."
   },
-  "answer": "C",
-  "explanation": "Ethnic groups that share a homeland but lack sovereignty, called stateless nations, develop a strong sense of place because their identity is deeply tied to a specific territory they do not control politically. Political discrimination often intensifies the emotional attachment people feel toward that homeland. Option A may seem relevant because it discusses ethnic migration, but it explains language diffusion rather than the bond between a group and its native territory.",
-  "expl_via": "txt",
+  "answer": "A",
+  "explanation": "A is the correct answer because it highlights how ethnic groups, when they migrate from their original cultural hearths, can spread their native languages and other cultural elements to new regions, thereby influencing the local sense of place. This process often results in a blending of cultures and the creation of unique, diverse communities. The most tempting wrong option, B, is incorrect because while globalization does lead to the adoption of cultural traits, it does not specifically address how patterns of ethnicity contribute to a sense of place; rather, it focuses on the broader exchange of cultural elements.",
+  "expl_via": "regen_after_answer_fix",
   "unit": "Cultural Patterns & Processes",
-  "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/45 (58%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
-  "archived": true,
-  "archived_reason": "answer_key_unreliable"
+  "archived": false,
+  "answer_source": "model_consensus_3way",
+  "consensus": 3,
+  "answer_key_original": "C"
  },
  {
   "id": "human-geo_None_1",
