@@ -2517,7 +2517,9 @@
   "explanation": "The chart shows a sharp increase in U.S. troop levels from 1965 to 1968, followed by a steady decline from 1969 to 1972. This pattern reflects President Nixon's policy of Vietnamization, which involved withdrawing U.S. troops while training South Vietnamese forces to take over the fighting. Option B is incorrect because escalation refers to increasing involvement, which only happened in the early part of the period. Option C, détente, refers to improved relations with the Soviet Union and China, not troop levels in Vietnam. Option D, containment, was a broader Cold War policy that preceded Nixon's era.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "us-history_2013_59",
@@ -3039,7 +3041,9 @@
   "explanation": "The graph shows a dramatic increase in immigration to the United States from the 1840s through the 1900s. This surge was primarily driven by the transformation of the U.S. into an industrial society, which created a massive demand for labor in factories, mines, and railroads. While global events like wars or financial markets could influence migration, the fundamental economic pull of industrialization was the most direct cause. The Progressive Era reforms (C) occurred later, and global wars (D) were not a major factor in the first half of the 19th century. The answer key is incorrect; the correct answer is B.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "us-history_2016_9",
@@ -3810,7 +3814,9 @@
    "C": "complaint about high tariffs imposed on colonial merchants for exports to Great Britain",
    "D": "continuing security threat posed by the French in Canada"
   },
-  "unit": "Period 3: 1754-1800"
+  "unit": "Period 3: 1754-1800",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "us-history_2018_8",
@@ -4169,7 +4175,9 @@
   },
   "has_figure": true,
   "image": "images/2018_q27.png",
-  "unit": "Period 5: 1844-1877"
+  "unit": "Period 5: 1844-1877",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "us-history_2018_28",
@@ -4754,7 +4762,9 @@
   "explanation": "The Spanish Crown actively supported Catholic missions that sought to convert large numbers of American Indians to Christianity, making evangelization a central goal of Spain’s 1500s empire. English colonists in the early 1600s were generally more focused on extracting resources, acquiring land, or establishing religious communities for themselves than on converting Native peoples. Choice A is tempting because both empires used coerced labor, but the English did not primarily rely on American Indian labor; instead, they depended heavily on indentured servants and, later, enslaved Africans.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "us-history_2019_5",
@@ -5678,7 +5688,9 @@
   "explanation": "Spanish colonial rule sparked fierce debates among political and religious leaders over the humanity and proper treatment of indigenous peoples, most notably in discussions like the Valladolid debate. Option A is a common distractor because students might assume colonists lived separately from Native Americans, but Spanish America actually involved close, exploitative interaction through systems like the encomienda and widespread mestizaje. Option C is incorrect because Spanish authorities enforced Catholicism and suppressed religious diversity, while Option D describes French and Dutch colonial patterns rather than Spanish ones.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_2",
@@ -5697,7 +5709,9 @@
   "explanation": "This answer reflects the English model of colonization, which focused on creating permanent, populous settlements that farmed staple crops like wheat and grain for export to Europe. Unlike the Spanish encomienda system, which relied on the forced labor of Indigenous peoples to extract wealth, this approach centered on European agriculture and trade. The establishment of settlements with few Europeans describes the French fur-trading model, making it an unlikely match for a group advocating widespread agricultural production.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_3",
@@ -5716,7 +5730,9 @@
   "explanation": "The Spanish colonial caste system grew directly out of the idea that Europeans were inherently superior to Native Americans, an attitude that shaped early colonization. By legally ranking people by race and ancestry, it locked Native Americans into a lower social status for generations. Choice B might seem appealing because Spain did force Native Americans to work in mines, but that describes economic extraction rather than the enduring racial hierarchy that the caste system created.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_4",
@@ -5737,7 +5753,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_5",
@@ -5758,7 +5776,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_6",
@@ -5839,7 +5859,9 @@
   "explanation": "Enlightenment philosophers like Locke and Rousseau challenged the idea that power and status should be determined by birth rather than merit or popular consent, which inspired colonial leaders to reject British hereditary rule. This opposition to hereditary privilege became central to Revolutionary ideology in the 1770s. Option A is tempting because colonists resented British economic controls, but Enlightenment thinkers focused primarily on political rights and legitimacy, not trade policy. Option B is wrong because these ideas actually encouraged colonists to expect greater social mobility, not less.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_10",
@@ -5858,7 +5880,9 @@
   "explanation": "The panel’s efforts represented a direct outgrowth of the earlier Protestant evangelical movement that had spread through the colonies, generating religious enthusiasm and reform impulses. That makes it a continuation of colonial evangelicalism rather than a product of European debates over how to treat non-European peoples, which might seem relevant but centered on different legal and cultural concerns. The other options are not supported because the expansion of indentured servitude and the political criticisms of slavery by Republican politicians lack the direct religious lineage seen here.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_11",
@@ -5879,7 +5903,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_12",
@@ -5962,7 +5988,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_16",
@@ -6005,7 +6033,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_18",
@@ -6043,7 +6073,9 @@
   "no_figure_available": true,
   "unit": "Period 7: 1890-1945",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_20",
@@ -6061,7 +6093,9 @@
   "no_figure_available": true,
   "unit": "Period 7: 1890-1945",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_21",
@@ -6100,7 +6134,9 @@
   "explanation": "Native Americans in the late 1800s generally resisted forced assimilation and relocation by working to preserve their languages, spiritual practices, and tribal communities despite government pressure. Option B is incorrect because policies like the Dawes Act imposed citizenship and land allotment on Native people, who generally did not willingly abandon tribal sovereignty for it. Option C is also wrong because the Civil Rights movement took place in the mid-twentieth century, long after the period in question.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_23",
@@ -6119,7 +6155,9 @@
   "explanation": "The American System was the major pre-Civil War policy that promoted national infrastructure such as roads and canals to bind the country together economically, making it the most relevant development among the choices. Choice B is tempting because transportation subsidies were used to fund such projects, but they were only one mechanism within the larger American System rather than the development itself. Options A and C reflect social changes that are not connected to the era's federal infrastructure debates.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_24",
@@ -6140,7 +6178,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_25",
@@ -6201,7 +6241,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_28",
@@ -6222,7 +6264,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_29",
@@ -6243,7 +6287,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_30",
@@ -6284,7 +6330,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_32",
@@ -6305,7 +6353,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_33",
@@ -6326,7 +6376,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_34",
@@ -6345,7 +6397,9 @@
   "explanation": "Edmonia Highgate’s excerpt describes the racial violence and systemic oppression that African Americans endured in the post-Civil War South. The Supreme Court’s Plessy v. Ferguson decision upheld racial segregation, continuing the legal and social subordination of Black Americans well beyond Reconstruction. Some students might consider the industrialization of the New South, but that economic transformation did not continue the specific racial injustice Highgate condemned.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_35",
@@ -6366,7 +6420,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_36",
@@ -6387,7 +6443,9 @@
   "explanation": "Jee Gam contended that requiring Chinese immigrants to carry residency certificates violated fundamental American principles of liberty and equal rights. He portrayed such laws as unjust restrictions that contradicted the nation’s commitment to freedom. Students might be drawn to choice A because some immigrant groups emphasized cultural preservation, but Gam sought equitable treatment and integration rather than separation from mainstream society.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_37",
@@ -6448,7 +6506,9 @@
   "explanation": "The government policy described in the excerpt restricted immigration based on race or nationality, which parallels the 1920s quota laws that imposed strict numerical limits on newcomers from specific countries. Option C might seem appealing because it also involved the federal government targeting a specific ethnic group, but the internment of Japanese Americans occurred during World War II, not the 1920s.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_40",
@@ -6469,7 +6529,9 @@
   "explanation": "The cartoon shows a large figure labeled 'STRIKE-BREAKING' and 'UNION-BUSTING' overpowering a smaller figure, while a government inspector labeled 'FACT-FINDING' looks on. This imagery directly reflects the ongoing struggle between labor unions and employers, a key development from the Gilded Age where labor organizations fought for better conditions. Option A is incorrect because the cartoon does not address population shifts. Option C is wrong as it focuses on immigration, which is not depicted. Option D is incorrect because women's rights are not a theme in the image.",
   "expl_via": "vl",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_41",
@@ -6530,7 +6592,9 @@
   "explanation": "The debate over U.S. citizenship for inhabitants of Puerto Rico arose directly from the acquisition of Caribbean and Pacific territories after the Spanish-American War in 1898. Once the United States gained these lands, the federal government had to determine whether their residents automatically became American citizens under the Constitution. A tempting wrong choice might mention settlement house Americanization efforts, but those were later social reforms rather than the original cause of the citizenship question.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_44",
@@ -6549,7 +6613,9 @@
   "explanation": "This development reflects broader congressional efforts to limit the president’s ability to commit troops without legislative approval, especially during the Vietnam War era, representing a direct challenge to executive war powers. Option A is incorrect because the creation of international defense organizations like NATO involved foreign alliances rather than domestic constitutional struggles over authority. Option B is also incorrect because the issue centers on the separation of powers in waging war, not on securing resources for postwar industrialization.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_45",
@@ -6612,7 +6678,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_48",
@@ -6653,7 +6721,9 @@
   "explanation": "Both Reconstruction and the 1960s featured direct federal campaigns against structural poverty through specialized agencies like the Freedmen’s Bureau and the Office of Economic Opportunity, which provided education, healthcare, and economic assistance to marginalized Americans—often working around resistant local governments in the South. The New Deal, while expanding federal power, focused chiefly on temporary work relief and national economic recovery from the Depression rather than a sustained assault on root causes of poverty. The Gilded Age saw virtually no federal role in alleviating poverty, making it the easiest option to eliminate.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_50",
@@ -6672,7 +6742,9 @@
   "explanation": "Efforts to create a national energy policy during the 1970s oil crises accompanied the conservative resurgence, as government attempts to manage energy shortages and regulate prices fueled public frustration with federal overreach and liberal incompetence. This economic turmoil helped mobilize conservatives who advocated for deregulation and limited government. Many students incorrectly choose the growth of evangelical churches, which was indeed part of the conservative coalition but was an internal social force rather than an external policy development that drove the political shift.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_51",
@@ -6691,7 +6763,9 @@
   "explanation": "The New Deal fundamentally expanded the federal government’s role in promoting social welfare and economic security, establishing the modern model of liberal reform through active government intervention. Progressive antitrust efforts sought to regulate corporate power but did not create the broad social safety net that defines New Deal liberalism, so they are not the best example of this kind of sweeping social change.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_52",
@@ -6710,7 +6784,9 @@
   "explanation": "Lisa McGirr's work on the New Right highlights how conservative activists organized to combat what they viewed as dangerous moral and cultural decay in American society. Evidence showing these activists challenging perceived signs of decline would directly support her argument. Choice A is tempting for students who confuse populism with conservatism, but attacking business owners for exploitation was a progressive and labor cause, not a conservative one.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_53",
@@ -6729,7 +6805,9 @@
   "explanation": "The expansion of suffrage to women fundamentally broadened the American electorate and became intertwined with the political realignments of the early twentieth century, including the conservative ascendancy that followed the Progressive Era. Lyndon Johnson’s Great Society programs are a tempting distractor because they provoked a conservative backlash, but they represent liberal governance rather than the rightward shift itself.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "us-history_2024_54",
@@ -6768,6 +6846,8 @@
   "explanation": "In the months following the September 11 attacks, the Bush administration pushed for expanded surveillance and investigative powers for federal agencies to combat terrorism. These efforts, including the USA PATRIOT Act, sparked intense national debate over whether the government was adequately protecting civil liberties or dangerously overreaching into areas like privacy and free speech. Option C might seem relevant because it involves law enforcement responding to radical threats, but the specific focus on communist and anarchist activism characterizes earlier eras such as the Red Scares rather than the post-2001 War on Terror.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/33 (42%)，交叉验证 100% (12题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  }
 ]

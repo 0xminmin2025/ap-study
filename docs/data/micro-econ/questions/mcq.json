@@ -1137,7 +1137,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q3.png",
-  "unit": "Supply & Demand"
+  "unit": "Supply & Demand",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2013_4",
@@ -1666,7 +1668,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q31.png",
-  "unit": "Basic Economic Concepts"
+  "unit": "Basic Economic Concepts",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2013_32",
@@ -1687,7 +1691,9 @@
   "explanation": "When both demand and supply decrease, both curves shift to the left. Since each shift pushes equilibrium quantity lower, the combined effect guarantees that quantity will fall, even though the effect on price is uncertain. Choice B is incorrect because an increase in demand with no supply change shifts the demand curve rightward, which raises both equilibrium price and quantity rather than lowering it.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2013_33",
@@ -1704,7 +1710,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q33.png",
-  "unit": "Supply & Demand"
+  "unit": "Supply & Demand",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2013_34",
@@ -1744,7 +1752,9 @@
   "explanation": "On a linear demand curve, the left side has a high price and low quantity, which creates a large price-to-quantity ratio and makes demand elastic, while the right side has a low price and high quantity, which creates a small ratio and makes demand inelastic, with unit elasticity at the midpoint. Many students mistakenly choose the reverse order because they confuse left-to-right movement with rising price rather than rising quantity. Since the slope is constant but the P/Q ratio steadily shrinks as you move down the curve, elasticity decreases from elastic to unit elastic to inelastic.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2013_36",
@@ -1764,7 +1774,9 @@
   "explanation": "The firm should compare the marginal product per dollar for each input. Labor yields 10 units per dollar while capital yields only 4 units per dollar, so labor is more cost-effective. To produce the same output at lower cost, the firm should use more labor and less capital until the marginal product per dollar is equal across both inputs. A student might incorrectly choose to decrease labor and increase capital if they confuse the absolute marginal product with productivity per dollar spent.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2013_37",
@@ -1859,7 +1871,9 @@
   "explanation": "Cartels are unstable because each member faces a strong temptation to cheat by producing more than its agreed-upon quota and selling at the high cartel price, which boosts individual profit. When enough firms do this, total supply rises, the market price falls, and the cartel agreement collapses. While option A describes a real response to higher prices, it reflects the law of demand rather than the internal incentive problem that actually destroys cartels.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2013_42",
@@ -1894,7 +1908,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q43.png",
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2013_44",
@@ -1914,7 +1930,9 @@
   "explanation": "A monopolist restricts output below the socially efficient level, where price equals marginal cost, and instead charges a higher price that exceeds marginal cost. This creates deadweight loss because some mutually beneficial transactions do not occur. Option A is wrong because a monopolist underproduces, not overproduces, relative to the competitive outcome.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2013_45",
@@ -1968,7 +1986,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q47.png",
-  "unit": "Market Failure & the Role of Government"
+  "unit": "Market Failure & the Role of Government",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2013_48",
@@ -2139,7 +2159,9 @@
   "explanation": "When consumers view the products of competing firms as close substitutes, they will readily switch to a rival if one firm raises its price, which makes the firm's demand curve highly elastic. A tempting wrong choice is product differentiation, but a high degree of differentiation actually means fewer close substitutes exist, so consumers are less responsive to price changes and demand becomes more inelastic. Therefore, substitutability, not differentiation, creates the elastic demand.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2013_57",
@@ -2254,7 +2276,9 @@
   "explanation": "Using the midpoint formula, quantity supplied rises by 40 percent while price rises by about 22 percent, giving a price elasticity of supply of roughly 1.8. Because that value is greater than one, supply is elastic over this range. Students often mistakenly pick inelastic because the price change seems small in absolute terms, but elasticity depends on percentage changes, not dollar amounts.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_3",
@@ -2389,7 +2413,9 @@
   "explanation": "Because demand is perfectly inelastic, the quantity traded does not change when a tax is imposed, and the entire burden falls on consumers in the form of a higher price. Since suppliers continue to receive the same net price and sell the same amount, their after-tax revenue remains unchanged. Choice B is tempting because taxes often reduce the net price received by sellers, but that outcome requires the tax to lower the equilibrium quantity, which cannot happen when demand is perfectly inelastic.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_10",
@@ -2505,7 +2531,9 @@
   "explanation": "The free-rider problem occurs because people can benefit from a good without paying for it when they cannot be prevented from using it. This happens when a good is nonexcludable, meaning the supplier cannot easily exclude those who do not pay. Many students incorrectly choose nonrival because public goods are both nonrival and nonexcludable, but nonrivalry alone does not cause free riding since the supplier could still charge admission if the good were excludable.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_16",
@@ -2562,7 +2590,9 @@
   "explanation": "When the ticket price rises, the law of demand means fewer people will ride, though the decrease is relatively small because demand is price inelastic. Since the percentage drop in ridership is smaller than the percentage increase in price, total revenue increases. A common mistake is assuming inelastic demand means quantity demanded does not change at all, but it still falls—just by a smaller proportion than the price rise.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_19",
@@ -2653,7 +2683,9 @@
    "D": "$40",
    "E": "$0"
   },
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2014_24",
@@ -2860,7 +2892,9 @@
   },
   "has_figure": true,
   "image": "images/2014_q34.png",
-  "unit": "Supply & Demand"
+  "unit": "Supply & Demand",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2014_35",
@@ -3050,7 +3084,9 @@
   "explanation": "Because the industry pollutes, the marginal social cost of production is greater than the marginal private cost. At the market equilibrium, firms produce where marginal private cost equals marginal private benefit, so marginal social cost exceeds marginal social benefit since the harm to the community is not reflected in market prices. A common mistake is thinking the market underproduces, but with this negative externality the market actually overproduces compared to the socially efficient level.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_45",
@@ -3127,7 +3163,9 @@
   "explanation": "An increase in the cost of material K reduces the supply of good X, shifting the supply curve to the left, while a higher price for substitute good Y leads consumers to buy more X, shifting the demand curve to the right. Both of these shifts push the equilibrium price upward, so the price of X will definitely increase. The effect on equilibrium quantity is uncertain because the supply decrease lowers quantity while the demand increase raises it, which makes it tempting to think quantity will fall, but that is not guaranteed.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_49",
@@ -3204,7 +3242,9 @@
   "explanation": "A consumer maximizes utility when the marginal utility per dollar spent is equal for all goods. With marginal utilities of 5 for soda and 10 for hot dogs, Garcia’s current bundle is optimal only if a hot dog costs twice as much as a soda, which matches the $1 and $2 prices in choice D. Choice E is tempting because hot dogs deliver higher marginal utility, but if sodas cost $2 and hot dogs only $1, hot dogs provide far more utility per dollar, so Garcia should buy more hot dogs rather than maintain his current consumption.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2014_53",
@@ -3791,7 +3831,9 @@
   "explanation": "Allocative efficiency means that the value society places on the last unit produced, shown by the price, is exactly equal to the cost of the resources used to make it, shown by marginal cost, so price must equal marginal cost. Students often mistakenly pick marginal revenue equals marginal cost, but that rule only maximizes a firm's profit and does not mean the output level is ideal for society.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2015_27",
@@ -3829,7 +3871,9 @@
   "explanation": "A profit-maximizing firm hires workers until the marginal revenue product of labor equals the marginal factor cost, because that is the point where the revenue gained from the last worker exactly offsets the cost of employing them. If MRP exceeds MFC, hiring another worker adds more to revenue than to cost and increases profit. Marginal product of labor is a common distractor because the term sounds related, but it measures extra physical output rather than extra revenue and ignores the wage the firm must pay.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2015_29",
@@ -4582,7 +4626,9 @@
   "explanation": "The cost-minimizing rule requires that the marginal product per dollar spent be equal across all inputs. Here, labor provides 30 square feet for $1,000, or 0.03 square feet per dollar, and capital provides 90 square feet for $3,000, which is also 0.03 square feet per dollar. Because these ratios are identical, the firm is already using the optimal mix of labor and capital and should make no changes. A student might incorrectly choose to hire more capital and less labor by looking only at capital’s higher marginal product, but they must account for capital’s higher price as well.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2016_9",
@@ -4716,7 +4762,9 @@
   "explanation": "Setting price equal to average total cost allows the regulated natural monopoly to earn a normal profit and stay in business without receiving a subsidy, while still charging less than an unregulated monopolist and shrinking deadweight loss. If regulators instead set price equal to marginal cost—whether short-run or long-run—the firm would incur losses because a natural monopoly’s marginal cost lies below its average total cost, making a subsidy necessary to keep the firm operating.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2016_16",
@@ -4828,7 +4876,9 @@
   },
   "has_figure": true,
   "image": "images/2016_q21.png",
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2016_22",
@@ -5317,7 +5367,9 @@
   },
   "has_figure": true,
   "image": "images/2016_q48.png",
-  "unit": "Supply & Demand"
+  "unit": "Supply & Demand",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2016_49",
@@ -5451,7 +5503,9 @@
   "explanation": "The tax burden falls mainly on producers because they have the more inelastic supply, meaning they cannot easily adjust output when costs rise. Consumers with elastic demand can simply buy fewer soft drinks if prices go up, so they avoid most of the tax. Many students incorrectly choose the consumer because a sales tax is paid at the store, but legal incidence does not determine who actually bears the economic burden.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2016_56",
@@ -5546,7 +5600,9 @@
   },
   "has_figure": true,
   "image": "images/2016_q60.png",
-  "unit": "Supply & Demand"
+  "unit": "Supply & Demand",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2017_1",
@@ -5894,7 +5950,9 @@
   "explanation": "Firms that are losing money will leave the industry, so the number of firms falls and market supply shifts left, causing the market price to rise. The typical remaining firm faces a higher price and moves up its marginal cost curve, so it increases its output. Choice B might look tempting if you think fewer firms mean lower prices, but less supply actually pushes the price up.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2017_19",
@@ -5991,7 +6049,9 @@
   "explanation": "To maximize utility, a consumer must equalize marginal utility per dollar across goods. The pencil’s marginal utility per dollar is 100 utils divided by $1, or 100, while the pad’s is 400 utils divided by $5, or 80. Because pencils provide more additional satisfaction per dollar, the student should buy more pencils and fewer pads. Choice D is tempting if you compare the raw marginal utilities of 100 and 400 and forget to account for the price difference, but that comparison is incorrect.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2017_24",
@@ -6586,7 +6646,9 @@
   "explanation": "The tax reduces quantity the least when both demand and supply are inelastic, so the correct answer is E. When both sides are relatively unresponsive to price, neither buyers nor sellers adjust their behavior much, so the equilibrium quantity falls only slightly. Choice D is tempting because inelastic demand means consumers do not cut back much, but elastic supply means producers are very responsive and will reduce output significantly, causing a larger drop in quantity than when both sides are inelastic.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2017_55",
@@ -6909,7 +6971,9 @@
   "explanation": "A perfectly competitive firm only produces output in the short run if the market price covers its average variable costs, so the supply curve is the portion of the marginal cost curve that lies above AVC. If price falls below AVC, the firm shuts down to limit its losses to fixed costs, which means the MC segment below AVC is not part of the supply curve. Option A is tempting because it confuses the short-run shutdown rule with the long-run exit condition, which depends on average total cost rather than AVC.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2018_13",
@@ -7024,7 +7088,9 @@
   "explanation": "Because demand is perfectly elastic, the demand curve is horizontal and the market price stays fixed no matter what happens to supply. A decrease in supply therefore lowers the equilibrium quantity sold while leaving price unchanged, so total revenue—price multiplied by quantity—must fall. Choice (C) is a common mistake for students who confuse perfectly elastic demand with unit-elastic demand, where total revenue would remain unchanged after a price change.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2018_19",
@@ -7080,7 +7146,9 @@
   "explanation": "A firm minimizes cost when the marginal product per dollar spent is equal across inputs, so the marginal product of labor divided by the wage must equal the marginal product of capital divided by the price of capital. Setting 40/$20 equal to 10/r and solving gives a capital price of $5. Option A, $2.5, might tempt students who accidentally halve the wage or misapply the ratio, but that violates the equal-marginal-product-per-dollar rule.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2018_22",
@@ -7193,7 +7261,9 @@
   "explanation": "In long-run equilibrium, a perfectly competitive firm earns zero economic profit, so its total cost equals the $15,000 total revenue. Subtracting the $2,500 total fixed cost gives a total variable cost of $12,500, which means average variable cost is $12.50. Because a profit-maximizing competitive firm produces where price equals marginal cost, and the price is $15,000 divided by 1,000 units, marginal cost must be $15.00. Choice A is tempting if you mistakenly treat the $12.50 average variable cost as both marginal cost and average total cost, but average total cost is actually $15.00.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2018_28",
@@ -7574,7 +7644,9 @@
   "explanation": "An increase in the supply of potatoes lowers the price of this complementary good, which leads consumers to demand more beef and shifts the beef demand curve to the right. This increase in demand raises both the equilibrium price and quantity of beef. Option D might seem appealing because higher corn costs push beef prices upward, but that change actually reduces the supply of beef and causes the equilibrium quantity to fall.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2018_48",
@@ -7819,7 +7891,9 @@
   "explanation": "A market economy is fundamentally defined by private ownership of resources, which gives individuals and firms the incentive and authority to make production and consumption decisions based on supply and demand. This system relies on decentralized decision-making rather than central planning. A tempting wrong choice is government-guided resource allocation, but that actually describes a command economy where authorities direct production, which is the opposite of a market system.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_2",
@@ -7863,7 +7937,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_4",
@@ -7885,7 +7961,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_5",
@@ -7907,7 +7985,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_6",
@@ -7929,7 +8009,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_7",
@@ -7951,7 +8033,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_8",
@@ -7973,7 +8057,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_9",
@@ -8015,7 +8101,9 @@
   "no_figure_available": true,
   "unit": "Production, Cost & Perfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_11",
@@ -8035,7 +8123,9 @@
   "explanation": "Constant returns to scale means that when all inputs are increased or decreased by a certain percentage, output changes by exactly the same percentage. In the correct choice, both workers and capital are cut in half, and output also falls by half from 50 to 25, matching that definition perfectly. Option B is tempting because both inputs double, but since output rises only to 90 rather than 100, it illustrates decreasing returns to scale instead.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_12",
@@ -8057,7 +8147,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_13",
@@ -8079,7 +8171,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_14",
@@ -8120,7 +8214,9 @@
   "explanation": "Because demand is perfectly inelastic, the quantity demanded is fixed regardless of price. The socially optimal quantity is also that same fixed amount, since the marginal social benefit curve is vertical and intersects marginal social cost at the identical quantity. Consequently, the market produces the socially optimal quantity, so there is no deadweight loss. Choice A is tempting because external costs usually create deadweight loss, but here the quantity cannot adjust, so no inefficiency arises from overproduction.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_16",
@@ -8142,7 +8238,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_17",
@@ -8185,7 +8283,9 @@
   "explanation": "When marginal cost is below average total cost, the additional unit costs less than the current average, pulling that average downward. Therefore, the average total cost of the ninth unit must have been greater than $150 before the tenth unit lowered it. Choice E may tempt students who subtract the $130 marginal cost from the $150 average total cost to get $20, but average variable cost cannot be determined without knowing the firm's fixed costs.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_19",
@@ -8207,7 +8307,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_20",
@@ -8225,7 +8327,9 @@
   "no_figure_available": true,
   "unit": "Production, Cost & Perfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_21",
@@ -8266,7 +8370,9 @@
   "no_figure_available": true,
   "unit": "Imperfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_23",
@@ -8286,7 +8392,9 @@
   "explanation": "Perfect price discrimination means a firm charges each buyer their exact reservation price, which is the highest amount that individual is willing to pay, allowing the firm to capture all consumer surplus. This is different from charging different prices based on how many units a customer buys, which is second-degree price discrimination and does not require knowing each buyer's specific willingness to pay. Likewise, age-based pricing is third-degree price discrimination, where the market is divided into groups rather than setting a unique price for every single customer.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_24",
@@ -8308,7 +8416,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_25",
@@ -8418,7 +8528,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_30",
@@ -8437,7 +8549,9 @@
   "explanation": "Antitrust laws target business practices that unfairly reduce competition, such as price-fixing or predatory mergers, rather than outlawing every monopoly. By restricting these actions, the laws aim to keep markets open and prevent any single firm from gaining excessive control over prices or output. Choice A is tempting, but antitrust policy does not eliminate all monopolies, since some arise naturally or through legitimate innovation.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_31",
@@ -8482,7 +8596,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_33",
@@ -8504,7 +8620,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_34",
@@ -8526,7 +8644,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_35",
@@ -8571,7 +8691,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_37",
@@ -8593,7 +8715,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_38",
@@ -8613,7 +8737,9 @@
   "explanation": "When demand is elastic, a monopolist's marginal revenue is positive because the extra revenue gained from selling additional units exceeds the revenue lost from lowering the price on all previous units. A profit-maximizing monopolist produces where marginal revenue equals marginal cost, and since marginal cost is positive, this must occur in the elastic portion of the demand curve. Choice A is incorrect because raising price when demand is elastic actually reduces total revenue, as the percentage drop in quantity demanded outweighs the percentage increase in price.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_39",
@@ -8654,7 +8780,9 @@
   "explanation": "In the long run, a monopolistically competitive firm earns zero economic profit because entry or exit shifts its demand curve until it is tangent to average total cost at the profit-maximizing quantity. The firm will therefore increase output and raise price to reach that tangency point. Option D is tempting if the firm is currently making losses, but the market adjusts through the exit of other firms rather than this firm leaving, allowing it to eventually earn normal profit.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_41",
@@ -8676,7 +8804,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_42",
@@ -8698,7 +8828,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_43",
@@ -8720,7 +8852,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_44",
@@ -8742,7 +8876,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_45",
@@ -8764,7 +8900,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_46",
@@ -8786,7 +8924,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_47",
@@ -8808,7 +8948,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_48",
@@ -8827,7 +8969,9 @@
   "explanation": "A binding price floor must be set above the equilibrium price of $20, which causes quantity demanded to fall while the vertical supply curve means quantity supplied stays fixed. Because fewer units are actually sold at the higher price, some valuable trades no longer happen, creating deadweight loss and reducing the sum of consumer and producer surplus. You might think D is correct because supply is vertical, but quantity sold depends on demand, so it actually decreases.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_49",
@@ -8871,7 +9015,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_51",
@@ -8893,7 +9039,9 @@
   "answer_key_suspect": true,
   "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
   "explanation": "A firm’s short-run supply curve is the portion of its marginal cost curve that lies at or above the minimum average variable cost, so the correct points are R, S, and T. A tempting wrong choice adds W or V because students sometimes treat the entire marginal cost curve or the average total cost curve as the supply curve, forgetting that the firm shuts down when price falls below minimum average variable cost.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_52",
@@ -8915,7 +9063,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_53",
@@ -8937,7 +9087,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_54",
@@ -8959,7 +9111,9 @@
   "explanation": "Economic profit equals total revenue minus both explicit and implicit costs. Jamal’s implicit costs include the $30,000 salary he gave up, the $12,000 in forgone rent, and the $2,000 in lost interest on his savings, totaling $44,000. Subtracting the $30,000 in explicit costs and $44,000 in implicit costs from $60,000 in sales leaves an economic profit of negative $14,000. A common mistake is choosing $30,000 by ignoring all implicit costs, which gives only accounting profit.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_55",
@@ -8981,7 +9135,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_56",
@@ -9001,7 +9157,9 @@
   "explanation": "In perfect competition, a firm maximizes profit by producing where price equals marginal cost. Since the marginal cost of $7 exceeds the price of $5 at the current output, each of the last units costs more to produce than it earns, so the firm should reduce output until price and marginal cost are equal. A tempting wrong choice is (B), but increasing output would only widen the gap between marginal cost and price and lower profit further.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_57",
@@ -9021,7 +9179,9 @@
   "explanation": "Because accountants and teachers have the same marginal revenue product, the demand for labor is identical in both markets, so the salary gap must be explained by supply. A relatively low supply of accountants means firms must bid up wages to attract enough workers, resulting in higher starting pay. Choice E may look appealing because it mentions fewer graduates, but if teaching majors are actually scarcer than accounting majors, that would predict teachers—not accountants—would earn more.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_58",
@@ -9043,7 +9203,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_59",
@@ -9065,7 +9227,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2019_60",
@@ -9084,7 +9248,9 @@
   "explanation": "A progressive income tax means that each additional dollar earned is taxed at a higher rate, so marginal tax rates rise as income rises. This causes the average tax rate to also increase with income, ensuring that higher earners pay a larger share of their income in taxes. Option A is wrong because it describes a regressive tax, where lower-income households actually face a higher average tax rate than wealthier households.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 30/42 (71%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_1",
@@ -9106,7 +9272,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_2",
@@ -9128,7 +9296,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_3",
@@ -9152,7 +9322,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_4",
@@ -9174,7 +9346,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_5",
@@ -9215,7 +9389,9 @@
   "explanation": "Cross-price elasticity is calculated by dividing the percent change in quantity demanded of cheese, which is negative five percent, by the percent change in price of bologna, which is positive two percent, yielding negative 2.5. The negative sign indicates that when bologna becomes more expensive, people buy less cheese too, meaning the goods are complements. Be careful not to flip the numbers: dividing two by five gives 0.4, which is a common mistake that leads to the wrong answer.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_7",
@@ -9235,7 +9411,9 @@
   "explanation": "When a substitute input becomes cheaper, firms replace the original factor with the now less expensive alternative, which decreases demand for the original factor at every price and shifts its demand curve to the left. A common error is choosing a decrease in the factor's own price, but that only causes a movement downward along the existing demand curve rather than shifting it. The remaining options would each increase the factor's marginal revenue product and therefore shift the demand curve to the right instead.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_8",
@@ -9257,7 +9435,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_9",
@@ -9279,7 +9459,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_10",
@@ -9301,7 +9483,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_11",
@@ -9323,7 +9507,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_12",
@@ -9345,7 +9531,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_13",
@@ -9365,7 +9553,9 @@
   "explanation": "To minimize cost, a firm must get equal marginal product per dollar spent on each input, so MPL divided by the wage must equal MPK divided by the rental rate. Plugging in 100/w = 60/12 gives w = $20. A common mistake is to divide MPL by the rental rate, which yields roughly $8.33 and confuses the two different factors.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_14",
@@ -9431,7 +9621,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_17",
@@ -9453,7 +9645,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_18",
@@ -9473,7 +9667,9 @@
   "explanation": "A monopsony is defined as a market with only one buyer, so in a labor market that means there is just one employer hiring workers. Because that sole employer is the entire market demand for labor, it faces the upward-sloping market labor supply curve and must pay higher wages to attract additional workers. Some students might pick a horizontal labor supply curve, but that describes a perfectly competitive firm that is a wage taker, not a monopsonist.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_19",
@@ -9495,7 +9691,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_20",
@@ -9517,7 +9715,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_21",
@@ -9537,7 +9737,9 @@
   "explanation": "In a command economy, the government makes all production decisions, including how many computers to produce, because it controls the factors of production. It is easy to mistakenly choose consumers and producers, but that describes a market economy where supply and demand determine output rather than a central authority.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_22",
@@ -9559,7 +9761,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_23",
@@ -9581,7 +9785,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_24",
@@ -9605,7 +9811,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_25",
@@ -9625,7 +9833,9 @@
   "explanation": "The burden of a tax falls most heavily on the side of the market that is less elastic, because that side is less able to change the quantity bought or sold when the price changes. If consumer surplus drops by more than producer surplus, consumers are bearing the greater share of the tax, so demand must be less elastic than supply. Choice D is tempting but wrong because if demand were more elastic than supply, consumers would avoid more of the burden and producer surplus would fall by more instead.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_26",
@@ -9647,7 +9857,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_27",
@@ -9669,7 +9881,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_28",
@@ -9691,7 +9905,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_29",
@@ -9759,7 +9975,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_32",
@@ -9781,7 +9999,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_33",
@@ -9803,7 +10023,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_34",
@@ -9825,7 +10047,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_35",
@@ -9847,7 +10071,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_36",
@@ -9869,7 +10095,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_37",
@@ -9891,7 +10119,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_38",
@@ -9978,7 +10208,9 @@
   "explanation": "In the short run, a perfectly competitive firm will shut down if total revenue is less than total variable cost because continuing to operate would add extra losses on top of the fixed costs it already owes. This is the strict shutdown rule, as the firm cannot even pay for its variable inputs like labor and raw materials. Choice C is tempting because many students remember that perfectly competitive firms earn zero economic profit, but that only describes the long run; in the short run, profits can be positive or negative.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_42",
@@ -10044,7 +10276,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_45",
@@ -10066,7 +10300,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_46",
@@ -10157,7 +10393,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_50",
@@ -10202,7 +10440,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_52",
@@ -10224,7 +10464,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_53",
@@ -10288,7 +10530,9 @@
   "explanation": "Social efficiency is achieved when the marginal social benefit of the final unit produced is exactly equal to its marginal social cost, which eliminates deadweight loss. A perfectly competitive market reaches this outcome automatically because the demand curve reflects marginal social benefit and the supply curve reflects marginal social cost. Choice B is tempting but incorrect because if marginal social benefit were less than marginal social cost, society would be overproducing and wasting resources.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_56",
@@ -10310,7 +10554,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_57",
@@ -10332,7 +10578,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_58",
@@ -10354,7 +10602,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_59",
@@ -10376,7 +10626,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2021_60",
@@ -10398,7 +10650,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 36/44 (82%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2022_1",
@@ -10472,7 +10726,9 @@
   "explanation": "In a command economy, the government controls resources and limits individual property rights, while a market economy depends on protecting those rights so individuals can own, use, and exchange property. Strong property rights are essential in market systems because they create the incentives for people to invest, work, and trade. Option A is wrong because market economies also rely on a legal framework—especially to enforce contracts and property rights—to encourage production.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2022_5",
@@ -11393,7 +11649,9 @@
   "explanation": "A decrease in supply shifts the supply curve to the left, which raises the equilibrium price and lowers the equilibrium quantity of pencils. Because buyers now face a higher price and purchase fewer units, the area of consumer surplus unambiguously shrinks. Option E is a common wrong choice because students often confuse a decrease in quantity demanded—a movement along the demand curve—with an actual decrease in demand, which would shift the entire curve.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2022_56",
@@ -11562,7 +11820,9 @@
   "explanation": "An increase in the price of lamp oil, a complementary good, raises the total cost of using antique lanterns, so consumers demand fewer lanterns at every price and the demand curve shifts leftward. Many students mistakenly pick a change in the good's own price, but that only changes quantity demanded along the curve rather than shifting demand itself. Option A is incorrect because an increase in income actually raises demand for a normal good, not lowers it.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_5",
@@ -11793,7 +12053,9 @@
   "explanation": "A tariff raises the domestic price of aluminum, so domestic producers increase output along the supply curve and domestic quantity supplied rises. Consumers face a higher price and purchase less, causing domestic consumer surplus to fall, while domestic producers gain from the higher price and expanded sales, so domestic producer surplus rises. Choice (A) is tempting if you mistakenly think the tariff reduces producer surplus, but it actually reduces total surplus because of deadweight loss.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_17",
@@ -11929,7 +12191,9 @@
   "explanation": "Because Greencom’s price of $10 is greater than its average total cost of $9, the firm earns positive economic profit on each of the 20 units sold. Producing where marginal revenue equals marginal cost ensures the profit-maximizing quantity, but that condition alone does not determine whether profit is positive or negative; the comparison of price to average total cost does. Choice D is tempting if one mistakenly assumes that MR equals MC implies a loss, but since price exceeds average total cost the firm is earning positive economic profit.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_24",
@@ -12123,7 +12387,9 @@
   "explanation": "A natural monopoly arises when a single firm can supply the entire market at a lower cost than multiple firms because it enjoys economies of scale. This is shown by a downward-sloping average total cost curve over the relevant range of output, so bigger is cheaper. A tempting wrong answer is that the firm sets price equal to marginal cost, but a natural monopoly actually loses money if it does that because its average total cost is greater than its marginal cost.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_34",
@@ -12197,7 +12463,9 @@
   },
   "has_figure": true,
   "image": "images/2023_q37.png",
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2023_38",
@@ -12233,7 +12501,9 @@
   },
   "has_figure": true,
   "image": "images/2023_q39.png",
-  "unit": "Basic Economic Concepts"
+  "unit": "Basic Economic Concepts",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2023_40",
@@ -12253,7 +12523,9 @@
   "explanation": "A firm with market power increases its profits by charging a lower price in the market with elastic demand and a higher price in the market with inelastic demand, because buyers in the elastic market are more responsive to price and would significantly reduce purchases if prices rose, while buyers in the inelastic market are less sensitive and will tolerate a higher price. This form of price discrimination allows the firm to earn more profit than it would by charging a single price in both markets. Option E is tempting but incorrect because reversing the prices would drive away too many customers in the elastic market and leave money on the table in the inelastic market.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_41",
@@ -12289,7 +12561,9 @@
   },
   "has_figure": true,
   "image": "images/2023_q42.png",
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2023_43",
@@ -12310,7 +12584,9 @@
   "explanation": "A profit-maximizing monopsonist hires workers until marginal revenue product equals marginal factor cost. Because the firm must raise the wage for all workers to attract another, marginal factor cost exceeds the market wage, so marginal revenue product is greater than the market wage at the hired quantity. Choice (E) is wrong because it describes a competitive labor market, and choice (A) is wrong because the firm would cut jobs if an additional worker added less to revenue than to cost.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_44",
@@ -12350,7 +12626,9 @@
   "explanation": "Because robots and workers are substitutes, a higher rental price for robots makes workers relatively cheaper, so firms substitute toward labor and the demand for workers increases. In a perfectly competitive labor market, this rightward shift in labor demand raises both the equilibrium wage and the quantity of workers employed. A common mistake is choosing B by assuming that higher production costs automatically lower wages, but that ignores the substitution effect that pushes firms to hire more workers and bid up wages.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_46",
@@ -12426,7 +12704,9 @@
   },
   "has_figure": true,
   "image": "images/2023_q49.png",
-  "unit": "Basic Economic Concepts"
+  "unit": "Basic Economic Concepts",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2023_50",
@@ -12522,7 +12802,9 @@
   "explanation": "Land is an input for building townhouses, so when land becomes cheaper, production costs fall and supply increases. This means the supply curve shifts to the right, giving builders more incentive to construct townhouses. Choice A is incorrect because lower input costs raise supply rather than reduce it.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2023_55",
@@ -12539,7 +12821,9 @@
   },
   "has_figure": true,
   "image": "images/2023_q55.png",
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2023_56",
@@ -12672,7 +12956,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q3.png",
-  "unit": "Basic Economic Concepts"
+  "unit": "Basic Economic Concepts",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_5",
@@ -12744,7 +13030,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q12.png",
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_14",
@@ -12797,7 +13085,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q17.png",
-  "unit": "Basic Economic Concepts"
+  "unit": "Basic Economic Concepts",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_18",
@@ -12868,7 +13158,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q24.png",
-  "unit": "Market Failure & the Role of Government"
+  "unit": "Market Failure & the Role of Government",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_27",
@@ -12888,7 +13180,9 @@
   "explanation": "A patent grants legal protection that prevents other firms from producing the same device, which is a barrier to entry. Barriers to entry are a defining characteristic of imperfectly competitive markets because they allow existing firms to maintain market power. Mutual interdependence might seem related, but it refers to firms in an oligopoly reacting to each other's decisions, not to legal protections that block new competitors.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2024_30",
@@ -12984,7 +13278,9 @@
   "explanation": "Cross-price elasticity is positive for substitute goods because a price increase in one leads consumers to buy more of the other, and it is negative for complementary goods because a price increase in one reduces demand for the other. Option A is tempting but wrong because it describes income elasticity, not cross-price elasticity; normal goods have positive income elasticity and inferior goods have negative income elasticity.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2024_36",
@@ -13003,7 +13299,9 @@
   "explanation": "Antitrust legislation is designed to promote competition and prevent monopolies or collusion that restrict output and raise prices, thereby reducing the deadweight loss and allocative inefficiency caused by monopoly power. These laws target market structure and firm behavior in product markets rather than externalities or labor market outcomes. Option D is incorrect because antitrust policy does not focus on ensuring workers are paid their marginal revenue product or on reducing income inequality.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2024_40",
@@ -13038,7 +13336,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q41.png",
-  "unit": "Factor Markets"
+  "unit": "Factor Markets",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_43",
@@ -13124,7 +13424,9 @@
    "B": "Marginal revenue will decrease.",
    "C": "Marginal cost will increase. (D）.Average total cost will incre还e."
   },
-  "unit": "Production, Cost & Perfect Competition"
+  "unit": "Production, Cost & Perfect Competition",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_48",
@@ -13140,7 +13442,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q48.png",
-  "unit": "Market Failure & the Role of Government"
+  "unit": "Market Failure & the Role of Government",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_52",
@@ -13179,7 +13483,9 @@
   "explanation": "A firm maximizes profit by hiring labor up to the point where the marginal revenue product of labor equals the marginal factor cost. If the firm has already hired more than that amount, each extra worker is adding less to revenue than to cost, meaning the marginal revenue product of labor is less than the marginal factor cost. Choice A is tempting, but when MRP exceeds MFC the firm actually gains from hiring more workers, so it has hired too few, not too many.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "micro-econ_2024_54",
@@ -13196,7 +13502,9 @@
   },
   "has_figure": true,
   "image": "images/2024_q54.png",
-  "unit": "Market Failure & the Role of Government"
+  "unit": "Market Failure & the Role of Government",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "micro-econ_2024_56",
@@ -13256,7 +13564,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_2",
@@ -13278,7 +13588,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_3",
@@ -13298,7 +13610,9 @@
   "explanation": "Under perfect price discrimination, a firm charges each buyer their exact willingness to pay, which completely eliminates consumer surplus by capturing it all as producer surplus. The firm also expands output to the allocatively efficient quantity where demand equals marginal cost, eliminating the deadweight loss that existed under a single monopoly price, so deadweight loss decreases rather than increases. A common mistake is choosing an option that keeps consumer surplus positive or suggests deadweight loss rises, but perfect price discrimination transfers all surplus to the firm and restores efficiency.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_4",
@@ -13320,7 +13634,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_5",
@@ -13363,7 +13679,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_7",
@@ -13385,7 +13703,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_8",
@@ -13428,7 +13748,9 @@
   "explanation": "Because average total cost—the sum of average fixed and average variable cost—is less than marginal revenue, which equals price in perfect competition, Firm Z is earning positive economic profit. In a constant-cost industry, this profit attracts new firms to enter the market in the long run, increasing supply and pushing economic profit down to zero. It is tempting to think the firm itself can raise its price, but perfectly competitive firms are price takers and have no control over the market price.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_10",
@@ -13450,7 +13772,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_11",
@@ -13491,7 +13815,9 @@
   "explanation": "Consumer surplus is the difference between a buyer’s maximum willingness to pay and the actual market price. Since Kareem is willing to pay $25 but only has to pay the market price of $10, his consumer surplus is $15. A tempting wrong choice is $25, which simply equals his willingness to pay and ignores the fact that surplus is measured relative to the price actually paid.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_13",
@@ -13532,7 +13858,9 @@
   "explanation": "Higher license fees raise the cost of entering the plumbing profession, which discourages workers from joining and shifts the labor supply curve to the left. With fewer plumbers available, employers must compete more intensely for workers, driving the equilibrium market wage upward. A tempting wrong choice is increasing the quality of working conditions, but that makes the job more attractive and increases labor supply, which would actually lower the equilibrium wage.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_15",
@@ -13552,7 +13880,9 @@
   "explanation": "Tornado sirens are a public good that is non-excludable and non-rival, meaning people can benefit from them without paying, which creates a free-rider problem and removes the private incentive to provide them. Consequently, local governments fund sirens through taxes so the entire community is protected. A tempting wrong answer is A, but individuals do value the sirens; the problem is that each person prefers to let someone else pay for them.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_16",
@@ -13572,7 +13902,9 @@
   "explanation": "The price of land is a fixed cost, so it does not affect marginal cost or the short-run profit-maximizing quantity where marginal revenue equals marginal cost. While higher land rent reduces total profit, the firm’s output decision depends only on variable costs and revenues, leaving quantity unchanged. This differs from the wage rate, which is a variable cost that directly shifts marginal cost and alters the optimal level of production.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_17",
@@ -13594,7 +13926,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_18",
@@ -13616,7 +13950,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_19",
@@ -13638,7 +13974,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_20",
@@ -13660,7 +13998,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_21",
@@ -13682,7 +14022,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_22",
@@ -13701,7 +14043,9 @@
   "no_figure_available": true,
   "unit": "Supply & Demand",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_23",
@@ -13723,7 +14067,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_24",
@@ -13745,7 +14091,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_25",
@@ -13767,7 +14115,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_26",
@@ -13789,7 +14139,9 @@
   "answer_disputed": true,
   "model_answer": "E",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_27",
@@ -13832,7 +14184,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_29",
@@ -13852,7 +14206,9 @@
   "explanation": "The price of land is a fixed cost, so it does not affect marginal cost and therefore does not change the short-run profit-maximizing quantity where marginal revenue equals marginal cost. By contrast, the wage rate and the marginal products of variable inputs directly influence marginal cost, while the price of the good affects marginal revenue. Students often mistakenly think any increase in costs lowers output, but only changes in variable costs shift the marginal cost curve and alter the optimal quantity.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_30",
@@ -13872,7 +14228,9 @@
   "explanation": "A dominant strategy is one that gives a firm the best payoff no matter what its rival chooses. Since Ally earns higher profits by raising prices whether Bob raises or lowers his, raising price is a dominant strategy for Ally. Students often confuse this with Nash equilibrium, but Nash equilibrium describes a stable outcome where neither firm wants to change, not a single strategy that is optimal regardless of the rival's action.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_31",
@@ -13891,7 +14249,9 @@
   "no_figure_available": true,
   "unit": "Production, Cost & Perfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_33",
@@ -13910,7 +14270,9 @@
   "no_figure_available": true,
   "unit": "Market Failure & the Role of Government",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_34",
@@ -13930,7 +14292,9 @@
   "explanation": "Comparative advantage means having a lower opportunity cost in a particular task. Because Ming has the comparative advantage in taking orders, Andreas must have the comparative advantage in cleaning tables, meaning Andreas sacrifices fewer orders to clean tables. A tempting wrong choice is B because having a comparative advantage does not mean Ming is necessarily faster or better at taking orders in absolute terms.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_35",
@@ -13949,7 +14313,9 @@
   "no_figure_available": true,
   "unit": "Production, Cost & Perfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_42",
@@ -13969,7 +14335,9 @@
   "explanation": "In a pure command economy, a central authority makes all production and allocation decisions through planning, whereas a pure market economy relies on the decentralized forces of supply and demand and individual self-interest. This makes option C the only choice that correctly identifies the defining mechanism of each system. Option A is a tempting distractor because it simply reverses these two mechanisms, which is easy to do if you read too quickly.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_43",
@@ -13988,7 +14356,9 @@
   "no_figure_available": true,
   "unit": "Basic Economic Concepts",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_45",
@@ -14010,7 +14380,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_46",
@@ -14032,7 +14404,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_47",
@@ -14075,7 +14449,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_49",
@@ -14097,7 +14473,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_50",
@@ -14119,7 +14497,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_51",
@@ -14141,7 +14521,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_52",
@@ -14184,7 +14566,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_54",
@@ -14227,7 +14611,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_56",
@@ -14247,7 +14633,9 @@
   "explanation": "Economic profit subtracts both explicit and implicit opportunity costs from total revenue. Nikita’s implicit costs include the $80,000 salary and the $15,000 rental income she gave up, totaling $95,000. Since her accounting profit was $90,000, her economic profit is $90,000 minus $95,000, which equals negative $5,000. A common mistake is choosing $10,000 by only subtracting the foregone salary, but you must also account for the lost rent on the building she now uses herself.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_57",
@@ -14269,7 +14657,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_58",
@@ -14288,7 +14678,9 @@
   "no_figure_available": true,
   "unit": "Production, Cost & Perfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_59",
@@ -14310,7 +14702,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "micro-econ_2025_60",
@@ -14329,6 +14723,8 @@
   "no_figure_available": true,
   "unit": "Production, Cost & Perfect Competition",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 26/36 (72%)，交叉验证 100% (15题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  }
 ]

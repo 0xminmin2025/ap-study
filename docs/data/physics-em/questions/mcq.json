@@ -729,7 +729,9 @@
   "explanation": "The magnetic flux through a loop is given by Φ = B⋅A = BA cosθ, where θ is the angle between the magnetic field and the normal to the loop's surface. In the diagram, the angle θ is shown between the field and the plane of the loop, so the angle between the field and the normal is 90° - θ. Therefore, the flux is B(A)cos(90° - θ) = BA sinθ. The area A of the loop is πr², so the flux is πr²B sinθ. Option (A) is incorrect because it uses the wrong trigonometric function; it uses cosθ instead of sinθ, which would be correct if θ were the angle between the field and the normal, but it is not.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2013_8",
@@ -1263,7 +1265,9 @@
   "explanation": "The magnetic force provides the centripetal force for circular motion, so qvB = mv²/R. Solving for velocity gives v = qBR/m. Kinetic energy K = (1/2)mv² = (1/2)m(qBR/m)² = (q²B²R²)/(2m). Since q, R, and m are constant, K is proportional to B². This means K increases with B, but the relationship is quadratic, not linear, so the graph should be a curve that gets steeper as B increases. Option (B) shows this parabolic-like increase, while (A) shows a linear relationship, which is incorrect.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2015_7",
@@ -1627,7 +1631,9 @@
   "explanation": "The graph shows the charge on a capacitor approaching a maximum value, qmax, as time increases. In an RC circuit, the maximum charge on the capacitor is given by the formula qmax = Cε, where C is the capacitance and ε is the battery's emf. This is the charge the capacitor holds when it is fully charged and no more current flows. Option E, Cε, matches this formula. Option A, R C ε, is incorrect because it includes the resistance R, which does not affect the final charge stored on the capacitor, only the time it takes to reach that charge.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2015_26",
@@ -2100,7 +2106,9 @@
   "explanation": "The energy dissipated in the resistor is the integral of the power over time, and power equals the square of the current times the resistance. Squaring the current doubles the exponent, so integrating from zero to infinity gives R I_0^2 divided by 2α, which works out to 40 J with the given values. A common mistake is forgetting to double the exponent when squaring the current, which incorrectly yields 80 J.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2016_18",
@@ -2317,7 +2325,9 @@
   "explanation": "The work done by external forces equals the change in electric potential energy of the two-charge system, which is k q q over d because the particles start infinitely far apart where the energy is zero. Since both charges are positive, the external agent must do positive work to push them together against their mutual repulsion. Choice C is incorrect because its negative sign and factor of one-half describe the work done by the electric field, not the external force.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2016_29",
@@ -2454,7 +2464,9 @@
   "explanation": "The electric field due to a point charge is given by E = kq/r². At surface A, the radius is r, so E_A = kq/r². At surface B, the radius is 2r, so E_B = kq/(2r)² = kq/4r². The ratio E_A/E_B is (kq/r²) / (kq/4r²) = 4, so the ratio is 4/1. The answer is E because the electric field strength decreases with the square of the distance from the charge, and the distance to surface B is twice that of surface A, resulting in a field strength that is one-fourth as strong.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2017_5",
@@ -3208,7 +3220,9 @@
   "explanation": "The power dissipated in the rod is given by P = I²R. The induced EMF is ε = BLv, so the current is I = BLv/R. Therefore, P = (BLv/R)² * R = B²L²v²/R. Power is proportional to the square of the velocity. If the velocity is doubled, the power increases by a factor of 4, making the new power 4P. The official answer key is incorrect; the correct answer is E.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2018_13",
@@ -3287,7 +3301,9 @@
   "explanation": "The force between two parallel wires is given by F = (μ₀ * I₁ * I₂ * L) / (2πd). If both currents are doubled, the product I₁ * I₂ becomes (2I) * (2 * 2I) = 4 * (I * 2I), so the magnitude of the force becomes 4F. The direction of the force depends on the relative direction of the currents. Since both currents are reversed, the force remains attractive (or repulsive, depending on the original direction), so the direction is unchanged. Therefore, the magnitude is 4F and the direction is unchanged.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2018_17",
@@ -3442,7 +3458,9 @@
   "explanation": "At the midpoint, the distances to the two charges are identical, so the field magnitudes can only cancel if the charge magnitudes are equal. The field vectors point in opposite directions only when the charges have the same sign, because two positive charges both push outward while two negative charges both pull inward, allowing their fields to cancel at the center. Choice A is a tempting trap for students who confuse electric field with electric potential, since zero potential at the midpoint does require equal and opposite charges, but field is a vector that depends on direction.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2018_26",
@@ -3884,7 +3902,9 @@
   "explanation": "The power dissipated at any instant is P = I²R = b²t²R. To find the total energy, integrate this power over time from 0 to T, which gives E = ∫₀ᵀ b²R t² dt = (1/3)b²R T³, matching choice D. Choice E is tempting because it multiplies the final power by T, but that ignores the fact that power increases quadratically and must be integrated over the interval.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2021_19",
@@ -3924,7 +3944,9 @@
   "explanation": "Capacitance is determined solely by the capacitor’s physical geometry and dielectric, as given by C = κε₀A/d, so a plate separation greater than intended would directly produce a smaller capacitance such as 0.8 F. A student might incorrectly suspect the power supply voltage is responsible because capacitance is calculated from C = Q/V, but voltage is an external circuit property that does not alter the intrinsic capacitance of the device itself. Therefore, a construction error involving larger plate spacing is the only option that physically accounts for a lower-than-expected capacitance.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2021_21",
@@ -4845,7 +4867,9 @@
   "explanation": "The rate of energy dissipation in a resistor is the instantaneous power P = I^2 R. Substituting I = 4 e^{-2t} A and R = 10 Ω gives P = (4 e^{-2t})^2(10) = 160 e^{-4t} W, so at t = 3 s the power is 160 e^{-12} W. Choice C is a common distractor that results from squaring the 4 A but forgetting to square the exponential factor, which would incorrectly leave the exponent as -6 instead of -12.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2022_35",
@@ -5045,7 +5069,9 @@
   "explanation": "For a thin conducting spherical shell, all charge resides on the outer surface, so Gauss’s law gives zero electric field everywhere inside the shell. Therefore both E_A and E_B are zero, while E_C at 3R/2 outside the shell is nonzero and given by kQ/r^2. It is tempting to pick A if you treat the charge as a point particle and assume the field always increases outward, but inside a conductor the field vanishes.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-em_2023_10",

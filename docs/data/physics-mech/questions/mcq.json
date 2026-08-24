@@ -244,7 +244,9 @@
   "explanation": "Because the buoyant force already balances the total weight, there is no net external force on the balloon-person system, so the center of mass must remain at rest. When the person climbs upward, the balloon has to move downward to keep the combined center of mass from shifting. Since the balloon is more massive than the person, its downward speed is smaller than the person’s upward speed v. It is tempting to think the balloon moves up or stays still, but the reaction force of climbing pushes the ladder downward, making the balloon descend.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_1993_17",
@@ -792,7 +794,9 @@
   "explanation": "In uniform circular motion, angular speed equals v/R, tangential acceleration is zero because the speed does not change, and the centripetal acceleration v²/R has constant magnitude since both v and R are fixed. A tempting wrong choice is C, which omits statement II; this mistake arises if you confuse centripetal acceleration with tangential acceleration, but the acceleration in uniform circular motion is always perpendicular to the velocity and does not change the speed. Thus all three statements are true.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_1998_12",
@@ -3751,7 +3755,9 @@
   "explanation": "Pulling the arms and bat inward reduces the system's moment of inertia about the axis of rotation. Because no external torque acts on the system during this motion, angular momentum is conserved and remains constant. However, the player's muscles do positive internal work to draw the mass inward, which increases the rotational kinetic energy. Choice D is tempting if you assume mechanical energy is conserved, but the body converts stored chemical energy into additional kinetic energy.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2012_7",
@@ -3789,7 +3795,9 @@
   "explanation": "The westward acceleration is perpendicular to the southward velocity, so it is purely centripetal; using a = v²/r gives a linear speed of 10 m/s and an angular speed of ω = v/r = 1 rad/s. Because the acceleration points toward the center in the west, the car is on the eastern side of the track and must be traveling clockwise when viewed from above. Choice D tempts students who mistakenly equate the linear speed of 10 m/s with angular speed or who confuse the direction of rotation.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2012_9",
@@ -4313,7 +4321,9 @@
   "explanation": "Torque is the rotational analogue of force because it causes angular acceleration in the same way that force causes linear acceleration. The rotational form of Newton's second law, τ = Iα, mirrors the linear version F = ma, with torque corresponding to force and moment of inertia corresponding to mass. A tempting wrong choice is mass, but mass is actually the linear analogue of moment of inertia, not torque, since both measure an object's resistance to changes in motion.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2012_2",
@@ -4549,7 +4559,9 @@
   "explanation": "The raft has an initial velocity to the east and experiences a constant acceleration to the north. This results in a parabolic path that curves northward. The path must be curved, not straight, and the curvature must be toward the north. Option (A) shows a curved path that bends northward, which is consistent with the physics. Option (B) curves southward, which is incorrect. Options (C), (D), and (E) are straight lines, which would only occur if there were no acceleration or if the acceleration were in the direction of motion, neither of which is true.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2013_12",
@@ -5399,7 +5411,9 @@
   "explanation": "Using x = ½ a t² for motion starting from rest, moving 32 m in 4 s gives an acceleration of 4 m/s². After 3 s the displacement is ½ (4)(3)² = 18 m and the velocity is (4)(3) = 12 m/s. A tempting error is to treat displacement as proportional to time, which wrongly yields 24 m.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2014_29",
@@ -5550,7 +5564,9 @@
   "explanation": "The acceleration of a freely falling object near Earth's surface is 9.8 m/s², so its speed increases by 9.8 m/s during every second of fall. Choice A is tempting but incorrect because the derivative of fallen distance is the object's instantaneous speed, which equals gt and increases with time rather than staying fixed at 9.8 m/s.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2016_4",
@@ -5762,7 +5778,9 @@
   "explanation": "The work-energy theorem states that the net work done on the box equals its change in kinetic energy. The student does 100 J of positive work while friction does negative work equal to the 40 J dissipated, giving a net work of 60 J. Choice A is wrong because it assumes all the student's work is lost to friction, but since the applied work exceeds the energy dissipated, the box must gain kinetic energy.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2016_15",
@@ -6025,7 +6043,9 @@
   "explanation": "At the highest point, the vertical component of velocity is momentarily zero, but the horizontal component remains v0 cos θ, so the speed is v0 cos θ. The acceleration is still the acceleration due to gravity, 9.8 m/s^2 downward, because gravity acts throughout the entire trajectory. A common mistake is choosing the option with zero velocity, which confuses the vertical component being zero with the overall speed being zero.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2016_29",
@@ -6064,7 +6084,9 @@
   "explanation": "In simple harmonic motion the net force is greatest at the maximum displacement, where the acceleration reaches its peak value of Aω². Multiplying that maximum acceleration by the mass gives the maximum net force: F_max = mAω² = (5.0 kg)(0.80 m)(2.0 s⁻¹)² = 16.0 N. Choice A is a tempting distractor because 3.2 m/s² is the maximum acceleration, but it is not a force until you multiply by the 5.0 kg mass.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2016_31",
@@ -6180,7 +6202,9 @@
   "explanation": "For the block to accelerate down the frictionless incline, the component of its weight along the ramp must exceed the tension from the hanging sphere, which requires M1 g sin 30° > M2 g; dividing by g gives M1 sin 30° > M2. Choice D is tempting because it reverses the inequality, but that condition would make the block accelerate up the incline instead.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2017_7",
@@ -6467,7 +6491,9 @@
   "explanation": "At the highest point of the flight, the vertical velocity is zero, but the horizontal velocity remains constant at 25 cos 40°, which is about 19 m/s, so the speed is most nearly 19 m/s. Choice A is wrong because it mistakes the zero vertical velocity for the total speed. Choice D is just the initial launch speed.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2017_22",
@@ -6487,7 +6513,9 @@
   "explanation": "The truck is accelerated by the car’s push, and with no friction on the truck that contact force equals the truck’s mass times its acceleration: (4000 kg)(2.0 m/s²) = 8000 N. By Newton’s third law, the truck pushes back on the car with an equal and opposite force, so the magnitude is also 8000 N. A tempting wrong choice is 3000 N, which is the net force on the car, not the contact force between the two vehicles.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2017_24",
@@ -6546,7 +6574,9 @@
   "explanation": "The gravitational potential energy of a planet-satellite system is U = −GMm/r, so the ratio U1/U2 becomes (m1/R1) divided by (m2/R2), which simplifies to m1R2/(m2R1). A common wrong choice is the expression with radius in the numerator, because students sometimes treat orbital potential energy like mgh and think it increases with distance, but it actually becomes more negative as the satellite moves closer. That makes option C the correct ratio.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2017_27",
@@ -7359,7 +7389,9 @@
   "explanation": "The period of a simple pendulum depends on the square root of its length divided by gravitational acceleration, and it does not depend on the ball’s mass. Because the Moon’s gravity is weaker than Earth’s, an unchanged pendulum would swing more slowly and its period would become longer than 1.0 s. To bring the period back down to 1.0 s, you must decrease the length of the string. Choices A and B are wrong because mass has no effect on the period, and E is wrong because keeping the pendulum unchanged would give a period greater than 1.0 s on the Moon.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2021_2",
@@ -7556,7 +7588,9 @@
   "explanation": "Moving from +3.0 m toward the origin means the particle travels in the negative x-direction, so its velocity is negative. Because the particle’s speed is increasing, its acceleration must be in the same direction as its velocity, which makes the acceleration negative too. Students often pick positive acceleration by associating “increasing” with a positive sign, but when velocity is negative, positive acceleration would actually slow the particle down.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2021_12",
@@ -7749,7 +7783,9 @@
   "explanation": "The period of an ideal mass-spring oscillator is T = 2π√(m/k), so it depends on mass and spring constant but not on gravity. Moving to a planet with stronger gravity shifts the equilibrium stretch but leaves the period unchanged, while quadrupling the mass increases the period by a factor of √4 = 2. Therefore, the new period is 2T. Choice C is tempting because gravity truly does not affect a spring’s period, but ignoring the quadrupled mass would be a mistake.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2021_22",
@@ -7787,7 +7823,9 @@
   "explanation": "Because the elevator is slowing down while moving downward, its acceleration points upward at 2.0 m/s², so the normal force must be larger than the person's weight. Adding this upward acceleration to g gives N = m(g + a) = 70 kg(10 m/s² + 2 m/s²) = 840 N. Choice B is tempting if you mistakenly treat the deceleration as a downward acceleration and subtract it from the weight, which would only apply if the elevator were speeding up downward.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2021_24",
@@ -8033,7 +8071,9 @@
   "explanation": "Using conservation of energy, the rocket’s initial kinetic energy equals one quarter of the energy required to escape, so it can climb out to a distance of 4R/3 from Earth’s center. Subtracting Earth’s radius gives a maximum altitude of R/3, which is about 2.1×10^6 m. Choice C is a common distractor that results from mishandling the factors of one-half when squaring the escape speed or confusing half the escape speed with orbital speed.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2022_2",
@@ -8114,7 +8154,9 @@
   "explanation": "The energy dissipated by friction equals the total loss of mechanical energy, which is the sum of the initial kinetic energy and the gravitational potential energy lost as the box drops 0.75 m. That gives roughly 1.0 J of kinetic energy plus about 3.7 J of potential energy, for a total of approximately 4.7 J. A common mistake is to consider only the 1.0 J of kinetic energy and ignore the change in gravitational potential energy, which leads to the smaller incorrect choices.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2022_6",
@@ -8386,7 +8428,9 @@
   "explanation": "The collision exerts equal and opposite impulses on the two pucks, so each puck undergoes the same magnitude of momentum change. For both pucks to end up moving to the right, the total initial momentum must point to the right, which requires Puck A to have had the larger initial momentum. Choice B might seem tempting because Puck B reverses direction, but if Puck B had more initial momentum the total momentum would point left and both pucks could not finish moving to the right.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2022_21",
@@ -8667,7 +8711,9 @@
   "explanation": "The bottom of the wheel is sliding left relative to the ground because the rotational rim speed ωR = 4 m/s exceeds the center-of-mass speed of 2 m/s, so the motion is rolling with slipping. Kinetic friction on the wheel therefore points right to oppose that sliding, which increases the linear speed of the center of mass while exerting a counterclockwise torque that decreases the angular speed. Choice C is tempting if you assume friction always slows every motion, but in this case it actually pushes the wheel forward while slowing its spin.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2023_1",
@@ -8784,7 +8830,9 @@
   "explanation": "In an elliptical orbit, the only force acting on the satellite is gravity, which is a conservative force. Because there are no non-conservative forces doing work, the total mechanical energy (kinetic plus potential) of the satellite-Earth system is conserved. Therefore, the total mechanical energy remains constant over time, which is represented by a horizontal line on a graph of energy versus time. Graph (B) is the only one that shows a constant value, making it the correct choice. Graphs (A), (C), (D), and (E) all show energy changing with time, which would imply energy is not conserved, contradicting the physics of a closed gravitational system.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2023_7",
@@ -8824,7 +8872,9 @@
   "explanation": "Because the car is skidding, kinetic friction produces a constant deceleration a = μ_k g, so the stopping distance is found from v² = 2 a d. Plugging in the speeds gives d₁ ≈ 19 m and d₂ ≈ 76 m, so d₂ − d₁ ≈ 57 m and the best choice is 56 m. It is tempting to accidentally answer 75 m, but that is just the second skid distance d₂ alone, not the difference.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2023_9",
@@ -9352,7 +9402,9 @@
   "explanation": "During the first second the car moves 20 m at constant speed, so it has 30 m left to travel while decelerating at 6 m/s². Plugging v_i = 20 m/s, a = –6 m/s², and x = 30 m into v_f² = v_i² + 2ax gives v_f = √40 ≈ 6.3 m/s, making 6 m/s the closest choice. Option E is tempting because the car is slowing down, but the braking distance from 20 m/s is about 33 m, and the car only needs 30 m of braking to reach the 50 m mark.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2024_2",
@@ -9650,7 +9702,9 @@
   "explanation": "When block A sticks to block B, conservation of momentum gives the 4.0 kg pair a speed of 2.0 m/s. In the second collision, momentum must again be conserved: (4.0 kg)(2.0 m/s) = (4.0 kg)v + (2.0 kg)(2.0 m/s), which solves to v = +1.0 m/s. The value –1.4 m/s is a tempting distractor that comes from incorrectly assuming kinetic energy is conserved, but the problem gives no basis for that assumption.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2024_20",
@@ -9692,7 +9746,9 @@
   "explanation": "The horizontal velocity is 10 cos 45° ≈ 7.07 m/s, so the projectile reaches x = 10 m in t = 10 / (10 cos 45°) = √2 s. Over that interval the vertical displacement is y = (10 sin 45°)t − ½gt² = (5√2)(√2) − ½(10)(2) = 10 − 10 = 0 m, which means the object lands exactly at that point. A common mistake is to ignore the launch angle and use an incorrect flight time, which can lead to the wrong 5 m value, but the range of a 45° launch at 10 m/s is exactly 10 m.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2024_22",
@@ -10324,7 +10380,9 @@
   "explanation": "Using Newton’s second law, each identical object has acceleration a = Fr/m = –(b/m)υ, so acceleration is directly proportional to the instantaneous velocity. Because object 2 always travels twice as fast as object 1, its acceleration is also twice as large, making the ratio a2/a1 equal to 2. A tempting wrong choice is 4, which would only be correct if the resistive force depended on velocity squared instead of the first power.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "physics-mech_2025_34",

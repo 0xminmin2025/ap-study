@@ -823,7 +823,9 @@
   "explanation": "In a left-skewed distribution, the tail of unusually low selling prices stretches out the left side, so the spread from the minimum to the first quartile is generally larger than the spread from the third quartile to the maximum. Therefore, option E is the most reasonable conclusion. Students often mistakenly choose A because they confuse the direction of skewness, but a left-skewed tail pulls the mean downward, making it less than the median rather than greater.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2013_7",
@@ -964,7 +966,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q14.png",
-  "unit": "Probability & Random Variables"
+  "unit": "Probability & Random Variables",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2013_15",
@@ -1017,7 +1021,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q17.png",
-  "unit": "Exploring One-Variable Data"
+  "unit": "Exploring One-Variable Data",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2013_18",
@@ -1051,7 +1057,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q19.png",
-  "unit": "Inference for Proportions"
+  "unit": "Inference for Proportions",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2013_20",
@@ -1164,7 +1172,9 @@
   "explanation": "The difference in their scores, Andy minus Bob, is normally distributed with a mean of –15 and a standard deviation of √(30² + 15²) ≈ 33.5. To find the probability that Andy scores higher, calculate the z-score for 0 using these values: z = (0 – (–15)) / 33.5 ≈ 0.45, which gives a right-tail probability of about 0.33. A tempting wrong choice is 0.16, which comes from incorrectly subtracting the standard deviations instead of adding the variances.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2013_26",
@@ -1181,7 +1191,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q26.png",
-  "unit": "Inference for Regression"
+  "unit": "Inference for Regression",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2013_27",
@@ -1361,7 +1373,9 @@
   "explanation": "The sum of two independent normal variables is normal with mean $90 and standard deviation sqrt(10^2 + 20^2) ≈ $22.36. The z-score for exceeding $120 is about 1.34, giving a weekly probability of roughly 0.09, so over 52 weeks the expected number of exceedances is 52 × 0.09 ≈ 4.7, which is closest to 5 weeks. A tempting error is to use only the larger standard deviation of $20, which incorrectly yields about 3 weeks, but you must add variances, not standard deviations, when combining independent random variables.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2013_37",
@@ -1396,7 +1410,9 @@
   },
   "has_figure": true,
   "image": "images/2013_q38.png",
-  "unit": "Probability & Random Variables"
+  "unit": "Probability & Random Variables",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2013_39",
@@ -1530,7 +1546,9 @@
   "explanation": "The expected cell count for a chi-square test of independence is calculated as (row total * column total) / grand total. For 2-year olds who selected yellow, the row total is 14 + 28 = 42 (total who chose yellow), the column total is 14 + 32 + 19 = 65 (total 2-year olds), and the grand total is 133. The formula is (42 * 65) / 133, which matches option (E). Option (A) is the observed count, not the expected count. Option (B) is incorrect because it doesn't use the correct totals. Option (C) is incorrect because it uses the wrong row and column totals. Option (D) is incorrect because it uses the wrong row total and doesn't account for the grand total.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2014_6",
@@ -1719,7 +1737,9 @@
   "explanation": "Because expectation is linear, the expected sum equals the sum of the two expected values. The average of tags 1 through 10 is 5.5, and the average of tags 20 through 27 is 23.5, giving an expected sum of 29.0. Some students incorrectly arrive at 27.0 by miscalculating one of the individual averages or miscounting the number of tags in a box.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2014_16",
@@ -2450,7 +2470,9 @@
   },
   "has_figure": true,
   "image": "images/2015_q15.png",
-  "unit": "Exploring Two-Variable Data"
+  "unit": "Exploring Two-Variable Data",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2015_16",
@@ -2470,7 +2492,9 @@
   "explanation": "Randomly assigning people to pairs does not create any meaningful dependence between them, so their incomes remain independent and should be analyzed with a two-sample t-test rather than a matched-pairs procedure. A matched-pairs t-test requires a natural or deliberate link between observations, such as the same individual measured twice or twins who share common backgrounds. Students often mistakenly select the twins option, but natural pairs like twins are exactly the type of paired data this test is designed to handle.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2015_17",
@@ -2743,7 +2767,9 @@
   "explanation": "Because the 32nd percentile is about 0.47 standard deviations below the mean and the 62nd percentile is about 0.31 standard deviations above it, the 2-inch difference between the boys spans roughly 0.78 standard deviations. That gives a standard deviation near 2.6 inches, so the mean is about 32 plus 0.47 times 2.6, or roughly 33.2 inches. Choice C is tempting if you simply average the two heights, but the percentiles are not symmetric around the mean, so the mean must be higher than 33.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2015_32",
@@ -2945,7 +2971,9 @@
   "explanation": "The question asks for the fraction of people with skin cancer who used a tanning booth. This is a conditional probability. The total number of people with skin cancer is 896 (found in the 'Total' column for the 'Skin cancer' row). The number of people with skin cancer who used a tanning booth is 190. Therefore, the fraction is 190/896. Choice A is incorrect because 265 is the total number of people who used a tanning booth, not the number of people with skin cancer who used one. Choice C is incorrect because 1,436 is the total number of people in the entire study, not the subgroup with skin cancer.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_3",
@@ -3039,7 +3067,9 @@
   "explanation": "Subtracting 3 grams from every measurement shifts the entire distribution left by 3 grams, so every measure of center—including the median, mean, and quartiles—decreases by 3 grams and does not stay the same. Only measures of spread, such as the standard deviation, range, or interquartile range, remain unchanged after this kind of adjustment. The median may seem tempting because it is a resistant statistic, but resistance protects against outliers, not against a constant shift applied to every data point.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "?"
+  "model_answer": "?",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_8",
@@ -3133,7 +3163,9 @@
   "explanation": "For a linear transformation Y = 2 + 4X, the mean becomes 2 + 4(5) = 22 because both the shift and the multiplier affect center. The standard deviation becomes 4 × 25 = 100 because adding 2 does not change the spread, so only the multiplier scales the variability. Choice C tricks students who incorrectly add the 2 to the standard deviation, but a constant shift moves the distribution without altering its shape or spread.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_13",
@@ -3153,7 +3185,9 @@
   "explanation": "The female bears have both a larger range and a larger median age than the male bears. Their ages range from 20 to 154 months, giving a range of 134 months, while the males range only from 15 to 70 months. With 29 female bears, the median is the 15th ordered value, 42 months, whereas the median for the 26 male bears falls between the 13th and 14th values, 25 and 26 months. A common mistake is to choose D by assuming the cluster of young males makes the female median lower, but the center of the female distribution is actually higher.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_14",
@@ -3377,7 +3411,9 @@
   "explanation": "Using the conservative estimate p* = 0.5 because no prior proportion is known, the required sample size for a 95% confidence level and a margin of error of 0.02 is roughly (1.96/0.02)^2(0.5)(0.5) ≈ 2,401, so 2,500 is the smallest listed option that guarantees the margin of error is at most 0.02. Choice D, 1,700, is a common distractor that results from mistakenly using a 90% critical value such as 1.645, but that sample size is too small to achieve 95% confidence with the desired precision.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_27",
@@ -3524,7 +3560,9 @@
   "explanation": "The data is categorical, with gender (men/women) and number of friends (in categories) as two variables. To test for an association between two categorical variables, a chi-square test of independence is appropriate. A chi-square goodness-of-fit test (D) is for comparing observed counts to expected counts for a single variable, which is not the case here. The other options involve means or regression, which are for quantitative data, not categorical counts.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_35",
@@ -3578,7 +3616,9 @@
   "explanation": "With a two-tailed alternative and a z-statistic of 1.85, the p-value is approximately 0.064, which is greater than the 0.05 significance level, so we fail to reject the null hypothesis and conclude there is not sufficient evidence of a difference between the two proportions. Choice D might seem appealing if you mistakenly use the one-tailed p-value of about 0.032 instead of doubling it for the two-tailed test, but the correct p-value exceeds alpha.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2016_38",
@@ -3767,7 +3807,9 @@
   "explanation": "Converting from Canadian dollars to United States dollars multiplies every sales value by 0.75, which changes the mean, median, and standard deviation by that same factor. A standardized score tells you how many standard deviations a value falls from the mean, and because both the distance from the mean and the standard deviation itself are multiplied by 0.75, their ratio stays exactly the same. Many students incorrectly choose the standard deviation, forgetting that although it describes spread, it still scales with the currency conversion while relative standing does not.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2018_8",
@@ -3787,7 +3829,9 @@
   "explanation": "For a chi-square goodness-of-fit test, each category's contribution is found by squaring the difference between observed and expected counts and dividing by the expected count. Pork has an expected count of 40 but an observed count of only 30, so its contribution is 100 divided by 40, or 2.5, which is larger than the contributions from beef, chicken, or fish. It is tempting to pick chicken because it has the highest observed frequency, but because its expected count is also large, its contribution to the test statistic is relatively small.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2018_9",
@@ -4402,7 +4446,9 @@
   "explanation": "The probability is found by dividing the number of respondents who are age 55 or older, which is 44, by the total number of people surveyed, which is 103, giving approximately 0.427. This uses the full group of 103 as the denominator because we are finding the overall share for that age category. A common error is to divide by the 78 people who responded no, which produces about 0.462 and answers a different conditional question.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_3",
@@ -4467,7 +4513,9 @@
   "explanation": "To find this proportion, divide the number of people who both responded no to color and chose safety by the total number who chose safety: 192 ÷ 376 ≈ 0.51. This is a conditional proportion, so the denominator must be the group that identified safety, not the entire sample. A common mistake is to divide by the overall total of 1,092, which gives about 0.18, but that result is the joint proportion for the whole sample rather than the proportion among those who cared about safety.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_6",
@@ -4488,7 +4536,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_8",
@@ -4507,7 +4557,9 @@
   "explanation": "Because the store does not yet know the total wholesale value of its inventory, it is conducting a structured procedure to determine that unknown quantity. This is not a sample survey because the store is listing every item currently in stock rather than selecting a subset from a larger population. Option A is wrong because the store is not imposing any treatment on the items, and options C and D are incorrect because the store is not using a sample to estimate a value for the entire year.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_9",
@@ -4527,7 +4579,9 @@
   "explanation": "Because the Iowa ear’s z-score of 1.645 came from a smaller standard deviation, we can find Iowa’s standard deviation by dividing the 0.13-pound deviation from the mean by 1.645, which gives about 0.079 pound. Ohio’s standard deviation is 0.01 pound larger, about 0.089 pound, so the same 1.39-pound ear is only 0.13 / 0.089 ≈ 1.46 standard deviations above the mean. Choice C is tempting if you assume the z-score stays the same, but a larger standard deviation spreads the distribution, making the same weight less extreme.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_10",
@@ -4547,7 +4601,9 @@
   "explanation": "The cutoff for the top 20 percent of hours is about 85.9. The probability of working between this cutoff and 90 hours is roughly 0.123, and expressing that as a fraction of the 20 percent who earn the certificate gives about 0.618. Choice B is tempting because 0.123 is the joint probability of both working fewer than 90 hours and receiving a certificate, but the question asks for a conditional probability among certificate recipients, so you must divide by 0.20.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_11",
@@ -4570,7 +4626,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_12",
@@ -4634,7 +4692,9 @@
   "explanation": "The width of a confidence interval for a proportion depends on the standard error, which is largest when the sample proportion is near 0.5. Because the correct proportion of 0.27 is closer to 0.5 than the original midpoint of 0.17, the standard error increases and the revised interval becomes wider. A common mistake is to think that moving toward 0.5 makes the interval narrower, but actually the opposite is true because variability in a proportion is greatest at 0.5.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_15",
@@ -4653,7 +4713,9 @@
   "explanation": "The sample proportion of 245 out of 600 is about 0.408, which is very close to the hypothesized 0.41, so the two-sided test produces a very large p-value. Because that p-value exceeds any standard significance level, we do not have convincing evidence that the true proportion differs from 0.41. It is tempting to pick an answer that claims the p-value is small, but the observed result is actually quite consistent with the null value.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_16",
@@ -4672,7 +4734,9 @@
   "explanation": "The treatments in an experiment are the specific conditions applied to the subjects, so the four exercise types are indeed the treatments. The response variable is the change in maximal oxygen consumption, not the exercise type itself. Choice A might seem appealing, but having four exercise types represents different treatment levels rather than replication, which requires multiple subjects within each treatment group.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_17",
@@ -4694,7 +4758,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_18",
@@ -4715,7 +4781,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_19",
@@ -4736,7 +4804,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_20",
@@ -4757,7 +4827,9 @@
   "explanation": "The graph reveals a positive association because the percent of returned surveys is highest when delivered and collected in class, lower in the psychology building, and lowest in the dining hall, showing a consistent trend across methods. Option C is incorrect because the graph displays percentages rather than counts, so we cannot determine the actual number of surveys distributed with each method. Option D is wrong because symmetry and skewness describe the shape of quantitative distributions, not categorical data presented in segmented bars.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_21",
@@ -4777,7 +4849,9 @@
   "explanation": "The coefficient of determination, r-squared, equals 0.64 and tells us the proportion of variation in height that can be explained by age. This makes option C correct. Option B is tempting because 0.8 is the correlation, but the slope of the regression line depends on the standard deviations of both variables, so it is not necessarily 0.8.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_22",
@@ -4796,7 +4870,9 @@
   "explanation": "The Central Limit Theorem tells us that with a sample size of 84, the distribution of sample means is approximately normal, centered at the population mean of 11.4 minutes. The variability of this distribution is measured by the standard error, which is the population standard deviation 2.6 divided by the square root of 84, not 2.6 itself. Choice A incorrectly uses the population standard deviation rather than the standard error.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_23",
@@ -4817,7 +4893,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_24",
@@ -4856,7 +4934,9 @@
   "explanation": "The sample mean of 12.5 hours is only about 1.54 standard errors below the previous mean of 13, giving a one-sided p-value of roughly 0.06, which is greater than 0.05. Because the p-value exceeds the significance level, we fail to reject the null hypothesis and do not have convincing evidence that the average decreased. Choice D is tempting because the sample mean dropped, but the decrease is not large enough relative to the variability to be statistically significant.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_26",
@@ -4897,7 +4977,9 @@
   "explanation": "In a randomized block design, subjects are first divided into blocks based on a shared trait such as age, and then treatments are randomly assigned to the subjects within each block to control for that trait. This randomization within blocks is what defines the design and balances treatment groups across the blocking variable. Choice D may be tempting because there are two age categories, but a matched-pairs design requires pairing individual similar subjects, not simply grouping subjects into broad blocks.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_28",
@@ -4916,7 +4998,9 @@
   "answer_key_suspect": true,
   "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
   "explanation": "To need at least two tosses before blue appears, a player must roll a non-blue face on both of the first two tosses. With a 6/8 chance of not rolling blue on any single toss, the probability of doing so twice in a row is (6/8)² = 0.5625. Choice C gives the complement, which is the probability of rolling blue in fewer than two tosses.",
-  "expl_via": "txt"
+  "expl_via": "txt",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_29",
@@ -4937,7 +5021,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_30",
@@ -4959,7 +5045,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_31",
@@ -4981,7 +5069,9 @@
   "answer_disputed": true,
   "model_answer": "C",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_32",
@@ -5002,7 +5092,9 @@
   "answer_disputed": true,
   "model_answer": "?",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_33",
@@ -5023,7 +5115,9 @@
   "answer_disputed": true,
   "model_answer": "B",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_34",
@@ -5042,7 +5136,9 @@
   "explanation": "A two-proportion z-test gives a one-sided p-value that is larger than 0.05 but smaller than 0.10, so the result is statistically significant at the 10% level but not at the 5% level. Choice A is wrong because, although the participants were volunteers, random assignment still allows us to conclude that cinnamon caused the difference for people similar to those in the study.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_35",
@@ -5061,7 +5157,9 @@
   "explanation": "A residual plot checks whether a straight-line model fits the data, and a clear pattern in the plot means the relationship is not linear, so the condition in choice D is violated. Choice C may seem tempting because the residuals are not randomly scattered around zero, but the real problem is a curved or nonlinear trend rather than a nonzero average error. Choice A is incorrect because independence is determined by how the data were collected, not by the appearance of the residual plot.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_36",
@@ -5080,7 +5178,9 @@
   "explanation": "Because the sample mean of 35 is less than 38, the observed result lies entirely in the left tail, so the one-tailed p-value is exactly half of the two-tailed p-value of 0.0627. A common mistake is to double the p-value, but that would incorrectly produce a larger probability than the original two-tailed test. The correct expression is therefore one-half multiplied by 0.0627.",
   "expl_via": "txt",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_37",
@@ -5101,7 +5201,9 @@
   "answer_disputed": true,
   "model_answer": "D",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_38",
@@ -5122,7 +5224,9 @@
   "answer_disputed": true,
   "model_answer": "A",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2019_39",
@@ -5166,7 +5270,9 @@
   "answer_disputed": true,
   "model_answer": "?",
   "answer_key_suspect": true,
-  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。"
+  "answer_key_suspect_reason": "该卷答案键与两个独立模型的判断大规模冲突（分歧 14/30 (47%)，交叉验证 85% (13题) 一致反对）。疑似录入错位，请以解析推理为准。",
+  "archived": true,
+  "archived_reason": "answer_key_unreliable"
  },
  {
   "id": "stats_2021_1",
@@ -5223,7 +5329,9 @@
   "explanation": "Because each sample contains an even number of distinct values with a median of 130, the two middle values in each ordered data set must fall on opposite sides of 130, meaning exactly half of the students in each sample spent less than 130 minutes. Therefore the percentages are equal. Choice E is tempting if you subtract quickly, but the IQR for District 1 is 137 minus 120 equals 17, which is exactly the same as District 2's IQR of 145 minus 128, not smaller.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2021_4",
@@ -5472,7 +5580,9 @@
   "explanation": "Because $21,900 is one standard deviation below the mean, the empirical rule leaves about 16% of prices in the lower tail, so roughly 84% of cars sell for more than that. Option C is a common trap because it mixes up the 68% of data within one standard deviation with the 95% that falls within two standard deviations.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2021_18",
@@ -5494,7 +5604,9 @@
   "explanation": "First find the expected number of cookies by multiplying each value by its probability and summing: 50(0.60) + 100(0.35) + 200(0.05) = 75 cookies. Then multiply by the $0.50 profit per cookie to get an expected daily profit of $37.50. Choice B shows the expected number of cookies sold, not the profit, because it leaves out the multiplication by $0.50.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2021_19",
@@ -5552,7 +5664,9 @@
   "explanation": "The mean is 6.5 minutes because you add the driving mean to the waiting means for both traffic lights. Since the times are independent, you add variances, not standard deviations: 1² + 0.25² + 0.25² = 1.125, and the square root is about 1.06 minutes. Choice D is wrong because it adds the standard deviations of the two waiting times before squaring, which violates the rule for combining independent random variables.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2021_22",
@@ -5686,7 +5800,9 @@
   "explanation": "The confidence interval for the slope uses the form estimate ± t* × SE, and the table already gives the standard error of the slope as 1.220, so no division by a square root is needed. With 5 observations, the correct degrees of freedom for a regression slope is n − 2 = 3, giving a critical value of t* = 3.182, which makes option A correct. Choice D is tempting if you mistakenly use n − 1 = 4 degrees of freedom, but inference for a slope always uses n − 2. Options B, C, and E wrongly shrink the standard error by dividing by √n or √4, which is appropriate for a mean, not a slope.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "A"
+  "model_answer": "A",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2021_29",
@@ -6015,7 +6131,9 @@
   "explanation": "The question asks for the proportion of accountants who are senior and carpool. The table shows that 20 senior accountants carpool. The total number of accountants is 320. Therefore, the proportion is 20/320. Option C correctly represents this fraction. Option A is incorrect because it uses the total number of seniors (60) as the denominator, which is not the total number of accountants. Option B is incorrect because it uses the total number of carpoolers (72) as the denominator. Option D and E are incorrect because they use numbers that are not relevant to the proportion being asked for.",
   "expl_via": "vl",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2022_6",
@@ -6362,7 +6480,9 @@
   "explanation": "Choice E has mean 950 and standard deviation 50, so the interval from 900 to 1,000 spans exactly two standard deviations centered on the mean, capturing roughly 68% of the area. Choice B is centered at the same mean but with standard deviation 100, so the same interval is only one standard deviation wide and captures about 38% of the area. The other choices are either off-center or have such a large standard deviation that much of the area falls outside the interval. Students often pick B because it is centered in the interval, but the smaller standard deviation in E concentrates far more area within that range.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2022_25",
@@ -6497,7 +6617,9 @@
   "explanation": "The interquartile range is 2.78 minus 2.23, or 0.55, so the upper fence is 2.78 plus 1.5 times 0.55, which equals 3.605, and the lower fence is 2.23 minus 0.825, which equals 1.405. Because the maximum pH of 2.93 is below the upper fence and the minimum of 2.11 is above the lower fence, neither value is an outlier. Some students might pick choice B simply because 2.93 is the largest value, but the 1.5 times IQR rule requires comparing the extremes to the calculated fences, not just labeling the maximum as an outlier.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "E"
+  "model_answer": "E",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2022_32",
@@ -6783,7 +6905,9 @@
   "explanation": "The first quartile marks the 25th percentile, and in a normal distribution it falls about 0.67 standard deviations below the mean, giving a value of roughly 97.7°F. Because 97.5°F is exactly one full standard deviation below the mean, the actual first quartile must be greater than 97.5°F, so statement B cannot be supported. This choice is tempting because many students incorrectly associate the first quartile with the value that is one standard deviation below the mean.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "B"
+  "model_answer": "B",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2023_7",
@@ -7203,7 +7327,9 @@
   "explanation": "The number of voters who support the rule in the sample follows a binomial distribution with n = 15 and p = 0.41. To find the probability that at most 2 voters support it, add the probabilities for exactly 0, 1, and 2 successes: about 0.0004 + 0.0038 + 0.0185 = 0.0227. Choice B is tempting because it matches the probability of exactly 2 supporters, but “at most 2” requires including the outcomes for 0 and 1 supporter as well.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "C"
+  "model_answer": "C",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2023_29",
@@ -7220,7 +7346,9 @@
   },
   "has_figure": true,
   "image": "images/2023_q29.png",
-  "unit": "Inference for Regression"
+  "unit": "Inference for Regression",
+  "archived": true,
+  "archived_reason": "no_answer_key"
  },
  {
   "id": "stats_2023_30",
@@ -7471,7 +7599,9 @@
   "explanation": "To find the probability of a small or extra-large egg, convert the weight limits to z-scores using the given mean of 62 grams and standard deviation of 6 grams, which gives z = -1.5 for small and z ≈ 1.83 for extra large. The lower tail probability for small is about 0.0668, and the upper tail probability for extra large is about 0.0334; since these categories do not overlap, you add them to get roughly 0.1002. Be careful not to choose 0.0668, because that value only includes the small eggs and leaves out the extra-large ones.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2024_4",
@@ -7530,7 +7660,9 @@
   "explanation": "To find a standardized score, subtract the mean from the individual score and divide by the standard deviation. Dominic’s z-score in robotics is approximately (27 − 19.9) / 7.2 ≈ 0.99, and his z-score in art is approximately (26 − 20.2) / 5.7 ≈ 1.02. Because 1.02 is larger than 0.99, Dominic performed relatively better in art. It is tempting to choose robotics simply because the raw score of 27 is higher than 26, but standardized scores properly adjust for the different means and spreads of the two competitions.",
   "expl_via": "txt",
   "answer_disputed": true,
-  "model_answer": "D"
+  "model_answer": "D",
+  "archived": true,
+  "archived_reason": "answer_disputed"
  },
  {
   "id": "stats_2024_7",
