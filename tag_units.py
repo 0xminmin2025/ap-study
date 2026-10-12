@@ -41,10 +41,11 @@ CHECKPOINT = 100   # 每 N 题落盘，中断不丢
 # 官方 AP 考纲单元
 UNITS = {
     "stats": [
-        "Exploring One-Variable Data", "Exploring Two-Variable Data",
-        "Collecting Data", "Probability & Random Variables",
-        "Sampling Distributions", "Inference for Proportions",
-        "Inference for Means", "Chi-Square", "Inference for Regression",
+        "Exploring One-Variable Data and Collecting Data",
+        "Probability, Random Variables, and Probability Distributions",
+        "Inference for Categorical Data: Proportions",
+        "Inference for Quantitative Data: Means",
+        "Regression Analysis",
     ],
     "human-geo": [
         "Thinking Geographically", "Population & Migration",

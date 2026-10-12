@@ -1,3 +1,4 @@
+import hashlib
 import json
 from pathlib import Path
 
@@ -20,6 +21,14 @@ def test_all_chemistry_questions_meet_release_gate():
             assert (base/q['image']).is_file()
     assert all(q.get('scoringGuideline') for q in frq)
     assert '+8.48kJ/mol' not in next(q for q in frq if q['number']==113)['scoringGuideline']
+    q95=next(q for q in mcq if q['number']==95)
+    assert q95.get('image') == 'images/2026_q95_figure.png'
+    assert (base/q95['image']).is_file()
+    assert 'Atoms D and E belong to the same group in the periodic table.' in q95['text']
+    assert 'A horizontal line extends rightward' not in q95['text']
+    assert '\no\n' not in q95['text']
+    canonical=json.dumps({'text':q95['text'],'options':q95['options']}, ensure_ascii=False, sort_keys=True)
+    assert q95['content_hash']==hashlib.sha256(canonical.encode('utf-8')).hexdigest()
     q92=next(q for q in mcq if q['number']==92)
     assert q92['answer']=='C' and '22.5 mL' in q92['explanation'] and '8.3' in q92['explanation']
     q112=next(q for q in mcq if q['number']==112)
