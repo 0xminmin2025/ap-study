@@ -344,6 +344,7 @@ stats:{name:'Statistics',hasNotes:false,hasPractice:true},
 'micro-econ':{name:'Microeconomics',hasNotes:false,hasPractice:false},
 'physics-mech':{name:'Physics C: Mechanics',hasNotes:false,hasPractice:false},
 'physics-em':{name:'Physics C: E&M',hasNotes:false,hasPractice:false},
+chemistry:{name:'Chemistry',hasNotes:false,hasPractice:false},
 };
 
 if(localStorage.getItem('ap_auth')==='1')showApp();
@@ -647,6 +648,12 @@ const bar=document.getElementById('quizTimer');
 if(bar){bar.classList.remove('on','expired')}
 }
 
+function safeQuestionImagePath(q){
+const raw=q.image;
+if(typeof raw!=='string'||!raw||raw.startsWith('/')||raw.includes('\\')||raw.split('/').some(p=>!p||p==='.'||p==='..'))return null;
+if(!/\.(?:png|jpe?g)$/i.test(raw))return null;
+return 'data/'+encodeURIComponent(currentSubject)+'/'+raw.split('/').map(encodeURIComponent).join('/');
+}
 function renderQuestion(){
 const q=quizQuestions[quizIndex];
 const el=document.getElementById('quizArea');
@@ -655,7 +662,7 @@ const answered=quizAnswers[q.id]!==undefined;
 let body='';
 if(q.type==='mcq'&&q.options){
 body=`<div class="q-text">${formatQText(q.text)}</div>
-${q.has_figure?`<div style="text-align:center;margin:12px 0"><img src="data/${currentSubject}/images/${q.year}_q${q.number}.png" style="max-width:100%;border:1px solid var(--border);border-radius:var(--radius)" onerror="this.parentElement.innerHTML='<span style=color:var(--text3);font-size:13px>[Figure not available]</span>'"></div>`:''}
+${(safeQuestionImagePath(q)||(q.has_figure&&!q.image))?`<div style="text-align:center;margin:12px 0"><img src="${safeQuestionImagePath(q)||'data/'+encodeURIComponent(currentSubject)+'/images/'+encodeURIComponent(String(q.year))+'_q'+encodeURIComponent(String(q.number))+'.png'}" style="max-width:100%;border:1px solid var(--border);border-radius:var(--radius)" onerror="this.parentElement.innerHTML='<span style=color:var(--text3);font-size:13px>[Figure not available]</span>'"></div>`:''}
 <div class="options">
 ${Object.entries(q.options).filter(([k,v])=>v&&v.trim()).map(([k,v])=>{
 let cls='opt';
@@ -689,7 +696,7 @@ el.innerHTML=`
 <div class="q-card">
 <div class="q-header">
 <span class="q-num">#${quizIndex+1}</span>
-<span class="q-tag">${q.year||''} ${q.source||''}</span>
+<span class="q-tag">${q.year||''} ${typeof q.source==='string'?q.source:(q.source?.file||q.source?.question_file||'')}</span>
 <div class="spacer"></div>
 <span class="q-flag ${isFlagged(q.id)?'flagged':''}" onclick="toggleFlag('${q.id}')">&#9873;</span>
 </div>

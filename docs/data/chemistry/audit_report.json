@@ -1,0 +1,42 @@
+{
+  "format": "apchem2026-import-audit-v1",
+  "sources": {
+    "pdf": {
+      "file": "化学2026MCQ.pdf",
+      "sha256": "81faf7f24fd891b979e2db7fa3bcc1c77f8c77dea7e6bb81ac3bf9fc44e8c167"
+    },
+    "txt_answer_key": {
+      "file": "AP26化学答案.txt",
+      "sha256": "a802a89dea0a33c791dcd0701de8c80a07221ee694a9e5d8b354ae75826456de"
+    },
+    "frq_solutions": {
+      "file": "Barium Nitrate_ Enthalpy Change in Different Reactions.docx",
+      "sha256": "1c734033118499438963913fb7396c7afb1e94003623c52ec225a2c24863f994"
+    }
+  },
+  "mcq_count": 60,
+  "frq_count": 7,
+  "key_conflicts": [
+    {
+      "number": 60,
+      "pdf": "D",
+      "txt": "C"
+    },
+    {
+      "number": 78,
+      "pdf": "C",
+      "txt": "A"
+    }
+  ],
+  "verified_overrides": {
+    "60": "C",
+    "78": "A",
+    "90": "A",
+    "92": "C",
+    "112": "A"
+  },
+  "unresolved_key_conflicts": [],
+  "empty_options": [],
+  "duplicate_hashes": 0,
+  "image_files": 5
+}
